@@ -1,8 +1,8 @@
 {
   "date": "2026-04-29",
-  "generated_at": "2026-05-02T18:18:26.004742+00:00",
+  "generated_at": "2026-05-02T18:45:33.744817+00:00",
   "article_count": 29,
-  "cluster_count": 10,
+  "cluster_count": 11,
   "clustering_model": "gpt-4o",
   "articles": [
     {
@@ -17,7 +17,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "🔐 Open Source Platforms and Alternatives"
+      "cluster_name": "🧑‍💻 Open Source Platforms and Decentralization"
     },
     {
       "id": "69f2440f2ca183a27966cc88",
@@ -31,7 +31,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 1,
-      "cluster_name": "🦀 Rust and Software Development"
+      "cluster_name": "🔐 Security and Vulnerabilities"
     },
     {
       "id": "69f2440f2ca183a27966cc89",
@@ -44,8 +44,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 2,
-      "cluster_name": "🤖 AI and Machine Learning Applications"
+      "cluster_id": 0,
+      "cluster_name": "🧑‍💻 Open Source Platforms and Decentralization"
     },
     {
       "id": "69f2440f2ca183a27966cc8a",
@@ -59,21 +59,21 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "🔐 Open Source Platforms and Alternatives"
+      "cluster_name": "🧑‍💻 Open Source Platforms and Decentralization"
     },
     {
       "id": "69f2440f2ca183a27966cc8b",
       "title": "Zed 1.0",
       "url": "https://zed.dev/blog/zed-1-0",
       "hn_score": 774,
-      "comments": 684,
+      "comments": 686,
       "author": "salkahfi",
       "summary": "The article introduces Zed 1.0, a powerful new code editor developed by Nathan Sobo and his team. Unlike its predecessor Atom, which was constrained by the limitations of web technology, Zed was built from scratch using a GPU-focused approach. This innovative design allows for improved performance and scalability, making Zed suitable for a wide range of programming tasks accustomed to today's developers. With over a million lines of code and support for numerous languages, Zed positions itself as a comprehensive solution that integrates AI features directly into its core functionality, rather than adding them as an afterthought.\n\nZed 1.0 also marks the launch of Zed for Business, catering to companies looking to manage their development teams effectively. This version signifies a tipping point in Zed's evolution, inviting both new and previous users to explore its robust capabilities. The development team underscores their commitment to continuously enhancing the editor and fostering collaboration among users, ensuring that Zed evolves in response to the needs and feedback of the developer community.",
       "relevance_score": 90,
       "combined_score": 86,
       "is_ai_ml": false,
-      "cluster_id": 6,
-      "cluster_name": "🖥️ Software Tools and Protocols"
+      "cluster_id": 3,
+      "cluster_name": "🛠️ Innovative Tools and Technologies"
     },
     {
       "id": "69f2440f2ca183a27966cc8c",
@@ -86,8 +86,8 @@
       "relevance_score": 90,
       "combined_score": 85.4,
       "is_ai_ml": false,
-      "cluster_id": 0,
-      "cluster_name": "🔐 Open Source Platforms and Alternatives"
+      "cluster_id": 3,
+      "cluster_name": "🛠️ Innovative Tools and Technologies"
     },
     {
       "id": "69f2440f2ca183a27966cc8d",
@@ -101,21 +101,21 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "🔐 Open Source Platforms and Alternatives"
+      "cluster_name": "🧑‍💻 Open Source Platforms and Decentralization"
     },
     {
       "id": "69f2440f2ca183a27966cc8e",
       "title": "Online age verification is the hill to die on",
       "url": "https://x.com/GlennMeder/status/2049088498163216560",
       "hn_score": 238,
-      "comments": 697,
+      "comments": 698,
       "author": "Cider9986",
       "summary": "The article discusses the increasing significance of online age verification as a means to safeguard children and vulnerable individuals from inappropriate content on the internet. It emphasizes the need for robust infrastructure and effective systems to tackle the complex issues related to age verification, including privacy concerns, technological hurdles, and legislative efforts. \n\nCollaboration among different stakeholders—such as technology companies, policymakers, and the public—is essential for successful implementation. The article also highlights that while age verification is essential for online safety, it must be executed in a way that does not compromise users' privacy and accessibility. Overall, the conversation surrounding online age verification underscores its importance in ensuring a safe digital environment for all users.",
       "relevance_score": 70,
       "combined_score": 72,
       "is_ai_ml": false,
-      "cluster_id": 3,
-      "cluster_name": "🛡️ Digital Privacy and Security"
+      "cluster_id": 8,
+      "cluster_name": "🌐 Internet and Digital Communication"
     },
     {
       "id": "69f2440f2ca183a27966cc8f",
@@ -128,8 +128,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "🧠 AI Philosophy and Ethics"
+      "cluster_id": 2,
+      "cluster_name": "🤖 AI and Its Implications"
     },
     {
       "id": "69f2440f2ca183a27966cc90",
@@ -142,8 +142,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 1,
-      "cluster_name": "🦀 Rust and Software Development"
+      "cluster_id": 3,
+      "cluster_name": "🛠️ Innovative Tools and Technologies"
     },
     {
       "id": "69f2440f2ca183a27966cc91",
@@ -156,8 +156,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 2,
-      "cluster_name": "🤖 AI and Machine Learning Applications"
+      "cluster_id": 0,
+      "cluster_name": "🧑‍💻 Open Source Platforms and Decentralization"
     },
     {
       "id": "69f2440f2ca183a27966cc92",
@@ -170,8 +170,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 2,
-      "cluster_name": "🤖 AI and Machine Learning Applications"
+      "cluster_id": 7,
+      "cluster_name": "🎮 Interactive and Creative Platforms"
     },
     {
       "id": "69f244102ca183a27966cc93",
@@ -184,8 +184,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 8,
-      "cluster_name": "🕹️ Retro Computing and History"
+      "cluster_id": 10,
+      "cluster_name": "🖥️ Historical Tech and Legacy Systems"
     },
     {
       "id": "69f244102ca183a27966cc95",
@@ -199,7 +199,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "🔐 Open Source Platforms and Alternatives"
+      "cluster_name": "🧑‍💻 Open Source Platforms and Decentralization"
     },
     {
       "id": "69f244102ca183a27966cc94",
@@ -212,8 +212,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 0,
-      "cluster_name": "🔐 Open Source Platforms and Alternatives"
+      "cluster_id": 1,
+      "cluster_name": "🔐 Security and Vulnerabilities"
     },
     {
       "id": "69f244102ca183a27966cc96",
@@ -226,8 +226,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 4,
-      "cluster_name": "⚖️ Legal and Regulatory Developments"
+      "cluster_id": 5,
+      "cluster_name": "📜 Legal and Regulatory Developments"
     },
     {
       "id": "69f244102ca183a27966cc97",
@@ -240,8 +240,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 1,
-      "cluster_name": "🦀 Rust and Software Development"
+      "cluster_id": 0,
+      "cluster_name": "🧑‍💻 Open Source Platforms and Decentralization"
     },
     {
       "id": "69f244102ca183a27966cc98",
@@ -254,8 +254,8 @@
       "relevance_score": 30,
       "combined_score": 42,
       "is_ai_ml": false,
-      "cluster_id": 7,
-      "cluster_name": "🏥 Healthcare and Medical Innovations"
+      "cluster_id": 4,
+      "cluster_name": "🏥 Healthcare and Safety Innovations"
     },
     {
       "id": "69f244102ca183a27966cc99",
@@ -268,8 +268,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 6,
-      "cluster_name": "🖥️ Software Tools and Protocols"
+      "cluster_id": 10,
+      "cluster_name": "🖥️ Historical Tech and Legacy Systems"
     },
     {
       "id": "69f244102ca183a27966cc9a",
@@ -282,8 +282,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 7,
-      "cluster_name": "🏥 Healthcare and Medical Innovations"
+      "cluster_id": 4,
+      "cluster_name": "🏥 Healthcare and Safety Innovations"
     },
     {
       "id": "69f244102ca183a27966cc9b",
@@ -296,8 +296,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 4,
-      "cluster_name": "⚖️ Legal and Regulatory Developments"
+      "cluster_id": 6,
+      "cluster_name": "📚 Academic and Publishing Integrity"
     },
     {
       "id": "69f244102ca183a27966cc9c",
@@ -310,8 +310,8 @@
       "relevance_score": 90,
       "combined_score": 86,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "🧠 AI Philosophy and Ethics"
+      "cluster_id": 2,
+      "cluster_name": "🤖 AI and Its Implications"
     },
     {
       "id": "69f244102ca183a27966cc9d",
@@ -325,7 +325,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 2,
-      "cluster_name": "🤖 AI and Machine Learning Applications"
+      "cluster_name": "🤖 AI and Its Implications"
     },
     {
       "id": "69f244102ca183a27966cc9e",
@@ -338,8 +338,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 8,
-      "cluster_name": "🕹️ Retro Computing and History"
+      "cluster_id": 0,
+      "cluster_name": "🧑‍💻 Open Source Platforms and Decentralization"
     },
     {
       "id": "69f244102ca183a27966cc9f",
@@ -352,8 +352,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 6,
-      "cluster_name": "🖥️ Software Tools and Protocols"
+      "cluster_id": 3,
+      "cluster_name": "🛠️ Innovative Tools and Technologies"
     },
     {
       "id": "69f244102ca183a27966cca0",
@@ -366,8 +366,8 @@
       "relevance_score": 49,
       "combined_score": 46.4,
       "is_ai_ml": false,
-      "cluster_id": 4,
-      "cluster_name": "⚖️ Legal and Regulatory Developments"
+      "cluster_id": 5,
+      "cluster_name": "📜 Legal and Regulatory Developments"
     },
     {
       "id": "69f244102ca183a27966cca1",
@@ -380,8 +380,8 @@
       "relevance_score": 65,
       "combined_score": 66.0,
       "is_ai_ml": false,
-      "cluster_id": 0,
-      "cluster_name": "🔐 Open Source Platforms and Alternatives"
+      "cluster_id": 7,
+      "cluster_name": "🎮 Interactive and Creative Platforms"
     },
     {
       "id": "69f244102ca183a27966cca2",
@@ -395,7 +395,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 9,
-      "cluster_name": "💼 Career and Business Opportunities"
+      "cluster_name": "🚀 Careers and Industry Insights"
     },
     {
       "id": "69f244102ca183a27966cca3",
@@ -409,88 +409,57 @@
       "combined_score": 67,
       "is_ai_ml": false,
       "cluster_id": 9,
-      "cluster_name": "💼 Career and Business Opportunities"
+      "cluster_name": "🚀 Careers and Industry Insights"
     }
   ],
   "clusters": [
     {
       "id": 0,
-      "name": "🔐 Open Source Platforms and Alternatives",
-      "description": "Exploring the evolution and alternatives to popular open-source platforms like GitHub, including government initiatives and decentralized systems.",
-      "size": 7,
+      "name": "🧑‍💻 Open Source Platforms and Decentralization",
+      "description": "These articles explore the evolution and challenges of open-source platforms, emphasizing the shift from centralized systems like GitHub to decentralized alternatives, highlighting the need for digital sovereignty and resilience.",
+      "size": 8,
       "sample_titles": [
         "Before GitHub",
-        "Soft launch of open-source code platform for government",
-        "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU"
+        "How ChatGPT serves ads",
+        "Soft launch of open-source code platform for government"
       ]
     },
     {
       "id": 1,
-      "name": "🦀 Rust and Software Development",
-      "description": "Articles focusing on Rust programming language, its applications, and challenges, including SQL engines and security audits.",
-      "size": 3,
+      "name": "🔐 Security and Vulnerabilities",
+      "description": "Focusing on the security challenges in software and systems, these articles reveal vulnerabilities in Rust implementations and the critical need for robust security measures in open-source and proprietary software.",
+      "size": 2,
       "sample_titles": [
         "Bugs Rust won't catch",
-        "Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",
-        "Show HN: Adblock-rust Manager – Firefox extension to enable the Brave ad blocker"
+        "Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained"
       ]
     },
     {
       "id": 2,
-      "name": "🤖 AI and Machine Learning Applications",
-      "description": "Examining the use of AI in various fields, from play-testing games to enhancing remote agent applications and chatbots.",
-      "size": 4,
+      "name": "🤖 AI and Its Implications",
+      "description": "Exploring the multifaceted impact of AI, these articles discuss the strategic use of fear by AI companies, the challenges of AI consciousness, and the unintended consequences of designing friendly AI chatbots.",
+      "size": 3,
       "sample_titles": [
-        "How ChatGPT serves ads",
-        "Mistral Medium 3.5",
-        "Letting AI play my game – building an agentic test harness to help play-testing"
+        "Why AI companies want you to be afraid of them",
+        "The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness",
+        "Making AI chatbots friendly leads to mistakes and support of conspiracy theories"
       ]
     },
     {
       "id": 3,
-      "name": "🛡️ Digital Privacy and Security",
-      "description": "Discussions on privacy concerns, age verification, and the implications of surveillance in digital environments.",
-      "size": 1,
+      "name": "🛠️ Innovative Tools and Technologies",
+      "description": "Highlighting cutting-edge tools and technologies, these articles introduce new software and hardware innovations, from a high-performance code editor to a novel SQL engine and AI-driven benchmarks.",
+      "size": 4,
       "sample_titles": [
-        "Online age verification is the hill to die on"
+        "Zed 1.0",
+        "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
+        "Show HN: Rocky – Rust SQL engine with branches, replay, column lineage"
       ]
     },
     {
       "id": 4,
-      "name": "⚖️ Legal and Regulatory Developments",
-      "description": "Recent legal rulings and regulatory changes affecting technology and consumer rights, from firearm parts to grocery pricing.",
-      "size": 3,
-      "sample_titles": [
-        "Court Rules 2nd Amendment Covers Firearms Parts Good News Those Who Build Guns",
-        "Third Editor Fired in Elsevier's Citation Cartel Crackdown",
-        "Maryland becomes first state to ban surveillance pricing in grocery stores"
-      ]
-    },
-    {
-      "id": 5,
-      "name": "🧠 AI Philosophy and Ethics",
-      "description": "Exploring philosophical and ethical questions surrounding AI, including consciousness and the impact of fear-driven narratives.",
-      "size": 2,
-      "sample_titles": [
-        "Why AI companies want you to be afraid of them",
-        "The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness"
-      ]
-    },
-    {
-      "id": 6,
-      "name": "🖥️ Software Tools and Protocols",
-      "description": "Innovations in software tools and communication protocols, including editors, reverse proxies, and benchmarks for LLMs.",
-      "size": 3,
-      "sample_titles": [
-        "Zed 1.0",
-        "FastCGI: 30 years old and still the better protocol for reverse proxies",
-        "Show HN: A new benchmark for testing LLMs for deterministic outputs"
-      ]
-    },
-    {
-      "id": 7,
-      "name": "🏥 Healthcare and Medical Innovations",
-      "description": "Innovative approaches in healthcare, from affordable medical devices to improving ICU handovers with lessons from F1 teams.",
+      "name": "🏥 Healthcare and Safety Innovations",
+      "description": "These articles focus on innovations aimed at improving healthcare and safety, from affordable open-source medical devices to enhanced communication strategies in critical care environments.",
       "size": 2,
       "sample_titles": [
         "An open-source stethoscope that costs between $2.5 and $5 to produce",
@@ -498,23 +467,61 @@
       ]
     },
     {
-      "id": 8,
-      "name": "🕹️ Retro Computing and History",
-      "description": "A look back at historical computing developments, including DOS transcriptions and early natural-language programs.",
+      "id": 5,
+      "name": "📜 Legal and Regulatory Developments",
+      "description": "Examining recent legal and regulatory changes, these articles cover topics from firearm parts protection under the 2nd Amendment to the banning of surveillance pricing in grocery stores.",
       "size": 2,
       "sample_titles": [
-        "GitHub – DOS 1.0: Transcription of Tim Paterson's DOS Printouts",
-        "Shrdlu"
+        "Court Rules 2nd Amendment Covers Firearms Parts Good News Those Who Build Guns",
+        "Maryland becomes first state to ban surveillance pricing in grocery stores"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "📚 Academic and Publishing Integrity",
+      "description": "These articles delve into the integrity of academic publishing, highlighting Elsevier's crackdown on citation cartels and the ongoing challenges in maintaining ethical standards in research dissemination.",
+      "size": 1,
+      "sample_titles": [
+        "Third Editor Fired in Elsevier's Citation Cartel Crackdown"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "🎮 Interactive and Creative Platforms",
+      "description": "Focusing on platforms that encourage creativity and interaction, these articles explore the customization of digital experiences and the use of AI in game testing and development.",
+      "size": 2,
+      "sample_titles": [
+        "Letting AI play my game – building an agentic test harness to help play-testing",
+        "Cursor Camp"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "🌐 Internet and Digital Communication",
+      "description": "These articles discuss the complexities of digital communication protocols and the critical role of age verification in online safety, highlighting ongoing technological and ethical challenges.",
+      "size": 1,
+      "sample_titles": [
+        "Online age verification is the hill to die on"
       ]
     },
     {
       "id": 9,
-      "name": "💼 Career and Business Opportunities",
-      "description": "Job opportunities and career insights in the tech industry, focusing on roles in customer success and executive search.",
+      "name": "🚀 Careers and Industry Insights",
+      "description": "Providing insights into career opportunities and industry trends, these articles include a job listing for a customer success lead and a video on building the future with AI innovations.",
       "size": 2,
       "sample_titles": [
         "How to Build the Future: Demis Hassabis [video]",
         "Stardex Is Hiring a Founding Customer Success Lead"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "🖥️ Historical Tech and Legacy Systems",
+      "description": "These articles offer a glimpse into the history of computing, from the transcription of early DOS printouts to the enduring relevance of FastCGI in modern systems.",
+      "size": 2,
+      "sample_titles": [
+        "GitHub – DOS 1.0: Transcription of Tim Paterson's DOS Printouts",
+        "FastCGI: 30 years old and still the better protocol for reverse proxies"
       ]
     }
   ]

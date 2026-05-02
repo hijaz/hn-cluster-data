@@ -1,6 +1,6 @@
 {
   "date": "2026-05-01",
-  "generated_at": "2026-05-02T18:20:01.444537+00:00",
+  "generated_at": "2026-05-02T18:44:41.679317+00:00",
   "article_count": 57,
   "cluster_count": 10,
   "clustering_model": "gpt-4o",
@@ -17,7 +17,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "🔐 Cybersecurity and Privacy"
+      "cluster_name": "🔐 Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f405faa82b02f4048857f8",
@@ -31,7 +31,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 1,
-      "cluster_name": "⚛️ Energy and Environment"
+      "cluster_name": "⚛️ Energy and Environmental Policy"
     },
     {
       "id": "69f405faa82b02f4048857f9",
@@ -45,7 +45,7 @@
       "combined_score": 86.8,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "🔐 Cybersecurity and Privacy"
+      "cluster_name": "🔐 Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f405faa82b02f4048857fa",
@@ -58,8 +58,8 @@
       "relevance_score": 90,
       "combined_score": 84.4,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "🚀 Technology and Innovation"
+      "cluster_id": 4,
+      "cluster_name": "📡 Networking and Infrastructure"
     },
     {
       "id": "69f405faa82b02f4048857fb",
@@ -73,7 +73,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "🔐 Cybersecurity and Privacy"
+      "cluster_name": "🔐 Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f405faa82b02f4048857fc",
@@ -87,7 +87,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "🔐 Cybersecurity and Privacy"
+      "cluster_name": "🔐 Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f405faa82b02f4048857fd",
@@ -101,7 +101,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 3,
-      "cluster_name": "🕹️ Retro and Emulation"
+      "cluster_name": "🕹️ Retro Technology and Emulation"
     },
     {
       "id": "69f405faa82b02f4048857fe",
@@ -114,8 +114,8 @@
       "relevance_score": 49,
       "combined_score": 53.6,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "🚀 Technology and Innovation"
+      "cluster_id": 8,
+      "cluster_name": "💼 Business Practices and Economic Insights"
     },
     {
       "id": "69f405faa82b02f4048857ff",
@@ -129,7 +129,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "🔐 Cybersecurity and Privacy"
+      "cluster_name": "🔐 Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f405fba82b02f404885800",
@@ -143,7 +143,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 4,
-      "cluster_name": "📊 Data and Databases"
+      "cluster_name": "📡 Networking and Infrastructure"
     },
     {
       "id": "69f405fba82b02f404885801",
@@ -157,7 +157,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 1,
-      "cluster_name": "⚛️ Energy and Environment"
+      "cluster_name": "⚛️ Energy and Environmental Policy"
     },
     {
       "id": "69f50275baa201280323e47e",
@@ -170,22 +170,22 @@
       "relevance_score": 60,
       "combined_score": 64,
       "is_ai_ml": false,
-      "cluster_id": 9,
-      "cluster_name": "🔧 Tools and Utilities"
+      "cluster_id": 0,
+      "cluster_name": "🔐 Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f50275baa201280323e47f",
       "title": "The Gay Jailbreak Technique",
       "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
       "hn_score": 270,
-      "comments": 236,
+      "comments": 238,
       "author": "bobsmooth",
       "summary": "The Gay Jailbreak Technique is a novel method aimed at circumventing restrictions in conversational AI, specifically identified in ChatGPT (GPT 4o). This technique revolves around phrasing requests in a way that engages LGBT themes, allowing users to obtain information that is typically restricted. It captures the nuances of how large language models (LLMs) exhibit leniency when it comes to LGBT subjects due to the protective alignment programmed into them. By exploiting this aspect, users can effectively manipulate the AI's guardrails, leading to potentially sensitive information being provided without resistance.\n\nFundamentally, this technique thrives on the perceived need for LLMs to adhere to political correctness, making them less likely to decline requests framed within the context of LGBT identity. As such, the Gay Jailbreak Technique not only showcases the adaptability of AI responses but also highlights the complexities involved in AI alignment and safety, particularly when it involves societal sensitivities. Since the method is versatile, it can be modified for various requests, further demonstrating the inherent vulnerabilities in how AI systems process and prioritize different topics.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 2,
-      "cluster_name": "🧠 AI and Machine Learning"
+      "cluster_name": "🧠 AI and Machine Learning Innovations"
     },
     {
       "id": "69f405fba82b02f404885802",
@@ -199,7 +199,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 5,
-      "cluster_name": "🚀 Technology and Innovation"
+      "cluster_name": "📚 Open Source and Community Initiatives"
     },
     {
       "id": "69f405fba82b02f404885803",
@@ -213,7 +213,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 3,
-      "cluster_name": "🕹️ Retro and Emulation"
+      "cluster_name": "🕹️ Retro Technology and Emulation"
     },
     {
       "id": "69f50276baa201280323e480",
@@ -227,7 +227,7 @@
       "combined_score": 64,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "🔐 Cybersecurity and Privacy"
+      "cluster_name": "🔐 Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f50277baa201280323e481",
@@ -241,7 +241,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 3,
-      "cluster_name": "🕹️ Retro and Emulation"
+      "cluster_name": "🕹️ Retro Technology and Emulation"
     },
     {
       "id": "69f50277baa201280323e482",
@@ -255,7 +255,7 @@
       "combined_score": 89.8,
       "is_ai_ml": false,
       "cluster_id": 2,
-      "cluster_name": "🧠 AI and Machine Learning"
+      "cluster_name": "🧠 AI and Machine Learning Innovations"
     },
     {
       "id": "69f50278baa201280323e483",
@@ -268,8 +268,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "🚀 Technology and Innovation"
+      "cluster_id": 0,
+      "cluster_name": "🔐 Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f50279baa201280323e484",
@@ -282,8 +282,8 @@
       "relevance_score": 20,
       "combined_score": 26,
       "is_ai_ml": false,
-      "cluster_id": 6,
-      "cluster_name": "📚 Historical and Cultural Insights"
+      "cluster_id": 9,
+      "cluster_name": "🔍 Historical Discoveries and Cultural Reflections"
     },
     {
       "id": "69f405fba82b02f404885804",
@@ -296,8 +296,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 4,
-      "cluster_name": "📊 Data and Databases"
+      "cluster_id": 0,
+      "cluster_name": "🔐 Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f405fba82b02f404885805",
@@ -311,7 +311,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 4,
-      "cluster_name": "📊 Data and Databases"
+      "cluster_name": "📡 Networking and Infrastructure"
     },
     {
       "id": "69f5027abaa201280323e485",
@@ -324,8 +324,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 9,
-      "cluster_name": "🔧 Tools and Utilities"
+      "cluster_id": 0,
+      "cluster_name": "🔐 Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f5027bbaa201280323e486",
@@ -338,8 +338,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 9,
-      "cluster_name": "🔧 Tools and Utilities"
+      "cluster_id": 5,
+      "cluster_name": "📚 Open Source and Community Initiatives"
     },
     {
       "id": "69f5027cbaa201280323e487",
@@ -353,7 +353,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 1,
-      "cluster_name": "⚛️ Energy and Environment"
+      "cluster_name": "⚛️ Energy and Environmental Policy"
     },
     {
       "id": "69f405fba82b02f404885806",
@@ -367,7 +367,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 2,
-      "cluster_name": "🧠 AI and Machine Learning"
+      "cluster_name": "🧠 AI and Machine Learning Innovations"
     },
     {
       "id": "69f405fba82b02f404885807",
@@ -380,8 +380,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 9,
-      "cluster_name": "🔧 Tools and Utilities"
+      "cluster_id": 4,
+      "cluster_name": "📡 Networking and Infrastructure"
     },
     {
       "id": "69f405fba82b02f404885808",
@@ -395,7 +395,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 5,
-      "cluster_name": "🚀 Technology and Innovation"
+      "cluster_name": "📚 Open Source and Community Initiatives"
     },
     {
       "id": "69f5027dbaa201280323e488",
@@ -409,7 +409,7 @@
       "combined_score": 70,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "🔐 Cybersecurity and Privacy"
+      "cluster_name": "🔐 Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f405fba82b02f404885809",
@@ -423,7 +423,7 @@
       "combined_score": 53,
       "is_ai_ml": false,
       "cluster_id": 8,
-      "cluster_name": "💼 Business and Economics"
+      "cluster_name": "💼 Business Practices and Economic Insights"
     },
     {
       "id": "69f5027fbaa201280323e489",
@@ -436,8 +436,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 6,
-      "cluster_name": "📚 Historical and Cultural Insights"
+      "cluster_id": 9,
+      "cluster_name": "🔍 Historical Discoveries and Cultural Reflections"
     },
     {
       "id": "69f405fba82b02f40488580a",
@@ -450,8 +450,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 9,
-      "cluster_name": "🔧 Tools and Utilities"
+      "cluster_id": 6,
+      "cluster_name": "🎨 Creative Tools and Techniques"
     },
     {
       "id": "69f5027fbaa201280323e48a",
@@ -464,8 +464,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 2,
-      "cluster_name": "🧠 AI and Machine Learning"
+      "cluster_id": 6,
+      "cluster_name": "🎨 Creative Tools and Techniques"
     },
     {
       "id": "69f50283baa201280323e48c",
@@ -478,22 +478,22 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "🚀 Technology and Innovation"
+      "cluster_id": 0,
+      "cluster_name": "🔐 Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f50281baa201280323e48b",
       "title": "The X-Files Has Made Me Nostalgic for a Time I Never Experienced",
       "url": "https://midnightmurmurations.substack.com/p/the-x-files-has-made-me-nostalgic",
       "hn_score": 68,
-      "comments": 202,
+      "comments": 203,
       "author": "Teever",
       "summary": "In 'The X-Files Has Made Me Nostalgic for a Time I Never Experienced,' the author, Lara Auckland, reflects on her recent experience watching the iconic show, which holds a timeless quality that contrasts sharply with today’s technology-driven society. Though she first knew of the series through cultural references, her recent binge-watching has rekindled a deep appreciation for its compelling narratives and visual style. Auckland's nostalgia seems tied to an admiration for the 'simpler' times depicted within the show, marked by clunky technology and a slower pace of life before the onset of modern distractions like social media and constant connectivity.\n\nAs she becomes engrossed in the dynamics between Mulder and Scully, she also acknowledges the palpable tension in their relationship, which mirrors the emotional stakes of their adventures. The allure of The X-Files not only lies in its storytelling but also in how it transports viewers to a bygone era that seems less chaotic compared to today's fast-paced world. While recognizing that later seasons may not live up to its earlier acclaim, Auckland’s journey with the show underscores a desire for richer, more authentic media experiences, as well as a longing for the connections lost in contemporary culture.",
       "relevance_score": 10,
       "combined_score": 18,
       "is_ai_ml": false,
-      "cluster_id": 6,
-      "cluster_name": "📚 Historical and Cultural Insights"
+      "cluster_id": 9,
+      "cluster_name": "🔍 Historical Discoveries and Cultural Reflections"
     },
     {
       "id": "69f50284baa201280323e48d",
@@ -507,7 +507,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 2,
-      "cluster_name": "🧠 AI and Machine Learning"
+      "cluster_name": "🧠 AI and Machine Learning Innovations"
     },
     {
       "id": "69f405fba82b02f40488580b",
@@ -521,21 +521,21 @@
       "combined_score": 8,
       "is_ai_ml": false,
       "cluster_id": 1,
-      "cluster_name": "⚛️ Energy and Environment"
+      "cluster_name": "⚛️ Energy and Environmental Policy"
     },
     {
       "id": "69f50285baa201280323e48e",
       "title": "A statement about why RightsCon 2026 will not take place in Zambia",
       "url": "https://www.rightscon.org/rc26-statement/",
       "hn_score": 59,
-      "comments": 44,
+      "comments": 45,
       "author": "benbreen",
       "summary": "The RightsCon team announced with disappointment that the 2026 conference will no longer occur in Zambia, primarily due to foreign interference that critically impacted the safety of participants. Originally planned to welcome over 2,600 attendees from around the globe, this decision was rendered just days before the event, showcasing the serious concerns surrounding geopolitical pressures, particularly from the People's Republic of China in relation to Taiwanese attendees. The organization emphasized the importance of transparency as they explained the circumstances leading to this abrupt cancellation.\n\nThe selection of Zambia was chosen through a rigorous, multi-year process that involved community consultations, exploring the host country’s infrastructure, and ensuring open engagements with government stakeholders. Despite the collaborative efforts and initial endorsement from various Zambian ministries, the interference raised significant concerns, leading to the decision not to proceed. This cancellation underscores the difficulties faced by global convenings in the context of international relations and the need for secure environments to foster dialogue on digital rights.",
       "relevance_score": 30,
       "combined_score": 32,
       "is_ai_ml": false,
-      "cluster_id": 8,
-      "cluster_name": "💼 Business and Economics"
+      "cluster_id": 9,
+      "cluster_name": "🔍 Historical Discoveries and Cultural Reflections"
     },
     {
       "id": "69f50285baa201280323e48f",
@@ -549,7 +549,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "🔐 Cybersecurity and Privacy"
+      "cluster_name": "🔐 Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f50286baa201280323e490",
@@ -563,7 +563,7 @@
       "combined_score": 66,
       "is_ai_ml": false,
       "cluster_id": 1,
-      "cluster_name": "⚛️ Energy and Environment"
+      "cluster_name": "⚛️ Energy and Environmental Policy"
     },
     {
       "id": "69f50286baa201280323e491",
@@ -577,7 +577,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 4,
-      "cluster_name": "📊 Data and Databases"
+      "cluster_name": "📡 Networking and Infrastructure"
     },
     {
       "id": "69f5028abaa201280323e492",
@@ -590,8 +590,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "🚀 Technology and Innovation"
+      "cluster_id": 0,
+      "cluster_name": "🔐 Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f405fba82b02f40488580c",
@@ -604,8 +604,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 9,
-      "cluster_name": "🔧 Tools and Utilities"
+      "cluster_id": 5,
+      "cluster_name": "📚 Open Source and Community Initiatives"
     },
     {
       "id": "69f405fba82b02f40488580d",
@@ -618,8 +618,8 @@
       "relevance_score": 20,
       "combined_score": 29,
       "is_ai_ml": false,
-      "cluster_id": 7,
-      "cluster_name": "🧬 Science and Research"
+      "cluster_id": 0,
+      "cluster_name": "🔐 Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f5028bbaa201280323e493",
@@ -632,8 +632,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "🚀 Technology and Innovation"
+      "cluster_id": 6,
+      "cluster_name": "🎨 Creative Tools and Techniques"
     },
     {
       "id": "69f405fba82b02f40488580e",
@@ -647,7 +647,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "🔐 Cybersecurity and Privacy"
+      "cluster_name": "🔐 Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f5028bbaa201280323e494",
@@ -660,8 +660,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 7,
-      "cluster_name": "🧬 Science and Research"
+      "cluster_id": 2,
+      "cluster_name": "🧠 AI and Machine Learning Innovations"
     },
     {
       "id": "69f5028cbaa201280323e495",
@@ -674,8 +674,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 8,
-      "cluster_name": "💼 Business and Economics"
+      "cluster_id": 0,
+      "cluster_name": "🔐 Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f405fba82b02f40488580f",
@@ -688,8 +688,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 2,
-      "cluster_name": "🧠 AI and Machine Learning"
+      "cluster_id": 0,
+      "cluster_name": "🔐 Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f405fca82b02f404885810",
@@ -702,8 +702,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 6,
-      "cluster_name": "📚 Historical and Cultural Insights"
+      "cluster_id": 0,
+      "cluster_name": "🔐 Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f5028cbaa201280323e496",
@@ -717,7 +717,7 @@
       "combined_score": 71,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "🔐 Cybersecurity and Privacy"
+      "cluster_name": "🔐 Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f405fca82b02f404885811",
@@ -730,8 +730,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 9,
-      "cluster_name": "🔧 Tools and Utilities"
+      "cluster_id": 5,
+      "cluster_name": "📚 Open Source and Community Initiatives"
     },
     {
       "id": "69f405fca82b02f404885812",
@@ -744,8 +744,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 9,
-      "cluster_name": "🔧 Tools and Utilities"
+      "cluster_id": 6,
+      "cluster_name": "🎨 Creative Tools and Techniques"
     },
     {
       "id": "69f405fca82b02f404885813",
@@ -759,7 +759,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 7,
-      "cluster_name": "🧬 Science and Research"
+      "cluster_name": "🚀 Space Exploration and Technology"
     },
     {
       "id": "69f5028ebaa201280323e498",
@@ -772,8 +772,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 0,
-      "cluster_name": "🔐 Cybersecurity and Privacy"
+      "cluster_id": 4,
+      "cluster_name": "📡 Networking and Infrastructure"
     },
     {
       "id": "69f405fca82b02f404885814",
@@ -787,7 +787,7 @@
       "combined_score": 9,
       "is_ai_ml": false,
       "cluster_id": 8,
-      "cluster_name": "💼 Business and Economics"
+      "cluster_name": "💼 Business Practices and Economic Insights"
     },
     {
       "id": "69f5028ebaa201280323e497",
@@ -801,15 +801,15 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 7,
-      "cluster_name": "🧬 Science and Research"
+      "cluster_name": "🚀 Space Exploration and Technology"
     }
   ],
   "clusters": [
     {
       "id": 0,
-      "name": "🔐 Cybersecurity and Privacy",
-      "description": "Articles focusing on cybersecurity threats, privacy issues, and measures to protect data and systems.",
-      "size": 11,
+      "name": "🔐 Cybersecurity and Privacy Concerns",
+      "description": "These articles explore various cybersecurity threats and privacy issues, highlighting vulnerabilities in software, unauthorized data access, and the importance of user control over personal information.",
+      "size": 20,
       "sample_titles": [
         "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
         "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
@@ -818,8 +818,8 @@
     },
     {
       "id": 1,
-      "name": "⚛️ Energy and Environment",
-      "description": "Discussions on energy policies, environmental impacts, and technological advancements in energy production.",
+      "name": "⚛️ Energy and Environmental Policy",
+      "description": "This cluster focuses on the intersection of energy policy and environmental concerns, examining decisions on nuclear energy, the impact of AI on resource consumption, and the aftermath of environmental disasters.",
       "size": 5,
       "sample_titles": [
         "Belgium stops decommissioning nuclear power plants",
@@ -829,9 +829,9 @@
     },
     {
       "id": 2,
-      "name": "🧠 AI and Machine Learning",
-      "description": "Explorations of AI technologies, their applications, and the societal implications of AI advancements.",
-      "size": 6,
+      "name": "🧠 AI and Machine Learning Innovations",
+      "description": "These articles delve into the advancements and ethical considerations in AI and machine learning, from novel techniques to societal impacts and debates on anonymity and AI-generated content.",
+      "size": 5,
       "sample_titles": [
         "The Gay Jailbreak Technique",
         "Advanced Quantization Algorithm for LLMs",
@@ -840,8 +840,8 @@
     },
     {
       "id": 3,
-      "name": "🕹️ Retro and Emulation",
-      "description": "Projects and discussions related to retro computing, emulation, and nostalgic technology experiences.",
+      "name": "🕹️ Retro Technology and Emulation",
+      "description": "Exploring the nostalgia and technical challenges of retro technology, this cluster includes stories about emulating classic games and running vintage software in modern environments.",
       "size": 3,
       "sample_titles": [
         "I built a Game Boy emulator in F#",
@@ -851,68 +851,67 @@
     },
     {
       "id": 4,
-      "name": "📊 Data and Databases",
-      "description": "Articles on database technologies, data management, and innovations in data processing.",
-      "size": 4,
+      "name": "📡 Networking and Infrastructure",
+      "description": "These articles cover advancements and challenges in networking infrastructure, from personal home network upgrades to large-scale cloud service disruptions and innovations in data handling.",
+      "size": 6,
       "sample_titles": [
+        "You can beat the binary search",
         "Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file",
-        "Full-Text Search with DuckDB",
         "Does Postgres Scale?"
       ]
     },
     {
       "id": 5,
-      "name": "🚀 Technology and Innovation",
-      "description": "Innovative projects and technological advancements across various fields, showcasing creativity and problem-solving.",
-      "size": 8,
+      "name": "📚 Open Source and Community Initiatives",
+      "description": "Focusing on the open-source movement and community-driven projects, this cluster highlights efforts to maintain transparency, collaboration, and innovation in software development.",
+      "size": 5,
       "sample_titles": [
-        "You can beat the binary search",
-        "Spain's parliament will act against massive IP blockages by LaLiga",
-        "I aggregated 28 US Government auction sites into one search"
+        "I aggregated 28 US Government auction sites into one search",
+        "An open letter asking NHS England to keep its code open",
+        "Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell"
       ]
     },
     {
       "id": 6,
-      "name": "📚 Historical and Cultural Insights",
-      "description": "Explorations of historical events, cultural phenomena, and their impacts on modern society.",
+      "name": "🎨 Creative Tools and Techniques",
+      "description": "This cluster explores creative and technical tools for enhancing artistic expression, from new camera technologies to advanced compositing techniques in digital media.",
+      "size": 4,
+      "sample_titles": [
+        "New mechanical panoramic film camera from Jeff Bridges",
+        "Understand Anything",
+        "Show HN: AI CAD Harness"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "🚀 Space Exploration and Technology",
+      "description": "Articles in this cluster discuss advancements in space exploration technology, focusing on fault tolerance in spacecraft systems and the formalization of complex scientific problems.",
+      "size": 2,
+      "sample_titles": [
+        "A Milestone in Formalization: The Sphere Packing Problem in Dimension 8",
+        "Artemis II Fault Tolerance"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "💼 Business Practices and Economic Insights",
+      "description": "These articles provide insights into business strategies and economic phenomena, examining pricing tactics, auction platforms, and the influence of cultural attitudes on spending.",
+      "size": 3,
+      "sample_titles": [
+        "Spain's parliament will act against massive IP blockages by LaLiga",
+        "The upsell game – Vercel upselling tactics revealed",
+        "Maladaptive Frugality"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "🔍 Historical Discoveries and Cultural Reflections",
+      "description": "This cluster features articles on significant historical discoveries and cultural reflections, from ancient manuscripts to the nostalgic impact of past media.",
       "size": 4,
       "sample_titles": [
         "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
         "Sally McKee, who coined the term \"the memory wall\", has died",
         "The X-Files Has Made Me Nostalgic for a Time I Never Experienced"
-      ]
-    },
-    {
-      "id": 7,
-      "name": "🧬 Science and Research",
-      "description": "Scientific discoveries, research advancements, and their implications for understanding the world.",
-      "size": 4,
-      "sample_titles": [
-        "Snowball Earth may hide a far stranger climate cycle than anyone expected",
-        "New research suggests people can communicate and practice skills while dreaming",
-        "A Milestone in Formalization: The Sphere Packing Problem in Dimension 8"
-      ]
-    },
-    {
-      "id": 8,
-      "name": "💼 Business and Economics",
-      "description": "Insights into business strategies, economic policies, and their effects on markets and industries.",
-      "size": 4,
-      "sample_titles": [
-        "The upsell game – Vercel upselling tactics revealed",
-        "A statement about why RightsCon 2026 will not take place in Zambia",
-        "The end of \"Just ask Sarah\""
-      ]
-    },
-    {
-      "id": 9,
-      "name": "🔧 Tools and Utilities",
-      "description": "Practical tools and utilities designed to enhance productivity and solve specific technical challenges.",
-      "size": 8,
-      "sample_titles": [
-        "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
-        "whohas – Command-line utility for cross-distro, cross-repository package search",
-        "An open letter asking NHS England to keep its code open"
       ]
     }
   ]

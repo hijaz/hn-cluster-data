@@ -1,8 +1,8 @@
 {
   "date": "2026-05-02",
-  "generated_at": "2026-05-02T18:21:12.322926+00:00",
+  "generated_at": "2026-05-02T18:43:24.113061+00:00",
   "article_count": 27,
-  "cluster_count": 10,
+  "cluster_count": 11,
   "clustering_model": "gpt-4o",
   "articles": [
     {
@@ -16,22 +16,22 @@
       "relevance_score": 60,
       "combined_score": 64,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "🔧 Developer Tools and Utilities"
+      "cluster_id": 0,
+      "cluster_name": "🔌 USB-C and Peripheral Tools"
     },
     {
       "id": "69f50275baa201280323e47f",
       "title": "The Gay Jailbreak Technique",
       "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
       "hn_score": 270,
-      "comments": 236,
+      "comments": 238,
       "author": "bobsmooth",
       "summary": "The Gay Jailbreak Technique is a novel method aimed at circumventing restrictions in conversational AI, specifically identified in ChatGPT (GPT 4o). This technique revolves around phrasing requests in a way that engages LGBT themes, allowing users to obtain information that is typically restricted. It captures the nuances of how large language models (LLMs) exhibit leniency when it comes to LGBT subjects due to the protective alignment programmed into them. By exploiting this aspect, users can effectively manipulate the AI's guardrails, leading to potentially sensitive information being provided without resistance.\n\nFundamentally, this technique thrives on the perceived need for LLMs to adhere to political correctness, making them less likely to decline requests framed within the context of LGBT identity. As such, the Gay Jailbreak Technique not only showcases the adaptability of AI responses but also highlights the complexities involved in AI alignment and safety, particularly when it involves societal sensitivities. Since the method is versatile, it can be modified for various requests, further demonstrating the inherent vulnerabilities in how AI systems process and prioritize different topics.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 3,
-      "cluster_name": "🤖 AI and Machine Learning Innovations"
+      "cluster_id": 1,
+      "cluster_name": "🧠 AI and Cognitive Technologies"
     },
     {
       "id": "69f50276baa201280323e480",
@@ -44,8 +44,8 @@
       "relevance_score": 60,
       "combined_score": 64,
       "is_ai_ml": false,
-      "cluster_id": 8,
-      "cluster_name": "🧠 Cognitive Science and Human Behavior"
+      "cluster_id": 2,
+      "cluster_name": "🌐 Web and User Experience"
     },
     {
       "id": "69f50277baa201280323e481",
@@ -58,8 +58,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 0,
-      "cluster_name": "🖥️ Retro Computing and Emulation"
+      "cluster_id": 3,
+      "cluster_name": "🕹️ Retro and Emulation Technologies"
     },
     {
       "id": "69f50277baa201280323e482",
@@ -72,8 +72,8 @@
       "relevance_score": 95,
       "combined_score": 89.8,
       "is_ai_ml": false,
-      "cluster_id": 3,
-      "cluster_name": "🤖 AI and Machine Learning Innovations"
+      "cluster_id": 1,
+      "cluster_name": "🧠 AI and Cognitive Technologies"
     },
     {
       "id": "69f50278baa201280323e483",
@@ -86,8 +86,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "🔧 Developer Tools and Utilities"
+      "cluster_id": 0,
+      "cluster_name": "🔌 USB-C and Peripheral Tools"
     },
     {
       "id": "69f50279baa201280323e484",
@@ -101,7 +101,7 @@
       "combined_score": 26,
       "is_ai_ml": false,
       "cluster_id": 6,
-      "cluster_name": "📜 Historical Discoveries and Cultural Reflections"
+      "cluster_name": "📚 Historical and Cultural Discoveries"
     },
     {
       "id": "69f5027abaa201280323e485",
@@ -114,8 +114,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "🔧 Developer Tools and Utilities"
+      "cluster_id": 0,
+      "cluster_name": "🔌 USB-C and Peripheral Tools"
     },
     {
       "id": "69f5027bbaa201280323e486",
@@ -129,7 +129,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 2,
-      "cluster_name": "🌐 Open Source and Community Advocacy"
+      "cluster_name": "🌐 Web and User Experience"
     },
     {
       "id": "69f5027cbaa201280323e487",
@@ -142,8 +142,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 3,
-      "cluster_name": "🤖 AI and Machine Learning Innovations"
+      "cluster_id": 10,
+      "cluster_name": "🚨 Crisis and Emergency Systems"
     },
     {
       "id": "69f5027dbaa201280323e488",
@@ -156,8 +156,8 @@
       "relevance_score": 70,
       "combined_score": 70,
       "is_ai_ml": false,
-      "cluster_id": 1,
-      "cluster_name": "🔐 Cybersecurity and Privacy Concerns"
+      "cluster_id": 5,
+      "cluster_name": "🔍 Security and Privacy Concerns"
     },
     {
       "id": "69f5027fbaa201280323e489",
@@ -171,7 +171,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 6,
-      "cluster_name": "📜 Historical Discoveries and Cultural Reflections"
+      "cluster_name": "📚 Historical and Cultural Discoveries"
     },
     {
       "id": "69f5027fbaa201280323e48a",
@@ -184,22 +184,22 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "🔧 Developer Tools and Utilities"
+      "cluster_id": 4,
+      "cluster_name": "🔧 Developer Tools and Platforms"
     },
     {
       "id": "69f50281baa201280323e48b",
       "title": "The X-Files Has Made Me Nostalgic for a Time I Never Experienced",
       "url": "https://midnightmurmurations.substack.com/p/the-x-files-has-made-me-nostalgic",
       "hn_score": 68,
-      "comments": 202,
+      "comments": 203,
       "author": "Teever",
       "summary": "In 'The X-Files Has Made Me Nostalgic for a Time I Never Experienced,' the author, Lara Auckland, reflects on her recent experience watching the iconic show, which holds a timeless quality that contrasts sharply with today’s technology-driven society. Though she first knew of the series through cultural references, her recent binge-watching has rekindled a deep appreciation for its compelling narratives and visual style. Auckland's nostalgia seems tied to an admiration for the 'simpler' times depicted within the show, marked by clunky technology and a slower pace of life before the onset of modern distractions like social media and constant connectivity.\n\nAs she becomes engrossed in the dynamics between Mulder and Scully, she also acknowledges the palpable tension in their relationship, which mirrors the emotional stakes of their adventures. The allure of The X-Files not only lies in its storytelling but also in how it transports viewers to a bygone era that seems less chaotic compared to today's fast-paced world. While recognizing that later seasons may not live up to its earlier acclaim, Auckland’s journey with the show underscores a desire for richer, more authentic media experiences, as well as a longing for the connections lost in contemporary culture.",
       "relevance_score": 10,
       "combined_score": 18,
       "is_ai_ml": false,
-      "cluster_id": 0,
-      "cluster_name": "🖥️ Retro Computing and Emulation"
+      "cluster_id": 3,
+      "cluster_name": "🕹️ Retro and Emulation Technologies"
     },
     {
       "id": "69f50283baa201280323e48c",
@@ -212,8 +212,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "🔧 Developer Tools and Utilities"
+      "cluster_id": 1,
+      "cluster_name": "🧠 AI and Cognitive Technologies"
     },
     {
       "id": "69f50284baa201280323e48d",
@@ -226,22 +226,22 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 3,
-      "cluster_name": "🤖 AI and Machine Learning Innovations"
+      "cluster_id": 2,
+      "cluster_name": "🌐 Web and User Experience"
     },
     {
       "id": "69f50285baa201280323e48e",
       "title": "A statement about why RightsCon 2026 will not take place in Zambia",
       "url": "https://www.rightscon.org/rc26-statement/",
       "hn_score": 59,
-      "comments": 44,
+      "comments": 45,
       "author": "benbreen",
       "summary": "The RightsCon team announced with disappointment that the 2026 conference will no longer occur in Zambia, primarily due to foreign interference that critically impacted the safety of participants. Originally planned to welcome over 2,600 attendees from around the globe, this decision was rendered just days before the event, showcasing the serious concerns surrounding geopolitical pressures, particularly from the People's Republic of China in relation to Taiwanese attendees. The organization emphasized the importance of transparency as they explained the circumstances leading to this abrupt cancellation.\n\nThe selection of Zambia was chosen through a rigorous, multi-year process that involved community consultations, exploring the host country’s infrastructure, and ensuring open engagements with government stakeholders. Despite the collaborative efforts and initial endorsement from various Zambian ministries, the interference raised significant concerns, leading to the decision not to proceed. This cancellation underscores the difficulties faced by global convenings in the context of international relations and the need for secure environments to foster dialogue on digital rights.",
       "relevance_score": 30,
       "combined_score": 32,
       "is_ai_ml": false,
-      "cluster_id": 4,
-      "cluster_name": "🌍 Global Events and Their Impacts"
+      "cluster_id": 7,
+      "cluster_name": "🌍 Global Events and Impacts"
     },
     {
       "id": "69f50285baa201280323e48f",
@@ -254,8 +254,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 1,
-      "cluster_name": "🔐 Cybersecurity and Privacy Concerns"
+      "cluster_id": 5,
+      "cluster_name": "🔍 Security and Privacy Concerns"
     },
     {
       "id": "69f50286baa201280323e490",
@@ -268,8 +268,8 @@
       "relevance_score": 70,
       "combined_score": 66,
       "is_ai_ml": false,
-      "cluster_id": 4,
-      "cluster_name": "🌍 Global Events and Their Impacts"
+      "cluster_id": 7,
+      "cluster_name": "🌍 Global Events and Impacts"
     },
     {
       "id": "69f50286baa201280323e491",
@@ -282,8 +282,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 2,
-      "cluster_name": "🌐 Open Source and Community Advocacy"
+      "cluster_id": 4,
+      "cluster_name": "🔧 Developer Tools and Platforms"
     },
     {
       "id": "69f5028abaa201280323e492",
@@ -296,8 +296,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "🔧 Developer Tools and Utilities"
+      "cluster_id": 4,
+      "cluster_name": "🔧 Developer Tools and Platforms"
     },
     {
       "id": "69f5028bbaa201280323e493",
@@ -310,8 +310,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 3,
-      "cluster_name": "🤖 AI and Machine Learning Innovations"
+      "cluster_id": 1,
+      "cluster_name": "🧠 AI and Cognitive Technologies"
     },
     {
       "id": "69f5028bbaa201280323e494",
@@ -325,7 +325,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 8,
-      "cluster_name": "🧠 Cognitive Science and Human Behavior"
+      "cluster_name": "💤 Dream Research and Cognitive Science"
     },
     {
       "id": "69f5028cbaa201280323e495",
@@ -338,8 +338,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 8,
-      "cluster_name": "🧠 Cognitive Science and Human Behavior"
+      "cluster_id": 9,
+      "cluster_name": "📜 Documentation and Knowledge Management"
     },
     {
       "id": "69f5028cbaa201280323e496",
@@ -352,8 +352,8 @@
       "relevance_score": 70,
       "combined_score": 71,
       "is_ai_ml": false,
-      "cluster_id": 9,
-      "cluster_name": "⚠️ Speculative and Unusual Systems"
+      "cluster_id": 10,
+      "cluster_name": "🚨 Crisis and Emergency Systems"
     },
     {
       "id": "69f5028ebaa201280323e497",
@@ -367,7 +367,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 7,
-      "cluster_name": "🚀 Space Exploration and Technology"
+      "cluster_name": "🌍 Global Events and Impacts"
     },
     {
       "id": "69f5028ebaa201280323e498",
@@ -380,15 +380,48 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 1,
-      "cluster_name": "🔐 Cybersecurity and Privacy Concerns"
+      "cluster_id": 5,
+      "cluster_name": "🔍 Security and Privacy Concerns"
     }
   ],
   "clusters": [
     {
       "id": 0,
-      "name": "🖥️ Retro Computing and Emulation",
-      "description": "These articles explore the revival and emulation of older technologies, showcasing their enduring relevance and functionality in modern contexts.",
+      "name": "🔌 USB-C and Peripheral Tools",
+      "description": "Exploring tools that enhance the functionality and understanding of peripheral devices, these articles highlight innovations that simplify user interactions with hardware and software interfaces.",
+      "size": 3,
+      "sample_titles": [
+        "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+        "Show HN: GhostBox – Borrow a disposable little machine from the Global Free Tier",
+        "whohas – Command-line utility for cross-distro, cross-repository package search"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "🧠 AI and Cognitive Technologies",
+      "description": "These articles delve into the evolving landscape of AI, from innovative techniques to circumvent AI restrictions to the integration of AI in creative and technical workflows, reflecting the ongoing tension between AI capabilities and societal impacts.",
+      "size": 4,
+      "sample_titles": [
+        "The Gay Jailbreak Technique",
+        "Advanced Quantization Algorithm for LLMs",
+        "Show HN: Loopsy, a way for terminals and AI agents on different machines to talk"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "🌐 Web and User Experience",
+      "description": "Focusing on the importance of user-centric design and transparency, these articles discuss the critical role of user experience and open-source practices in shaping digital interactions and trust.",
+      "size": 3,
+      "sample_titles": [
+        "Your website is not for you",
+        "An open letter asking NHS England to keep its code open",
+        "Spotify adds 'Verified' badges to distinguish human artists from AI"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "🕹️ Retro and Emulation Technologies",
+      "description": "Highlighting the enduring appeal of retro technologies, these articles explore the emulation of classic systems and the nostalgia they evoke, underscoring the timelessness and ongoing relevance of older tech.",
       "size": 2,
       "sample_titles": [
         "Running Adobe's 1991 PostScript Interpreter in the Browser",
@@ -396,9 +429,20 @@
       ]
     },
     {
-      "id": 1,
-      "name": "🔐 Cybersecurity and Privacy Concerns",
-      "description": "Focusing on cybersecurity incidents and privacy issues, these stories highlight the challenges and implications of unauthorized access and cyberattacks.",
+      "id": 4,
+      "name": "🔧 Developer Tools and Platforms",
+      "description": "These articles showcase innovative tools and platforms designed to enhance developer productivity and collaboration, emphasizing the importance of flexibility and efficiency in modern software development.",
+      "size": 3,
+      "sample_titles": [
+        "Understand Anything",
+        "Show HN: My Private GitHub on Postgres",
+        "Show HN: Site Mogging"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "🔍 Security and Privacy Concerns",
+      "description": "Addressing the critical issues of security and privacy, these articles highlight incidents and technologies that underscore the ongoing challenges and importance of safeguarding digital environments.",
       "size": 3,
       "sample_titles": [
         "Canonical/Ubuntu have been under DDoS",
@@ -407,51 +451,9 @@
       ]
     },
     {
-      "id": 2,
-      "name": "🌐 Open Source and Community Advocacy",
-      "description": "These articles discuss the importance of open-source software and community-driven initiatives, emphasizing transparency and collaboration.",
-      "size": 2,
-      "sample_titles": [
-        "An open letter asking NHS England to keep its code open",
-        "Show HN: My Private GitHub on Postgres"
-      ]
-    },
-    {
-      "id": 3,
-      "name": "🤖 AI and Machine Learning Innovations",
-      "description": "Exploring advancements in AI and machine learning, these stories cover new tools, techniques, and the societal impact of AI technologies.",
-      "size": 5,
-      "sample_titles": [
-        "The Gay Jailbreak Technique",
-        "Advanced Quantization Algorithm for LLMs",
-        "AI uses less water than the public thinks"
-      ]
-    },
-    {
-      "id": 4,
-      "name": "🌍 Global Events and Their Impacts",
-      "description": "These articles cover significant global events and their consequences, from geopolitical decisions to natural disasters affecting infrastructure.",
-      "size": 2,
-      "sample_titles": [
-        "A statement about why RightsCon 2026 will not take place in Zambia",
-        "AWS stops billing Middle East cloud customers as repairs to war damage drag on"
-      ]
-    },
-    {
-      "id": 5,
-      "name": "🔧 Developer Tools and Utilities",
-      "description": "Highlighting tools and utilities for developers, these stories focus on software that enhances productivity and facilitates development processes.",
-      "size": 6,
-      "sample_titles": [
-        "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
-        "Show HN: GhostBox – Borrow a disposable little machine from the Global Free Tier",
-        "whohas – Command-line utility for cross-distro, cross-repository package search"
-      ]
-    },
-    {
       "id": 6,
-      "name": "📜 Historical Discoveries and Cultural Reflections",
-      "description": "These articles delve into historical findings and cultural reflections, offering insights into past eras and their influence on present-day society.",
+      "name": "📚 Historical and Cultural Discoveries",
+      "description": "These articles reveal significant historical and cultural findings, offering insights into past eras and their impact on contemporary understanding and appreciation of history and literature.",
       "size": 2,
       "sample_titles": [
         "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
@@ -460,30 +462,40 @@
     },
     {
       "id": 7,
-      "name": "🚀 Space Exploration and Technology",
-      "description": "Focusing on advancements in space technology, these stories highlight innovations and systems designed for space exploration and safety.",
-      "size": 1,
+      "name": "🌍 Global Events and Impacts",
+      "description": "Exploring the intersection of global events and technological infrastructures, these articles discuss how geopolitical and environmental factors influence technology deployment and operations worldwide.",
+      "size": 3,
       "sample_titles": [
+        "A statement about why RightsCon 2026 will not take place in Zambia",
+        "AWS stops billing Middle East cloud customers as repairs to war damage drag on",
         "Artemis II Fault Tolerance"
       ]
     },
     {
       "id": 8,
-      "name": "🧠 Cognitive Science and Human Behavior",
-      "description": "These articles explore the intersection of cognitive science and human behavior, examining how our minds work and how we interact with technology.",
-      "size": 3,
+      "name": "💤 Dream Research and Cognitive Science",
+      "description": "Focusing on the fascinating realm of dreams and cognitive science, these articles explore the potential of dreams as a space for communication and skill development, challenging traditional perceptions of sleep.",
+      "size": 1,
       "sample_titles": [
-        "Your website is not for you",
-        "New research suggests people can communicate and practice skills while dreaming",
-        "The end of \"Just ask Sarah\""
+        "New research suggests people can communicate and practice skills while dreaming"
       ]
     },
     {
       "id": 9,
-      "name": "⚠️ Speculative and Unusual Systems",
-      "description": "These stories discuss speculative and unconventional systems, exploring unique approaches to monitoring and predicting unusual events.",
+      "name": "📜 Documentation and Knowledge Management",
+      "description": "These articles emphasize the critical role of documentation in preserving organizational knowledge and decision-making processes, highlighting the challenges and solutions in maintaining effective information systems.",
       "size": 1,
       "sample_titles": [
+        "The end of \"Just ask Sarah\""
+      ]
+    },
+    {
+      "id": 10,
+      "name": "🚨 Crisis and Emergency Systems",
+      "description": "Exploring systems designed to predict and respond to crises, these articles highlight innovative approaches to monitoring and mitigating potential disasters, emphasizing the importance of preparedness and early warning.",
+      "size": 2,
+      "sample_titles": [
+        "AI uses less water than the public thinks",
         "Apocalypse Early Warning System"
       ]
     }
