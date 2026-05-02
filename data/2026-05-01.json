@@ -1,9 +1,9 @@
 {
   "date": "2026-05-01",
-  "generated_at": "2026-05-02T13:59:26.566832+00:00",
+  "generated_at": "2026-05-02T15:07:03.827601+00:00",
   "article_count": 57,
-  "cluster_count": 3,
-  "embedding_model": "text-embedding-3-small",
+  "cluster_count": 11,
+  "clustering_model": "gpt-4o",
   "articles": [
     {
       "id": "69f405faa82b02f4048857f7",
@@ -16,26 +16,22 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "x": -0.1307,
-      "y": -0.2535,
-      "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_id": 3,
+      "cluster_name": "Software Development and Tools"
     },
     {
       "id": "69f405faa82b02f4048857f8",
       "title": "Belgium stops decommissioning nuclear power plants",
       "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
       "hn_score": 751,
-      "comments": 975,
+      "comments": 992,
       "author": "mpweiher",
       "summary": "Belgium's government has announced it will stop decommissioning nuclear power plants, a decision revealed by Prime Minister Bart De Wever. The country is shifting its energy strategy to prioritize safe and sustainable energy solutions amidst growing concerns about energy security, stemming from its heavy reliance on fossil fuel imports. This decision marks a significant change from Belgium's earlier commitment to phase out nuclear energy by 2025, as ongoing political debates and shifting priorities have led to reconsideration of this approach. \n\nIn negotiations with ENGIE, Belgium aims to potentially nationalize its nuclear energy assets, which includes acquiring the complete fleet of seven reactors and addressing the associated liabilities. A framework for this nationalization is expected to be finalized by October. Additionally, De Wever's administration plans to build new nuclear plants, indicating a commitment to reinvigorate and expand Belgium's energy production capabilities against the backdrop of ongoing challenges in renewable energy development.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -0.2736,
-      "y": 0.1282,
       "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_name": "Energy and Environmental Policy"
     },
     {
       "id": "69f405faa82b02f4048857f9",
@@ -48,26 +44,22 @@
       "relevance_score": 90,
       "combined_score": 86.8,
       "is_ai_ml": false,
-      "x": -0.1175,
-      "y": -0.3402,
-      "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_id": 0,
+      "cluster_name": "Cybersecurity and Vulnerabilities"
     },
     {
       "id": "69f405faa82b02f4048857fa",
       "title": "You can beat the binary search",
       "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
       "hn_score": 512,
-      "comments": 162,
+      "comments": 163,
       "author": "vok",
       "summary": "The article discusses searching for values in sorted arrays, highlighting the efficiency of binary search compared to linear search for large datasets. The author points out that modern processors have capabilities to check multiple values simultaneously due to data parallel instructions, suggesting that traditional binary search can be improved upon. Specifically, the author proposes a hybrid approach called the SIMD Quad algorithm, which utilizes quaternary search and SIMD techniques to enhance search performance.\n\nThe SIMD Quad algorithm divides the array into blocks of 16 elements and employs interpolation search to identify the block where the target value is likely located. After narrowing down the block, it uses SIMD instructions to check all elements in that block at once, significantly speeding up the search process. This innovative method captures the essence of optimizing search algorithms by leveraging both advanced algorithmic strategies and modern hardware capabilities, thus offering a promising alternative to the conventional binary search.",
       "relevance_score": 90,
       "combined_score": 84.4,
       "is_ai_ml": false,
-      "x": 0.2884,
-      "y": 0.1344,
-      "cluster_id": 2,
-      "cluster_name": "Software Tools and Algorithms"
+      "cluster_id": 3,
+      "cluster_name": "Software Development and Tools"
     },
     {
       "id": "69f405faa82b02f4048857fb",
@@ -80,10 +72,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -0.188,
-      "y": 0.055,
-      "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_id": 4,
+      "cluster_name": "Privacy and Data Security"
     },
     {
       "id": "69f405faa82b02f4048857fc",
@@ -96,10 +86,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -0.2568,
-      "y": 0.0928,
-      "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_id": 4,
+      "cluster_name": "Privacy and Data Security"
     },
     {
       "id": "69f405faa82b02f4048857fd",
@@ -112,10 +100,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "x": 0.3253,
-      "y": 0.0073,
-      "cluster_id": 2,
-      "cluster_name": "Software Tools and Algorithms"
+      "cluster_id": 5,
+      "cluster_name": "Retro Computing and Emulation"
     },
     {
       "id": "69f405faa82b02f4048857fe",
@@ -128,10 +114,8 @@
       "relevance_score": 49,
       "combined_score": 53.6,
       "is_ai_ml": false,
-      "x": -0.2724,
-      "y": 0.0473,
-      "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_id": 4,
+      "cluster_name": "Privacy and Data Security"
     },
     {
       "id": "69f405faa82b02f4048857ff",
@@ -144,10 +128,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "x": -0.3735,
-      "y": -0.2724,
-      "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_id": 0,
+      "cluster_name": "Cybersecurity and Vulnerabilities"
     },
     {
       "id": "69f405fba82b02f404885800",
@@ -160,10 +142,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "x": 0.3389,
-      "y": -0.1741,
-      "cluster_id": 2,
-      "cluster_name": "Software Tools and Algorithms"
+      "cluster_id": 3,
+      "cluster_name": "Software Development and Tools"
     },
     {
       "id": "69f405fba82b02f404885801",
@@ -176,42 +156,36 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -0.0299,
-      "y": 0.2907,
-      "cluster_id": 0,
-      "cluster_name": "Postgres Scalability and Alternatives"
+      "cluster_id": 1,
+      "cluster_name": "Energy and Environmental Policy"
     },
     {
       "id": "69f50275baa201280323e47e",
       "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
       "url": "https://github.com/darrylmorley/whatcable",
       "hn_score": 318,
-      "comments": 153,
+      "comments": 156,
       "author": "sleepingNomad",
       "summary": "WhatCable is a compact macOS menu bar application designed to provide users with clear insights into the capabilities of USB-C cables connected to their devices. By presenting complex technical information in an easily digestible format, the app enables users to understand not only what their cables can do but also the reasons for any slow charging issues. Among its features, it displays whether a cable is for Thunderbolt, USB 2.0, or is a charge-only variant, addressing user concerns regarding cable performance.\n\nThe application further enhances user experience by offering real-time diagnostics that detail the cable's specifications, such as its speed and current rating. It also allows users to dive deeper into the technicalities through IOKit properties. Overall, WhatCable serves as a tool to help individuals make informed decisions regarding their USB-C cables, ensuring optimal performance and compatibility for their devices.",
       "relevance_score": 60,
       "combined_score": 64,
       "is_ai_ml": false,
-      "x": 0.1579,
-      "y": -0.1483,
-      "cluster_id": 2,
-      "cluster_name": "Software Tools and Algorithms"
+      "cluster_id": 8,
+      "cluster_name": "Consumer Technology and Gadgets"
     },
     {
       "id": "69f50275baa201280323e47f",
       "title": "The Gay Jailbreak Technique",
       "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
       "hn_score": 270,
-      "comments": 230,
+      "comments": 232,
       "author": "bobsmooth",
       "summary": "The Gay Jailbreak Technique is a novel method aimed at circumventing restrictions in conversational AI, specifically identified in ChatGPT (GPT 4o). This technique revolves around phrasing requests in a way that engages LGBT themes, allowing users to obtain information that is typically restricted. It captures the nuances of how large language models (LLMs) exhibit leniency when it comes to LGBT subjects due to the protective alignment programmed into them. By exploiting this aspect, users can effectively manipulate the AI's guardrails, leading to potentially sensitive information being provided without resistance.\n\nFundamentally, this technique thrives on the perceived need for LLMs to adhere to political correctness, making them less likely to decline requests framed within the context of LGBT identity. As such, the Gay Jailbreak Technique not only showcases the adaptability of AI responses but also highlights the complexities involved in AI alignment and safety, particularly when it involves societal sensitivities. Since the method is versatile, it can be modified for various requests, further demonstrating the inherent vulnerabilities in how AI systems process and prioritize different topics.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 0.1103,
-      "y": -0.0877,
-      "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_id": 2,
+      "cluster_name": "AI and Machine Learning"
     },
     {
       "id": "69f405fba82b02f404885802",
@@ -224,10 +198,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 0.1124,
-      "y": 0.0436,
-      "cluster_id": 2,
-      "cluster_name": "Software Tools and Algorithms"
+      "cluster_id": 10,
+      "cluster_name": "Economic and Social Commentary"
     },
     {
       "id": "69f405fba82b02f404885803",
@@ -240,26 +212,22 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 0.2237,
-      "y": 0.0603,
-      "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_id": 5,
+      "cluster_name": "Retro Computing and Emulation"
     },
     {
       "id": "69f50276baa201280323e480",
       "title": "Your website is not for you",
       "url": "https://websmith.studio/blog/your-website-is-not-for-you/",
       "hn_score": 223,
-      "comments": 180,
+      "comments": 181,
       "author": "pumbaa",
       "summary": "The article emphasizes the importance of viewing a website as a tool for the audience rather than the owner. It advocates for designing websites centered around user needs and preferences, asserting that a user-friendly experience significantly impacts visitor engagement and conversion rates. To achieve this, content must be tailored through audience research, and factors like accessibility and mobile responsiveness must not be overlooked. \n\nMoreover, the article highlights that clear calls to action are effective in guiding users, while SEO practices are vital for improving visibility. Regular updates and a focus on visual usability are also essential for maintaining relevance and enhancing user experience. Ultimately, the article positions the website as a crucial business asset that embodies the brand's presence to potential clients.",
       "relevance_score": 60,
       "combined_score": 64,
       "is_ai_ml": false,
-      "x": 0.0608,
-      "y": 0.1466,
-      "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_id": 0,
+      "cluster_name": "Cybersecurity and Vulnerabilities"
     },
     {
       "id": "69f50277baa201280323e481",
@@ -272,10 +240,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 0.2784,
-      "y": -0.0141,
-      "cluster_id": 0,
-      "cluster_name": "Postgres Scalability and Alternatives"
+      "cluster_id": 5,
+      "cluster_name": "Retro Computing and Emulation"
     },
     {
       "id": "69f50277baa201280323e482",
@@ -288,26 +254,22 @@
       "relevance_score": 95,
       "combined_score": 89.8,
       "is_ai_ml": false,
-      "x": 0.2428,
-      "y": 0.144,
       "cluster_id": 2,
-      "cluster_name": "Software Tools and Algorithms"
+      "cluster_name": "AI and Machine Learning"
     },
     {
       "id": "69f50278baa201280323e483",
       "title": "Show HN: GhostBox – Borrow a disposable little machine from the Global Free Tier",
       "url": "https://www.ghost.charity/",
       "hn_score": 194,
-      "comments": 91,
+      "comments": 92,
       "author": "keepamovin",
       "summary": "GhostBox is an innovative tool designed for developers and agents needing temporary computing resources without compromising their personal devices' security. By allowing users to SSH into a disposable machine, GhostBox enables work like coding, running builds, and exposing web applications without the burden of permanent installations or vulnerabilities associated with personal laptops. It provides a controlled environment where agents can operate, maintain secrecy, and manage sessions effectively.\n\nThe initiative taps into a variety of spare computing resources available across platforms, solidifying a community-based approach to temporary machines. GhostBox stands out by eliminating the usual server management concerns and allowing users to seamlessly engage with their computing tasks before returning the borrowed resources to the cloud. This approach not only enhances productivity but fosters a culture of sharing, where users can collaborate and innovate without lasting impacts on their own systems.",
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "x": 0.1683,
-      "y": -0.2843,
-      "cluster_id": 2,
-      "cluster_name": "Software Tools and Algorithms"
+      "cluster_id": 0,
+      "cluster_name": "Cybersecurity and Vulnerabilities"
     },
     {
       "id": "69f50279baa201280323e484",
@@ -320,10 +282,8 @@
       "relevance_score": 20,
       "combined_score": 26,
       "is_ai_ml": false,
-      "x": 0.0508,
-      "y": 0.2073,
-      "cluster_id": 2,
-      "cluster_name": "Software Tools and Algorithms"
+      "cluster_id": 7,
+      "cluster_name": "Cultural and Historical Discoveries"
     },
     {
       "id": "69f405fba82b02f404885804",
@@ -336,10 +296,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 0.2437,
-      "y": -0.0042,
-      "cluster_id": 2,
-      "cluster_name": "Software Tools and Algorithms"
+      "cluster_id": 0,
+      "cluster_name": "Cybersecurity and Vulnerabilities"
     },
     {
       "id": "69f405fba82b02f404885805",
@@ -352,10 +310,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 0.21,
-      "y": -0.0796,
-      "cluster_id": 0,
-      "cluster_name": "Postgres Scalability and Alternatives"
+      "cluster_id": 6,
+      "cluster_name": "Digital Infrastructure and Networking"
     },
     {
       "id": "69f5027abaa201280323e485",
@@ -368,10 +324,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 0.1827,
-      "y": -0.31,
-      "cluster_id": 2,
-      "cluster_name": "Software Tools and Algorithms"
+      "cluster_id": 3,
+      "cluster_name": "Software Development and Tools"
     },
     {
       "id": "69f5027bbaa201280323e486",
@@ -384,42 +338,36 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -0.1656,
-      "y": -0.1018,
-      "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_id": 0,
+      "cluster_name": "Cybersecurity and Vulnerabilities"
     },
     {
       "id": "69f5027cbaa201280323e487",
       "title": "AI uses less water than the public thinks",
       "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
       "hn_score": 149,
-      "comments": 358,
+      "comments": 360,
       "author": "hirpslop",
       "summary": "The article discusses the role of artificial intelligence (AI) in shaping economic and natural resource sectors, highlighting the mixed perceptions surrounding its water use. As a new technology, AI has evoked hopes for advancements alongside fears due to its energy-intensive requirements, particularly in data centers which consume significant amounts of water for cooling processes. The author argues that while concerns about AI's water use are prevalent in public discourse, many are speculative and lack scientific support. \n\nCalifornia is specifically mentioned as having a relatively modest data center water footprint, especially in comparison to other regions with denser activity and less developed infrastructure. The lack of transparency in water and energy use from AI companies often exacerbates public fears. Thus, the article calls for a more evidence-based approach to understanding AI's impact on water resources to guide sustainable policies in California.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -0.1012,
-      "y": 0.2189,
-      "cluster_id": 0,
-      "cluster_name": "Postgres Scalability and Alternatives"
+      "cluster_id": 1,
+      "cluster_name": "Energy and Environmental Policy"
     },
     {
       "id": "69f405fba82b02f404885806",
       "title": "Opus 4.7 knows the real Kelsey",
       "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
       "hn_score": 148,
-      "comments": 250,
+      "comments": 252,
       "author": "ilamont",
       "summary": "The article discusses the implications of Claude Opus 4.7, an advanced AI model that can identify the authors of text excerpts, often needing only 150 words. Kelsey Piper emphasizes the evolving debate surrounding online anonymity, arguing that it is crucial for protecting marginalized voices and allowing individuals to share opinions without fear of retribution or discrimination. This highlights the delicate balance between freedom of expression and the risks posed by third-party technologies that increasingly erode anonymity online.\n\nPiper recounts personal tests conducted with Opus 4.7, revealing its ability to identify her from unpublished writing. She advocates for anonymity as a shield for those who might otherwise be silenced, including members of the LGBTQ+ community and others expressing unconventional views. The article calls attention to the ongoing transformation of online discourse and raises concerns over how advanced AI technology could eliminate the cloak of anonymity that has allowed individuals to safely share their thoughts and experiences.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 0.0212,
-      "y": 0.0196,
-      "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_id": 2,
+      "cluster_name": "AI and Machine Learning"
     },
     {
       "id": "69f405fba82b02f404885807",
@@ -432,10 +380,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 0.0782,
-      "y": -0.104,
-      "cluster_id": 0,
-      "cluster_name": "Postgres Scalability and Alternatives"
+      "cluster_id": 6,
+      "cluster_name": "Digital Infrastructure and Networking"
     },
     {
       "id": "69f405fba82b02f404885808",
@@ -448,10 +394,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "x": 0.3073,
-      "y": -0.3434,
-      "cluster_id": 2,
-      "cluster_name": "Software Tools and Algorithms"
+      "cluster_id": 3,
+      "cluster_name": "Software Development and Tools"
     },
     {
       "id": "69f5027dbaa201280323e488",
@@ -464,10 +408,8 @@
       "relevance_score": 70,
       "combined_score": 70,
       "is_ai_ml": false,
-      "x": -0.3909,
-      "y": -0.3114,
-      "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_id": 0,
+      "cluster_name": "Cybersecurity and Vulnerabilities"
     },
     {
       "id": "69f405fba82b02f404885809",
@@ -480,42 +422,36 @@
       "relevance_score": 50,
       "combined_score": 53,
       "is_ai_ml": false,
-      "x": -0.0985,
-      "y": -0.107,
-      "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_id": 10,
+      "cluster_name": "Economic and Social Commentary"
     },
     {
       "id": "69f5027fbaa201280323e489",
       "title": "Sally McKee, who coined the term \"the memory wall\", has died",
       "url": "https://www.online-tribute.com/SallyMcKee",
       "hn_score": 85,
-      "comments": 34,
+      "comments": 36,
       "author": "deater",
       "summary": "Sally McKee, a luminary in the field of memory studies, is remembered for coining the influential term 'the memory wall.' Her groundbreaking contributions have significantly shaped the discourse around memory, advocating innovative strategies that transformed how we understand and retain information. McKee's work not only enriched academic literature but also inspired countless students and researchers through her passionate teaching and mentoring.\n\nHer passing represents a profound loss for the academic community, yet her legacy endures through her extensive research and the impact she made in promoting memory awareness. Colleagues and students alike recall her dedication to the field and her emphasis on the importance of personal narratives in memory studies, ensuring that her contributions will continue to resonate for years to come.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 0.0186,
-      "y": 0.3583,
-      "cluster_id": 0,
-      "cluster_name": "Postgres Scalability and Alternatives"
+      "cluster_id": 7,
+      "cluster_name": "Cultural and Historical Discoveries"
     },
     {
       "id": "69f405fba82b02f40488580a",
       "title": "New mechanical panoramic film camera from Jeff Bridges",
       "url": "https://wideluxx.com",
       "hn_score": 75,
-      "comments": 109,
+      "comments": 110,
       "author": "armadsen",
       "summary": "The WideluxX™ camera, created by Jeff Bridges, is a modern panoramic film camera that combines the heritage of swing-lens photography with contemporary precision. Unlike nostalgic tools, it offers photographers a fresh approach to capturing images by using a moving lens to record scenes in motion. This enables the creation of continuous panoramas that reflect a more dynamic representation of reality, integrating the passage of time and the movement of subjects within a single exposure.\n\nThe innovative design allows for sharp images even at slower speeds, eliminating the need for a tripod, and enhances the viewing experience by capturing environments as they are experienced. Through careful engineering, the WideluxX™ camera delivers photographs that maintain consistent exposure and avoid stitched artifacts, thus embodying a unique perspective on photographic storytelling.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 0.078,
-      "y": 0.2644,
-      "cluster_id": 0,
-      "cluster_name": "Postgres Scalability and Alternatives"
+      "cluster_id": 8,
+      "cluster_name": "Consumer Technology and Gadgets"
     },
     {
       "id": "69f5027fbaa201280323e48a",
@@ -528,58 +464,50 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 0.301,
-      "y": -0.1524,
       "cluster_id": 2,
-      "cluster_name": "Software Tools and Algorithms"
+      "cluster_name": "AI and Machine Learning"
     },
     {
       "id": "69f50283baa201280323e48c",
       "title": "Show HN: Loopsy, a way for terminals and AI agents on different machines to talk",
       "url": "https://github.com/leox255/loopsy",
       "hn_score": 68,
-      "comments": 9,
+      "comments": 10,
       "author": "todience",
       "summary": "Loopsy is an innovative tool that facilitates communication between terminals and AI agents across different devices using Cloudflare Workers. It allows users to control various agents such as Claude, Codex, or any shell directly from their mobile devices. By installing Loopsy on a laptop, and deploying a relay to Cloudflare, users can easily initiate a secure connection without the need for VPNs or public IP addresses. The setup involves pairings such as a QR code scan, enhancing usability while maintaining high security through token and secret management.\n\nThe application's core functionality is its support for full PTY terminal access, allowing users to maintain persistent sessions and easily switch between operations. Additionally, voice input capability via the Web Speech API allows for a hands-free control experience. This setup promises to streamline remote terminal management, making it especially appealing to developers and tech enthusiasts looking for efficient solutions in cross-device terminal control.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 0.3184,
-      "y": -0.2998,
-      "cluster_id": 2,
-      "cluster_name": "Software Tools and Algorithms"
+      "cluster_id": 0,
+      "cluster_name": "Cybersecurity and Vulnerabilities"
     },
     {
       "id": "69f50281baa201280323e48b",
       "title": "The X-Files Has Made Me Nostalgic for a Time I Never Experienced",
       "url": "https://midnightmurmurations.substack.com/p/the-x-files-has-made-me-nostalgic",
       "hn_score": 68,
-      "comments": 191,
+      "comments": 192,
       "author": "Teever",
       "summary": "In 'The X-Files Has Made Me Nostalgic for a Time I Never Experienced,' the author, Lara Auckland, reflects on her recent experience watching the iconic show, which holds a timeless quality that contrasts sharply with today’s technology-driven society. Though she first knew of the series through cultural references, her recent binge-watching has rekindled a deep appreciation for its compelling narratives and visual style. Auckland's nostalgia seems tied to an admiration for the 'simpler' times depicted within the show, marked by clunky technology and a slower pace of life before the onset of modern distractions like social media and constant connectivity.\n\nAs she becomes engrossed in the dynamics between Mulder and Scully, she also acknowledges the palpable tension in their relationship, which mirrors the emotional stakes of their adventures. The allure of The X-Files not only lies in its storytelling but also in how it transports viewers to a bygone era that seems less chaotic compared to today's fast-paced world. While recognizing that later seasons may not live up to its earlier acclaim, Auckland’s journey with the show underscores a desire for richer, more authentic media experiences, as well as a longing for the connections lost in contemporary culture.",
       "relevance_score": 10,
       "combined_score": 18,
       "is_ai_ml": false,
-      "x": 0.0563,
-      "y": 0.2633,
-      "cluster_id": 0,
-      "cluster_name": "Postgres Scalability and Alternatives"
+      "cluster_id": 7,
+      "cluster_name": "Cultural and Historical Discoveries"
     },
     {
       "id": "69f50284baa201280323e48d",
       "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
       "url": "https://www.bbc.com/news/articles/c5yerr4m1yno",
       "hn_score": 63,
-      "comments": 272,
+      "comments": 278,
       "author": "reconnecting",
       "summary": "Spotify's introduction of 'Verified' badges marks a significant step in distinguishing human artists from the increasing influx of AI-generated music. With this initiative, Spotify aims to alleviate concerns about authenticity among listeners and bolster trust within the music ecosystem. As AI technology continues to evolve, the presence of songs created by artificial intelligence has surged, prompting Spotify to take proactive measures to highlight genuine artistic contributions. \n\nThe 'Verified' badges will provide users with a clear indication of who is behind the music they are listening to, reinforcing the importance of human artistry in an era dominated by technological advancements. This feature not only aids listeners in making informed choices but also reflects Spotify's commitment to supporting artists and sustaining meaningful connections between creators and their audiences.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -0.0284,
-      "y": 0.1154,
-      "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_id": 8,
+      "cluster_name": "Consumer Technology and Gadgets"
     },
     {
       "id": "69f405fba82b02f40488580b",
@@ -592,10 +520,8 @@
       "relevance_score": 0,
       "combined_score": 8,
       "is_ai_ml": false,
-      "x": -0.3587,
-      "y": 0.1696,
       "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_name": "Energy and Environmental Policy"
     },
     {
       "id": "69f50285baa201280323e48e",
@@ -608,10 +534,8 @@
       "relevance_score": 30,
       "combined_score": 32,
       "is_ai_ml": false,
-      "x": -0.4536,
-      "y": 0.064,
-      "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_id": 10,
+      "cluster_name": "Economic and Social Commentary"
     },
     {
       "id": "69f50285baa201280323e48f",
@@ -624,26 +548,22 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -0.2008,
-      "y": 0.0404,
-      "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_id": 4,
+      "cluster_name": "Privacy and Data Security"
     },
     {
       "id": "69f50286baa201280323e490",
       "title": "AWS stops billing Middle East cloud customers as repairs to war damage drag on",
       "url": "https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/",
       "hn_score": 52,
-      "comments": 73,
+      "comments": 74,
       "author": "johnbarron",
       "summary": "Amazon Web Services (AWS) has temporarily ceased billing its Middle East cloud customers, a move prompted by the extensive delays in repairs to data centers targeted by recent drone strikes. This decision not only alleviates immediate financial burdens on affected customers but also underscores the operational challenges faced by cloud service providers in regions with heightened geopolitical risks.\n\nThe prolonged repair timeline reflects the serious implications of armed conflict on essential infrastructure, raising questions about data security, customer trust, and the strategic decisions of tech companies operating in volatile environments. As AWS navigates these repairs amid ongoing security concerns, it may well influence the strategies and considerations of similar providers as they assess their risks and operational frameworks in sensitive areas.",
       "relevance_score": 70,
       "combined_score": 66,
       "is_ai_ml": false,
-      "x": -0.3702,
-      "y": -0.0529,
       "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_name": "Energy and Environmental Policy"
     },
     {
       "id": "69f50286baa201280323e491",
@@ -656,10 +576,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "x": 0.218,
-      "y": -0.2989,
-      "cluster_id": 0,
-      "cluster_name": "Postgres Scalability and Alternatives"
+      "cluster_id": 6,
+      "cluster_name": "Digital Infrastructure and Networking"
     },
     {
       "id": "69f5028abaa201280323e492",
@@ -672,10 +590,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 0.1472,
-      "y": -0.1031,
-      "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_id": 6,
+      "cluster_name": "Digital Infrastructure and Networking"
     },
     {
       "id": "69f405fba82b02f40488580c",
@@ -688,26 +604,22 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -0.2464,
-      "y": -0.2249,
-      "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_id": 0,
+      "cluster_name": "Cybersecurity and Vulnerabilities"
     },
     {
       "id": "69f405fba82b02f40488580d",
       "title": "Snowball Earth may hide a far stranger climate cycle than anyone expected",
       "url": "https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html",
       "hn_score": 36,
-      "comments": 60,
+      "comments": 62,
       "author": "wglb",
       "summary": "The article discusses new insights into Earth's climate during the Sturtian glacial period, where two primary models—Snowball and Slushball Earth—attempt to describe global glaciation. Recent research introduces a new model suggesting that alternating periods of glaciation and warmth could provide a more accurate explanation, reconciling geological and biological evidence that had previously seemed inconsistent with these models. The study identifies crucial links between global temperature swings and the dynamics of carbon and oxygen cycles, shedding light on the role of silicate weathering as a carbon sink that diminishes during glaciation and the growth of atmospheric CO2 until ice melting occurs.\n\nFurthermore, the research highlights the discrepancy between the expected depletion of atmospheric oxygen and the survival of certain life forms throughout the Sturtian period. The Franklin Large Igneous Province is posited as a significant climatic influencer due to its potential to enhance weathering processes. The findings challenge existing perceptions of prolonged glacial periods and urge the scientific community to revisit geological data to better understand Earth’s past climate changes, emphasizing an intricate interplay of climatic variables that shaped early life and environments.",
       "relevance_score": 20,
       "combined_score": 29,
       "is_ai_ml": false,
-      "x": -0.0542,
-      "y": 0.3581,
-      "cluster_id": 0,
-      "cluster_name": "Postgres Scalability and Alternatives"
+      "cluster_id": 7,
+      "cluster_name": "Cultural and Historical Discoveries"
     },
     {
       "id": "69f5028bbaa201280323e493",
@@ -720,10 +632,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 0.2136,
-      "y": -0.0956,
-      "cluster_id": 2,
-      "cluster_name": "Software Tools and Algorithms"
+      "cluster_id": 8,
+      "cluster_name": "Consumer Technology and Gadgets"
     },
     {
       "id": "69f405fba82b02f40488580e",
@@ -736,26 +646,22 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "x": -0.303,
-      "y": -0.2739,
-      "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_id": 0,
+      "cluster_name": "Cybersecurity and Vulnerabilities"
     },
     {
       "id": "69f5028bbaa201280323e494",
       "title": "New research suggests people can communicate and practice skills while dreaming",
       "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
       "hn_score": 28,
-      "comments": 226,
+      "comments": 229,
       "author": "XzetaU8",
       "summary": "The article discusses groundbreaking research suggesting that humans can communicate and develop skills while dreaming, particularly through REM sleep. It highlights that our brains remain remarkably engaged during this stage, allowing for the potential rehearsal of real-life tasks. The phenomenon of lucid dreaming, where individuals are aware they are dreaming and can control their dreams, is emphasized as a possible method to maximize skill acquisition and practice.\n\nThe implications of this research extend into educational practices and training opportunities, presenting a new frontier in how we understand learning. However, the article cautions against overlooking the ethical considerations that accompany this technology, such as the impacts on mental health and the integrity of the learning process. Overall, the exploration of dreaming as a learning tool is a promising avenue that warrants further investigation.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 0.0629,
-      "y": 0.2808,
-      "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_id": 9,
+      "cluster_name": "Scientific Research and Innovations"
     },
     {
       "id": "69f5028cbaa201280323e495",
@@ -768,10 +674,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 0.0201,
-      "y": 0.1323,
-      "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_id": 0,
+      "cluster_name": "Cybersecurity and Vulnerabilities"
     },
     {
       "id": "69f405fba82b02f40488580f",
@@ -784,10 +688,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -0.0278,
-      "y": 0.1255,
-      "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_id": 2,
+      "cluster_name": "AI and Machine Learning"
     },
     {
       "id": "69f405fca82b02f404885810",
@@ -800,26 +702,22 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 0.1467,
-      "y": 0.1218,
-      "cluster_id": 2,
-      "cluster_name": "Software Tools and Algorithms"
+      "cluster_id": 9,
+      "cluster_name": "Scientific Research and Innovations"
     },
     {
       "id": "69f5028cbaa201280323e496",
       "title": "Apocalypse Early Warning System",
       "url": "https://ews.kylemcdonald.net/",
       "hn_score": 18,
-      "comments": 101,
+      "comments": 102,
       "author": "carlsborg",
       "summary": "The Apocalypse Early Warning System is a project that monitors private jet traffic as a predictive measure of potential nuclear disasters. It operates on a scale from 1 to 5 to indicate the urgency of a threat, where a level 5 suggests an imminent crisis. Currently reporting an emergency level of 1, the site reveals that there are 502 planes airborne with a total of 4,930 individuals in the air, suggesting normal activity levels at this time. \n\nThe project archives historical jet traffic data to track trends and anomalies in flights, providing a unique insight into human behavioral responses in crisis situations. By focusing on a select cohort of business jets, the system aims to deliver accurate real-time information, with updates facilitating broader public awareness through accessible platforms. Overall, this initiative highlights the intersection of technology and emergency preparedness in contemporary society.",
       "relevance_score": 70,
       "combined_score": 71,
       "is_ai_ml": false,
-      "x": -0.1391,
-      "y": 0.111,
-      "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_id": 0,
+      "cluster_name": "Cybersecurity and Vulnerabilities"
     },
     {
       "id": "69f405fca82b02f404885811",
@@ -832,10 +730,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -0.0932,
-      "y": 0.027,
-      "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_id": 4,
+      "cluster_name": "Privacy and Data Security"
     },
     {
       "id": "69f405fca82b02f404885812",
@@ -848,10 +744,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 0.1868,
-      "y": 0.1792,
       "cluster_id": 0,
-      "cluster_name": "Postgres Scalability and Alternatives"
+      "cluster_name": "Cybersecurity and Vulnerabilities"
     },
     {
       "id": "69f405fca82b02f404885813",
@@ -864,42 +758,36 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 0.0615,
-      "y": 0.2269,
-      "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_id": 9,
+      "cluster_name": "Scientific Research and Innovations"
     },
     {
       "id": "69f5028ebaa201280323e498",
       "title": "Ubuntu servers taken offline by \"sustained, cross-border attack\"",
       "url": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
       "hn_score": 10,
-      "comments": 24,
+      "comments": 26,
       "author": "RattlesnakeJake",
       "summary": "The article discusses a recent incident where Ubuntu servers were taken offline due to a sustained, cross-border cyberattack, leading to significant service disruptions. This situation emphasizes the vulnerability of even well-established tech infrastructures to sophisticated cyber threats, prompting an urgent response from developers to restore services. The attack has raised questions about the existing security protocols in place, suggesting that a thorough review and potential enhancement of these measures may be necessary in the aftermath.\n\nAs developers work to regain normalcy, users have experienced notable interruptions, and the limited communication from Ubuntu regarding the situation has contributed to concerns in the technology community. The incident serves as a critical reminder of the need for robust cybersecurity measures and international cooperation in the tech industry to mitigate risks from such attacks in the future.",
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "x": -0.4449,
-      "y": -0.309,
-      "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_id": 0,
+      "cluster_name": "Cybersecurity and Vulnerabilities"
     },
     {
       "id": "69f405fca82b02f404885814",
       "title": "Maladaptive Frugality",
       "url": "https://herbertlui.net/maladaptive-frugality/",
       "hn_score": 10,
-      "comments": 286,
+      "comments": 287,
       "author": "herbertl",
       "summary": "The article 'Maladaptive Frugality' discusses how ingrained frugality can sometimes hinder personal and financial well-being. The author reflects on their upbringing, which instilled a strong value for saving money, often leading to a detrimental mindset where necessary expenses are avoided out of guilt or a desire to save. This mindset, described as maladaptive frugality, can result in procrastination and missed opportunities. The author shares personal experiences of struggling to make necessary purchases, realizing that such behavior can drain mental resources and limit overall enjoyment in life.\n\nBy identifying maladaptive frugality as a significant issue, the article encourages readers to adopt a more mindful approach towards spending. Recognizing the importance of financial decisions that consider long-term benefits, rather than merely defaulting to the lowest cost option, can open up pathways for better life experiences and opportunities. Ultimately, the author advocates for a balance between frugality and thoughtful spending, enabling individuals to enjoy the present while also planning for the future.",
       "relevance_score": 0,
       "combined_score": 9,
       "is_ai_ml": false,
-      "x": -0.1036,
-      "y": 0.3138,
-      "cluster_id": 1,
-      "cluster_name": "Cybersecurity and Privacy Concerns"
+      "cluster_id": 10,
+      "cluster_name": "Economic and Social Commentary"
     },
     {
       "id": "69f5028ebaa201280323e497",
@@ -912,41 +800,119 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "x": -0.0072,
-      "y": -0.0014,
-      "cluster_id": 2,
-      "cluster_name": "Software Tools and Algorithms"
+      "cluster_id": 9,
+      "cluster_name": "Scientific Research and Innovations"
     }
   ],
   "clusters": [
     {
       "id": 0,
-      "name": "Postgres Scalability and Alternatives",
-      "size": 11,
+      "name": "Cybersecurity and Vulnerabilities",
+      "size": 14,
       "sample_titles": [
-        "How an oil refinery works",
-        "Running Adobe's 1991 PostScript Interpreter in the Browser",
-        "Does Postgres Scale?"
+        "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+        "CopyFail was not disclosed to distro developers?",
+        "Your website is not for you"
       ]
     },
     {
       "id": 1,
-      "name": "Cybersecurity and Privacy Concerns",
-      "size": 30,
+      "name": "Energy and Environmental Policy",
+      "size": 5,
       "sample_titles": [
-        "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
         "Belgium stops decommissioning nuclear power plants",
-        "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library"
+        "How an oil refinery works",
+        "AI uses less water than the public thinks"
       ]
     },
     {
       "id": 2,
-      "name": "Software Tools and Algorithms",
-      "size": 16,
+      "name": "AI and Machine Learning",
+      "size": 5,
       "sample_titles": [
+        "The Gay Jailbreak Technique",
+        "Advanced Quantization Algorithm for LLMs",
+        "Opus 4.7 knows the real Kelsey"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Software Development and Tools",
+      "size": 5,
+      "sample_titles": [
+        "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
         "You can beat the binary search",
-        "I built a Game Boy emulator in F#",
         "Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Privacy and Data Security",
+      "size": 5,
+      "sample_titles": [
+        "Rivian allows you to disable all internet connectivity",
+        "How Mark Klein told the EFF about Room 641A [book excerpt]",
+        "Spain's parliament will act against massive IP blockages by LaLiga"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Retro Computing and Emulation",
+      "size": 3,
+      "sample_titles": [
+        "I built a Game Boy emulator in F#",
+        "Reverse Engineering SimTower",
+        "Running Adobe's 1991 PostScript Interpreter in the Browser"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Digital Infrastructure and Networking",
+      "size": 4,
+      "sample_titles": [
+        "Does Postgres Scale?",
+        "10Gb/s Ethernet: what I did to get it working in my home",
+        "Show HN: My Private GitHub on Postgres"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Cultural and Historical Discoveries",
+      "size": 4,
+      "sample_titles": [
+        "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
+        "Sally McKee, who coined the term \"the memory wall\", has died",
+        "The X-Files Has Made Me Nostalgic for a Time I Never Experienced"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Consumer Technology and Gadgets",
+      "size": 4,
+      "sample_titles": [
+        "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+        "New mechanical panoramic film camera from Jeff Bridges",
+        "Spotify adds 'Verified' badges to distinguish human artists from AI"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Scientific Research and Innovations",
+      "size": 4,
+      "sample_titles": [
+        "New research suggests people can communicate and practice skills while dreaming",
+        "The Accidental Ancestor – How Verifying Numbers Shaped Modern Hashing",
+        "A Milestone in Formalization: The Sphere Packing Problem in Dimension 8"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Economic and Social Commentary",
+      "size": 4,
+      "sample_titles": [
+        "I aggregated 28 US Government auction sites into one search",
+        "The upsell game – Vercel upselling tactics revealed",
+        "A statement about why RightsCon 2026 will not take place in Zambia"
       ]
     }
   ]
