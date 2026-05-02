@@ -1,6 +1,6 @@
 {
   "date": "2026-05-01",
-  "generated_at": "2026-05-02T15:07:03.827601+00:00",
+  "generated_at": "2026-05-02T15:12:36.834363+00:00",
   "article_count": 57,
   "cluster_count": 11,
   "clustering_model": "gpt-4o",
@@ -10,28 +10,28 @@
       "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
       "url": "https://twitter.com/theo/status/2049645973350363168",
       "hn_score": 953,
-      "comments": 709,
+      "comments": 710,
       "author": "elmean",
       "summary": "The article discusses an unusual policy by Claude Code, where requests involving recent commits mentioning 'OpenClaw' are either refused or subject to additional charges. This peculiar situation occurred with an empty repository, drawing attention to the limitations and unexpected restrictions that users may face when interacting with coding services. The incident, shared by Theo, gained substantial engagement online, indicating a mixture of confusion and concern within the developer community.\n\nThe implications of such a policy highlight broader issues regarding transparency and accessibility in coding and software services. As online conversation evolves around this topic, it raises essential questions about service expectations and the criteria under which coding requests are evaluated. With significant views and responses, this case exemplifies the ongoing discourse about the reliability of code handlers and the complexities that arise within digital interactions.",
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 3,
-      "cluster_name": "Software Development and Tools"
+      "cluster_id": 0,
+      "cluster_name": "🔐 Cybersecurity and Privacy"
     },
     {
       "id": "69f405faa82b02f4048857f8",
       "title": "Belgium stops decommissioning nuclear power plants",
       "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
       "hn_score": 751,
-      "comments": 992,
+      "comments": 993,
       "author": "mpweiher",
       "summary": "Belgium's government has announced it will stop decommissioning nuclear power plants, a decision revealed by Prime Minister Bart De Wever. The country is shifting its energy strategy to prioritize safe and sustainable energy solutions amidst growing concerns about energy security, stemming from its heavy reliance on fossil fuel imports. This decision marks a significant change from Belgium's earlier commitment to phase out nuclear energy by 2025, as ongoing political debates and shifting priorities have led to reconsideration of this approach. \n\nIn negotiations with ENGIE, Belgium aims to potentially nationalize its nuclear energy assets, which includes acquiring the complete fleet of seven reactors and addressing the associated liabilities. A framework for this nationalization is expected to be finalized by October. Additionally, De Wever's administration plans to build new nuclear plants, indicating a commitment to reinvigorate and expand Belgium's energy production capabilities against the backdrop of ongoing challenges in renewable energy development.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 1,
-      "cluster_name": "Energy and Environmental Policy"
+      "cluster_name": "⚛️ Energy and Environment"
     },
     {
       "id": "69f405faa82b02f4048857f9",
@@ -45,7 +45,7 @@
       "combined_score": 86.8,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "Cybersecurity and Vulnerabilities"
+      "cluster_name": "🔐 Cybersecurity and Privacy"
     },
     {
       "id": "69f405faa82b02f4048857fa",
@@ -58,8 +58,8 @@
       "relevance_score": 90,
       "combined_score": 84.4,
       "is_ai_ml": false,
-      "cluster_id": 3,
-      "cluster_name": "Software Development and Tools"
+      "cluster_id": 5,
+      "cluster_name": "💾 Software Development and Tools"
     },
     {
       "id": "69f405faa82b02f4048857fb",
@@ -72,8 +72,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 4,
-      "cluster_name": "Privacy and Data Security"
+      "cluster_id": 0,
+      "cluster_name": "🔐 Cybersecurity and Privacy"
     },
     {
       "id": "69f405faa82b02f4048857fc",
@@ -86,8 +86,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 4,
-      "cluster_name": "Privacy and Data Security"
+      "cluster_id": 0,
+      "cluster_name": "🔐 Cybersecurity and Privacy"
     },
     {
       "id": "69f405faa82b02f4048857fd",
@@ -100,8 +100,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "Retro Computing and Emulation"
+      "cluster_id": 3,
+      "cluster_name": "🕹️ Retro and Emulation"
     },
     {
       "id": "69f405faa82b02f4048857fe",
@@ -115,7 +115,7 @@
       "combined_score": 53.6,
       "is_ai_ml": false,
       "cluster_id": 4,
-      "cluster_name": "Privacy and Data Security"
+      "cluster_name": "🇪🇺 Digital Regulation and Policy"
     },
     {
       "id": "69f405faa82b02f4048857ff",
@@ -129,7 +129,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "Cybersecurity and Vulnerabilities"
+      "cluster_name": "🔐 Cybersecurity and Privacy"
     },
     {
       "id": "69f405fba82b02f404885800",
@@ -142,8 +142,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 3,
-      "cluster_name": "Software Development and Tools"
+      "cluster_id": 5,
+      "cluster_name": "💾 Software Development and Tools"
     },
     {
       "id": "69f405fba82b02f404885801",
@@ -157,7 +157,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 1,
-      "cluster_name": "Energy and Environmental Policy"
+      "cluster_name": "⚛️ Energy and Environment"
     },
     {
       "id": "69f50275baa201280323e47e",
@@ -170,8 +170,8 @@
       "relevance_score": 60,
       "combined_score": 64,
       "is_ai_ml": false,
-      "cluster_id": 8,
-      "cluster_name": "Consumer Technology and Gadgets"
+      "cluster_id": 0,
+      "cluster_name": "🔐 Cybersecurity and Privacy"
     },
     {
       "id": "69f50275baa201280323e47f",
@@ -185,7 +185,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 2,
-      "cluster_name": "AI and Machine Learning"
+      "cluster_name": "🧠 AI and Machine Learning"
     },
     {
       "id": "69f405fba82b02f404885802",
@@ -198,8 +198,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 10,
-      "cluster_name": "Economic and Social Commentary"
+      "cluster_id": 9,
+      "cluster_name": "📰 News and Events"
     },
     {
       "id": "69f405fba82b02f404885803",
@@ -212,8 +212,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "Retro Computing and Emulation"
+      "cluster_id": 3,
+      "cluster_name": "🕹️ Retro and Emulation"
     },
     {
       "id": "69f50276baa201280323e480",
@@ -227,7 +227,7 @@
       "combined_score": 64,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "Cybersecurity and Vulnerabilities"
+      "cluster_name": "🔐 Cybersecurity and Privacy"
     },
     {
       "id": "69f50277baa201280323e481",
@@ -240,8 +240,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "Retro Computing and Emulation"
+      "cluster_id": 3,
+      "cluster_name": "🕹️ Retro and Emulation"
     },
     {
       "id": "69f50277baa201280323e482",
@@ -255,7 +255,7 @@
       "combined_score": 89.8,
       "is_ai_ml": false,
       "cluster_id": 2,
-      "cluster_name": "AI and Machine Learning"
+      "cluster_name": "🧠 AI and Machine Learning"
     },
     {
       "id": "69f50278baa201280323e483",
@@ -269,7 +269,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "Cybersecurity and Vulnerabilities"
+      "cluster_name": "🔐 Cybersecurity and Privacy"
     },
     {
       "id": "69f50279baa201280323e484",
@@ -282,8 +282,8 @@
       "relevance_score": 20,
       "combined_score": 26,
       "is_ai_ml": false,
-      "cluster_id": 7,
-      "cluster_name": "Cultural and Historical Discoveries"
+      "cluster_id": 6,
+      "cluster_name": "📚 History and Culture"
     },
     {
       "id": "69f405fba82b02f404885804",
@@ -296,8 +296,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 0,
-      "cluster_name": "Cybersecurity and Vulnerabilities"
+      "cluster_id": 5,
+      "cluster_name": "💾 Software Development and Tools"
     },
     {
       "id": "69f405fba82b02f404885805",
@@ -310,8 +310,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 6,
-      "cluster_name": "Digital Infrastructure and Networking"
+      "cluster_id": 5,
+      "cluster_name": "💾 Software Development and Tools"
     },
     {
       "id": "69f5027abaa201280323e485",
@@ -324,8 +324,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 3,
-      "cluster_name": "Software Development and Tools"
+      "cluster_id": 5,
+      "cluster_name": "💾 Software Development and Tools"
     },
     {
       "id": "69f5027bbaa201280323e486",
@@ -338,8 +338,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 0,
-      "cluster_name": "Cybersecurity and Vulnerabilities"
+      "cluster_id": 4,
+      "cluster_name": "🇪🇺 Digital Regulation and Policy"
     },
     {
       "id": "69f5027cbaa201280323e487",
@@ -353,7 +353,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 1,
-      "cluster_name": "Energy and Environmental Policy"
+      "cluster_name": "⚛️ Energy and Environment"
     },
     {
       "id": "69f405fba82b02f404885806",
@@ -367,7 +367,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 2,
-      "cluster_name": "AI and Machine Learning"
+      "cluster_name": "🧠 AI and Machine Learning"
     },
     {
       "id": "69f405fba82b02f404885807",
@@ -380,8 +380,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 6,
-      "cluster_name": "Digital Infrastructure and Networking"
+      "cluster_id": 7,
+      "cluster_name": "🚀 Space and Technology"
     },
     {
       "id": "69f405fba82b02f404885808",
@@ -394,8 +394,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 3,
-      "cluster_name": "Software Development and Tools"
+      "cluster_id": 5,
+      "cluster_name": "💾 Software Development and Tools"
     },
     {
       "id": "69f5027dbaa201280323e488",
@@ -409,7 +409,7 @@
       "combined_score": 70,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "Cybersecurity and Vulnerabilities"
+      "cluster_name": "🔐 Cybersecurity and Privacy"
     },
     {
       "id": "69f405fba82b02f404885809",
@@ -422,8 +422,8 @@
       "relevance_score": 50,
       "combined_score": 53,
       "is_ai_ml": false,
-      "cluster_id": 10,
-      "cluster_name": "Economic and Social Commentary"
+      "cluster_id": 9,
+      "cluster_name": "📰 News and Events"
     },
     {
       "id": "69f5027fbaa201280323e489",
@@ -436,8 +436,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 7,
-      "cluster_name": "Cultural and Historical Discoveries"
+      "cluster_id": 6,
+      "cluster_name": "📚 History and Culture"
     },
     {
       "id": "69f405fba82b02f40488580a",
@@ -451,7 +451,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 8,
-      "cluster_name": "Consumer Technology and Gadgets"
+      "cluster_name": "🎨 Art and Creativity"
     },
     {
       "id": "69f5027fbaa201280323e48a",
@@ -465,7 +465,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 2,
-      "cluster_name": "AI and Machine Learning"
+      "cluster_name": "🧠 AI and Machine Learning"
     },
     {
       "id": "69f50283baa201280323e48c",
@@ -479,7 +479,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "Cybersecurity and Vulnerabilities"
+      "cluster_name": "🔐 Cybersecurity and Privacy"
     },
     {
       "id": "69f50281baa201280323e48b",
@@ -492,22 +492,22 @@
       "relevance_score": 10,
       "combined_score": 18,
       "is_ai_ml": false,
-      "cluster_id": 7,
-      "cluster_name": "Cultural and Historical Discoveries"
+      "cluster_id": 6,
+      "cluster_name": "📚 History and Culture"
     },
     {
       "id": "69f50284baa201280323e48d",
       "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
       "url": "https://www.bbc.com/news/articles/c5yerr4m1yno",
       "hn_score": 63,
-      "comments": 278,
+      "comments": 279,
       "author": "reconnecting",
       "summary": "Spotify's introduction of 'Verified' badges marks a significant step in distinguishing human artists from the increasing influx of AI-generated music. With this initiative, Spotify aims to alleviate concerns about authenticity among listeners and bolster trust within the music ecosystem. As AI technology continues to evolve, the presence of songs created by artificial intelligence has surged, prompting Spotify to take proactive measures to highlight genuine artistic contributions. \n\nThe 'Verified' badges will provide users with a clear indication of who is behind the music they are listening to, reinforcing the importance of human artistry in an era dominated by technological advancements. This feature not only aids listeners in making informed choices but also reflects Spotify's commitment to supporting artists and sustaining meaningful connections between creators and their audiences.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 8,
-      "cluster_name": "Consumer Technology and Gadgets"
+      "cluster_id": 9,
+      "cluster_name": "📰 News and Events"
     },
     {
       "id": "69f405fba82b02f40488580b",
@@ -521,7 +521,7 @@
       "combined_score": 8,
       "is_ai_ml": false,
       "cluster_id": 1,
-      "cluster_name": "Energy and Environmental Policy"
+      "cluster_name": "⚛️ Energy and Environment"
     },
     {
       "id": "69f50285baa201280323e48e",
@@ -534,8 +534,8 @@
       "relevance_score": 30,
       "combined_score": 32,
       "is_ai_ml": false,
-      "cluster_id": 10,
-      "cluster_name": "Economic and Social Commentary"
+      "cluster_id": 4,
+      "cluster_name": "🇪🇺 Digital Regulation and Policy"
     },
     {
       "id": "69f50285baa201280323e48f",
@@ -548,8 +548,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 4,
-      "cluster_name": "Privacy and Data Security"
+      "cluster_id": 0,
+      "cluster_name": "🔐 Cybersecurity and Privacy"
     },
     {
       "id": "69f50286baa201280323e490",
@@ -563,7 +563,7 @@
       "combined_score": 66,
       "is_ai_ml": false,
       "cluster_id": 1,
-      "cluster_name": "Energy and Environmental Policy"
+      "cluster_name": "⚛️ Energy and Environment"
     },
     {
       "id": "69f50286baa201280323e491",
@@ -576,8 +576,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 6,
-      "cluster_name": "Digital Infrastructure and Networking"
+      "cluster_id": 5,
+      "cluster_name": "💾 Software Development and Tools"
     },
     {
       "id": "69f5028abaa201280323e492",
@@ -590,8 +590,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 6,
-      "cluster_name": "Digital Infrastructure and Networking"
+      "cluster_id": 5,
+      "cluster_name": "💾 Software Development and Tools"
     },
     {
       "id": "69f405fba82b02f40488580c",
@@ -604,8 +604,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 0,
-      "cluster_name": "Cybersecurity and Vulnerabilities"
+      "cluster_id": 9,
+      "cluster_name": "📰 News and Events"
     },
     {
       "id": "69f405fba82b02f40488580d",
@@ -618,8 +618,8 @@
       "relevance_score": 20,
       "combined_score": 29,
       "is_ai_ml": false,
-      "cluster_id": 7,
-      "cluster_name": "Cultural and Historical Discoveries"
+      "cluster_id": 1,
+      "cluster_name": "⚛️ Energy and Environment"
     },
     {
       "id": "69f5028bbaa201280323e493",
@@ -632,8 +632,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 8,
-      "cluster_name": "Consumer Technology and Gadgets"
+      "cluster_id": 5,
+      "cluster_name": "💾 Software Development and Tools"
     },
     {
       "id": "69f405fba82b02f40488580e",
@@ -647,7 +647,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "Cybersecurity and Vulnerabilities"
+      "cluster_name": "🔐 Cybersecurity and Privacy"
     },
     {
       "id": "69f5028bbaa201280323e494",
@@ -660,8 +660,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 9,
-      "cluster_name": "Scientific Research and Innovations"
+      "cluster_id": 10,
+      "cluster_name": "🔬 Science and Research"
     },
     {
       "id": "69f5028cbaa201280323e495",
@@ -674,8 +674,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 0,
-      "cluster_name": "Cybersecurity and Vulnerabilities"
+      "cluster_id": 9,
+      "cluster_name": "📰 News and Events"
     },
     {
       "id": "69f405fba82b02f40488580f",
@@ -689,7 +689,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 2,
-      "cluster_name": "AI and Machine Learning"
+      "cluster_name": "🧠 AI and Machine Learning"
     },
     {
       "id": "69f405fca82b02f404885810",
@@ -702,8 +702,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 9,
-      "cluster_name": "Scientific Research and Innovations"
+      "cluster_id": 6,
+      "cluster_name": "📚 History and Culture"
     },
     {
       "id": "69f5028cbaa201280323e496",
@@ -716,8 +716,8 @@
       "relevance_score": 70,
       "combined_score": 71,
       "is_ai_ml": false,
-      "cluster_id": 0,
-      "cluster_name": "Cybersecurity and Vulnerabilities"
+      "cluster_id": 9,
+      "cluster_name": "📰 News and Events"
     },
     {
       "id": "69f405fca82b02f404885811",
@@ -730,8 +730,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 4,
-      "cluster_name": "Privacy and Data Security"
+      "cluster_id": 9,
+      "cluster_name": "📰 News and Events"
     },
     {
       "id": "69f405fca82b02f404885812",
@@ -744,8 +744,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 0,
-      "cluster_name": "Cybersecurity and Vulnerabilities"
+      "cluster_id": 8,
+      "cluster_name": "🎨 Art and Creativity"
     },
     {
       "id": "69f405fca82b02f404885813",
@@ -758,8 +758,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 9,
-      "cluster_name": "Scientific Research and Innovations"
+      "cluster_id": 10,
+      "cluster_name": "🔬 Science and Research"
     },
     {
       "id": "69f5028ebaa201280323e498",
@@ -773,7 +773,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "Cybersecurity and Vulnerabilities"
+      "cluster_name": "🔐 Cybersecurity and Privacy"
     },
     {
       "id": "69f405fca82b02f404885814",
@@ -786,8 +786,8 @@
       "relevance_score": 0,
       "combined_score": 9,
       "is_ai_ml": false,
-      "cluster_id": 10,
-      "cluster_name": "Economic and Social Commentary"
+      "cluster_id": 9,
+      "cluster_name": "📰 News and Events"
     },
     {
       "id": "69f5028ebaa201280323e497",
@@ -800,25 +800,25 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 9,
-      "cluster_name": "Scientific Research and Innovations"
+      "cluster_id": 7,
+      "cluster_name": "🚀 Space and Technology"
     }
   ],
   "clusters": [
     {
       "id": 0,
-      "name": "Cybersecurity and Vulnerabilities",
-      "size": 14,
+      "name": "🔐 Cybersecurity and Privacy",
+      "size": 13,
       "sample_titles": [
+        "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
         "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-        "CopyFail was not disclosed to distro developers?",
-        "Your website is not for you"
+        "Rivian allows you to disable all internet connectivity"
       ]
     },
     {
       "id": 1,
-      "name": "Energy and Environmental Policy",
-      "size": 5,
+      "name": "⚛️ Energy and Environment",
+      "size": 6,
       "sample_titles": [
         "Belgium stops decommissioning nuclear power plants",
         "How an oil refinery works",
@@ -827,7 +827,7 @@
     },
     {
       "id": 2,
-      "name": "AI and Machine Learning",
+      "name": "🧠 AI and Machine Learning",
       "size": 5,
       "sample_titles": [
         "The Gay Jailbreak Technique",
@@ -837,27 +837,7 @@
     },
     {
       "id": 3,
-      "name": "Software Development and Tools",
-      "size": 5,
-      "sample_titles": [
-        "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-        "You can beat the binary search",
-        "Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file"
-      ]
-    },
-    {
-      "id": 4,
-      "name": "Privacy and Data Security",
-      "size": 5,
-      "sample_titles": [
-        "Rivian allows you to disable all internet connectivity",
-        "How Mark Klein told the EFF about Room 641A [book excerpt]",
-        "Spain's parliament will act against massive IP blockages by LaLiga"
-      ]
-    },
-    {
-      "id": 5,
-      "name": "Retro Computing and Emulation",
+      "name": "🕹️ Retro and Emulation",
       "size": 3,
       "sample_titles": [
         "I built a Game Boy emulator in F#",
@@ -866,18 +846,28 @@
       ]
     },
     {
-      "id": 6,
-      "name": "Digital Infrastructure and Networking",
-      "size": 4,
+      "id": 4,
+      "name": "🇪🇺 Digital Regulation and Policy",
+      "size": 3,
       "sample_titles": [
-        "Does Postgres Scale?",
-        "10Gb/s Ethernet: what I did to get it working in my home",
-        "Show HN: My Private GitHub on Postgres"
+        "Spain's parliament will act against massive IP blockages by LaLiga",
+        "An open letter asking NHS England to keep its code open",
+        "A statement about why RightsCon 2026 will not take place in Zambia"
       ]
     },
     {
-      "id": 7,
-      "name": "Cultural and Historical Discoveries",
+      "id": 5,
+      "name": "💾 Software Development and Tools",
+      "size": 9,
+      "sample_titles": [
+        "You can beat the binary search",
+        "Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file",
+        "Full-Text Search with DuckDB"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "📚 History and Culture",
       "size": 4,
       "sample_titles": [
         "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
@@ -886,33 +876,40 @@
       ]
     },
     {
-      "id": 8,
-      "name": "Consumer Technology and Gadgets",
-      "size": 4,
+      "id": 7,
+      "name": "🚀 Space and Technology",
+      "size": 2,
       "sample_titles": [
-        "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+        "10Gb/s Ethernet: what I did to get it working in my home",
+        "Artemis II Fault Tolerance"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "🎨 Art and Creativity",
+      "size": 2,
+      "sample_titles": [
         "New mechanical panoramic film camera from Jeff Bridges",
-        "Spotify adds 'Verified' badges to distinguish human artists from AI"
+        "Compositing and Blending – Exploring the math and intuition behind blend modes"
       ]
     },
     {
       "id": 9,
-      "name": "Scientific Research and Innovations",
-      "size": 4,
+      "name": "📰 News and Events",
+      "size": 8,
       "sample_titles": [
-        "New research suggests people can communicate and practice skills while dreaming",
-        "The Accidental Ancestor – How Verifying Numbers Shaped Modern Hashing",
-        "A Milestone in Formalization: The Sphere Packing Problem in Dimension 8"
+        "I aggregated 28 US Government auction sites into one search",
+        "The upsell game – Vercel upselling tactics revealed",
+        "Spotify adds 'Verified' badges to distinguish human artists from AI"
       ]
     },
     {
       "id": 10,
-      "name": "Economic and Social Commentary",
-      "size": 4,
+      "name": "🔬 Science and Research",
+      "size": 2,
       "sample_titles": [
-        "I aggregated 28 US Government auction sites into one search",
-        "The upsell game – Vercel upselling tactics revealed",
-        "A statement about why RightsCon 2026 will not take place in Zambia"
+        "New research suggests people can communicate and practice skills while dreaming",
+        "A Milestone in Formalization: The Sphere Packing Problem in Dimension 8"
       ]
     }
   ]
