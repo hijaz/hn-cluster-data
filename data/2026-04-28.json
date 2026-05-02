@@ -1,0 +1,64 @@
+{
+  "date": "2026-04-28",
+  "generated_at": "2026-05-02T18:17:12.393301+00:00",
+  "article_count": 3,
+  "cluster_count": 1,
+  "clustering_model": "gpt-4o",
+  "articles": [
+    {
+      "id": "69f13871630a5fac008afc1c",
+      "title": "Ghostty is leaving GitHub",
+      "url": "https://mitchellh.com/writing/ghostty-leaving-github",
+      "hn_score": 2446,
+      "comments": 1045,
+      "author": "WadeGrimridge",
+      "summary": "In a heartfelt letter, Ghostty announces his departure from GitHub after 18 years of dedicated use. He recalls how GitHub has been integral to his happiness, providing an outlet during challenging times and a platform for his projects. However, recent frustrations have surfaced as he experiences consistent outages and poor performance, leading him to feel that the platform no longer meets his professional needs.\n\nGhostty's relationship with GitHub has transformed from admiration to disappointment, highlighted by his public criticisms of the service. He documented numerous outages that affected his workflow, ultimately concluding that GitHub is failing to serve its users effectively. This decision marks a poignant moment for Ghostty, who once viewed GitHub as the epitome of his aspirations in the tech world.",
+      "relevance_score": 50,
+      "combined_score": 50,
+      "is_ai_ml": false,
+      "cluster_id": 0,
+      "cluster_name": "All Articles"
+    },
+    {
+      "id": "69f13871630a5fac008afc20",
+      "title": "VibeVoice: Open-source frontier voice AI",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "hn_score": 596,
+      "comments": 181,
+      "author": "tosh",
+      "summary": "VibeVoice is a groundbreaking open-source framework developed by Microsoft, designed to push the boundaries of voice AI with its incorporation of both Text-to-Speech (TTS) and Automatic Speech Recognition (ASR) models. Recently made available, the ASR model stands out by its ability to produce structured transcriptions that encompass essential elements like speaker identification, timestamps, and content—all while supporting over 50 languages and accommodating long-form audio lasting up to 60 minutes. Moreover, the framework's innovative use of continuous speech tokenizers enhances audio fidelity and computational efficiency, making it a valuable tool in the field of voice synthesis.\n\nAdditionally, VibeVoice facilitates collaborative efforts within the speech synthesis community, reaffirming Microsoft's commitment to responsible AI use by retracting certain features that conflicted with this principle. The TTS model is particularly noteworthy for its capability to synthesize speech with multiple speakers for durations reaching 90 minutes. With recent updates, the integration with Hugging Face's Transformers library allows for seamless implementation, showcasing VibeVoice's role as a vital resource for developers and researchers interested in advanced voice AI technologies.",
+      "relevance_score": 90,
+      "combined_score": 86,
+      "is_ai_ml": false,
+      "cluster_id": 0,
+      "cluster_name": "All Articles"
+    },
+    {
+      "id": "69f13871630a5fac008afc36",
+      "title": "A New Type of Neuroplasticity Rewires the Brain After a Single Experience",
+      "url": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
+      "hn_score": 24,
+      "comments": 1,
+      "author": "ibobev",
+      "summary": "The article discusses a groundbreaking discovery in neuroplasticity, highlighting a new mechanism known as behavioral timescale synaptic plasticity (BTSP) that enables the brain to learn and adapt over longer timescales. This process occurs in the hippocampus and allows for significant learning from just a single experience, with electrical changes in multiple neurons taking place over several seconds. This is a departure from the traditional view that learning required multiple experiences or stimuli.\n\nThe findings underscore the brain's remarkable plasticity throughout a person's life and challenge long-held beliefs about the static nature of the adult brain. As researchers continue to uncover the intricacies of BTSP, they move closer to a comprehensive understanding of how neuroplasticity contributes to memory formation and learning. The exploration of such mechanisms represents a pivotal frontier in neuroscience, with implications for enhancing our grasp of cognitive function and potential therapeutic applications.",
+      "relevance_score": 50,
+      "combined_score": 50,
+      "is_ai_ml": false,
+      "cluster_id": 0,
+      "cluster_name": "All Articles"
+    }
+  ],
+  "clusters": [
+    {
+      "id": 0,
+      "name": "All Articles",
+      "description": "",
+      "size": 3,
+      "sample_titles": [
+        "Ghostty is leaving GitHub",
+        "VibeVoice: Open-source frontier voice AI",
+        "A New Type of Neuroplasticity Rewires the Brain After a Single Experience"
+      ]
+    }
+  ]
+}

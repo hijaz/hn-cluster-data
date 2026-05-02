@@ -1,8 +1,8 @@
 {
   "date": "2026-04-29",
-  "generated_at": "2026-05-02T15:17:04.020338+00:00",
+  "generated_at": "2026-05-02T18:18:26.004742+00:00",
   "article_count": 29,
-  "cluster_count": 11,
+  "cluster_count": 10,
   "clustering_model": "gpt-4o",
   "articles": [
     {
@@ -17,7 +17,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "🔐 Open Source Platforms and Tools"
+      "cluster_name": "🔐 Open Source Platforms and Alternatives"
     },
     {
       "id": "69f2440f2ca183a27966cc88",
@@ -31,7 +31,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 1,
-      "cluster_name": "🦀 Rust Programming and Applications"
+      "cluster_name": "🦀 Rust and Software Development"
     },
     {
       "id": "69f2440f2ca183a27966cc89",
@@ -45,7 +45,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 2,
-      "cluster_name": "🤖 AI and Machine Learning"
+      "cluster_name": "🤖 AI and Machine Learning Applications"
     },
     {
       "id": "69f2440f2ca183a27966cc8a",
@@ -59,21 +59,21 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "🔐 Open Source Platforms and Tools"
+      "cluster_name": "🔐 Open Source Platforms and Alternatives"
     },
     {
       "id": "69f2440f2ca183a27966cc8b",
       "title": "Zed 1.0",
       "url": "https://zed.dev/blog/zed-1-0",
       "hn_score": 774,
-      "comments": 682,
+      "comments": 684,
       "author": "salkahfi",
       "summary": "The article introduces Zed 1.0, a powerful new code editor developed by Nathan Sobo and his team. Unlike its predecessor Atom, which was constrained by the limitations of web technology, Zed was built from scratch using a GPU-focused approach. This innovative design allows for improved performance and scalability, making Zed suitable for a wide range of programming tasks accustomed to today's developers. With over a million lines of code and support for numerous languages, Zed positions itself as a comprehensive solution that integrates AI features directly into its core functionality, rather than adding them as an afterthought.\n\nZed 1.0 also marks the launch of Zed for Business, catering to companies looking to manage their development teams effectively. This version signifies a tipping point in Zed's evolution, inviting both new and previous users to explore its robust capabilities. The development team underscores their commitment to continuously enhancing the editor and fostering collaboration among users, ensuring that Zed evolves in response to the needs and feedback of the developer community.",
       "relevance_score": 90,
       "combined_score": 86,
       "is_ai_ml": false,
-      "cluster_id": 4,
-      "cluster_name": "🖥️ Software Development and Performance"
+      "cluster_id": 6,
+      "cluster_name": "🖥️ Software Tools and Protocols"
     },
     {
       "id": "69f2440f2ca183a27966cc8c",
@@ -86,8 +86,8 @@
       "relevance_score": 90,
       "combined_score": 85.4,
       "is_ai_ml": false,
-      "cluster_id": 4,
-      "cluster_name": "🖥️ Software Development and Performance"
+      "cluster_id": 0,
+      "cluster_name": "🔐 Open Source Platforms and Alternatives"
     },
     {
       "id": "69f2440f2ca183a27966cc8d",
@@ -101,7 +101,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "🔐 Open Source Platforms and Tools"
+      "cluster_name": "🔐 Open Source Platforms and Alternatives"
     },
     {
       "id": "69f2440f2ca183a27966cc8e",
@@ -115,7 +115,7 @@
       "combined_score": 72,
       "is_ai_ml": false,
       "cluster_id": 3,
-      "cluster_name": "⚖️ Legal and Regulatory Developments"
+      "cluster_name": "🛡️ Digital Privacy and Security"
     },
     {
       "id": "69f2440f2ca183a27966cc8f",
@@ -128,8 +128,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 2,
-      "cluster_name": "🤖 AI and Machine Learning"
+      "cluster_id": 5,
+      "cluster_name": "🧠 AI Philosophy and Ethics"
     },
     {
       "id": "69f2440f2ca183a27966cc90",
@@ -143,7 +143,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 1,
-      "cluster_name": "🦀 Rust Programming and Applications"
+      "cluster_name": "🦀 Rust and Software Development"
     },
     {
       "id": "69f2440f2ca183a27966cc91",
@@ -157,7 +157,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 2,
-      "cluster_name": "🤖 AI and Machine Learning"
+      "cluster_name": "🤖 AI and Machine Learning Applications"
     },
     {
       "id": "69f2440f2ca183a27966cc92",
@@ -171,7 +171,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 2,
-      "cluster_name": "🤖 AI and Machine Learning"
+      "cluster_name": "🤖 AI and Machine Learning Applications"
     },
     {
       "id": "69f244102ca183a27966cc93",
@@ -184,7 +184,7 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 7,
+      "cluster_id": 8,
       "cluster_name": "🕹️ Retro Computing and History"
     },
     {
@@ -199,7 +199,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "🔐 Open Source Platforms and Tools"
+      "cluster_name": "🔐 Open Source Platforms and Alternatives"
     },
     {
       "id": "69f244102ca183a27966cc94",
@@ -212,8 +212,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 4,
-      "cluster_name": "🖥️ Software Development and Performance"
+      "cluster_id": 0,
+      "cluster_name": "🔐 Open Source Platforms and Alternatives"
     },
     {
       "id": "69f244102ca183a27966cc96",
@@ -226,7 +226,7 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 3,
+      "cluster_id": 4,
       "cluster_name": "⚖️ Legal and Regulatory Developments"
     },
     {
@@ -241,7 +241,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 1,
-      "cluster_name": "🦀 Rust Programming and Applications"
+      "cluster_name": "🦀 Rust and Software Development"
     },
     {
       "id": "69f244102ca183a27966cc98",
@@ -254,8 +254,8 @@
       "relevance_score": 30,
       "combined_score": 42,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "🩺 Healthcare and Medical Innovations"
+      "cluster_id": 7,
+      "cluster_name": "🏥 Healthcare and Medical Innovations"
     },
     {
       "id": "69f244102ca183a27966cc99",
@@ -268,8 +268,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 4,
-      "cluster_name": "🖥️ Software Development and Performance"
+      "cluster_id": 6,
+      "cluster_name": "🖥️ Software Tools and Protocols"
     },
     {
       "id": "69f244102ca183a27966cc9a",
@@ -282,8 +282,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "🩺 Healthcare and Medical Innovations"
+      "cluster_id": 7,
+      "cluster_name": "🏥 Healthcare and Medical Innovations"
     },
     {
       "id": "69f244102ca183a27966cc9b",
@@ -296,22 +296,22 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 6,
-      "cluster_name": "📚 Academic and Research Integrity"
+      "cluster_id": 4,
+      "cluster_name": "⚖️ Legal and Regulatory Developments"
     },
     {
       "id": "69f244102ca183a27966cc9c",
       "title": "The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness",
       "url": "https://deepmind.google/research/publications/231971/",
       "hn_score": 40,
-      "comments": 128,
+      "comments": 129,
       "author": "joshus",
       "summary": "The article 'The Abstraction Fallacy: Why AI Can Simulate But Not Instantiate Consciousness' critiques the prevailing notion of computational functionalism, which suggests that consciousness arises solely from abstract causal relationships. By introducing the term 'Abstraction Fallacy', the authors argue that this view misinterprets the relationship between physics and information, asserting that symbolic computation is merely a description reliant on cognitive agents. This argument signifies a shift away from seeking a comprehensive theory of consciousness, as it's deemed unnecessary for assessing potential AI sentience.\n\nTo advance this discussion, the authors propose a rigorous ontology of computation that clearly distinguishes between simulation, characterized by behavioral mimicry, and instantiation, which relates to a system's intrinsic physical structure. They contend that algorithmic manipulations cannot result in genuine experiences, placing importance on the system's physical makeup over its syntactic architecture. This perspective offers a grounded refutation of computational functionalism, elucidating the complexities of AI consciousness and providing clarity in an uncertain landscape.",
       "relevance_score": 90,
       "combined_score": 86,
       "is_ai_ml": false,
-      "cluster_id": 2,
-      "cluster_name": "🤖 AI and Machine Learning"
+      "cluster_id": 5,
+      "cluster_name": "🧠 AI Philosophy and Ethics"
     },
     {
       "id": "69f244102ca183a27966cc9d",
@@ -325,7 +325,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 2,
-      "cluster_name": "🤖 AI and Machine Learning"
+      "cluster_name": "🤖 AI and Machine Learning Applications"
     },
     {
       "id": "69f244102ca183a27966cc9e",
@@ -338,7 +338,7 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 7,
+      "cluster_id": 8,
       "cluster_name": "🕹️ Retro Computing and History"
     },
     {
@@ -352,21 +352,21 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 8,
-      "cluster_name": "🧪 Testing and Benchmarking"
+      "cluster_id": 6,
+      "cluster_name": "🖥️ Software Tools and Protocols"
     },
     {
       "id": "69f244102ca183a27966cca0",
       "title": "Maryland becomes first state to ban surveillance pricing in grocery stores",
       "url": "https://www.theguardian.com/technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing",
       "hn_score": 26,
-      "comments": 204,
+      "comments": 205,
       "author": "01-_-",
       "summary": "Maryland has made headlines by becoming the first state in the United States to outlaw surveillance pricing in grocery stores, a practice that involved rapidly altering prices based on consumers' personal data. The legislation, signed by Governor Wes Moore, aims to shield consumers from discriminatory pricing strategies where individuals pay varying amounts for the same items, depending on their demographics and behavior. Critics of surveillance pricing argue that it enables businesses to exploit customers by charging them the highest amount they can afford, raising significant ethical concerns, especially in the grocery sector essential for food accessibility.\n\nThe implications of this law extend beyond Maryland, as similar legislative efforts are being considered in states like Colorado, California, and New Jersey. The Federal Trade Commission has been investigating these pricing practices, raising alarms about their prevalence across various retail sectors. However, despite the positive step forward taken by Maryland, advocates voice caution regarding the potential loopholes in the new legislation, which may have been influenced by industry lobbying. They warn that without rigorous enforcement and complete protections, consumers may still face exploitation through other means, highlighting the ongoing need for vigilant oversight in retail pricing strategies.",
       "relevance_score": 49,
       "combined_score": 46.4,
       "is_ai_ml": false,
-      "cluster_id": 3,
+      "cluster_id": 4,
       "cluster_name": "⚖️ Legal and Regulatory Developments"
     },
     {
@@ -374,14 +374,14 @@
       "title": "Cursor Camp",
       "url": "https://neal.fun/cursor-camp/",
       "hn_score": 14,
-      "comments": 190,
+      "comments": 191,
       "author": "bpierre",
       "summary": "Cursor Camp is an innovative platform that invites users to explore and customize various cursors for their digital experiences. With an interactive interface, it provides a range of cursor options, allowing users to select and create personalized designs that reflect their unique styles. The focus on animation and aesthetics enhances the overall visual appeal, underscoring the significance of user interface elements in digital environments.\n\nBeyond just a customization tool, Cursor Camp fosters creativity and encourages users to engage with digital design concepts. Users can experiment with different designs and share feedback, contributing to the platform's evolution. This playful approach not only makes cursor customization fun but also promotes artistic expression in the digital realm, establishing Cursor Camp as an essential space for both learning and creativity.",
       "relevance_score": 65,
       "combined_score": 66.0,
       "is_ai_ml": false,
-      "cluster_id": 10,
-      "cluster_name": "🎨 Creative and Interactive Platforms"
+      "cluster_id": 0,
+      "cluster_name": "🔐 Open Source Platforms and Alternatives"
     },
     {
       "id": "69f244102ca183a27966cca2",
@@ -395,7 +395,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 9,
-      "cluster_name": "💼 Career and Job Opportunities"
+      "cluster_name": "💼 Career and Business Opportunities"
     },
     {
       "id": "69f244102ca183a27966cca3",
@@ -409,23 +409,25 @@
       "combined_score": 67,
       "is_ai_ml": false,
       "cluster_id": 9,
-      "cluster_name": "💼 Career and Job Opportunities"
+      "cluster_name": "💼 Career and Business Opportunities"
     }
   ],
   "clusters": [
     {
       "id": 0,
-      "name": "🔐 Open Source Platforms and Tools",
-      "size": 4,
+      "name": "🔐 Open Source Platforms and Alternatives",
+      "description": "Exploring the evolution and alternatives to popular open-source platforms like GitHub, including government initiatives and decentralized systems.",
+      "size": 7,
       "sample_titles": [
         "Before GitHub",
         "Soft launch of open-source code platform for government",
-        "We need a federation of forges"
+        "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU"
       ]
     },
     {
       "id": 1,
-      "name": "🦀 Rust Programming and Applications",
+      "name": "🦀 Rust and Software Development",
+      "description": "Articles focusing on Rust programming language, its applications, and challenges, including SQL engines and security audits.",
       "size": 3,
       "sample_titles": [
         "Bugs Rust won't catch",
@@ -435,37 +437,60 @@
     },
     {
       "id": 2,
-      "name": "🤖 AI and Machine Learning",
-      "size": 6,
+      "name": "🤖 AI and Machine Learning Applications",
+      "description": "Examining the use of AI in various fields, from play-testing games to enhancing remote agent applications and chatbots.",
+      "size": 4,
       "sample_titles": [
         "How ChatGPT serves ads",
-        "Why AI companies want you to be afraid of them",
-        "Mistral Medium 3.5"
+        "Mistral Medium 3.5",
+        "Letting AI play my game – building an agentic test harness to help play-testing"
       ]
     },
     {
       "id": 3,
-      "name": "⚖️ Legal and Regulatory Developments",
-      "size": 3,
+      "name": "🛡️ Digital Privacy and Security",
+      "description": "Discussions on privacy concerns, age verification, and the implications of surveillance in digital environments.",
+      "size": 1,
       "sample_titles": [
-        "Online age verification is the hill to die on",
-        "Court Rules 2nd Amendment Covers Firearms Parts Good News Those Who Build Guns",
-        "Maryland becomes first state to ban surveillance pricing in grocery stores"
+        "Online age verification is the hill to die on"
       ]
     },
     {
       "id": 4,
-      "name": "🖥️ Software Development and Performance",
-      "size": 4,
+      "name": "⚖️ Legal and Regulatory Developments",
+      "description": "Recent legal rulings and regulatory changes affecting technology and consumer rights, from firearm parts to grocery pricing.",
+      "size": 3,
       "sample_titles": [
-        "Zed 1.0",
-        "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
-        "Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained"
+        "Court Rules 2nd Amendment Covers Firearms Parts Good News Those Who Build Guns",
+        "Third Editor Fired in Elsevier's Citation Cartel Crackdown",
+        "Maryland becomes first state to ban surveillance pricing in grocery stores"
       ]
     },
     {
       "id": 5,
-      "name": "🩺 Healthcare and Medical Innovations",
+      "name": "🧠 AI Philosophy and Ethics",
+      "description": "Exploring philosophical and ethical questions surrounding AI, including consciousness and the impact of fear-driven narratives.",
+      "size": 2,
+      "sample_titles": [
+        "Why AI companies want you to be afraid of them",
+        "The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "🖥️ Software Tools and Protocols",
+      "description": "Innovations in software tools and communication protocols, including editors, reverse proxies, and benchmarks for LLMs.",
+      "size": 3,
+      "sample_titles": [
+        "Zed 1.0",
+        "FastCGI: 30 years old and still the better protocol for reverse proxies",
+        "Show HN: A new benchmark for testing LLMs for deterministic outputs"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "🏥 Healthcare and Medical Innovations",
+      "description": "Innovative approaches in healthcare, from affordable medical devices to improving ICU handovers with lessons from F1 teams.",
       "size": 2,
       "sample_titles": [
         "An open-source stethoscope that costs between $2.5 and $5 to produce",
@@ -473,16 +498,9 @@
       ]
     },
     {
-      "id": 6,
-      "name": "📚 Academic and Research Integrity",
-      "size": 1,
-      "sample_titles": [
-        "Third Editor Fired in Elsevier's Citation Cartel Crackdown"
-      ]
-    },
-    {
-      "id": 7,
+      "id": 8,
       "name": "🕹️ Retro Computing and History",
+      "description": "A look back at historical computing developments, including DOS transcriptions and early natural-language programs.",
       "size": 2,
       "sample_titles": [
         "GitHub – DOS 1.0: Transcription of Tim Paterson's DOS Printouts",
@@ -490,28 +508,13 @@
       ]
     },
     {
-      "id": 8,
-      "name": "🧪 Testing and Benchmarking",
-      "size": 1,
-      "sample_titles": [
-        "Show HN: A new benchmark for testing LLMs for deterministic outputs"
-      ]
-    },
-    {
       "id": 9,
-      "name": "💼 Career and Job Opportunities",
+      "name": "💼 Career and Business Opportunities",
+      "description": "Job opportunities and career insights in the tech industry, focusing on roles in customer success and executive search.",
       "size": 2,
       "sample_titles": [
         "How to Build the Future: Demis Hassabis [video]",
         "Stardex Is Hiring a Founding Customer Success Lead"
-      ]
-    },
-    {
-      "id": 10,
-      "name": "🎨 Creative and Interactive Platforms",
-      "size": 1,
-      "sample_titles": [
-        "Cursor Camp"
       ]
     }
   ]
