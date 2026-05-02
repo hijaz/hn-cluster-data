@@ -1,9 +1,9 @@
 {
   "date": "2026-04-29",
-  "generated_at": "2026-05-02T07:32:25.173058+00:00",
+  "generated_at": "2026-05-02T15:17:04.020338+00:00",
   "article_count": 29,
-  "cluster_count": 5,
-  "embedding_model": "text-embedding-3-small",
+  "cluster_count": 11,
+  "clustering_model": "gpt-4o",
   "articles": [
     {
       "id": "69f2440f2ca183a27966cc87",
@@ -16,26 +16,22 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -15.0705,
-      "y": -5.1272,
-      "cluster_id": 4,
-      "cluster_name": "Open Source Collaboration Initiatives"
+      "cluster_id": 0,
+      "cluster_name": "🔐 Open Source Platforms and Tools"
     },
     {
       "id": "69f2440f2ca183a27966cc88",
       "title": "Bugs Rust won't catch",
       "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
       "hn_score": 1078,
-      "comments": 368,
+      "comments": 369,
       "author": "lwhsiao",
       "summary": "In April 2026, Canonical revealed a total of 44 Common Vulnerabilities and Exposures (CVEs) in the Rust implementation of GNU coreutils, known as uutils. This discovery stemmed from an external audit that was commissioned in preparation for the 26.04 LTS release. Notably, despite the audit, many of these bugs were not identified by Rust's borrow checker, clippy linting, or cargo audit, raising important questions regarding the limits of Rust's safety guarantees.\n\nA significant cluster of these vulnerabilities arises from unsafe handling of syscalls when dealing with file paths, where attackers could exploit timing vulnerabilities between two syscalls. This article underscores the necessity of using secure methods when creating files in privileged applications, such as employing OpenOptions::create_new to prevent symlink attacks. The findings from the uutils audit serve as critical learning points for developers working with systems code in Rust, reinforcing that security cannot be taken for granted, even in a language designed for safety.",
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "x": -14.971,
-      "y": -9.0751,
-      "cluster_id": 2,
-      "cluster_name": "Software Development Challenges"
+      "cluster_id": 1,
+      "cluster_name": "🦀 Rust Programming and Applications"
     },
     {
       "id": "69f2440f2ca183a27966cc89",
@@ -48,10 +44,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 14.2393,
-      "y": -0.8106,
-      "cluster_id": 1,
-      "cluster_name": "AI Ethics and Implications"
+      "cluster_id": 2,
+      "cluster_name": "🤖 AI and Machine Learning"
     },
     {
       "id": "69f2440f2ca183a27966cc8a",
@@ -64,26 +58,22 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -14.8982,
-      "y": -6.0705,
-      "cluster_id": 4,
-      "cluster_name": "Open Source Collaboration Initiatives"
+      "cluster_id": 0,
+      "cluster_name": "🔐 Open Source Platforms and Tools"
     },
     {
       "id": "69f2440f2ca183a27966cc8b",
       "title": "Zed 1.0",
       "url": "https://zed.dev/blog/zed-1-0",
       "hn_score": 774,
-      "comments": 681,
+      "comments": 682,
       "author": "salkahfi",
       "summary": "The article introduces Zed 1.0, a powerful new code editor developed by Nathan Sobo and his team. Unlike its predecessor Atom, which was constrained by the limitations of web technology, Zed was built from scratch using a GPU-focused approach. This innovative design allows for improved performance and scalability, making Zed suitable for a wide range of programming tasks accustomed to today's developers. With over a million lines of code and support for numerous languages, Zed positions itself as a comprehensive solution that integrates AI features directly into its core functionality, rather than adding them as an afterthought.\n\nZed 1.0 also marks the launch of Zed for Business, catering to companies looking to manage their development teams effectively. This version signifies a tipping point in Zed's evolution, inviting both new and previous users to explore its robust capabilities. The development team underscores their commitment to continuously enhancing the editor and fostering collaboration among users, ensuring that Zed evolves in response to the needs and feedback of the developer community.",
       "relevance_score": 90,
       "combined_score": 86,
       "is_ai_ml": false,
-      "x": -7.2146,
-      "y": 9.0882,
       "cluster_id": 4,
-      "cluster_name": "Open Source Collaboration Initiatives"
+      "cluster_name": "🖥️ Software Development and Performance"
     },
     {
       "id": "69f2440f2ca183a27966cc8c",
@@ -96,26 +86,22 @@
       "relevance_score": 90,
       "combined_score": 85.4,
       "is_ai_ml": false,
-      "x": -1.8643,
-      "y": 15.2776,
-      "cluster_id": 3,
-      "cluster_name": "Innovations in Programming Tools"
+      "cluster_id": 4,
+      "cluster_name": "🖥️ Software Development and Performance"
     },
     {
       "id": "69f2440f2ca183a27966cc8d",
       "title": "We need a federation of forges",
       "url": "https://blog.tangled.org/federation/",
       "hn_score": 346,
-      "comments": 393,
+      "comments": 394,
       "author": "icy",
       "summary": "The article highlights the ongoing issues with GitHub as a centralized provider for open source software (OSS) projects, advocating for a shift towards decentralized systems. It emphasizes the importance of diversifying code collaboration tools to avoid the pitfalls associated with relying on a single platform. Tangled is introduced as a promising alternative that utilizes federated models for both code transfer and communication, allowing users to seamlessly collaborate across different servers.\n\nTangled aims to create a dynamic environment where developers can share and manage repositories without being constrained by a single structure. By integrating the AT protocol for event management and including social elements, Tangled not only enhances the technical aspects of collaboration but also makes it more engaging for users. This initiative represents a significant step towards fostering a more resilient and enjoyable open source ecosystem, emphasizing the need to escape the limitations of current dominant platforms.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -13.2611,
-      "y": -5.0808,
-      "cluster_id": 4,
-      "cluster_name": "Open Source Collaboration Initiatives"
+      "cluster_id": 0,
+      "cluster_name": "🔐 Open Source Platforms and Tools"
     },
     {
       "id": "69f2440f2ca183a27966cc8e",
@@ -128,10 +114,8 @@
       "relevance_score": 70,
       "combined_score": 72,
       "is_ai_ml": false,
-      "x": 7.2638,
-      "y": -19.2373,
-      "cluster_id": 2,
-      "cluster_name": "Software Development Challenges"
+      "cluster_id": 3,
+      "cluster_name": "⚖️ Legal and Regulatory Developments"
     },
     {
       "id": "69f2440f2ca183a27966cc8f",
@@ -144,10 +128,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 21.8072,
-      "y": -4.7076,
-      "cluster_id": 1,
-      "cluster_name": "AI Ethics and Implications"
+      "cluster_id": 2,
+      "cluster_name": "🤖 AI and Machine Learning"
     },
     {
       "id": "69f2440f2ca183a27966cc90",
@@ -160,10 +142,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "x": -12.2717,
-      "y": 11.1119,
-      "cluster_id": 3,
-      "cluster_name": "Innovations in Programming Tools"
+      "cluster_id": 1,
+      "cluster_name": "🦀 Rust Programming and Applications"
     },
     {
       "id": "69f2440f2ca183a27966cc91",
@@ -176,10 +156,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 10.4909,
-      "y": 11.2445,
-      "cluster_id": 0,
-      "cluster_name": "AI Model Developments"
+      "cluster_id": 2,
+      "cluster_name": "🤖 AI and Machine Learning"
     },
     {
       "id": "69f2440f2ca183a27966cc92",
@@ -192,10 +170,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 16.2747,
-      "y": 6.1439,
-      "cluster_id": 1,
-      "cluster_name": "AI Ethics and Implications"
+      "cluster_id": 2,
+      "cluster_name": "🤖 AI and Machine Learning"
     },
     {
       "id": "69f244102ca183a27966cc93",
@@ -208,10 +184,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "x": -17.3561,
-      "y": 6.0845,
-      "cluster_id": 4,
-      "cluster_name": "Open Source Collaboration Initiatives"
+      "cluster_id": 7,
+      "cluster_name": "🕹️ Retro Computing and History"
     },
     {
       "id": "69f244102ca183a27966cc95",
@@ -224,10 +198,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "x": -16.7754,
-      "y": 4.5098,
-      "cluster_id": 4,
-      "cluster_name": "Open Source Collaboration Initiatives"
+      "cluster_id": 0,
+      "cluster_name": "🔐 Open Source Platforms and Tools"
     },
     {
       "id": "69f244102ca183a27966cc94",
@@ -240,10 +212,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "x": -12.5251,
-      "y": 9.7257,
       "cluster_id": 4,
-      "cluster_name": "Open Source Collaboration Initiatives"
+      "cluster_name": "🖥️ Software Development and Performance"
     },
     {
       "id": "69f244102ca183a27966cc96",
@@ -256,10 +226,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 2.3305,
-      "y": -18.7852,
-      "cluster_id": 2,
-      "cluster_name": "Software Development Challenges"
+      "cluster_id": 3,
+      "cluster_name": "⚖️ Legal and Regulatory Developments"
     },
     {
       "id": "69f244102ca183a27966cc97",
@@ -272,10 +240,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "x": -3.901,
-      "y": -6.0848,
-      "cluster_id": 2,
-      "cluster_name": "Software Development Challenges"
+      "cluster_id": 1,
+      "cluster_name": "🦀 Rust Programming and Applications"
     },
     {
       "id": "69f244102ca183a27966cc98",
@@ -288,10 +254,8 @@
       "relevance_score": 30,
       "combined_score": 42,
       "is_ai_ml": false,
-      "x": -4.3262,
-      "y": -4.4019,
-      "cluster_id": 4,
-      "cluster_name": "Open Source Collaboration Initiatives"
+      "cluster_id": 5,
+      "cluster_name": "🩺 Healthcare and Medical Innovations"
     },
     {
       "id": "69f244102ca183a27966cc99",
@@ -304,10 +268,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -2.5277,
-      "y": -2.1151,
       "cluster_id": 4,
-      "cluster_name": "Open Source Collaboration Initiatives"
+      "cluster_name": "🖥️ Software Development and Performance"
     },
     {
       "id": "69f244102ca183a27966cc9a",
@@ -320,10 +282,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 4.2928,
-      "y": 0.5682,
-      "cluster_id": 1,
-      "cluster_name": "AI Ethics and Implications"
+      "cluster_id": 5,
+      "cluster_name": "🩺 Healthcare and Medical Innovations"
     },
     {
       "id": "69f244102ca183a27966cc9b",
@@ -336,10 +296,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -1.9202,
-      "y": -16.7995,
-      "cluster_id": 4,
-      "cluster_name": "Open Source Collaboration Initiatives"
+      "cluster_id": 6,
+      "cluster_name": "📚 Academic and Research Integrity"
     },
     {
       "id": "69f244102ca183a27966cc9c",
@@ -352,10 +310,8 @@
       "relevance_score": 90,
       "combined_score": 86,
       "is_ai_ml": false,
-      "x": 16.7148,
-      "y": 7.4279,
-      "cluster_id": 1,
-      "cluster_name": "AI Ethics and Implications"
+      "cluster_id": 2,
+      "cluster_name": "🤖 AI and Machine Learning"
     },
     {
       "id": "69f244102ca183a27966cc9d",
@@ -368,10 +324,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 21.598,
-      "y": -3.448,
-      "cluster_id": 1,
-      "cluster_name": "AI Ethics and Implications"
+      "cluster_id": 2,
+      "cluster_name": "🤖 AI and Machine Learning"
     },
     {
       "id": "69f244102ca183a27966cc9e",
@@ -384,26 +338,22 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 1.8736,
-      "y": 17.2714,
-      "cluster_id": 0,
-      "cluster_name": "AI Model Developments"
+      "cluster_id": 7,
+      "cluster_name": "🕹️ Retro Computing and History"
     },
     {
       "id": "69f244102ca183a27966cc9f",
       "title": "Show HN: A new benchmark for testing LLMs for deterministic outputs",
       "url": "https://interfaze.ai/blog/introducing-structured-output-benchmark",
       "hn_score": 32,
-      "comments": 27,
+      "comments": 28,
       "author": "khurdula",
       "summary": "The article introduces the Structured Output Benchmark (SOB), a new framework designed to evaluate the performance of large language models (LLMs) when generating structured data from various sources. Traditional benchmarks primarily focus on schema compliance, which can give an inflated sense of accuracy since they often ignore the correctness of the values produced. SOB aims to address these shortcomings by utilizing seven distinct metrics to assess models on their effectiveness in extraction capability, rather than simply their ability to generate valid JSON output.\n\nSOB evaluates LLMs across text, audio, and image modalities, providing a more comprehensive analysis of how well these models handle structured data. By employing a standardized scoring harness and verified ground truths, the benchmark aims to deliver transparent comparisons among LLMs, exposing genuine differences in performance. This new benchmark not only highlights the gaps in current evaluative methods but also emphasizes the significance of accurate output in workflows dependent on structured data, ultimately guiding improvements in model development.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -3.9629,
-      "y": 7.6932,
-      "cluster_id": 3,
-      "cluster_name": "Innovations in Programming Tools"
+      "cluster_id": 8,
+      "cluster_name": "🧪 Testing and Benchmarking"
     },
     {
       "id": "69f244102ca183a27966cca0",
@@ -416,42 +366,36 @@
       "relevance_score": 49,
       "combined_score": 46.4,
       "is_ai_ml": false,
-      "x": 3.0261,
-      "y": -16.8337,
-      "cluster_id": 1,
-      "cluster_name": "AI Ethics and Implications"
+      "cluster_id": 3,
+      "cluster_name": "⚖️ Legal and Regulatory Developments"
     },
     {
       "id": "69f244102ca183a27966cca1",
       "title": "Cursor Camp",
       "url": "https://neal.fun/cursor-camp/",
       "hn_score": 14,
-      "comments": 188,
+      "comments": 190,
       "author": "bpierre",
       "summary": "Cursor Camp is an innovative platform that invites users to explore and customize various cursors for their digital experiences. With an interactive interface, it provides a range of cursor options, allowing users to select and create personalized designs that reflect their unique styles. The focus on animation and aesthetics enhances the overall visual appeal, underscoring the significance of user interface elements in digital environments.\n\nBeyond just a customization tool, Cursor Camp fosters creativity and encourages users to engage with digital design concepts. Users can experiment with different designs and share feedback, contributing to the platform's evolution. This playful approach not only makes cursor customization fun but also promotes artistic expression in the digital realm, establishing Cursor Camp as an essential space for both learning and creativity.",
       "relevance_score": 65,
       "combined_score": 66.0,
       "is_ai_ml": false,
-      "x": 1.7254,
-      "y": -2.1964,
-      "cluster_id": 2,
-      "cluster_name": "Software Development Challenges"
+      "cluster_id": 10,
+      "cluster_name": "🎨 Creative and Interactive Platforms"
     },
     {
       "id": "69f244102ca183a27966cca2",
       "title": "How to Build the Future: Demis Hassabis [video]",
       "url": "https://www.youtube.com/watch?v=JNyuX1zoOgU",
       "hn_score": 9,
-      "comments": 71,
+      "comments": 72,
       "author": "sandslash",
       "summary": "In the video 'How to Build the Future,' Demis Hassabis, co-founder and CEO of DeepMind, discusses his extraordinary journey from being a young chess prodigy to becoming a significant figure in artificial intelligence. After obtaining a PhD in neuroscience, he launched DeepMind, which has made remarkable strides in AI, such as defeating the world champion in the game Go and developing AlphaFold, a tool that predicts protein structures and is freely available to the scientific community. These advancements have garnered recognition, culminating in Hassabis receiving the 2024 Nobel Prize for his contributions.\n\nHassabis shares insights on the ethical implications and responsibilities that come with AI development, advocating for research that prioritizes societal benefit. He believes that AI's potential is larger than that of previous industrial revolutions, emphasizing the need for innovative approaches to harness the technology for solving complex global challenges. With a focus on realizing artificial general intelligence (AGI), Hassabis highlights the transformative power of AI and its capacity to shape the future positively.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 18.4509,
-      "y": 7.7937,
-      "cluster_id": 1,
-      "cluster_name": "AI Ethics and Implications"
+      "cluster_id": 9,
+      "cluster_name": "💼 Career and Job Opportunities"
     },
     {
       "id": "69f244102ca183a27966cca3",
@@ -464,60 +408,110 @@
       "relevance_score": 70,
       "combined_score": 67,
       "is_ai_ml": false,
-      "x": 2.7582,
-      "y": 6.8332,
-      "cluster_id": 1,
-      "cluster_name": "AI Ethics and Implications"
+      "cluster_id": 9,
+      "cluster_name": "💼 Career and Job Opportunities"
     }
   ],
   "clusters": [
     {
       "id": 0,
-      "name": "AI Model Developments",
-      "size": 2,
+      "name": "🔐 Open Source Platforms and Tools",
+      "size": 4,
       "sample_titles": [
-        "Mistral Medium 3.5",
-        "Shrdlu"
+        "Before GitHub",
+        "Soft launch of open-source code platform for government",
+        "We need a federation of forges"
       ]
     },
     {
       "id": 1,
-      "name": "AI Ethics and Implications",
-      "size": 9,
+      "name": "🦀 Rust Programming and Applications",
+      "size": 3,
       "sample_titles": [
-        "How ChatGPT serves ads",
-        "Why AI companies want you to be afraid of them",
-        "Letting AI play my game – building an agentic test harness to help play-testing"
+        "Bugs Rust won't catch",
+        "Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",
+        "Show HN: Adblock-rust Manager – Firefox extension to enable the Brave ad blocker"
       ]
     },
     {
       "id": 2,
-      "name": "Software Development Challenges",
-      "size": 5,
+      "name": "🤖 AI and Machine Learning",
+      "size": 6,
       "sample_titles": [
-        "Bugs Rust won't catch",
-        "Online age verification is the hill to die on",
-        "Court Rules 2nd Amendment Covers Firearms Parts Good News Those Who Build Guns"
+        "How ChatGPT serves ads",
+        "Why AI companies want you to be afraid of them",
+        "Mistral Medium 3.5"
       ]
     },
     {
       "id": 3,
-      "name": "Innovations in Programming Tools",
+      "name": "⚖️ Legal and Regulatory Developments",
       "size": 3,
       "sample_titles": [
-        "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
-        "Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",
-        "Show HN: A new benchmark for testing LLMs for deterministic outputs"
+        "Online age verification is the hill to die on",
+        "Court Rules 2nd Amendment Covers Firearms Parts Good News Those Who Build Guns",
+        "Maryland becomes first state to ban surveillance pricing in grocery stores"
       ]
     },
     {
       "id": 4,
-      "name": "Open Source Collaboration Initiatives",
-      "size": 10,
+      "name": "🖥️ Software Development and Performance",
+      "size": 4,
       "sample_titles": [
-        "Before GitHub",
-        "Soft launch of open-source code platform for government",
-        "Zed 1.0"
+        "Zed 1.0",
+        "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
+        "Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "🩺 Healthcare and Medical Innovations",
+      "size": 2,
+      "sample_titles": [
+        "An open-source stethoscope that costs between $2.5 and $5 to produce",
+        "Improving ICU handovers by learning from Scuderia Ferrari F1 team"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "📚 Academic and Research Integrity",
+      "size": 1,
+      "sample_titles": [
+        "Third Editor Fired in Elsevier's Citation Cartel Crackdown"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "🕹️ Retro Computing and History",
+      "size": 2,
+      "sample_titles": [
+        "GitHub – DOS 1.0: Transcription of Tim Paterson's DOS Printouts",
+        "Shrdlu"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "🧪 Testing and Benchmarking",
+      "size": 1,
+      "sample_titles": [
+        "Show HN: A new benchmark for testing LLMs for deterministic outputs"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "💼 Career and Job Opportunities",
+      "size": 2,
+      "sample_titles": [
+        "How to Build the Future: Demis Hassabis [video]",
+        "Stardex Is Hiring a Founding Customer Success Lead"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "🎨 Creative and Interactive Platforms",
+      "size": 1,
+      "sample_titles": [
+        "Cursor Camp"
       ]
     }
   ]

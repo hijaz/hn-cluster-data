@@ -1,25 +1,23 @@
 {
   "date": "2026-04-28",
-  "generated_at": "2026-05-02T07:32:36.406737+00:00",
+  "generated_at": "2026-05-02T15:17:16.370032+00:00",
   "article_count": 3,
   "cluster_count": 1,
-  "embedding_model": "text-embedding-3-small",
+  "clustering_model": "gpt-4o",
   "articles": [
     {
       "id": "69f13871630a5fac008afc1c",
       "title": "Ghostty is leaving GitHub",
       "url": "https://mitchellh.com/writing/ghostty-leaving-github",
       "hn_score": 2446,
-      "comments": 1040,
+      "comments": 1045,
       "author": "WadeGrimridge",
       "summary": "In a heartfelt letter, Ghostty announces his departure from GitHub after 18 years of dedicated use. He recalls how GitHub has been integral to his happiness, providing an outlet during challenging times and a platform for his projects. However, recent frustrations have surfaced as he experiences consistent outages and poor performance, leading him to feel that the platform no longer meets his professional needs.\n\nGhostty's relationship with GitHub has transformed from admiration to disappointment, highlighted by his public criticisms of the service. He documented numerous outages that affected his workflow, ultimately concluding that GitHub is failing to serve its users effectively. This decision marks a poignant moment for Ghostty, who once viewed GitHub as the epitome of his aspirations in the tech world.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 0.0,
-      "y": 0.0,
       "cluster_id": 0,
-      "cluster_name": "Innovations in AI and Neuroscience"
+      "cluster_name": "All Articles"
     },
     {
       "id": "69f13871630a5fac008afc20",
@@ -32,10 +30,8 @@
       "relevance_score": 90,
       "combined_score": 86,
       "is_ai_ml": false,
-      "x": 0.0,
-      "y": 0.0,
       "cluster_id": 0,
-      "cluster_name": "Innovations in AI and Neuroscience"
+      "cluster_name": "All Articles"
     },
     {
       "id": "69f13871630a5fac008afc36",
@@ -48,16 +44,14 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 0.0,
-      "y": 0.0,
       "cluster_id": 0,
-      "cluster_name": "Innovations in AI and Neuroscience"
+      "cluster_name": "All Articles"
     }
   ],
   "clusters": [
     {
       "id": 0,
-      "name": "Innovations in AI and Neuroscience",
+      "name": "All Articles",
       "size": 3,
       "sample_titles": [
         "Ghostty is leaving GitHub",
