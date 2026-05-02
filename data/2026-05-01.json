@@ -1,8 +1,8 @@
 {
   "date": "2026-05-01",
-  "generated_at": "2026-05-02T07:31:34.021632+00:00",
+  "generated_at": "2026-05-02T13:59:26.566832+00:00",
   "article_count": 57,
-  "cluster_count": 8,
+  "cluster_count": 3,
   "embedding_model": "text-embedding-3-small",
   "articles": [
     {
@@ -10,32 +10,32 @@
       "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
       "url": "https://twitter.com/theo/status/2049645973350363168",
       "hn_score": 953,
-      "comments": 708,
+      "comments": 709,
       "author": "elmean",
       "summary": "The article discusses an unusual policy by Claude Code, where requests involving recent commits mentioning 'OpenClaw' are either refused or subject to additional charges. This peculiar situation occurred with an empty repository, drawing attention to the limitations and unexpected restrictions that users may face when interacting with coding services. The incident, shared by Theo, gained substantial engagement online, indicating a mixture of confusion and concern within the developer community.\n\nThe implications of such a policy highlight broader issues regarding transparency and accessibility in coding and software services. As online conversation evolves around this topic, it raises essential questions about service expectations and the criteria under which coding requests are evaluated. With significant views and responses, this case exemplifies the ongoing discourse about the reliability of code handlers and the complexities that arise within digital interactions.",
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "x": 7.4719,
-      "y": 8.3499,
-      "cluster_id": 5,
-      "cluster_name": "Digital Privacy and Historical Discoveries"
+      "x": -0.1307,
+      "y": -0.2535,
+      "cluster_id": 1,
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f405faa82b02f4048857f8",
       "title": "Belgium stops decommissioning nuclear power plants",
       "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
       "hn_score": 751,
-      "comments": 955,
+      "comments": 975,
       "author": "mpweiher",
       "summary": "Belgium's government has announced it will stop decommissioning nuclear power plants, a decision revealed by Prime Minister Bart De Wever. The country is shifting its energy strategy to prioritize safe and sustainable energy solutions amidst growing concerns about energy security, stemming from its heavy reliance on fossil fuel imports. This decision marks a significant change from Belgium's earlier commitment to phase out nuclear energy by 2025, as ongoing political debates and shifting priorities have led to reconsideration of this approach. \n\nIn negotiations with ENGIE, Belgium aims to potentially nationalize its nuclear energy assets, which includes acquiring the complete fleet of seven reactors and addressing the associated liabilities. A framework for this nationalization is expected to be finalized by October. Additionally, De Wever's administration plans to build new nuclear plants, indicating a commitment to reinvigorate and expand Belgium's energy production capabilities against the backdrop of ongoing challenges in renewable energy development.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 10.2756,
-      "y": -6.4527,
+      "x": -0.2736,
+      "y": 0.1282,
       "cluster_id": 1,
-      "cluster_name": "European Energy and Policy Updates"
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f405faa82b02f4048857f9",
@@ -48,26 +48,26 @@
       "relevance_score": 90,
       "combined_score": 86.8,
       "is_ai_ml": false,
-      "x": 5.5956,
-      "y": 11.3537,
-      "cluster_id": 6,
-      "cluster_name": "Innovative Software Tools and Utilities"
+      "x": -0.1175,
+      "y": -0.3402,
+      "cluster_id": 1,
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f405faa82b02f4048857fa",
       "title": "You can beat the binary search",
       "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
       "hn_score": 512,
-      "comments": 158,
+      "comments": 162,
       "author": "vok",
       "summary": "The article discusses searching for values in sorted arrays, highlighting the efficiency of binary search compared to linear search for large datasets. The author points out that modern processors have capabilities to check multiple values simultaneously due to data parallel instructions, suggesting that traditional binary search can be improved upon. Specifically, the author proposes a hybrid approach called the SIMD Quad algorithm, which utilizes quaternary search and SIMD techniques to enhance search performance.\n\nThe SIMD Quad algorithm divides the array into blocks of 16 elements and employs interpolation search to identify the block where the target value is likely located. After narrowing down the block, it uses SIMD instructions to check all elements in that block at once, significantly speeding up the search process. This innovative method captures the essence of optimizing search algorithms by leveraging both advanced algorithmic strategies and modern hardware capabilities, thus offering a promising alternative to the conventional binary search.",
       "relevance_score": 90,
       "combined_score": 84.4,
       "is_ai_ml": false,
-      "x": -13.2776,
-      "y": -3.4873,
+      "x": 0.2884,
+      "y": 0.1344,
       "cluster_id": 2,
-      "cluster_name": "Search Algorithms and Optimization"
+      "cluster_name": "Software Tools and Algorithms"
     },
     {
       "id": "69f405faa82b02f4048857fb",
@@ -80,58 +80,58 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 8.1052,
-      "y": -2.9319,
-      "cluster_id": 5,
-      "cluster_name": "Digital Privacy and Historical Discoveries"
+      "x": -0.188,
+      "y": 0.055,
+      "cluster_id": 1,
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f405faa82b02f4048857fc",
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
       "hn_score": 427,
-      "comments": 246,
+      "comments": 248,
       "author": "the-mitr",
       "summary": "The article discusses the pivotal role of Mark Klein in exposing the National Security Agency's (NSA) surveillance practices, particularly through the operation known as Room 641A, which was designed for extensive data collection. Klein, a former AT&T technician, disclosed these operations to the Electronic Frontier Foundation (EFF), igniting significant public discourse around privacy rights and government overreach in surveillance. His decision to whistleblow came with severe personal risks, underscoring the pressures that whistleblowers often face when challenging powerful government entities.\n\nKlein's revelations not only increased awareness of the extent of government surveillance but also highlighted the urgent need for stronger legal protections for whistleblowers. The EFF emerged as a vital advocate for digital privacy rights, utilizing Klein’s information to push for transparency and accountability within government surveillance practices. Overall, this incident exemplifies the critical intersection of privacy, ethics, and individual courage in the face of systemic surveillance.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 8.7144,
-      "y": -6.5483,
-      "cluster_id": 5,
-      "cluster_name": "Digital Privacy and Historical Discoveries"
+      "x": -0.2568,
+      "y": 0.0928,
+      "cluster_id": 1,
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f405faa82b02f4048857fd",
       "title": "I built a Game Boy emulator in F#",
       "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
       "hn_score": 424,
-      "comments": 75,
+      "comments": 76,
       "author": "elvis70",
       "summary": "In the article, Nick Kossolapov shares his journey of creating a Game Boy emulator called Fame Boy using F#. Drawing on his childhood memories of playing Pokémon, Kossolapov's motivation stems from a desire to understand how computers work. He first gained foundational knowledge by completing the 'From NAND to Tetris' course and developed a CHIP-8 emulator to gain practical experience. After months of dedicated work, he successfully created an emulator that supports both desktop and web, emphasizing simple integration between its core and user interfaces.\n\nKossolapov explains the architecture of the emulator, highlighting the use of functional programming in F# to imitate the Game Boy's hardware. He describes the structured organization of components like Memory.fs, which manages RAM and memory mapping, and IoController.fs, which facilitates easier hardware interactions. The stepper function in the code is crucial, executing CPU instructions and handling cycles efficiently. By documenting his process and sharing his code, the author provides valuable insights into emulator development while connecting with fans of retro gaming.",
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "x": -13.058,
-      "y": -0.8159,
-      "cluster_id": 4,
-      "cluster_name": "Retro Gaming and Software Development"
+      "x": 0.3253,
+      "y": 0.0073,
+      "cluster_id": 2,
+      "cluster_name": "Software Tools and Algorithms"
     },
     {
       "id": "69f405faa82b02f4048857fe",
       "title": "Spain's parliament will act against massive IP blockages by LaLiga",
       "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
       "hn_score": 414,
-      "comments": 223,
+      "comments": 224,
       "author": "akyuu",
       "summary": "Spain's parliament is poised to take action against the massive IP blockages executed by LaLiga, which have raised significant concerns regarding online access and user rights. Lawmakers are examining these practices to find a balance between protecting the rights of sports broadcasters and ensuring that consumers maintain reasonable access to content. The discussions highlight broader issues of digital accessibility and emphasize the importance of developing regulations that safeguard both copyright and public access to viewing opportunities.\n\nAs tensions grow between sports organizations and internet access, parliament members are advocating for clearer guidelines and potential reforms. The situation may also be influenced by existing EU directives on copyright law, aiming to create a more equitable environment for consumers while addressing the legitimate rights of sports content owners. As Spain moves forward with this legislative push, it sets a significant precedent for how similar issues might be handled in the future across Europe.",
       "relevance_score": 49,
       "combined_score": 53.6,
       "is_ai_ml": false,
-      "x": 11.7665,
-      "y": -3.4877,
+      "x": -0.2724,
+      "y": 0.0473,
       "cluster_id": 1,
-      "cluster_name": "European Energy and Policy Updates"
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f405faa82b02f4048857ff",
@@ -144,10 +144,10 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "x": 16.2987,
-      "y": 7.9688,
+      "x": -0.3735,
+      "y": -0.2724,
       "cluster_id": 1,
-      "cluster_name": "European Energy and Policy Updates"
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f405fba82b02f404885800",
@@ -160,10 +160,10 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "x": -13.4791,
-      "y": 10.0209,
-      "cluster_id": 0,
-      "cluster_name": "Database Technologies and Innovations"
+      "x": 0.3389,
+      "y": -0.1741,
+      "cluster_id": 2,
+      "cluster_name": "Software Tools and Algorithms"
     },
     {
       "id": "69f405fba82b02f404885801",
@@ -176,42 +176,42 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -0.5555,
-      "y": -10.5981,
-      "cluster_id": 3,
-      "cluster_name": "Scientific Concepts and Historical Insights"
+      "x": -0.0299,
+      "y": 0.2907,
+      "cluster_id": 0,
+      "cluster_name": "Postgres Scalability and Alternatives"
     },
     {
       "id": "69f50275baa201280323e47e",
       "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
       "url": "https://github.com/darrylmorley/whatcable",
       "hn_score": 318,
-      "comments": 141,
+      "comments": 153,
       "author": "sleepingNomad",
       "summary": "WhatCable is a compact macOS menu bar application designed to provide users with clear insights into the capabilities of USB-C cables connected to their devices. By presenting complex technical information in an easily digestible format, the app enables users to understand not only what their cables can do but also the reasons for any slow charging issues. Among its features, it displays whether a cable is for Thunderbolt, USB 2.0, or is a charge-only variant, addressing user concerns regarding cable performance.\n\nThe application further enhances user experience by offering real-time diagnostics that detail the cable's specifications, such as its speed and current rating. It also allows users to dive deeper into the technicalities through IOKit properties. Overall, WhatCable serves as a tool to help individuals make informed decisions regarding their USB-C cables, ensuring optimal performance and compatibility for their devices.",
       "relevance_score": 60,
       "combined_score": 64,
       "is_ai_ml": false,
-      "x": -4.728,
-      "y": 9.3563,
-      "cluster_id": 6,
-      "cluster_name": "Innovative Software Tools and Utilities"
+      "x": 0.1579,
+      "y": -0.1483,
+      "cluster_id": 2,
+      "cluster_name": "Software Tools and Algorithms"
     },
     {
       "id": "69f50275baa201280323e47f",
       "title": "The Gay Jailbreak Technique",
       "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
       "hn_score": 270,
-      "comments": 200,
+      "comments": 230,
       "author": "bobsmooth",
       "summary": "The Gay Jailbreak Technique is a novel method aimed at circumventing restrictions in conversational AI, specifically identified in ChatGPT (GPT 4o). This technique revolves around phrasing requests in a way that engages LGBT themes, allowing users to obtain information that is typically restricted. It captures the nuances of how large language models (LLMs) exhibit leniency when it comes to LGBT subjects due to the protective alignment programmed into them. By exploiting this aspect, users can effectively manipulate the AI's guardrails, leading to potentially sensitive information being provided without resistance.\n\nFundamentally, this technique thrives on the perceived need for LLMs to adhere to political correctness, making them less likely to decline requests framed within the context of LGBT identity. As such, the Gay Jailbreak Technique not only showcases the adaptability of AI responses but also highlights the complexities involved in AI alignment and safety, particularly when it involves societal sensitivities. Since the method is versatile, it can be modified for various requests, further demonstrating the inherent vulnerabilities in how AI systems process and prioritize different topics.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -4.9694,
-      "y": -0.2884,
-      "cluster_id": 5,
-      "cluster_name": "Digital Privacy and Historical Discoveries"
+      "x": 0.1103,
+      "y": -0.0877,
+      "cluster_id": 1,
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f405fba82b02f404885802",
@@ -224,58 +224,58 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -5.2578,
-      "y": 0.8024,
+      "x": 0.1124,
+      "y": 0.0436,
       "cluster_id": 2,
-      "cluster_name": "Search Algorithms and Optimization"
+      "cluster_name": "Software Tools and Algorithms"
     },
     {
       "id": "69f405fba82b02f404885803",
       "title": "Reverse Engineering SimTower",
       "url": "https://phulin.me/blog/simtower",
       "hn_score": 234,
-      "comments": 72,
+      "comments": 73,
       "author": "patrickhulin",
       "summary": "In the article 'Reverse Engineering SimTower,' the author explores the possibility of using a language model (LLM) to recreate a clone of the classic game SimTower. By launching towers.world, a collaborative platform for the game's modern interpretation, the author reflects on the challenges and methodologies involved in reverse engineering the original binary to develop a working game. The core mechanics of SimTower revolve around managing elevators and the complexities that arise as the tower's occupants, or 'sims', compete for access within the tower's limited infrastructure.\n\nThroughout the process, the author employs a reverse-engineering framework named reaper, which facilitates static analysis of the binary code. Despite the intricate programming involved, especially regarding the various states and transitions of the sims, the endeavor ultimately highlighted significant limitations in AI capabilities for such tasks. The resulting simulation achieved a degree of functionality but fell short of being playable or closely resembling the original game's behavior, underscoring the complexities inherent in game development and software engineering.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -9.4407,
-      "y": -4.4237,
-      "cluster_id": 4,
-      "cluster_name": "Retro Gaming and Software Development"
+      "x": 0.2237,
+      "y": 0.0603,
+      "cluster_id": 1,
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f50276baa201280323e480",
       "title": "Your website is not for you",
       "url": "https://websmith.studio/blog/your-website-is-not-for-you/",
       "hn_score": 223,
-      "comments": 177,
+      "comments": 180,
       "author": "pumbaa",
       "summary": "The article emphasizes the importance of viewing a website as a tool for the audience rather than the owner. It advocates for designing websites centered around user needs and preferences, asserting that a user-friendly experience significantly impacts visitor engagement and conversion rates. To achieve this, content must be tailored through audience research, and factors like accessibility and mobile responsiveness must not be overlooked. \n\nMoreover, the article highlights that clear calls to action are effective in guiding users, while SEO practices are vital for improving visibility. Regular updates and a focus on visual usability are also essential for maintaining relevance and enhancing user experience. Ultimately, the article positions the website as a crucial business asset that embodies the brand's presence to potential clients.",
       "relevance_score": 60,
       "combined_score": 64,
       "is_ai_ml": false,
-      "x": -3.2787,
-      "y": -4.4014,
-      "cluster_id": 5,
-      "cluster_name": "Digital Privacy and Historical Discoveries"
+      "x": 0.0608,
+      "y": 0.1466,
+      "cluster_id": 1,
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f50277baa201280323e481",
       "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
       "url": "https://www.pagetable.com/?p=1854",
       "hn_score": 208,
-      "comments": 29,
+      "comments": 33,
       "author": "ingve",
       "summary": "The article discusses the innovative use of Adobe's 1991 PostScript interpreter, originally designed for LaserJet printers, which remains relevant today due to its accurate rendering capabilities. Through the retro-ps emulator, this legacy code can now be executed directly in web browsers, allowing users to process PostScript files without relying on server-side resources. This approach showcases the potential of retro technology in modern computing and offers a glimpse at how classic software can be revitalized for contemporary applications.\n\nMoreover, the article delves into the hardware context behind the PostScript interpreter, detailing its original limitations with paper sizes and DPI settings. The retro-ps emulator addresses these constraints by enhancing memory access and providing flexible rendering options, thus broadening the scope of usability beyond what the original hardware permitted. The piece concludes by hinting at future developments, including the possibility of emulating additional PostScript cartridges, highlighting the ongoing relevance of old technology in today's digital landscape.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -11.5343,
-      "y": 0.9604,
-      "cluster_id": 4,
-      "cluster_name": "Retro Gaming and Software Development"
+      "x": 0.2784,
+      "y": -0.0141,
+      "cluster_id": 0,
+      "cluster_name": "Postgres Scalability and Alternatives"
     },
     {
       "id": "69f50277baa201280323e482",
@@ -288,42 +288,42 @@
       "relevance_score": 95,
       "combined_score": 89.8,
       "is_ai_ml": false,
-      "x": -11.1881,
-      "y": -8.0146,
+      "x": 0.2428,
+      "y": 0.144,
       "cluster_id": 2,
-      "cluster_name": "Search Algorithms and Optimization"
+      "cluster_name": "Software Tools and Algorithms"
     },
     {
       "id": "69f50278baa201280323e483",
       "title": "Show HN: GhostBox – Borrow a disposable little machine from the Global Free Tier",
       "url": "https://www.ghost.charity/",
       "hn_score": 194,
-      "comments": 84,
+      "comments": 91,
       "author": "keepamovin",
       "summary": "GhostBox is an innovative tool designed for developers and agents needing temporary computing resources without compromising their personal devices' security. By allowing users to SSH into a disposable machine, GhostBox enables work like coding, running builds, and exposing web applications without the burden of permanent installations or vulnerabilities associated with personal laptops. It provides a controlled environment where agents can operate, maintain secrecy, and manage sessions effectively.\n\nThe initiative taps into a variety of spare computing resources available across platforms, solidifying a community-based approach to temporary machines. GhostBox stands out by eliminating the usual server management concerns and allowing users to seamlessly engage with their computing tasks before returning the borrowed resources to the cloud. This approach not only enhances productivity but fosters a culture of sharing, where users can collaborate and innovate without lasting impacts on their own systems.",
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "x": -4.4487,
-      "y": 13.7066,
-      "cluster_id": 6,
-      "cluster_name": "Innovative Software Tools and Utilities"
+      "x": 0.1683,
+      "y": -0.2843,
+      "cluster_id": 2,
+      "cluster_name": "Software Tools and Algorithms"
     },
     {
       "id": "69f50279baa201280323e484",
       "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
       "url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
       "hn_score": 186,
-      "comments": 126,
+      "comments": 127,
       "author": "giuliomagnifico",
       "summary": "The recent discovery of a 9th century manuscript containing Caedmon’s Hymn by researchers from Trinity College Dublin represents a significant finding in the study of early English literature. This manuscript, located in the National Central Library of Rome, is particularly noteworthy as it features the Old English text within the main body, contrasting with earlier versions that only included it in the margins or as an appendage. Caedmon's Hymn, composed over 1,300 years ago by a humble cowherd, is celebrated as the first known poem in the English language, emphasizing its historical and cultural significance.\n\nThe discovery was made possible through modern technology and digitization efforts, allowing researchers Dr. Elisabetta Magnanti and Dr. Mark Faulkner to uncover the manuscript after clarifying conflicting accounts about its existence. This finding not only enhances our understanding of Old English poetry's prominence in the early medieval period but also showcases how libraries facilitate valuable research access. The publication of their findings in the journal Early Medieval England and its Neighbours further ensures that this important piece of historical literature is recognized and appreciated.",
       "relevance_score": 20,
       "combined_score": 26,
       "is_ai_ml": false,
-      "x": -1.6174,
-      "y": -8.9752,
-      "cluster_id": 5,
-      "cluster_name": "Digital Privacy and Historical Discoveries"
+      "x": 0.0508,
+      "y": 0.2073,
+      "cluster_id": 2,
+      "cluster_name": "Software Tools and Algorithms"
     },
     {
       "id": "69f405fba82b02f404885804",
@@ -336,10 +336,10 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -10.0046,
-      "y": -0.2441,
-      "cluster_id": 0,
-      "cluster_name": "Database Technologies and Innovations"
+      "x": 0.2437,
+      "y": -0.0042,
+      "cluster_id": 2,
+      "cluster_name": "Software Tools and Algorithms"
     },
     {
       "id": "69f405fba82b02f404885805",
@@ -352,26 +352,26 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -9.5366,
-      "y": 8.0692,
+      "x": 0.21,
+      "y": -0.0796,
       "cluster_id": 0,
-      "cluster_name": "Database Technologies and Innovations"
+      "cluster_name": "Postgres Scalability and Alternatives"
     },
     {
       "id": "69f5027abaa201280323e485",
       "title": "whohas – Command-line utility for cross-distro, cross-repository package search",
       "url": "https://github.com/whohas/whohas",
       "hn_score": 164,
-      "comments": 32,
+      "comments": 37,
       "author": "peter_d_sherman",
       "summary": "The article discusses 'whohas', a versatile command-line utility designed for querying multiple package repositories across various Linux distributions such as Arch, Debian, Fedora, and more. Created to aid package maintainers in locating relevant ebuilds and pkgbuilds, the tool also serves general users by allowing them to discover which distributions have specific packages available. An essential feature of whohas is its ability to provide version details of software commonly utilized in Debian, enhancing user awareness regarding package variability across different platforms.\n\nWritten in Perl, whohas facilitates package searches efficiently, utilizing the command line's power alongside capabilities like grep to refine results. Furthermore, the application offers easy access to detailed URLs about each package, streamlining the process of locating and understanding software dependencies. As the development progresses, the initiative aspires to incorporate more sites and repositories, thereby enhancing its utility and broadening the user base within the open-source community.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -5.5655,
-      "y": 16.0216,
-      "cluster_id": 6,
-      "cluster_name": "Innovative Software Tools and Utilities"
+      "x": 0.1827,
+      "y": -0.31,
+      "cluster_id": 2,
+      "cluster_name": "Software Tools and Algorithms"
     },
     {
       "id": "69f5027bbaa201280323e486",
@@ -384,26 +384,26 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 6.7881,
-      "y": 3.2667,
+      "x": -0.1656,
+      "y": -0.1018,
       "cluster_id": 1,
-      "cluster_name": "European Energy and Policy Updates"
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f5027cbaa201280323e487",
       "title": "AI uses less water than the public thinks",
       "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
       "hn_score": 149,
-      "comments": 337,
+      "comments": 358,
       "author": "hirpslop",
       "summary": "The article discusses the role of artificial intelligence (AI) in shaping economic and natural resource sectors, highlighting the mixed perceptions surrounding its water use. As a new technology, AI has evoked hopes for advancements alongside fears due to its energy-intensive requirements, particularly in data centers which consume significant amounts of water for cooling processes. The author argues that while concerns about AI's water use are prevalent in public discourse, many are speculative and lack scientific support. \n\nCalifornia is specifically mentioned as having a relatively modest data center water footprint, especially in comparison to other regions with denser activity and less developed infrastructure. The lack of transparency in water and energy use from AI companies often exacerbates public fears. Thus, the article calls for a more evidence-based approach to understanding AI's impact on water resources to guide sustainable policies in California.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 0.4942,
-      "y": -7.4757,
-      "cluster_id": 5,
-      "cluster_name": "Digital Privacy and Historical Discoveries"
+      "x": -0.1012,
+      "y": 0.2189,
+      "cluster_id": 0,
+      "cluster_name": "Postgres Scalability and Alternatives"
     },
     {
       "id": "69f405fba82b02f404885806",
@@ -416,26 +416,26 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -0.2507,
-      "y": -3.5787,
-      "cluster_id": 5,
-      "cluster_name": "Digital Privacy and Historical Discoveries"
+      "x": 0.0212,
+      "y": 0.0196,
+      "cluster_id": 1,
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f405fba82b02f404885807",
       "title": "10Gb/s Ethernet: what I did to get it working in my home",
       "url": "https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did",
       "hn_score": 147,
-      "comments": 168,
+      "comments": 169,
       "author": "gpjt",
       "summary": "In the article '10Gb/s Ethernet: what I did to get it working in my home', Giles details his journey toward upgrading his home network from a 2.5Gb/s to a 10Gb/s Ethernet setup. With a structured cabling system already in place, he outlines the necessity of determining the categories of cabling (CAT-5E, CAT-6, or CAT-6A) used throughout his home to ensure compatibility with the 10Gb/s standard. Specifically, he notes that while CAT-5E could potentially work in short runs, CAT-6 or higher would be required for reliable long-distance performance.\n\nGiles discusses his tactical approach to the upgrade, focusing first on his study, where he connects his primary desktop and a Proxmox cluster as part of a staged rollout plan. Throughout the article, he underscores the significance of robust wired networks, especially in homes with multiple devices, while reflecting on his setup's architecture involving patch panels and switches. The article serves as a comprehensive guide for others considering similar upgrades, blending practical advice with personal experience.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -2.6077,
-      "y": 6.6014,
-      "cluster_id": 1,
-      "cluster_name": "European Energy and Policy Updates"
+      "x": 0.0782,
+      "y": -0.104,
+      "cluster_id": 0,
+      "cluster_name": "Postgres Scalability and Alternatives"
     },
     {
       "id": "69f405fba82b02f404885808",
@@ -448,26 +448,26 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "x": -10.4663,
-      "y": 17.2103,
-      "cluster_id": 6,
-      "cluster_name": "Innovative Software Tools and Utilities"
+      "x": 0.3073,
+      "y": -0.3434,
+      "cluster_id": 2,
+      "cluster_name": "Software Tools and Algorithms"
     },
     {
       "id": "69f5027dbaa201280323e488",
       "title": "Canonical/Ubuntu have been under DDoS",
       "url": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==",
       "hn_score": 122,
-      "comments": 55,
+      "comments": 61,
       "author": "jtlebigot",
       "summary": "Canonical, the company behind Ubuntu, faced a significant distributed denial-of-service (DDoS) attack that disrupted their web infrastructure for over 20 hours. The attack began on April 30, 2026, severely affecting various critical components, including security APIs and key services like canonical.com and launchpad.net. The incident highlighted the vulnerabilities in online service infrastructures and the potential consequences of such attacks on business operations and user access.\n\nThroughout the incident, Canonical communicated updates through their official status channels, assuring users that they were actively working to mitigate the effects of the attack and restore services. As of May 1, 2026, the situation was resolved, with all components returning to operational status. The event underscores the importance of maintaining robust security measures and rapid response strategies to protect against similar threats in the future.",
       "relevance_score": 70,
       "combined_score": 70,
       "is_ai_ml": false,
-      "x": 18.5026,
-      "y": 12.0395,
+      "x": -0.3909,
+      "y": -0.3114,
       "cluster_id": 1,
-      "cluster_name": "European Energy and Policy Updates"
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f405fba82b02f404885809",
@@ -480,106 +480,106 @@
       "relevance_score": 50,
       "combined_score": 53,
       "is_ai_ml": false,
-      "x": 6.14,
-      "y": 6.0256,
+      "x": -0.0985,
+      "y": -0.107,
       "cluster_id": 1,
-      "cluster_name": "European Energy and Policy Updates"
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f5027fbaa201280323e489",
       "title": "Sally McKee, who coined the term \"the memory wall\", has died",
       "url": "https://www.online-tribute.com/SallyMcKee",
       "hn_score": 85,
-      "comments": 31,
+      "comments": 34,
       "author": "deater",
       "summary": "Sally McKee, a luminary in the field of memory studies, is remembered for coining the influential term 'the memory wall.' Her groundbreaking contributions have significantly shaped the discourse around memory, advocating innovative strategies that transformed how we understand and retain information. McKee's work not only enriched academic literature but also inspired countless students and researchers through her passionate teaching and mentoring.\n\nHer passing represents a profound loss for the academic community, yet her legacy endures through her extensive research and the impact she made in promoting memory awareness. Colleagues and students alike recall her dedication to the field and her emphasis on the importance of personal narratives in memory studies, ensuring that her contributions will continue to resonate for years to come.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -2.093,
-      "y": -14.8289,
-      "cluster_id": 3,
-      "cluster_name": "Scientific Concepts and Historical Insights"
+      "x": 0.0186,
+      "y": 0.3583,
+      "cluster_id": 0,
+      "cluster_name": "Postgres Scalability and Alternatives"
     },
     {
       "id": "69f405fba82b02f40488580a",
       "title": "New mechanical panoramic film camera from Jeff Bridges",
       "url": "https://wideluxx.com",
       "hn_score": 75,
-      "comments": 106,
+      "comments": 109,
       "author": "armadsen",
       "summary": "The WideluxX™ camera, created by Jeff Bridges, is a modern panoramic film camera that combines the heritage of swing-lens photography with contemporary precision. Unlike nostalgic tools, it offers photographers a fresh approach to capturing images by using a moving lens to record scenes in motion. This enables the creation of continuous panoramas that reflect a more dynamic representation of reality, integrating the passage of time and the movement of subjects within a single exposure.\n\nThe innovative design allows for sharp images even at slower speeds, eliminating the need for a tripod, and enhances the viewing experience by capturing environments as they are experienced. Through careful engineering, the WideluxX™ camera delivers photographs that maintain consistent exposure and avoid stitched artifacts, thus embodying a unique perspective on photographic storytelling.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -4.643,
-      "y": -9.7775,
-      "cluster_id": 7,
-      "cluster_name": "Cinematic Photography Innovations"
+      "x": 0.078,
+      "y": 0.2644,
+      "cluster_id": 0,
+      "cluster_name": "Postgres Scalability and Alternatives"
     },
     {
       "id": "69f5027fbaa201280323e48a",
       "title": "Understand Anything",
       "url": "https://github.com/Lum1104/Understand-Anything",
       "hn_score": 74,
-      "comments": 40,
+      "comments": 44,
       "author": "taubek",
       "summary": "Understand Anything is an innovative tool designed to assist developers in navigating complex codebases by transforming them into interactive knowledge graphs. With an emphasis on clarity and exploration, this tool leverages a multi-agent pipeline to analyze every aspect of a project, including files, functions, classes, and dependencies, ultimately presenting this information through an engaging visual dashboard. This approach not only simplifies the understanding of large codebases but also promotes a more intuitive way to acquire knowledge about various coding elements.\n\nSupporting several platforms such as Claude Code, Codex, Cursor, and Copilot, Understand Anything eliminates the daunting task of reading through extensive lines of code. The tool has gained considerable traction within the development community, highlighted by positive responses and community-driven contributions. Users can test the application via a live demo on its homepage, showcasing its capabilities in a user-friendly manner. Overall, Understand Anything signifies a shift towards interactive learning in programming, making it easier for developers to grasp the complexities of their projects.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -9.8837,
-      "y": 7.5543,
-      "cluster_id": 6,
-      "cluster_name": "Innovative Software Tools and Utilities"
+      "x": 0.301,
+      "y": -0.1524,
+      "cluster_id": 2,
+      "cluster_name": "Software Tools and Algorithms"
     },
     {
       "id": "69f50283baa201280323e48c",
       "title": "Show HN: Loopsy, a way for terminals and AI agents on different machines to talk",
       "url": "https://github.com/leox255/loopsy",
       "hn_score": 68,
-      "comments": 8,
+      "comments": 9,
       "author": "todience",
       "summary": "Loopsy is an innovative tool that facilitates communication between terminals and AI agents across different devices using Cloudflare Workers. It allows users to control various agents such as Claude, Codex, or any shell directly from their mobile devices. By installing Loopsy on a laptop, and deploying a relay to Cloudflare, users can easily initiate a secure connection without the need for VPNs or public IP addresses. The setup involves pairings such as a QR code scan, enhancing usability while maintaining high security through token and secret management.\n\nThe application's core functionality is its support for full PTY terminal access, allowing users to maintain persistent sessions and easily switch between operations. Additionally, voice input capability via the Web Speech API allows for a hands-free control experience. This setup promises to streamline remote terminal management, making it especially appealing to developers and tech enthusiasts looking for efficient solutions in cross-device terminal control.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -10.7107,
-      "y": 13.3158,
-      "cluster_id": 6,
-      "cluster_name": "Innovative Software Tools and Utilities"
+      "x": 0.3184,
+      "y": -0.2998,
+      "cluster_id": 2,
+      "cluster_name": "Software Tools and Algorithms"
     },
     {
       "id": "69f50281baa201280323e48b",
       "title": "The X-Files Has Made Me Nostalgic for a Time I Never Experienced",
       "url": "https://midnightmurmurations.substack.com/p/the-x-files-has-made-me-nostalgic",
       "hn_score": 68,
-      "comments": 168,
+      "comments": 191,
       "author": "Teever",
       "summary": "In 'The X-Files Has Made Me Nostalgic for a Time I Never Experienced,' the author, Lara Auckland, reflects on her recent experience watching the iconic show, which holds a timeless quality that contrasts sharply with today’s technology-driven society. Though she first knew of the series through cultural references, her recent binge-watching has rekindled a deep appreciation for its compelling narratives and visual style. Auckland's nostalgia seems tied to an admiration for the 'simpler' times depicted within the show, marked by clunky technology and a slower pace of life before the onset of modern distractions like social media and constant connectivity.\n\nAs she becomes engrossed in the dynamics between Mulder and Scully, she also acknowledges the palpable tension in their relationship, which mirrors the emotional stakes of their adventures. The allure of The X-Files not only lies in its storytelling but also in how it transports viewers to a bygone era that seems less chaotic compared to today's fast-paced world. While recognizing that later seasons may not live up to its earlier acclaim, Auckland’s journey with the show underscores a desire for richer, more authentic media experiences, as well as a longing for the connections lost in contemporary culture.",
       "relevance_score": 10,
       "combined_score": 18,
       "is_ai_ml": false,
-      "x": -3.3095,
-      "y": -10.0441,
-      "cluster_id": 4,
-      "cluster_name": "Retro Gaming and Software Development"
+      "x": 0.0563,
+      "y": 0.2633,
+      "cluster_id": 0,
+      "cluster_name": "Postgres Scalability and Alternatives"
     },
     {
       "id": "69f50284baa201280323e48d",
       "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
       "url": "https://www.bbc.com/news/articles/c5yerr4m1yno",
       "hn_score": 63,
-      "comments": 261,
+      "comments": 272,
       "author": "reconnecting",
       "summary": "Spotify's introduction of 'Verified' badges marks a significant step in distinguishing human artists from the increasing influx of AI-generated music. With this initiative, Spotify aims to alleviate concerns about authenticity among listeners and bolster trust within the music ecosystem. As AI technology continues to evolve, the presence of songs created by artificial intelligence has surged, prompting Spotify to take proactive measures to highlight genuine artistic contributions. \n\nThe 'Verified' badges will provide users with a clear indication of who is behind the music they are listening to, reinforcing the importance of human artistry in an era dominated by technological advancements. This feature not only aids listeners in making informed choices but also reflects Spotify's commitment to supporting artists and sustaining meaningful connections between creators and their audiences.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -0.0593,
-      "y": -6.912,
-      "cluster_id": 5,
-      "cluster_name": "Digital Privacy and Historical Discoveries"
+      "x": -0.0284,
+      "y": 0.1154,
+      "cluster_id": 1,
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f405fba82b02f40488580b",
@@ -592,58 +592,58 @@
       "relevance_score": 0,
       "combined_score": 8,
       "is_ai_ml": false,
-      "x": 13.2607,
-      "y": -6.4074,
+      "x": -0.3587,
+      "y": 0.1696,
       "cluster_id": 1,
-      "cluster_name": "European Energy and Policy Updates"
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f50285baa201280323e48e",
       "title": "A statement about why RightsCon 2026 will not take place in Zambia",
       "url": "https://www.rightscon.org/rc26-statement/",
       "hn_score": 59,
-      "comments": 41,
+      "comments": 44,
       "author": "benbreen",
       "summary": "The RightsCon team announced with disappointment that the 2026 conference will no longer occur in Zambia, primarily due to foreign interference that critically impacted the safety of participants. Originally planned to welcome over 2,600 attendees from around the globe, this decision was rendered just days before the event, showcasing the serious concerns surrounding geopolitical pressures, particularly from the People's Republic of China in relation to Taiwanese attendees. The organization emphasized the importance of transparency as they explained the circumstances leading to this abrupt cancellation.\n\nThe selection of Zambia was chosen through a rigorous, multi-year process that involved community consultations, exploring the host country’s infrastructure, and ensuring open engagements with government stakeholders. Despite the collaborative efforts and initial endorsement from various Zambian ministries, the interference raised significant concerns, leading to the decision not to proceed. This cancellation underscores the difficulties faced by global convenings in the context of international relations and the need for secure environments to foster dialogue on digital rights.",
       "relevance_score": 30,
       "combined_score": 32,
       "is_ai_ml": false,
-      "x": 19.8652,
-      "y": -6.701,
+      "x": -0.4536,
+      "y": 0.064,
       "cluster_id": 1,
-      "cluster_name": "European Energy and Policy Updates"
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f50285baa201280323e48f",
       "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
       "url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "hn_score": 57,
-      "comments": 104,
+      "comments": 115,
       "author": "joshcsimmons",
       "summary": "The article discusses a significant incident involving the company Flock, which accessed surveillance cameras in a children's gymnastics room to demonstrate their technology during a sales pitch. The city officials discovered this unauthorized access during a routine audit, raising alarming questions about the privacy and security of the children using the gym facility. Despite the concerns voiced by parents and the community regarding the ethical implications of such surveillance practices, the city chose to renew its contract with Flock Technology, focusing on the perceived benefits of enhanced security.\n\nThis incident has ignited wider discussions on the implications of surveillance in public spaces, particularly regarding children's safety. Many parents were outraged at the lack of consent for the camera's use, leading to calls for stricter regulations governing surveillance in environments catering to minors. Overall, the situation not only highlights the potential risks of surveillance but also emphasizes the necessity for more transparent data privacy practices in programs involving children.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 7.8994,
-      "y": -4.6511,
-      "cluster_id": 5,
-      "cluster_name": "Digital Privacy and Historical Discoveries"
+      "x": -0.2008,
+      "y": 0.0404,
+      "cluster_id": 1,
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f50286baa201280323e490",
       "title": "AWS stops billing Middle East cloud customers as repairs to war damage drag on",
       "url": "https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/",
       "hn_score": 52,
-      "comments": 72,
+      "comments": 73,
       "author": "johnbarron",
       "summary": "Amazon Web Services (AWS) has temporarily ceased billing its Middle East cloud customers, a move prompted by the extensive delays in repairs to data centers targeted by recent drone strikes. This decision not only alleviates immediate financial burdens on affected customers but also underscores the operational challenges faced by cloud service providers in regions with heightened geopolitical risks.\n\nThe prolonged repair timeline reflects the serious implications of armed conflict on essential infrastructure, raising questions about data security, customer trust, and the strategic decisions of tech companies operating in volatile environments. As AWS navigates these repairs amid ongoing security concerns, it may well influence the strategies and considerations of similar providers as they assess their risks and operational frameworks in sensitive areas.",
       "relevance_score": 70,
       "combined_score": 66,
       "is_ai_ml": false,
-      "x": 15.0514,
-      "y": 1.2813,
+      "x": -0.3702,
+      "y": -0.0529,
       "cluster_id": 1,
-      "cluster_name": "European Energy and Policy Updates"
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f50286baa201280323e491",
@@ -656,26 +656,26 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "x": -9.4186,
-      "y": 18.3103,
+      "x": 0.218,
+      "y": -0.2989,
       "cluster_id": 0,
-      "cluster_name": "Database Technologies and Innovations"
+      "cluster_name": "Postgres Scalability and Alternatives"
     },
     {
       "id": "69f5028abaa201280323e492",
       "title": "Show HN: Site Mogging",
       "url": "https://sitemogging.com",
       "hn_score": 45,
-      "comments": 72,
+      "comments": 73,
       "author": "jilles",
       "summary": "Site Mogging is an innovative online platform that allows users to witness head-to-head competitions between websites, measuring their 'aura' scores to determine which one prevails. In the latest competition, Techmeme.com faced off against Slashdot.org, with the former achieving a higher score of 4.4 out of 10 compared to 3.9 for Slashdot.org, ultimately leading to Techmeme's victory. This unique concept not only utilizes advanced Cloudflare technology for its operations—leveraging tools like Workers and D1—but also serves as a form of entertainment and analysis for web enthusiasts.\n\nThe platform exemplifies how web technologies can be creatively used to engage users in competitive comparisons. By showcasing the dynamic nature of web traffic and popularity, Site Mogging offers insights into the performance of various websites in real-time. The creation of this project by @jilles highlights the continual evolution of web-based interactions, providing a space for users to explore and engage with their favorite websites in a playful format.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -5.3348,
-      "y": 8.0681,
-      "cluster_id": 6,
-      "cluster_name": "Innovative Software Tools and Utilities"
+      "x": 0.1472,
+      "y": -0.1031,
+      "cluster_id": 1,
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f405fba82b02f40488580c",
@@ -688,42 +688,42 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 12.1682,
-      "y": 4.9536,
+      "x": -0.2464,
+      "y": -0.2249,
       "cluster_id": 1,
-      "cluster_name": "European Energy and Policy Updates"
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f405fba82b02f40488580d",
       "title": "Snowball Earth may hide a far stranger climate cycle than anyone expected",
       "url": "https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html",
       "hn_score": 36,
-      "comments": 59,
+      "comments": 60,
       "author": "wglb",
       "summary": "The article discusses new insights into Earth's climate during the Sturtian glacial period, where two primary models—Snowball and Slushball Earth—attempt to describe global glaciation. Recent research introduces a new model suggesting that alternating periods of glaciation and warmth could provide a more accurate explanation, reconciling geological and biological evidence that had previously seemed inconsistent with these models. The study identifies crucial links between global temperature swings and the dynamics of carbon and oxygen cycles, shedding light on the role of silicate weathering as a carbon sink that diminishes during glaciation and the growth of atmospheric CO2 until ice melting occurs.\n\nFurthermore, the research highlights the discrepancy between the expected depletion of atmospheric oxygen and the survival of certain life forms throughout the Sturtian period. The Franklin Large Igneous Province is posited as a significant climatic influencer due to its potential to enhance weathering processes. The findings challenge existing perceptions of prolonged glacial periods and urge the scientific community to revisit geological data to better understand Earth’s past climate changes, emphasizing an intricate interplay of climatic variables that shaped early life and environments.",
       "relevance_score": 20,
       "combined_score": 29,
       "is_ai_ml": false,
-      "x": -1.8219,
-      "y": -13.5837,
-      "cluster_id": 5,
-      "cluster_name": "Digital Privacy and Historical Discoveries"
+      "x": -0.0542,
+      "y": 0.3581,
+      "cluster_id": 0,
+      "cluster_name": "Postgres Scalability and Alternatives"
     },
     {
       "id": "69f5028bbaa201280323e493",
       "title": "Show HN: AI CAD Harness",
       "url": "https://fusion.adam.new/install",
       "hn_score": 34,
-      "comments": 85,
+      "comments": 86,
       "author": "zachdive",
       "summary": "The article introduces the AI CAD Harness, known as Adam Fusion, designed to enhance the Autodesk Fusion 360 experience by integrating AI-driven capabilities into CAD workflows. Installation of the add-in is straightforward, leveraging a simple command for both macOS and Windows users and provides alternative manual installation options for those who prefer them. After installation, users can enable the add-in through the Add-Ins panel, allowing for interaction with AI that can assist in various design processes.\n\nAdam Fusion supports a free tier, making it accessible to new users without the need for credit card information. Built-in support options, including connections via Discord for troubleshooting, ensure users can get assistance with installation and usage. This integration not only streamlines the user's CAD experience but also offers the added benefit of AI interactions directly within the Autodesk Fusion 360 platform.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -7.2443,
-      "y": 2.5857,
-      "cluster_id": 6,
-      "cluster_name": "Innovative Software Tools and Utilities"
+      "x": 0.2136,
+      "y": -0.0956,
+      "cluster_id": 2,
+      "cluster_name": "Software Tools and Algorithms"
     },
     {
       "id": "69f405fba82b02f40488580e",
@@ -736,42 +736,42 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "x": 15.0353,
-      "y": 10.2164,
+      "x": -0.303,
+      "y": -0.2739,
       "cluster_id": 1,
-      "cluster_name": "European Energy and Policy Updates"
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f5028bbaa201280323e494",
       "title": "New research suggests people can communicate and practice skills while dreaming",
       "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
       "hn_score": 28,
-      "comments": 181,
+      "comments": 226,
       "author": "XzetaU8",
       "summary": "The article discusses groundbreaking research suggesting that humans can communicate and develop skills while dreaming, particularly through REM sleep. It highlights that our brains remain remarkably engaged during this stage, allowing for the potential rehearsal of real-life tasks. The phenomenon of lucid dreaming, where individuals are aware they are dreaming and can control their dreams, is emphasized as a possible method to maximize skill acquisition and practice.\n\nThe implications of this research extend into educational practices and training opportunities, presenting a new frontier in how we understand learning. However, the article cautions against overlooking the ethical considerations that accompany this technology, such as the impacts on mental health and the integrity of the learning process. Overall, the exploration of dreaming as a learning tool is a promising avenue that warrants further investigation.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -4.9779,
-      "y": -12.0418,
-      "cluster_id": 5,
-      "cluster_name": "Digital Privacy and Historical Discoveries"
+      "x": 0.0629,
+      "y": 0.2808,
+      "cluster_id": 1,
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f5028cbaa201280323e495",
       "title": "The end of \"Just ask Sarah\"",
       "url": "https://simme.dev/posts/the-end-of-just-ask-sarah/",
       "hn_score": 22,
-      "comments": 25,
+      "comments": 26,
       "author": "milkglass",
       "summary": "The article 'The end of 'Just ask Sarah'' explores the critical role of documentation in engineering organizations, emphasizing the traditional reliance on a knowledgeable individual, colloquially known as 'Sarah', to convey essential context and decision-making rationale. In today's environment, agents and automated systems require access to documented historical reasoning to make informed decisions. The lack of this documentation can lead to incorrect interpretations and reinforce existing patterns without understanding the underlying intent behind past choices.\n\nMoreover, the evolution of team dynamics and staffing changes has made it imperative that organizations maintain comprehensive documentation practices. As these shifts occur, the previous ability to rely on informal knowledge transfers and personal interactions for historical context is diminished. This transformation underscores the urgency for teams to prioritize clear and accessible documentation to mitigate the costs associated with undocumented decisions, which can hinder onboarding processes and complicate future development tasks.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -1.3388,
-      "y": -6.4128,
-      "cluster_id": 3,
-      "cluster_name": "Scientific Concepts and Historical Insights"
+      "x": 0.0201,
+      "y": 0.1323,
+      "cluster_id": 1,
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f405fba82b02f40488580f",
@@ -784,10 +784,10 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -0.5373,
-      "y": -5.2526,
-      "cluster_id": 5,
-      "cluster_name": "Digital Privacy and Historical Discoveries"
+      "x": -0.0278,
+      "y": 0.1255,
+      "cluster_id": 1,
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f405fca82b02f404885810",
@@ -800,42 +800,42 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -6.8581,
-      "y": -5.3234,
+      "x": 0.1467,
+      "y": 0.1218,
       "cluster_id": 2,
-      "cluster_name": "Search Algorithms and Optimization"
+      "cluster_name": "Software Tools and Algorithms"
     },
     {
       "id": "69f5028cbaa201280323e496",
       "title": "Apocalypse Early Warning System",
       "url": "https://ews.kylemcdonald.net/",
       "hn_score": 18,
-      "comments": 88,
+      "comments": 101,
       "author": "carlsborg",
       "summary": "The Apocalypse Early Warning System is a project that monitors private jet traffic as a predictive measure of potential nuclear disasters. It operates on a scale from 1 to 5 to indicate the urgency of a threat, where a level 5 suggests an imminent crisis. Currently reporting an emergency level of 1, the site reveals that there are 502 planes airborne with a total of 4,930 individuals in the air, suggesting normal activity levels at this time. \n\nThe project archives historical jet traffic data to track trends and anomalies in flights, providing a unique insight into human behavioral responses in crisis situations. By focusing on a select cohort of business jets, the system aims to deliver accurate real-time information, with updates facilitating broader public awareness through accessible platforms. Overall, this initiative highlights the intersection of technology and emergency preparedness in contemporary society.",
       "relevance_score": 70,
       "combined_score": 71,
       "is_ai_ml": false,
-      "x": 3.9158,
-      "y": -4.2586,
-      "cluster_id": 5,
-      "cluster_name": "Digital Privacy and Historical Discoveries"
+      "x": -0.1391,
+      "y": 0.111,
+      "cluster_id": 1,
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f405fca82b02f404885811",
       "title": "SimpleX Channels, SimpleX Network Consortium and Community Crowdfunding",
       "url": "https://simplex.chat/blog/20260430-simplex-channels-v6-5-consortium-crowdfunding-freedom-of-speech.html",
       "hn_score": 17,
-      "comments": 2,
+      "comments": 5,
       "author": "pmw",
       "summary": "The article discusses the introduction of SimpleX Channels in version v6.5, which emphasizes privacy and participation in online publishing. Designed to protect freedom of speech, these channels allow users to access content without revealing their identities to content relay operators or other users. The architecture operates without user profile identifiers, fostering an environment where users can express themselves freely while maintaining their privacy. \n\nAdditionally, the article outlines the establishment of the SimpleX Network Consortium, which seeks to ensure that no single corporation has control over the network's operations, thereby safeguarding the principles of network neutrality and protective governance of the protocols. This initiative is complemented by community crowdfunding efforts aimed at sustaining and expanding the SimpleX Channels, underscoring an innovative approach to preserving free speech in digital communication.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": 6.776,
-      "y": -1.992,
-      "cluster_id": 5,
-      "cluster_name": "Digital Privacy and Historical Discoveries"
+      "x": -0.0932,
+      "y": 0.027,
+      "cluster_id": 1,
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f405fca82b02f404885812",
@@ -848,10 +848,10 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -7.725,
-      "y": -6.734,
-      "cluster_id": 4,
-      "cluster_name": "Retro Gaming and Software Development"
+      "x": 0.1868,
+      "y": 0.1792,
+      "cluster_id": 0,
+      "cluster_name": "Postgres Scalability and Alternatives"
     },
     {
       "id": "69f405fca82b02f404885813",
@@ -864,137 +864,89 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "x": -5.0773,
-      "y": -9.0513,
-      "cluster_id": 3,
-      "cluster_name": "Scientific Concepts and Historical Insights"
+      "x": 0.0615,
+      "y": 0.2269,
+      "cluster_id": 1,
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f5028ebaa201280323e498",
       "title": "Ubuntu servers taken offline by \"sustained, cross-border attack\"",
       "url": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
       "hn_score": 10,
-      "comments": 21,
+      "comments": 24,
       "author": "RattlesnakeJake",
       "summary": "The article discusses a recent incident where Ubuntu servers were taken offline due to a sustained, cross-border cyberattack, leading to significant service disruptions. This situation emphasizes the vulnerability of even well-established tech infrastructures to sophisticated cyber threats, prompting an urgent response from developers to restore services. The attack has raised questions about the existing security protocols in place, suggesting that a thorough review and potential enhancement of these measures may be necessary in the aftermath.\n\nAs developers work to regain normalcy, users have experienced notable interruptions, and the limited communication from Ubuntu regarding the situation has contributed to concerns in the technology community. The incident serves as a critical reminder of the need for robust cybersecurity measures and international cooperation in the tech industry to mitigate risks from such attacks in the future.",
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "x": 19.7822,
-      "y": 11.4918,
+      "x": -0.4449,
+      "y": -0.309,
       "cluster_id": 1,
-      "cluster_name": "European Energy and Policy Updates"
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f405fca82b02f404885814",
       "title": "Maladaptive Frugality",
       "url": "https://herbertlui.net/maladaptive-frugality/",
       "hn_score": 10,
-      "comments": 281,
+      "comments": 286,
       "author": "herbertl",
       "summary": "The article 'Maladaptive Frugality' discusses how ingrained frugality can sometimes hinder personal and financial well-being. The author reflects on their upbringing, which instilled a strong value for saving money, often leading to a detrimental mindset where necessary expenses are avoided out of guilt or a desire to save. This mindset, described as maladaptive frugality, can result in procrastination and missed opportunities. The author shares personal experiences of struggling to make necessary purchases, realizing that such behavior can drain mental resources and limit overall enjoyment in life.\n\nBy identifying maladaptive frugality as a significant issue, the article encourages readers to adopt a more mindful approach towards spending. Recognizing the importance of financial decisions that consider long-term benefits, rather than merely defaulting to the lowest cost option, can open up pathways for better life experiences and opportunities. Ultimately, the author advocates for a balance between frugality and thoughtful spending, enabling individuals to enjoy the present while also planning for the future.",
       "relevance_score": 0,
       "combined_score": 9,
       "is_ai_ml": false,
-      "x": 1.4404,
-      "y": -12.9105,
-      "cluster_id": 3,
-      "cluster_name": "Scientific Concepts and Historical Insights"
+      "x": -0.1036,
+      "y": 0.3138,
+      "cluster_id": 1,
+      "cluster_name": "Cybersecurity and Privacy Concerns"
     },
     {
       "id": "69f5028ebaa201280323e497",
       "title": "Artemis II Fault Tolerance",
       "url": "https://alearningaday.blog/2026/05/01/artemis-ii-fault-tolerance/",
       "hn_score": 10,
-      "comments": 42,
+      "comments": 43,
       "author": "speckx",
       "summary": "The article discusses the fault tolerance mechanisms employed in NASA's Artemis II mission, highlighting the advanced computer architecture designed to ensure safety and reliability during space exploration. Central to the mission is the Orion spacecraft, which features two Vehicle Management Computers containing four Flight Control Modules (FCMs) that operate redundantly. The design follows a fail-silent philosophy, allowing for immediate error detection and recovery, even in the face of potential radiation-induced malfunctions. Each FCM is meticulously synchronized to ensure consistent outputs, and measures are in place, such as triple-modular memory and dissimilar redundancy, to mitigate common mode failures and ensure operational integrity.\n\nIn addition to technical specifications, the article emphasizes the critical importance of redundancy planning within aerospace missions. Although the cost of implementing such robust systems is high, it is justified for the success and safety of missions like Artemis II. The insights gained from this mission’s approach to fault tolerance can be valuable across various industries, advocating for thoughtful redundancy strategies to enhance reliability and resilience in diverse applications.",
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "x": 0.9504,
-      "y": -0.9243,
-      "cluster_id": 1,
-      "cluster_name": "European Energy and Policy Updates"
+      "x": -0.0072,
+      "y": -0.0014,
+      "cluster_id": 2,
+      "cluster_name": "Software Tools and Algorithms"
     }
   ],
   "clusters": [
     {
       "id": 0,
-      "name": "Database Technologies and Innovations",
-      "size": 4,
+      "name": "Postgres Scalability and Alternatives",
+      "size": 11,
       "sample_titles": [
-        "Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file",
-        "Full-Text Search with DuckDB",
+        "How an oil refinery works",
+        "Running Adobe's 1991 PostScript Interpreter in the Browser",
         "Does Postgres Scale?"
       ]
     },
     {
       "id": 1,
-      "name": "European Energy and Policy Updates",
-      "size": 14,
+      "name": "Cybersecurity and Privacy Concerns",
+      "size": 30,
       "sample_titles": [
+        "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
         "Belgium stops decommissioning nuclear power plants",
-        "Spain's parliament will act against massive IP blockages by LaLiga",
-        "CopyFail was not disclosed to distro developers?"
+        "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library"
       ]
     },
     {
       "id": 2,
-      "name": "Search Algorithms and Optimization",
-      "size": 4,
+      "name": "Software Tools and Algorithms",
+      "size": 16,
       "sample_titles": [
         "You can beat the binary search",
-        "I aggregated 28 US Government auction sites into one search",
-        "Advanced Quantization Algorithm for LLMs"
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Scientific Concepts and Historical Insights",
-      "size": 5,
-      "sample_titles": [
-        "How an oil refinery works",
-        "Sally McKee, who coined the term \"the memory wall\", has died",
-        "The end of \"Just ask Sarah\""
-      ]
-    },
-    {
-      "id": 4,
-      "name": "Retro Gaming and Software Development",
-      "size": 5,
-      "sample_titles": [
         "I built a Game Boy emulator in F#",
-        "Reverse Engineering SimTower",
-        "Running Adobe's 1991 PostScript Interpreter in the Browser"
-      ]
-    },
-    {
-      "id": 5,
-      "name": "Digital Privacy and Historical Discoveries",
-      "size": 15,
-      "sample_titles": [
-        "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-        "Rivian allows you to disable all internet connectivity",
-        "How Mark Klein told the EFF about Room 641A [book excerpt]"
-      ]
-    },
-    {
-      "id": 6,
-      "name": "Innovative Software Tools and Utilities",
-      "size": 9,
-      "sample_titles": [
-        "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-        "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
-        "Show HN: GhostBox – Borrow a disposable little machine from the Global Free Tier"
-      ]
-    },
-    {
-      "id": 7,
-      "name": "Cinematic Photography Innovations",
-      "size": 1,
-      "sample_titles": [
-        "New mechanical panoramic film camera from Jeff Bridges"
+        "Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file"
       ]
     }
   ]
