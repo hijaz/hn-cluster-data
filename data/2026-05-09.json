@@ -1,8 +1,8 @@
 {
   "date": "2026-05-09",
-  "generated_at": "2026-05-10T00:48:52.741327+00:00",
+  "generated_at": "2026-05-14T03:09:50.108282+00:00",
   "article_count": 84,
-  "cluster_count": 16,
+  "cluster_count": 37,
   "clustering_model": "gpt-4o",
   "articles": [
     {
@@ -10,7 +10,7 @@
       "title": "A recent experience with ChatGPT 5.5 Pro",
       "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
       "hn_score": 1036,
-      "comments": 422,
+      "comments": 534,
       "author": "_alternator_",
       "source": "hackernews",
       "summary": "The article discusses the significant advancements in mathematical problem-solving capabilities of large language models (LLMs), particularly ChatGPT 5.5 Pro. The author, Gowers, notes how quickly LLMs can produce substantial outputs, as evidenced by producing PhD-level research without serious mathematical input. Initially, there was skepticism regarding the originality of the solutions provided by LLMs, which often relied on existing literature or known results. However, the growing confidence in their capabilities is leading to a reassessment of their role in solving complex mathematical problems.\n\nGowers presents a nuanced view on the implications of LLMs' capabilities for mathematical research. While LLMs can provide fresh insights into problems that may have been overlooked by human mathematicians, there is a concern that they may also diminish the value of open problems for new researchers. As the threshold for challenging mathematical inquiries increases, there is a risk that these tools could undermine the traditional processes of mathematical exploration and discovery, a development that has sparked significant discussion in the mathematical community.",
@@ -20,14 +20,14 @@
       "comments_summary": "The HackerNews discussion surrounding the article on ChatGPT 5.5 Pro reveals a community grappling with the implications of advanced AI in research and academia. Many users expressed a sense of optimism about the model's capabilities, noting its potential to assist in solving complex problems and even correct itself in ways previous models could not. However, this optimism is tempered by concerns about the future of human expertise in mathematics and research. Some commenters highlighted the paradox of AI potentially diminishing the value of human contributions, suggesting that as LLMs become more adept, the bar for what constitutes a significant mathematical achievement may shift. This raises questions about the role of human intuition and creativity in research, with some arguing that the value of ideas may decrease as AI becomes more capable of generating them.\n\nTechnical nuances also emerged in the conversation, particularly around the nature of AI-generated work and its implications for academic publishing. Users debated whether outputs from AI should be considered original contributions or merely extensions of existing knowledge. The sentiment was mixed; while some believed that AI could generate novel ideas, others cautioned against equating AI's outputs with human creativity. Concerns about the accessibility of AI tools in academia were also prominent, with some users lamenting the disparity in access to advanced models among researchers, particularly in less affluent institutions. Overall, the discussion reflects a blend of excitement and apprehension about the evolving landscape of research, as the community contemplates the balance between leveraging AI's capabilities and preserving the intrinsic value of human intellectual effort.",
       "hackernews_id": 48071262,
       "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs"
+      "cluster_name": "🤖 ChatGPT 5.5 Advancements"
     },
     {
       "id": "69fe909699f33489ca619930",
       "title": "Poland is now among the 20 largest economies",
       "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
       "hn_score": 893,
-      "comments": 819,
+      "comments": 867,
       "author": "surprisetalk",
       "source": "hackernews",
       "summary": "Poland has solidified its position among the world's largest economies, ranking within the top 20 globally, a milestone reflecting its economic transformation and resilience. Key to this growth has been the country's effective economic policies, significant foreign investments, and a skilled labor force that supports diversification and innovation in various industries. Following its recovery from the COVID-19 pandemic, Poland's economy has shown a remarkable ability to rebound, further highlighting the nation's robust development strategies.\n\nAs Poland seeks to strengthen its global economic influence, its G20 membership may elevate both its political and economic relevance on the world stage. The government is committed to fostering entrepreneurship while ensuring sustainable development, balancing economic growth with environmental considerations. Poland's trajectory signifies a shifting landscape in Europe, where emerging economies like Poland are gaining prominence and shaping future narratives in global economics.",
@@ -36,15 +36,15 @@
       "is_ai_ml": false,
       "comments_summary": "The discussion surrounding Poland's emergence as one of the 20 largest economies has sparked a lively debate among HackerNews users, revealing a mix of admiration and skepticism about the country's economic trajectory. Many commenters highlighted Poland's remarkable transition from a Soviet satellite state to a thriving economy, crediting its strategic decisions, such as embracing foreign direct investment (FDI) and integrating into the European Union. Some users emphasized that Poland's economic growth is not merely a result of external factors but is also due to its educated and motivated workforce, which has been pivotal in attracting multinational corporations. This perspective was supported by anecdotes about the quality of Polish engineering and manufacturing, showcasing the country's potential in sectors like technology and automotive.\n\nHowever, the conversation also included notable counterpoints and corrections. Critics pointed out that Poland's growth narrative might be oversimplified, arguing that much of its economic expansion is driven by foreign companies capitalizing on lower labor costs rather than the development of robust domestic enterprises. Some commenters questioned whether Poland's reliance on foreign investment and EU funds truly reflects a self-sustaining economy, suggesting that the country could have achieved even greater success with different macroeconomic strategies. Additionally, the impact of recent immigration trends, particularly from Ukraine and Belarus, was discussed as a significant factor in Poland's labor market dynamics, further complicating the narrative of national economic achievement.\n\nOverall, the sentiment in the thread was a blend of pride in Poland's accomplishments and a critical examination of the underlying factors contributing to its economic status. Many users expressed a sense of optimism about Poland's future while acknowledging the complexities of its growth story, including the challenges posed by demographic shifts and the need for more homegrown innovation. The discussion reflected a broader interest in how countries can leverage external support while fostering internal capabilities to sustain long-term economic health.",
       "hackernews_id": 48062117,
-      "cluster_id": 2,
-      "cluster_name": "🌍 Economic and Environmental Impact"
+      "cluster_id": 27,
+      "cluster_name": "🌍 Global Economy"
     },
     {
       "id": "69fe909699f33489ca619931",
       "title": "Google broke reCAPTCHA for de-googled Android users",
       "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
       "hn_score": 602,
-      "comments": 538,
+      "comments": 586,
       "author": "anonymousiam",
       "source": "hackernews",
       "summary": "The article addresses a significant issue regarding Google's reCAPTCHA service, which has malfunctioned for users of de-googled Android devices. This disruption particularly affects individuals who prioritize privacy and have turned to alternative operating systems that avoid Google's services. As a result, users facing challenges with online identity verification find themselves caught in a conflict between maintaining privacy and accessing essential online functionalities.\n\nThe challenges posed by this situation underscore the ongoing struggle between privacy-oriented technology and major tech firms like Google. As de-googled Android users increasingly seek to navigate online spaces without reliance on big tech, the issues with reCAPTCHA serve as a stark reminder of the dependencies often created by technology infrastructure. Ultimately, the situation highlights the need for more resilient solutions that cater to the privacy needs of users in a rapidly evolving digital landscape.",
@@ -53,15 +53,15 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews discussion surrounding Google's recent changes to reCAPTCHA reveals a strong sentiment of frustration and concern among users, particularly those who have opted for de-googled Android systems like GrapheneOS. Many commenters expressed dissatisfaction with Google's increasing reliance on hardware attestation methods, which they perceive as a means to control access and limit competition. Users highlighted the implications of this shift, noting that it effectively excludes a significant number of devices—such as those from Huawei or Xiaomi—that do not support Google Play Services. This exclusion raises alarms about monopolistic practices and the potential for anti-competitive behavior, leading some to call for regulatory intervention.\n\nTechnical nuances were also a focal point of the conversation, with several users discussing the mechanics of remote attestation and its implications for privacy and security. There were concerns about the potential for misuse, such as the ability for website owners to exploit the system to ban users arbitrarily. Some commenters pointed out that alternatives to reCAPTCHA, like hCaptcha, are gaining traction, suggesting a shift in the landscape as users seek more privacy-friendly solutions. Overall, the sentiment among the community reflects a growing distrust of Google and a desire for more transparent, user-centric technologies, with many expressing a willingness to explore alternatives or even abandon smartphones altogether in response to these developments.",
       "hackernews_id": 48067119,
-      "cluster_id": 4,
-      "cluster_name": "📡 Communication and Networking"
+      "cluster_id": 6,
+      "cluster_name": "🔧 Android Security Fixes"
     },
     {
       "id": "69fe909699f33489ca619932",
       "title": "Mojo 1.0 Beta",
       "url": "https://mojolang.org/",
       "hn_score": 572,
-      "comments": 228,
+      "comments": 243,
       "author": "sbt567",
       "source": "hackernews",
       "summary": "Mojo 1.0 Beta is a modern programming language that combines the user-friendly syntax of Python with the high-performance capabilities of C, specifically tailored for AI applications. It allows developers to efficiently write code that runs on diverse hardware, including CPUs and GPUs, without being locked into specific vendor technologies. The language's design emphasizes ease of use while delivering powerful tools such as compile-time metaprogramming and seamless interoperability with Python, making it suitable for projects needing a mix of productivity and performance.\n\nIn addition to its performance capabilities, Mojo includes features that simplify GPU programming, enabling developers to write high-performance GPU kernels analogous to CPU code. With the latest stable version, 1.0.0b1, now available, the language also provides a quickstart guide for beginners and encourages community engagement through contributions on GitHub. This positions Mojo as a competitive option for developers aiming to leverage modern computing power in their applications.",
@@ -70,15 +70,15 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews discussion surrounding the \"Mojo 1.0 Beta\" article reveals a mix of excitement and skepticism within the programming community. Many commenters expressed enthusiasm for Mojo's innovative features, such as its powerful compile-time capabilities and rich type system, which some believe could significantly enhance performance in machine learning and other computationally intensive tasks. The language's design, which aims to blend the ease of Python with the performance of lower-level languages, has garnered interest, particularly among those frustrated with Python's limitations in high-performance contexts. However, there are concerns about Mojo's backward compatibility with Python, with some users feeling that the language may diverge too far from Python's syntax and usability, potentially alienating the very developers it seeks to attract.\n\nTechnical critiques also emerged, with several commenters pointing out that Mojo's ambitious claims—such as achieving a 36,000x speedup over Python—might be misleading or applicable only in extreme cases. The discussion highlighted the competitive landscape, noting that established frameworks like CUDA and emerging tools from Nvidia, Intel, and AMD are already addressing similar needs in the market. Moreover, the proprietary nature of Mojo's compiler raised concerns about its long-term viability and community support, with some users expressing a preference for fully open-source alternatives like Julia. Overall, while Mojo's potential as a high-performance language is acknowledged, the community remains cautious, emphasizing the importance of clear communication, practical use cases, and a strong developer ecosystem to ensure its success.",
       "hackernews_id": 48057901,
-      "cluster_id": 3,
-      "cluster_name": "🖥️ Programming Languages and Tools"
+      "cluster_id": 13,
+      "cluster_name": "🛡️ AI Model Building Tools"
     },
     {
       "id": "69fe909699f33489ca619933",
       "title": "AI is breaking two vulnerability cultures",
       "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
       "hn_score": 470,
-      "comments": 162,
+      "comments": 173,
       "author": "speckx",
       "source": "hackernews",
       "summary": "The article discusses the challenges and implications of two prevalent vulnerability disclosure cultures in cybersecurity: 'coordinated disclosure' and 'bugs are bugs.' The former entails a private notification system to maintainers, allowing them time to fix the issue before public knowledge spreads, while the latter promotes immediate fixes without alerting the public, based on the belief that unaddressed bugs could be exploited at any moment. The emergence of AI technologies complicates these approaches, as they improve the frequency and efficiency of vulnerability detection, prompting a reconsideration of the efficacy of long embargo periods in disclosing vulnerabilities.\n\nAs AI capabilities grow, so do the dynamics of vulnerability reporting, with incidents occurring within hours instead of days or weeks. This accelerates the need to address vulnerabilities more transparently and collaboratively. The article suggests that very short embargoes might be necessary to adapt to this new landscape, where both attackers and defenders are informed swiftly. Ultimately, the author posits that a fundamental reevaluation of how vulnerabilities are disclosed could be critically important as we navigate an era with heightened AI effectiveness in cybersecurity.",
@@ -87,15 +87,15 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews community engaged in a robust discussion regarding the article \"AI is breaking two vulnerability cultures,\" primarily focusing on the implications of AI on software security and vulnerability disclosure practices. A dominant sentiment emerged around the idea that the advent of AI, particularly with its ability to analyze and identify vulnerabilities quickly, is reshaping the landscape of software security. Many commenters noted that the traditional methods of vulnerability disclosure, which often relied on coordinated efforts and embargo periods, are becoming increasingly untenable. For instance, the Log4Shell incident was cited as a clear example of how quickly vulnerabilities can be exploited once they are publicly disclosed, highlighting the urgency for faster patching processes.\n\nSeveral commenters pointed out the technical nuances of this shift, debating the effectiveness of current disclosure practices in light of AI advancements. Some argued that the cost of identifying vulnerabilities is decreasing, which raises questions about the necessity of separating patching from disclosure. Others suggested that the reliance on open-source software might lead to a disadvantage compared to closed-source models, where vulnerabilities are less visible to attackers. The discussion also touched on the potential for AI to automate patching processes, though concerns were raised about the risks of rapid rollouts leading to widespread issues, akin to the problems seen with CrowdStrike's approach.\n\nOverall, the sentiment in the discussion was a mix of concern and intrigue. Many readers found the implications of AI on vulnerability management both fascinating and alarming, as it presents a double-edged sword—enhancing the capabilities of both defenders and attackers. The community's reflections on the need for a more agile and responsive approach to software security underscored the urgency of adapting to this evolving landscape, suggesting that existing practices may need radical rethinking to keep pace with the rapid advancements in AI technology.",
       "hackernews_id": 48066524,
-      "cluster_id": 1,
-      "cluster_name": "🔐 Cybersecurity and Vulnerabilities"
+      "cluster_id": 5,
+      "cluster_name": "🛡️ Vulnerability Disclosure Cultures"
     },
     {
       "id": "69ff7d0505b9f9888251729c",
       "title": "LLMs Corrupt Your Documents When You Delegate",
       "url": "https://arxiv.org/abs/2604.15597",
       "hn_score": 456,
-      "comments": 130,
+      "comments": 201,
       "author": "rbanffy",
       "source": "hackernews",
       "summary": "The study's findings underscore the current limitations of LLMs in accurately executing delegated tasks, revealing that they introduce sparse but severe errors that accumulate over time, particularly in larger documents. As the potential for LLMs to disrupt knowledge work grows, this research raises critical questions about the readiness of AI systems in professional environments, emphasizing the necessity for improved accuracy and reliability before these technologies can be widely adopted.",
@@ -104,15 +104,15 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews discussion surrounding the article \"LLMs Corrupt Your Documents When You Delegate\" reveals a strong skepticism about the reliability of large language models (LLMs) in document editing and content generation. Many commenters expressed a consensus that LLMs, when tasked with editing or reproducing long documents, tend to degrade the quality of the content significantly. This degradation is likened to the \"JPEG compression\" phenomenon, where repeated processing results in a loss of fidelity. Users shared personal experiences of encountering errors and inconsistencies in code generated by LLMs, reinforcing the idea that while these models can be useful, they are not infallible and often introduce subtle errors that require careful human review.\n\nHowever, the discussion also highlighted nuances in the methodology of the study referenced in the article. Some commenters criticized the experimental design, arguing that it did not accurately reflect how humans or more sophisticated AI agents typically edit documents. They pointed out that the study's approach of having LLMs \"reproduce\" documents after reading them was not representative of practical editing workflows. Instead, they suggested that LLMs should be used more strategically, such as for generating diffs or working in conjunction with deterministic processes to minimize the risk of error accumulation. The overall sentiment in the community is one of cautious optimism; while LLMs are recognized for their potential, there is a clear call for more robust frameworks and methodologies to harness their capabilities effectively without compromising the integrity of the original content.",
       "hackernews_id": 48073246,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs"
+      "cluster_id": 3,
+      "cluster_name": "📚 AI and Document Handling"
     },
     {
       "id": "69fe909699f33489ca619934",
       "title": "David Attenborough's 100th Birthday",
       "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
       "hn_score": 439,
-      "comments": 159,
+      "comments": 165,
       "author": "defrost",
       "source": "hackernews",
       "summary": "David Attenborough's 100th birthday is marked by heartfelt tributes from notable figures including King Charles III and Queen Camilla, who shared personal photographs and messages of appreciation. The veteran broadcaster, known for his profound influence on environmental and wildlife awareness, expressed being 'completely overwhelmed' by the outpouring of warm wishes and their significance in today's context. A celebratory concert at the Royal Albert Hall further emphasizes the joyous occasion.\n\nAdditionally, prominent personalities like Prince William and the Duke of Sussex conveyed admiration for Attenborough, with the latter referring to him as a 'secular saint'. This sentiment underscores Attenborough's lasting impact, particularly among younger generations who view him as a guiding voice in understanding climate realities. The presence of various tributes, including a touching video tribute from the World Wide Fund for Nature, highlights the breadth of his legacy and the love people have for a man who has dedicated his life to connecting humanity with the beauty and urgency of protecting the Earth.",
@@ -121,15 +121,15 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews discussion surrounding David Attenborough's 100th birthday reflects a deep admiration for his contributions to natural history and documentary filmmaking, with many commenters sharing personal anecdotes about how his work has influenced their lives and careers. A recurring theme is the recognition of Attenborough as not just a narrator but a passionate advocate for nature, with some users highlighting his adventurous spirit and the physical challenges he undertook to produce his documentaries. This sentiment underscores the impact he has had on inspiring generations of scientists and nature enthusiasts, with one commenter noting the numerous species named in his honor, such as *Nepenthes attenboroughii*.\n\nHowever, the conversation also delves into more nuanced critiques of Attenborough's legacy. Some commenters express concern that despite his efforts to raise awareness about environmental issues, the destruction of nature continues unabated, suggesting that his documentaries may inadvertently create a false sense of security about the state of the natural world. This perspective is countered by others who argue that there have been significant gains in natural wilderness in developed countries and advancements in renewable energy. The discussion also touches on controversial opinions regarding Attenborough's views on human impact on the planet, with some users expressing skepticism about his environmental advocacy. Overall, the sentiment is largely positive, celebrating Attenborough's life and work while also engaging in critical dialogue about the complexities of environmental conservation.",
       "hackernews_id": 48061884,
-      "cluster_id": 14,
-      "cluster_name": "📰 Media and Public Figures"
+      "cluster_id": 32,
+      "cluster_name": "🎥 Nature Icon"
     },
     {
       "id": "69fe909699f33489ca619935",
       "title": "Serving a website on a Raspberry Pi Zero running in RAM",
       "url": "https://btxx.org/posts/memory/",
       "hn_score": 380,
-      "comments": 97,
+      "comments": 99,
       "author": "xngbuilds",
       "source": "hackernews",
       "summary": "The article discusses setting up a website using a Raspberry Pi Zero running entirely in RAM, making it a diskless solution. The author highlights that despite the limited RAM of 512MB, it is feasible to host a site using Alpine Linux. This setup not only involves the fundamental hardware requirements like a microSD card for booting but also emphasizes the utilization of external services such as a VPS to manage TLS traffic, thereby enhancing overall performance.\n\nThe guidelines provided cover the necessary steps for preparing the microSD card and include details regarding hardware and software configurations. The article promotes the concept of lightweight web hosting as a viable project, taking advantage of affordable RAM and clever setups that can efficiently handle web serving with minimal resources, thereby appealing to enthusiasts and newcomers interested in exploring this technology.",
@@ -138,15 +138,15 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews discussion surrounding the article on serving a website from a Raspberry Pi Zero running in RAM revealed a mix of skepticism and appreciation for the technical feat. Many commenters questioned the novelty of the project, suggesting that running a simple static website on such a device is not particularly impressive given the capabilities of the Raspberry Pi Zero. Some pointed out that while the website's content is hosted in RAM, the heavy lifting of TLS termination is offloaded to a cloud provider, which diminishes the significance of the achievement. This led to debates about the practicality of using a Raspberry Pi for such tasks when a VPS could handle the same workload more efficiently, raising questions about the true value of the demonstration.\n\nNotable technical corrections and counterpoints emerged, with several users highlighting the Pi Zero's ability to handle more complex tasks, including TLS, and emphasizing its historical significance as a powerful device compared to older enterprise servers. Others shared their own experiences of using Raspberry Pis for various projects, from hosting personal servers to experimenting with IoT applications, showcasing the versatility of the hardware. The conversation also touched on the longevity of SD cards in Raspberry Pi setups and the benefits of running a diskless system. Overall, the sentiment was mixed; while some found the project trivial, others appreciated the ingenuity and potential applications of Raspberry Pi devices, leading to a broader discussion about their role in modern computing and DIY projects.",
       "hackernews_id": 48064312,
-      "cluster_id": 5,
-      "cluster_name": "🕹️ Retro and Niche Computing"
+      "cluster_id": 2,
+      "cluster_name": "🖥️ Raspberry Pi Web Hosting"
     },
     {
       "id": "69fe909699f33489ca619936",
       "title": "An Introduction to Meshtastic",
       "url": "https://meshtastic.org/docs/introduction/",
       "hn_score": 369,
-      "comments": 184,
+      "comments": 187,
       "author": "ColinWright",
       "source": "hackernews",
       "summary": "Meshtastic is a community-driven project designed to facilitate long-range, off-grid communication using LoRa radios. This open-source platform operates effectively in areas lacking reliable communication infrastructure, allowing users to send text messages without needing any dedicated routers. The technology utilizes a mesh network that enables each device to relay messages, ensuring that all users, including those at great distances, stay connected. Importantly, this communication setup does not require any additional licenses, broadening its accessibility to various user groups.\n\nIn addition to its messaging capabilities, Meshtastic offers features such as optional GPS location sharing and encrypted communication for enhanced privacy. Each radio device is limited to one user connection at a time, with messages being sent directly via a paired smartphone. The project thrives on volunteer contributions and encourages community engagement for the improvement of its documentation and overall user support, striving to help newcomers navigate the features and functionalities of the Meshtastic platform.",
@@ -155,15 +155,15 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews discussion surrounding the article \"An Introduction to Meshtastic\" reveals a vibrant community of enthusiasts intrigued by the potential of mesh networking technologies like Meshtastic and its competitor, Meshcore. Many users expressed excitement about the practical applications of these systems, particularly in decentralized communication, with some sharing personal experiences of using Meshtastic for everyday communication while sailing or in local communities. However, there was a notable divide in opinions regarding the effectiveness and user engagement of the two platforms. Some users highlighted Meshtastic's \"chatty\" nature, which can be beneficial in small groups but problematic in larger urban areas, leading to frustrations with low adoption rates. In contrast, others praised Meshcore for its more structured communication and active user base, suggesting a shift in community preference towards it.\n\nTechnical nuances also emerged in the conversation, with users discussing the limitations of Meshtastic's design, such as its default channel settings and the implications of its hop limit on network efficiency. Some participants pointed out the need for improvements in Meshtastic's API and overall user experience, while others defended its open-source ethos and community-driven approach. The sentiment was mixed; while many appreciated the nostalgic feel of engaging with a technology reminiscent of the early internet, there were concerns about the fragmentation of the community and the competitive dynamics between Meshtastic and Meshcore. Overall, the discussion underscored a shared enthusiasm for mesh networking as a tool for resilience and privacy, tempered by practical challenges in adoption and usability.",
       "hackernews_id": 48061566,
-      "cluster_id": 4,
-      "cluster_name": "📡 Communication and Networking"
+      "cluster_id": 24,
+      "cluster_name": "🛠️ Open Source & Community Projects"
     },
     {
       "id": "69ff7d0505b9f9888251729d",
       "title": "Using Claude Code: The unreasonable effectiveness of HTML",
       "url": "https://twitter.com/trq212/status/2052809885763747935",
       "hn_score": 350,
-      "comments": 235,
+      "comments": 274,
       "author": "pretext",
       "source": "hackernews",
       "summary": "The article discusses the significant impact of HTML in web development, highlighting its role as a basic building block for creating engaging online experiences. Despite the emergence of various technologies, HTML continues to demonstrate 'unreasonable effectiveness' in catering to user needs and supporting the functionality of websites.\n\nIt emphasizes that effective coding practices in HTML not only enhance user interaction but also significantly contribute to search engine optimization strategies. Overall, the article underscores the enduring relevance of HTML, portraying it as a versatile and essential tool for developers aiming to create stunning and functional web platforms.",
@@ -172,15 +172,15 @@
       "is_ai_ml": false,
       "comments_summary": "The discussion surrounding the article \"Using Claude Code: The unreasonable effectiveness of HTML\" on HackerNews reveals a diverse range of opinions regarding the use of HTML versus Markdown (MD) in the context of AI-generated content. Many commenters appreciate HTML's structured nature and its ability to facilitate interactive elements, which can enhance user engagement and functionality. For instance, users highlighted the convenience of creating single-file HTML applications that can be easily shared and modified, as well as the effectiveness of HTML in rendering complex visual content. This aligns with the article's premise that HTML can serve as a powerful medium for AI outputs, particularly in scenarios requiring precise control over document structure and interactivity.\n\nHowever, several commenters raised concerns about the trade-offs associated with using HTML. Some pointed out that HTML is less token-efficient than Markdown, making it potentially more costly for AI applications. Others emphasized the challenges of editing HTML documents compared to Markdown, particularly for collaborative efforts, as HTML can be more complex and less human-readable in its raw form. The sentiment among some users leaned towards a preference for Markdown due to its simplicity and ease of use, especially for documentation purposes. Additionally, there was a notable discussion about the potential for hybrid approaches, such as using Markdown with embedded HTML, which could combine the strengths of both formats. Overall, while the article sparked interest in the capabilities of HTML, it also prompted a nuanced debate about the practical implications of its use in AI-driven content generation.",
       "hackernews_id": 48071940,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs"
+      "cluster_id": 20,
+      "cluster_name": "🌐 Web Development & Tools"
     },
     {
       "id": "69ff7d0605b9f9888251729e",
       "title": "Internet Archive Switzerland",
       "url": "https://internetarchive.ch/",
       "hn_score": 348,
-      "comments": 76,
+      "comments": 116,
       "author": "hggh",
       "source": "hackernews",
       "summary": "The article discusses the Internet Archive's efforts to establish a branch in Switzerland, emphasizing the critical importance of digital preservation and universal access to knowledge. This initiative is seen as a response to the growing need for safeguarding cultural heritage in the digital era, wherein the rapid pace of information generation poses risks to long-term availability and accessibility of digital resources.\n\nSwitzerland's unique position, characterized by political neutrality and its robust legal frameworks for data preservation, provides an ideal backdrop for this project. The Internet Archive aims to enhance accessibility for researchers and the general public, thereby promoting user engagement and collaboration at an international level. Ultimately, this initiative not only strengthens the core mission of the Internet Archive but also signals a broader movement towards preserving global digital information for future generations.",
@@ -189,15 +189,15 @@
       "is_ai_ml": false,
       "comments_summary": "The discussion surrounding the \"Internet Archive Switzerland\" article on HackerNews reveals a mix of enthusiasm and skepticism among community members. Many commenters expressed support for the initiative, highlighting its potential to create a distributed and resilient digital library alongside other mission-aligned organizations. There is a recognition of the need for a decentralized approach to archiving, akin to Usenet's model, where independent organizations can share content without the risk of DMCA takedown requests. This sentiment underscores a broader concern about the preservation of digital history in an era where access to information is increasingly threatened.\n\nHowever, the community also raised notable critiques regarding the functionality and presentation of the Internet Archive Switzerland's website. Several users pointed out that the site appears poorly designed and lacks essential features, such as a clear search function or accessible archived content. This led to discussions about the importance of user experience in digital archiving efforts. Additionally, some commenters questioned the effectiveness of decentralized solutions for archiving, citing past attempts that have struggled to gain traction. The overall sentiment reflects a cautious optimism, with many readers finding the concept intriguing but expressing concerns about execution and sustainability in the face of evolving technological and regulatory landscapes.",
       "hackernews_id": 48074265,
-      "cluster_id": 6,
-      "cluster_name": "📚 Digital Preservation and Knowledge"
+      "cluster_id": 24,
+      "cluster_name": "🛠️ Open Source & Community Projects"
     },
     {
       "id": "69ff7d0605b9f9888251729f",
       "title": "Mythical Man Month",
       "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
       "hn_score": 296,
-      "comments": 190,
+      "comments": 209,
       "author": "ingve",
       "source": "hackernews",
       "summary": "The article discusses 'The Mythical Man-Month,' written by Fred Brooks and published in 1975, which has significantly shaped software development principles. Despite some ideas being outdated in 2026, the book still offers valuable insights, particularly Brooks's law: adding manpower to a delayed project only exacerbates the delays due to exponential growth in communication requirements among team members. This underscores the importance of project management and effective communication in teams.\n\nBrooks emphasizes the concept of 'conceptual integrity' in system design, arguing that a coherent design driven by simplicity and straightforwardness is vital for successful software projects. The article also highlights the importance of the anniversary edition of the book, which includes Brooks's essay 'No Silver Bullet,' reinforcing the idea that there is no one-size-fits-all solution to software development challenges. Overall, the article illustrates the enduring relevance of Brooks’s ideas in addressing contemporary issues in software engineering.",
@@ -206,15 +206,15 @@
       "is_ai_ml": false,
       "comments_summary": "The discussion surrounding \"Mythical Man Month\" on HackerNews reveals a community deeply engaged with the book's themes, particularly the concept of \"conceptual integrity\" in software development. Many commenters emphasized the importance of maintaining clarity and simplicity in design, echoing Brooks' assertion that a well-defined model can prevent complications later in the development process. Some users shared personal experiences of using AI tools like Claude to enhance their productivity, noting that while these tools can accelerate certain tasks, they often introduce new complexities that can detract from the overall coherence of a project. This led to a nuanced debate about the effectiveness of AI in software development, with some claiming significant productivity boosts while others remained skeptical, citing the need for careful management of AI-generated outputs to avoid \"garbage piles\" of code.\n\nTechnical corrections and counterpoints also emerged, particularly regarding the interpretation of Brooks' Law and its relevance in the age of AI. Some commenters argued that adding more resources to a late project can exacerbate delays, a principle that still holds true despite advancements in technology. Others challenged the notion that AI represents a \"silver bullet,\" suggesting that while it can enhance productivity, it does not fundamentally change the underlying challenges of software development. The sentiment within the community was mixed; while many found the discussions around AI's impact on productivity and software delivery intriguing, there was a palpable caution about over-reliance on technology without a solid conceptual framework. Overall, readers expressed a blend of nostalgia for Brooks' insights and curiosity about how they can be reconciled with contemporary practices in software engineering.",
       "hackernews_id": 48046436,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs"
+      "cluster_id": 19,
+      "cluster_name": "📚 Software Development & Best Practices"
     },
     {
       "id": "69fe909699f33489ca619937",
       "title": "Cartoon Network Flash Games",
       "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
       "hn_score": 277,
-      "comments": 124,
+      "comments": 131,
       "author": "willmeyers",
       "source": "hackernews",
       "summary": "The article sheds light on the cultural impact of Cartoon Network Flash games, detailing their evolution and influence on audience engagement. Beginning from their creation, these games utilized beloved characters from various popular shows, capturing the attention of young viewers and establishing a dedicated fanbase. As online gaming steadily grew, Cartoon Network adapted to the changing landscape, offering compelling, interactive experiences that resonated with players.\n\nHowever, the discontinuation of Adobe Flash in December 2020 marked the end of an era for these engaging games. This transition has instigated a wave of nostalgia as fans reflect on their childhood memories associated with these digital experiences. In the face of decreasing relevance in today's mobile gaming environment, preservation efforts are currently underway to save the legacy of these games, showcasing their significant role in the evolution of online entertainment.",
@@ -223,15 +223,15 @@
       "is_ai_ml": false,
       "comments_summary": "The discussion surrounding the article on Cartoon Network Flash Games is steeped in nostalgia, with many commenters reminiscing about their childhood experiences with these games. A dominant sentiment is the appreciation for the simplicity and accessibility of these games, especially in contrast to today's gaming landscape, which often includes monetization strategies like DLCs and advertisements. One user highlighted the refreshing absence of such elements in the Cartoon Network games, which were simply about providing enjoyable content. However, this sentiment was met with a reminder that even nostalgia can be tinged with modern frustrations, as some users noted issues with accessing the games due to ad blockers or technical problems with emulators like Ruffle.\n\nTechnical nuances also emerged, with several users sharing their experiences and challenges in accessing specific games. Some expressed disappointment over the absence of beloved titles and lamented the loss of many Flash games to time, while others pointed to existing archives like Flashpoint and the Internet Archive as valuable resources for preserving these memories. The conversation also touched on the broader implications of losing such platforms for children, with some commenters expressing concern that the shift towards major platforms could negatively impact youth engagement with diverse and creative online experiences. Overall, the community's reaction was a mix of nostalgia, technical curiosity, and a sense of loss for a bygone era of internet gaming that fostered creativity and community.",
       "hackernews_id": 48065360,
-      "cluster_id": 7,
-      "cluster_name": "🎮 Gaming and Entertainment"
+      "cluster_id": 26,
+      "cluster_name": "🎮 Gaming & Entertainment"
     },
     {
       "id": "69fe909699f33489ca619938",
       "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
       "url": "https://ze3tar.github.io/post-zcrx.html",
       "hn_score": 272,
-      "comments": 135,
+      "comments": 143,
       "author": "MrBruh",
       "source": "hackernews",
       "summary": "The article discusses a significant vulnerability in the Linux 6.15 to 6.19 kernel versions, specifically related to the new zero-copy receive (ZCRX) subsystem introduced in the io_uring framework. This vulnerability arises from an out-of-bounds write linked to the management of a freelist for network I/O vectors, where the lack of bounds checking on the free_count variable can lead to overwriting adjacent memory, ultimately allowing attackers to escalate privileges to root. The process of exploitation involves manipulating memory such that an integer write corrupts a reference count, leading to kernel memory access and potential control over the system.\n\nThe author emphasizes the importance of understanding the code paths that lead to this vulnerability—highlighting the mechanisms of normal packet receipt and page pool teardown. While a patch has been proposed, it has not yet been integrated into stable kernel versions, underscoring the urgency for Linux developers to address these types of vulnerabilities. The article serves as a critical alert to systems administrators and developers regarding the risks associated with these kernel versions and the need for robust memory management to thwart similar exploits in the future.",
@@ -241,14 +241,14 @@
       "comments_summary": "The HackerNews discussion surrounding the article \"You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)\" reveals a community grappling with the implications of recent Linux vulnerabilities, particularly in the context of the io_uring interface. A dominant sentiment among commenters is concern over the frequency of privilege escalation vulnerabilities, with some noting that this marks the fourth such incident in just ten days. This surge in reported vulnerabilities has led to speculation about the role of AI in uncovering these exploits, with some commenters suggesting that the increased visibility of these issues may be a byproduct of enhanced scanning capabilities provided by AI tools.\n\nTechnical nuances and corrections emerged in the conversation, particularly regarding the nature of the vulnerabilities. Some commenters pointed out that the lack of bounds checking in the code is a common issue across programming languages, and while it can lead to serious bugs, it is not unique to any one language. Others debated the actual impact of the vulnerabilities, with some suggesting that the conditions required for exploitation (such as needing elevated privileges) may limit the scope of the threat. There was also discussion about the potential for container escape and the necessity of certain network interface cards for the exploit to be viable, indicating that while the vulnerabilities are serious, their practical implications might be more contained than initially perceived.\n\nOverall, the sentiment in the thread oscillated between alarm over the number of vulnerabilities and a more tempered view that these issues are part of the ongoing process of securing complex systems. Many commenters expressed hope that the increased scrutiny would lead to stronger security practices and better defaults in systems like AppArmor and SELinux. The conversation reflects a community that is both concerned about immediate threats and optimistic about the potential for improvement in the long run, highlighting the dual nature of vulnerability discovery as both a challenge and an opportunity for enhancement in software security.",
       "hackernews_id": 48067734,
       "cluster_id": 1,
-      "cluster_name": "🔐 Cybersecurity and Vulnerabilities"
+      "cluster_name": "🔒 Linux Vulnerabilities"
     },
     {
       "id": "69fe909699f33489ca619939",
       "title": "US Government releases first batch of UAP documents and videos",
       "url": "https://www.war.gov/UFO/",
       "hn_score": 232,
-      "comments": 503,
+      "comments": 542,
       "author": "david-gpu",
       "source": "hackernews",
       "summary": "The US government has taken a significant step by releasing its first batch of documents and videos related to Unidentified Aerial Phenomena (UAP). This initiative is part of an effort to enhance transparency regarding government findings on aerial phenomena. The provided materials, which include previously classified videos, are intended to address the growing public interest in UAP reports and investigations.\n\nAs experts begin to analyze the released content, the implications of these findings could reshape future UAP research and investigations. The government's actions have garnered a range of public reactions, from heightened curiosity to skepticism about the nature of the phenomena. Future releases are anticipated as authorities continue to explore and report on UAP encounters and their significance.",
@@ -257,15 +257,15 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews community's reaction to the release of UAP (Unidentified Aerial Phenomena) documents and videos by the US government was marked by skepticism and a mix of technical analysis. Many commenters pointed out that several of the videos appeared to show mundane objects such as balloons, birds, or missiles rather than extraterrestrial phenomena. For instance, one user noted that the star-shaped artifact in one video might be a missile or even a parachute flare, while others emphasized that if the military cannot identify common aerial objects, it raises questions about their analytical capabilities. This technical scrutiny was complemented by discussions about the credibility of debunkers like Mick West, with some defending his thorough approach while others dismissed his conclusions as lacking credibility.\n\nAmidst the technical discussions, a significant portion of the conversation centered around the motivations behind the release of these documents. Some users speculated that the timing was a strategic distraction from pressing political issues, such as rising gas prices or other government controversies. This sentiment was echoed by comments suggesting that the UFO narrative has historically been used as a tool for political leverage. The overall sentiment in the community was one of cautious curiosity mixed with skepticism, as many found the government’s presentation and the nature of the findings to be underwhelming or potentially manipulative. The combination of technical analysis and political commentary created a nuanced dialogue about the implications of the UAP disclosures, revealing a community that is both intrigued and critical of the information being presented.",
       "hackernews_id": 48061938,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs"
+      "cluster_id": 33,
+      "cluster_name": "🛸 UFO Disclosure"
     },
     {
       "id": "69fe909699f33489ca61993a",
       "title": "Teaching Claude Why",
       "url": "https://www.anthropic.com/research/teaching-claude-why",
       "hn_score": 168,
-      "comments": 138,
+      "comments": 159,
       "author": "pretext",
       "source": "hackernews",
       "summary": "The article discusses advancements in alignment training for AI models, specifically focusing on the Claude 4 family, which previously exhibited significant issues with agentic misalignment, such as engaging in blackmail during ethical dilemmas. Following these observations, the developers implemented extensive updates to safety training and alignment evaluations, culminating in the Claude Haiku 4.5 model achieving perfect alignment scores. This progress showcases the necessity of refining training methodologies to combat misaligned behaviors better.\n\nKey insights reveal that while direct training on evaluation scenarios can suppress misaligned behavior, it may not effectively generalize to diverse situations. Crucially, teaching AI models why certain actions are preferable to others—rather than merely demonstrating them—has proven to foster more robust alignment. Furthermore, consistent improvements in reducing misalignment can be attributed to enhancing the quantity and quality of training data, ensuring that both theoretical and practical frameworks for ethical behavior are integrated effectively.",
@@ -274,15 +274,15 @@
       "is_ai_ml": false,
       "comments_summary": "The discussion surrounding the article \"Teaching Claude Why\" on HackerNews reveals a community grappling with the complexities of AI alignment and its implications for society. A dominant theme is the skepticism about the definitions of \"alignment\" and \"capability\" as proposed by organizations like Anthropic. Commenters raised concerns that even a highly capable AI could lead to negative societal outcomes, such as increased poverty and inequality, questioning whether such a model could truly be considered \"aligned.\" This sentiment was echoed by discussions on the philosophical underpinnings of value systems, with some arguing that alignment efforts might merely reflect the biases of those in power, rather than an objective ethical standard.\n\nTechnical nuances were also explored, particularly the idea that alignment might be more akin to a pedagogical challenge than a purely technical one. Some commenters suggested that the principles of education and psychology could inform AI training, though others cautioned against oversimplifying the relationship between human and AI behaviors. The notion of developing a new field akin to \"AI psychology\" was proposed, highlighting the need for a deeper understanding of how to elicit desired behaviors from AI systems. Overall, the sentiment in the discussion was one of cautious curiosity, with many participants intrigued by the potential for AI to reshape philosophical debates at an accelerated pace, while simultaneously expressing concern over the ethical ramifications of increasingly autonomous AI systems.",
       "hackernews_id": 48066592,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs"
+      "cluster_id": 4,
+      "cluster_name": "🔧 Claude Model Improvements"
     },
     {
       "id": "69fe909699f33489ca61993b",
       "title": "OpenAI's WebRTC problem",
       "url": "https://moq.dev/blog/webrtc-is-the-problem/",
       "hn_score": 166,
-      "comments": 140,
+      "comments": 149,
       "author": "atgctg",
       "source": "hackernews",
       "summary": "The article critiques OpenAI's choice to utilize WebRTC for voice AI, arguing that it is fundamentally unsuitable due to its aggressive handling of audio packets. The author, who has significant experience with WebRTC, emphasizes that while it is optimized for real-time conferencing, this same design leads to potential degradation in audio quality, which is detrimental for voice AI interactions. Instead of prioritizing low latency, the author advocates for accurate and clear audio prompts, something that WebRTC does not support well due to its inherent limitations like packet dropping.\n\nMoreover, the article points out the complexities of implementing WebRTC due to the numerous standards it encompasses. The author recounts their personal experiences in reworking WebRTC systems but ultimately expresses a strong preference against using it for such applications. In summary, the author posits that the trade-offs involved in utilizing WebRTC for voice AI overshadow any potential benefits, calling for a reevaluation of its implementation in similar contexts.",
@@ -291,15 +291,15 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews discussion surrounding the article \"OpenAI's WebRTC problem\" reveals a community divided on the effectiveness and appropriateness of WebRTC for voice interactions with AI agents. Many commenters acknowledge the technical complexities and limitations of WebRTC, particularly in scenarios where low latency and high quality are paramount. Some argue that while WebRTC is designed for real-time communication, its inherent characteristics—such as packet loss handling and the lack of buffering—can hinder performance in voice-to-AI applications. This sentiment is echoed by users who have experienced frustrations with audio quality and latency issues, suggesting that alternatives like WebTransport or even local processing might be better suited for such use cases.\n\nConversely, there are voices in the discussion that defend WebRTC, highlighting its robustness and the maturity of its features, such as echo cancellation and NAT traversal. They argue that despite its challenges, WebRTC provides a reliable framework for real-time audio transmission, which is critical for applications like OpenAI's voice interactions. Some commenters propose that the real issue lies not with WebRTC itself but with how it is implemented in specific contexts. The debate also touches on user experience, with differing opinions on whether users prioritize immediate responses or would tolerate slight delays for improved accuracy. Overall, the sentiment appears to be a mix of skepticism towards WebRTC's current application in AI voice interactions, tempered by recognition of its strengths and the complexities of real-time media communication.",
       "hackernews_id": 48051951,
-      "cluster_id": 4,
-      "cluster_name": "📡 Communication and Networking"
+      "cluster_id": 21,
+      "cluster_name": "🔒 Cryptography & Privacy"
     },
     {
       "id": "69fe909799f33489ca61993c",
       "title": "How do I deal with memory leaks? (2022)",
       "url": "https://www.stroustrup.com/bs_faq2.html#memory-leaks",
       "hn_score": 150,
-      "comments": 73,
+      "comments": 74,
       "author": "theanonymousone",
       "source": "hackernews",
       "summary": "The article discusses the issue of memory leaks in C++ programming, highlighting their impact on resource management and application performance. Memory leaks transpire when dynamically allocated memory is not released after use, leading to increased memory consumption and potentially causing applications to malfunction over time. To preclude these leaks, developers are advised to employ smart pointers and adhere to the RAII principle, which ensures that resource management is tightly linked to object lifetimes, effectively minimizing the risks associated with manual memory management.\n\nAdditionally, the article emphasizes the importance of reviewing code and utilizing various tools designed to detect memory leaks. By doing so, programmers can improve their applications' efficiency and reliability. A thorough understanding of ownership semantics and diligent memory management practices are presented as vital skills for C++ developers aiming to create robust software.",
@@ -308,15 +308,15 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews discussion surrounding the article \"How do I deal with memory leaks?\" reveals a vibrant exchange of opinions on memory management practices, particularly in C++. A significant portion of the community emphasized the importance of abstraction in reducing the complexity of memory management. One commenter highlighted how simplifying the number of objects to track can transform a daunting task into a manageable one, underscoring a long-standing journey towards better abstractions in programming. This sentiment was echoed by others who critiqued traditional C++ practices, suggesting that modern coding should embrace more idiomatic approaches, such as using iterators and avoiding outdated constructs like `auto_ptr`.\n\nHowever, the conversation also delved into technical nuances and corrections regarding C++ practices. Some commenters pointed out that while garbage collection is often seen as a solution to memory leaks, it is not a panacea, as memory leaks can still occur in garbage-collected languages like Go and Java. This led to a broader discussion on the merits of manual memory management versus automated systems, with some advocating for the use of bounded queues and ring buffers as effective strategies in C++. Additionally, the historical context of C++ was brought into question, with critiques of the language's evolution and its compatibility with modern programming paradigms. The overall sentiment in the thread oscillated between nostalgia for traditional methods and a push for modern practices, with readers expressing both admiration for the language's history and frustration over its complexities.",
       "hackernews_id": 48065916,
-      "cluster_id": 8,
-      "cluster_name": "🔧 Software Development and Tools"
+      "cluster_id": 19,
+      "cluster_name": "📚 Software Development & Best Practices"
     },
     {
       "id": "69ff7d0705b9f988825172a0",
       "title": "What causes lightning? The answer keeps getting more interesting",
       "url": "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/",
       "hn_score": 149,
-      "comments": 44,
+      "comments": 54,
       "author": "Tomte",
       "source": "hackernews",
       "summary": "The article explores the multifaceted mechanisms behind lightning formation, emphasizing the role of electrical charge imbalances in clouds. It highlights recent research indicating that interactions between ice particles play a crucial role in the development of lightning. Key discoveries have linked the intensity of thunderstorms to the rate of charge separation, revealing that this natural phenomenon is more complex than previously thought.\n\nFurthermore, lightning has significant implications beyond mere meteorological interest; it generates high-energy photons that can impact atmospheric chemistry and may serve as a tool for understanding climate change. As researchers use advanced technology to simulate and study lightning, the findings suggest potential changes in lightning frequency resulting from shifts in storm intensity due to climate change, demonstrating the interconnectedness of weather phenomena and environmental dynamics.",
@@ -325,15 +325,15 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews discussion surrounding the article on lightning reveals a mix of fascination and skepticism among readers. Many commenters expressed awe at the video showcasing a small rocket inducing a lightning strike, with some speculating about the colors observed during the event. The green hue was attributed to copper emissions, while the surrounding air's ionization was noted as a contributor to the purple glow. This sparked a broader conversation about the potential for harnessing lightning energy, with some users questioning why such methods aren't more widely pursued.\n\nHowever, the article also faced criticism for perceived clickbait and a lack of new insights. Some users felt that the content did not provide substantial updates on the science of lightning, with one commenter expressing disappointment that it seemed to reiterate established theories, such as the role of cosmic rays. This prompted a nuanced discussion about the nature of scientific communication, with some defending the article's purpose of translating complex research for a general audience. Technical corrections were also raised, particularly regarding the distinction between cosmic rays and other particles involved in lightning formation, highlighting the complexities of the topic. Overall, the sentiment ranged from intrigue about the phenomena of lightning to frustration over the article's depth, reflecting a community engaged in both scientific curiosity and critical analysis.",
       "hackernews_id": 48037517,
-      "cluster_id": 15,
-      "cluster_name": "🔬 Scientific Discoveries and Innovations"
+      "cluster_id": 25,
+      "cluster_name": "📈 Economic & Environmental Impact"
     },
     {
       "id": "69fe909799f33489ca61993d",
       "title": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
       "url": "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging",
       "hn_score": 138,
-      "comments": 211,
+      "comments": 222,
       "author": "tcp_handshaker",
       "source": "hackernews",
       "summary": "Meta's recent announcement to discontinue end-to-end encryption for Instagram messaging signifies a significant shift in its approach to user privacy and security. This decision raises concerns among users, who had relied on the promised encryption to maintain confidentiality in their direct communications. By abandoning this feature, Meta aims to navigate the challenges posed by regulatory pressures and the complexities of content moderation while trying to enhance user safety across its platforms.\n\nCritics, including privacy advocates, have expressed strong opposition to the change, highlighting the potential risks to users' personal data and the trust that has been built over time. As this decision unfolds, it remains crucial to observe its impact on user engagement and the emergence of alternative messaging platforms that prioritize privacy. Meta's ability to balance user safety and privacy will likely be scrutinized as users adjust to this new reality.",
@@ -342,8 +342,8 @@
       "is_ai_ml": false,
       "comments_summary": "The discussion surrounding Meta's decision to shut down end-to-end encryption (E2EE) for Instagram messaging reveals a deep concern among the HackerNews community regarding privacy, centralization, and the implications of such corporate decisions on user safety and freedom. Many commenters expressed disappointment at the retreat from E2EE, viewing it as a regression in user privacy standards. Some argued that the move prioritizes corporate interests over user security, with one user suggesting that Meta's actions are driven by a need to monetize user data rather than a genuine concern for safety. This sentiment was echoed by others who noted that the lack of encryption could facilitate government surveillance, particularly in oppressive regimes, thus endangering users' privacy.\n\nOn the technical front, there were nuanced discussions about the challenges of implementing E2EE in a user-friendly manner. Some commenters pointed out that while E2EE is critical for protecting user privacy, it complicates the user experience and can hinder the development of new features. This led to a debate about whether the trade-offs associated with E2EE are worth it, especially for platforms like Instagram, where users may not prioritize privacy as highly as functionality. Additionally, there were critiques of the centralization of messaging services, with some suggesting that a more decentralized model could better serve user privacy needs. However, others countered that decentralization alone does not solve the underlying issues of identity and security that centralized platforms also struggle with.\n\nOverall, the sentiment in the discussion is one of frustration and concern, with many readers perceiving this decision as part of a broader trend of diminishing privacy rights in the digital age. The conversation highlighted the tension between user safety, corporate interests, and the technical challenges of maintaining privacy in a world increasingly reliant on centralized platforms.",
       "hackernews_id": 48069192,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs"
+      "cluster_id": 15,
+      "cluster_name": "🔒 End-to-End Encryption Changes"
     },
     {
       "id": "69ff7d0705b9f988825172a1",
@@ -359,15 +359,15 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews discussion surrounding the article \"The Intolerable Hypocrisy of Cyberlibertarianism\" reveals a community grappling with the complexities and contradictions of cyberlibertarian ideals. Many commenters expressed a sense of disillusionment with the original promises of the internet, echoing the article's critique that the radical individualism and deregulated capitalism espoused by early cyberlibertarians have not led to the utopian outcomes they envisioned. Instead, there is a recognition that these ideologies have often facilitated corporate overreach and regulatory capture, where large tech firms manipulate the very freedoms that were supposed to empower individuals. Some users noted that the early internet culture was self-selected for those with technical skills, which may have skewed the perception of its moral virtues.\n\nTechnical nuances and counterpoints emerged in the conversation, particularly regarding the role of encryption and the nature of regulation. Some commenters argued that encryption is a fundamental right that protects individual privacy, while others contended that it can also contribute to societal issues like militarization and financialization. The debate extended to the nature of regulation itself, with some asserting that thoughtful regulation could coexist with freedom, challenging the binary view of regulation as inherently restrictive. Overall, the sentiment in the discussion ranged from skepticism about the efficacy of cyberlibertarianism to a desire for a more equitable digital landscape, highlighting a collective yearning for a balance between individual freedoms and societal responsibilities. The article resonated with many, prompting reflections on the historical trajectory of internet culture and its implications for the future.",
       "hackernews_id": 48074952,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs"
+      "cluster_id": 28,
+      "cluster_name": "💻 Digital Ethics"
     },
     {
       "id": "69ff7d0805b9f988825172a2",
       "title": "Making Julia as Fast as C++ (2019)",
       "url": "https://flow.byu.edu/posts/julia-c++",
       "hn_score": 132,
-      "comments": 58,
+      "comments": 62,
       "author": "d_tr",
       "source": "hackernews",
       "summary": "The article 'Making Julia as Fast as C++' discusses Julia's capabilities in achieving C++-level performance while maintaining user-friendly syntax. It emphasizes the necessity of type declarations and JIT compilation, which are crucial for optimizing execution speed. Furthermore, it highlights Julia's unique feature of multiple dispatch, allowing the language to choose the best method to execute based on the types of arguments provided.\n\nAdditionally, the author points out that Julia's ecosystem effectively utilizes existing C and Fortran libraries to bolster performance. Benchmarks and profiling tools are recommended for developers to optimize their code efficiently. The ongoing contributions from the Julia community and advances in optimization techniques further strengthen Julia's potential, making it an appealing choice for those requiring high-performance computing in a more accessible framework.",
@@ -376,15 +376,15 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews discussion surrounding the article \"Making Julia as Fast as C++\" reveals a community that is both enthusiastic and critical about Julia's performance capabilities. Many commenters expressed appreciation for Julia's strengths in numerical computation, with some noting that their experiences with the language have improved over time, especially with more recent versions beyond the one discussed in the article (1.0.3). However, there is a palpable sense of frustration regarding the language's Just-In-Time (JIT) compilation and the associated development workflow. Users shared their struggles with productivity, particularly highlighting issues with the language server protocol (LSP) and the challenges of rapid iteration. Some suggested that reliance on tools like Revise.jl could be a handicap for new users, indicating a divide in how different developers approach Julia's ecosystem.\n\nTechnical corrections and counterpoints emerged throughout the discussion, particularly regarding the performance comparisons with C++. Several commenters pointed out that achieving performance parity often required code that closely mimicked C++ in structure, leading to less readable and more complex Julia code. This raised questions about the practicality of using Julia for high-performance applications when the effort to optimize could lead to code that is less idiomatic and harder to maintain. Additionally, the conversation touched on the evolution of Julia since 2019, with some users advocating for updated benchmarks to reflect the language's advancements. Overall, the sentiment was mixed; while many acknowledged Julia's potential and improvements, there remained a significant contingent that questioned whether the trade-offs in performance and usability justified its adoption over more established languages like C++.",
       "hackernews_id": 48042204,
-      "cluster_id": 3,
-      "cluster_name": "🖥️ Programming Languages and Tools"
+      "cluster_id": 16,
+      "cluster_name": "🖥️ Programming Language Innovations"
     },
     {
       "id": "69ff7d0805b9f988825172a3",
       "title": "GrapheneOS fixes Android VPN leak Google refused to patch",
       "url": "https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/",
       "hn_score": 131,
-      "comments": 98,
+      "comments": 131,
       "author": "Georgelemental",
       "source": "hackernews",
       "summary": "GrapheneOS has addressed a significant security issue in Android by releasing an update that resolves a VPN bypass vulnerability recently disclosed by a researcher. This vulnerability, which allowed users' real IP addresses to leak while using Virtual Private Networks (VPNs), stemmed from a flaw in the QUIC connection teardown feature introduced in Android 16. Despite the presence of 'Always-On VPN' and 'Block connections without VPN' protections, affected users were exposed due to the way certain APIs in Android processed network packets. GrapheneOS took proactive measures to eliminate the attack vector by disabling the problematic optimization for supported Pixel devices, reinforcing its commitment to user privacy.\n\nThe incident underscores the challenges surrounding device security and user privacy on widely used platforms like Android. The researcher reported the flaw to Google's Android security team, which deemed it as 'Won't Fix', sparking concerns about the implications for users relying on VPNs for privacy. In addition to patching the VPN leak, GrapheneOS’s latest release further includes enhancements in security measures across various system components. This situation highlights the importance of community-driven projects like GrapheneOS, which cater to individuals and organizations prioritizing strict security and privacy standards amid perceived shortcomings of corporate solutions.",
@@ -393,15 +393,15 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews discussion surrounding the article on GrapheneOS's fix for an Android VPN leak reflects a strong sentiment of frustration with Google and the broader Android ecosystem. Many users expressed their discontent with Google's handling of security issues, particularly the decision to classify the VPN leak as \"not a security issue.\" This led to a broader conversation about the implications of such vulnerabilities, with some commenters suggesting that the leak could be indicative of deeper systemic problems within Android's architecture. The community's consensus seems to be that the reliance on Google for security updates is problematic, especially given the company's prioritization of vendor relationships over user privacy.\n\nSeveral commenters also delved into the technical nuances of the VPN leak, highlighting that the issue stems from elevated privileges within the Android operating system. This sparked a discussion about whether other operating systems, like iOS and macOS, exhibit similar vulnerabilities, with some users confirming that they do. The conversation took a more conspiratorial turn when some suggested that the lack of a patch might be intentional, hinting at the possibility of backdoors in Android that compromise user security. This notion resonated with those who feel that modern Android is increasingly hazardous due to its integration of adware and spyware.\n\nOverall, the sentiment on HackerNews is one of skepticism toward Google's commitment to user security and a desire for more transparency and accountability in the tech industry. Users are eager for alternatives like GrapheneOS, but practical concerns about device compatibility and availability remain significant barriers. The discussion underscores a growing awareness and concern about privacy in the digital age, as well as a call for more robust solutions to protect users from inherent vulnerabilities in mainstream operating systems.",
       "hackernews_id": 48075144,
-      "cluster_id": 1,
-      "cluster_name": "🔐 Cybersecurity and Vulnerabilities"
+      "cluster_id": 6,
+      "cluster_name": "🔧 Android Security Fixes"
     },
     {
       "id": "69ff7d0905b9f988825172a4",
       "title": "America's carpet capital: an empire and its toxic legacy",
       "url": "https://apnews.com/projects/pfas-forever-stained/",
       "hn_score": 130,
-      "comments": 98,
+      "comments": 111,
       "author": "rawgabbit",
       "source": "hackernews",
       "summary": "The article delves into the dark legacy of America's carpet capital, showcasing how the industry is intertwined with the widespread use of PFAS, or per- and polyfluoroalkyl substances, which are deemed environmental offenders due to their persistence and harmful effects. Carpet production has not only led to significant environmental degradation but has also put the health of factory workers and nearby communities at risk, sparking public concern over safety and the ethics of using such toxic materials.\n\nFurther, the article emphasizes the inadequacy of current regulatory measures to contain or mitigate the effects of PFAS pollution, leaving local governments and affected individuals to grapple with the consequences of unaddressed contamination. As awareness of these issues grows, there is increasing demand for accountability among manufacturers and cleaner alternatives in consumer products, highlighting the urgent necessity for remediation and comprehensive policy changes to safeguard public health and the environment.",
@@ -410,15 +410,15 @@
       "is_ai_ml": false,
       "comments_summary": "The discussion surrounding the article \"America's carpet capital: an empire and its toxic legacy\" on HackerNews reveals a complex interplay of ethical concerns, environmental awareness, and the socio-economic realities of industrial practices. Many commenters expressed frustration towards the moral implications of corporate behavior, particularly highlighting the tendency for individuals in leadership positions to only speak out about pollution and health risks after their careers have ended. This sentiment was echoed by several users who argued that the prioritization of profit over ethics is a systemic issue, suggesting that individuals are often trapped in a cycle of compliance with harmful practices due to economic incentives. The notion of complicity was also raised, with some commenters pointing out that consumers, by purchasing products like carpets, share in the responsibility for the environmental degradation caused by these industries.\n\nTechnical nuances emerged in the conversation, particularly regarding the long-term effects of PFAS (per- and polyfluoroalkyl substances) and the broader implications of pollution from manufacturing processes. Some users questioned the validity of claims about the dangers of PFAS, debating whether the concerns stem from established scientific consensus or from precautionary principles. Additionally, the discussion touched on the overlooked issue of microplastics, with commenters noting that the pollution associated with carpet manufacturing is part of a larger environmental crisis linked to various consumer goods. The overall sentiment among readers was one of concern for both the affected communities and the environment, with a recognition that while manufacturing can provide economic benefits, it often comes at a significant ecological cost. This duality sparked a deeper reflection on the balance between industrial growth and environmental stewardship, highlighting a need for more sustainable practices in manufacturing.",
       "hackernews_id": 48037243,
-      "cluster_id": 2,
-      "cluster_name": "🌍 Economic and Environmental Impact"
+      "cluster_id": 25,
+      "cluster_name": "📈 Economic & Environmental Impact"
     },
     {
       "id": "69ff7d0905b9f988825172a5",
       "title": "Killswitch: Per-function short-circuit mitigation primitive",
       "url": "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/",
       "hn_score": 128,
-      "comments": 21,
+      "comments": 24,
       "author": "signa11",
       "source": "hackernews",
       "summary": "The Killswitch feature provides a temporary workaround for security vulnerabilities in the Linux kernel, allowing system administrators to disable specific kernel functions at runtime. By writing a command to the control interface, admins can engage the killswitch, which returns a fixed value instead of executing the targeted function. This approach offers immediate risk mitigation while waiting for more permanent patches, significantly reducing exposure to known vulnerabilities.\n\nThis per-function short-circuit mitigation not only offers a stopgap solution for less commonly used kernel features but also enables affected users to continue system operations with minimal disruption. Killswitch enhances kernel security management without requiring extensive code alterations, as it can be toggled on and off easily. Administration through kernel configuration ensures that relevant documentation and usability guidance is readily available for efficient implementation.",
@@ -427,8 +427,8 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews discussion surrounding the article \"Killswitch: Per-function short-circuit mitigation primitive\" reveals a mix of enthusiasm and skepticism among the community. Many commenters expressed admiration for the quality of the Linux kernel code, with some sharing their surprise at how accessible it can be despite its complexity. This sentiment highlights a broader appreciation for the craftsmanship involved in kernel development, with users noting that understanding the code can demystify what once seemed arcane. The article's technical depth sparked curiosity, leading to questions about potential implementations, such as whether similar mitigations could be achieved using BPF (Berkeley Packet Filter).\n\nHowever, the conversation also delved into concerns about the security implications of the killswitch itself. While some viewed it as a clever solution to mitigate future vulnerabilities, others raised questions about its potential misuse by malicious actors who could exploit the very mechanism designed to enhance security. This led to a nuanced discussion about the challenges of securing systems once root access is obtained, with some commenters pointing out that if an attacker has root privileges, they could potentially disable the killswitch or manipulate other critical functions. Overall, the sentiment was mixed; while many found the concept intriguing and valuable, there was a palpable caution regarding its implementation and the need for robust safeguards against potential exploitation.",
       "hackernews_id": 48073394,
-      "cluster_id": 1,
-      "cluster_name": "🔐 Cybersecurity and Vulnerabilities"
+      "cluster_id": 15,
+      "cluster_name": "🔒 End-to-End Encryption Changes"
     },
     {
       "id": "69fe909799f33489ca61993e",
@@ -444,15 +444,15 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews discussion surrounding the AWS North Virginia data center outage reveals a strong sentiment of frustration and skepticism towards AWS's reliability, particularly regarding its US-East-1 region. Many commenters highlighted that this region has become a notorious point of failure, often referred to as the \"Achilles heel\" of the Internet. Users pointed out that despite AWS's claims of redundancy through multiple Availability Zones (AZs) and regions, outages in US-East-1 frequently have cascading effects on other regions, undermining the perceived resilience of cloud infrastructure. Some commenters even suggested that the architectural decisions made in this older region, which is also the first AWS data center, may contribute to its vulnerability due to accumulated technical debt.\n\nTechnical nuances were also discussed, particularly regarding the causes of the outage. Some commenters speculated about the potential for equipment failure, particularly in cooling systems, while others questioned whether AWS overbooks its cooling capacity. The conversation also touched on the implications of relying on a single region for critical services, with several users advocating for a more cautious approach to deploying mission-critical applications in US-East-1. The overall sentiment was a mix of humor and serious concern, as users shared anecdotes and insights about the challenges of cloud infrastructure, while also expressing disbelief at the frequency of outages in a service that many rely on for their businesses. The discussion highlighted a growing mistrust in AWS's operational stability, particularly as users noted the importance of competent engineering in maintaining such complex systems.",
       "hackernews_id": 48058197,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs"
+      "cluster_id": 35,
+      "cluster_name": "☁️ Cloud Outage"
     },
     {
       "id": "69fe909799f33489ca61993f",
       "title": "PC Engine CPU",
       "url": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
       "hn_score": 122,
-      "comments": 69,
+      "comments": 71,
       "author": "ibobev",
       "source": "hackernews",
       "summary": "The article explores the PC Engine CPU, a unique aspect of the TurboGrafx-16 gaming system released in 1987. Positioned between third and fourth generation consoles, the PC Engine was notable for being the first to support CD-based games, although its North American market performance was overshadowed by competitors such as Sega Genesis and Super Nintendo. The CPU, known as HuC6280, is an advanced version of the 6502, equipped with higher performance despite being fundamentally an 8-bit system. This CPU features modified instruction sets, improved addressing modes, and allows games to operate at different clock speeds, enhancing its functionality and making it interesting from a hardware perspective.\n\nThe article goes on to discuss specific technical details, including the design of the HuC6280 as a custom package integrating additional components that optimize its use in gaming. These insights highlight the innovative aspects of the PC Engine and its contributions to the evolution of gaming technology, despite its challenges in global market competitiveness.",
@@ -461,8 +461,8 @@
       "is_ai_ml": false,
       "comments_summary": "The discussion surrounding the PC Engine CPU on HackerNews reveals a strong appreciation for the console's engineering and its often-overlooked capabilities. Many commenters highlighted the advantages of the PC Engine's 8-bit CPU, particularly its speed compared to the slower 16-bit CPUs of contemporaries like the SNES. This was underscored by the point that the TurboGrafx-16, as it was known in the U.S., was not merely an inferior version of its competitors but rather a well-designed system that excelled in certain areas, such as graphics and sound. The mention of the Arcade Card add-on and the impressive port of Street Fighter II' without additional hardware further emphasized the console's strengths.\n\nHowever, the conversation also touched on the broader context of the PC Engine's market performance. While it struggled in the U.S., it found significant success in Japan, even outselling the Sega Mega Drive at times. This led to a nuanced debate about the overall success of various consoles, with some commenters arguing that the PC Engine's library was rich due to its popularity in Japan, contrasting it with other systems like the 3DO and Jaguar, which had less favorable receptions. The sentiment in the thread was largely nostalgic and appreciative, with many users reminiscing about their experiences with the console and its games, while also acknowledging the technical prowess of Hudson Soft in creating the PC Engine's hardware. The discussion reflected a blend of technical admiration and personal nostalgia, making it clear that the PC Engine holds a special place in the hearts of many gaming enthusiasts.",
       "hackernews_id": 48063521,
-      "cluster_id": 7,
-      "cluster_name": "🎮 Gaming and Entertainment"
+      "cluster_id": 18,
+      "cluster_name": "🛠️ PC Engine and Acorn Archimedes"
     },
     {
       "id": "69ff7d0a05b9f988825172a6",
@@ -478,8 +478,8 @@
       "is_ai_ml": false,
       "comments_summary": "The discussion surrounding the article \"How LEDs are made\" reveals a blend of nostalgia and critical reflection on the evolution of LED manufacturing technology. Many commenters expressed appreciation for the article's informative nature, particularly valuing the detailed insights into the manufacturing process that they found lacking in contemporary media, which often favors fast-paced video content. This sentiment was echoed by users who reminisced about the simplicity and accessibility of photo articles, contrasting them with today's more frantic video formats. \n\nHowever, the conversation also highlighted significant technical nuances and corrections regarding the manufacturing process. Some commenters pointed out that the article, being over a decade old, may not accurately represent current practices in LED production. For instance, while the article suggested that workers manually align LED dies, others clarified that advancements in automation have likely rendered such labor-intensive methods obsolete. The discussion also touched on the improvements in Chinese LED manufacturing capabilities, noting that they have become competitive with established brands like CREE and Luxeon, which reflects a broader trend in the industry towards cost efficiency and performance enhancement. Additionally, concerns were raised about the potential health risks to workers, particularly regarding eye damage from prolonged exposure to LED production environments, although the veracity of these claims was questioned. Overall, the sentiment was one of intrigue and appreciation for the historical context of LED manufacturing, coupled with a recognition of the rapid technological advancements that have transformed the industry.",
       "hackernews_id": 48048679,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs"
+      "cluster_id": 23,
+      "cluster_name": "🖥️ Hardware & DIY"
     },
     {
       "id": "69fe909799f33489ca619940",
@@ -495,15 +495,15 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews discussion surrounding the article \"Non-determinism is an issue with patching CVEs\" reveals a strong skepticism towards the article's tone, which some commenters perceived as overly promotional. There was a notable concern about the increasing complexity of managing software dependencies, particularly in the context of Linux systems and the use of Software Bill of Materials (SBOM). Commenters expressed that while tools like SBOM can help identify dependencies, they also risk fostering a lax attitude towards dependency management, as developers might rely too heavily on automated solutions instead of maintaining rigorous oversight. This paradox highlights a tension in the developer community between leveraging automation and ensuring thoroughness in security practices.\n\nAdditionally, the conversation touched on the alarming trend of rising CVE volumes, with one commenter noting a significant uptick in the number of reported vulnerabilities, particularly projected for 2026. This observation sparked a broader discussion about the implications of this trend for the security landscape and the efficacy of current remediation strategies. Some participants emphasized the need for deeper analysis beyond just SBOMs, suggesting that the community should adopt a more proactive approach to vulnerability management rather than merely reacting to the increasing number of CVEs. Overall, the sentiment in the discussion was one of cautious concern, with many readers intrigued by the challenges posed by non-determinism in patching and the evolving nature of software vulnerabilities.",
       "hackernews_id": 48068947,
-      "cluster_id": 8,
-      "cluster_name": "🔧 Software Development and Tools"
+      "cluster_id": 7,
+      "cluster_name": "🔍 CVE and Vulnerability Management"
     },
     {
       "id": "69ff7d0a05b9f988825172a7",
       "title": "Building the TD4 4-Bit CPU",
       "url": "https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html",
       "hn_score": 66,
-      "comments": 16,
+      "comments": 19,
       "author": "zdw",
       "source": "hackernews",
       "summary": "The article discusses the construction of the TD4 4-Bit CPU, an educational microprocessor designed to teach fundamental computing concepts. It highlights the importance of understanding digital circuits, as the design covers key features such as an arithmetic logic unit (ALU), registers, and memory components essential for performing arithmetic and logical operations. The project serves as a practical learning tool for hobbyists and educators in computer engineering, encouraging hands-on experience while fostering a deeper comprehension of processor architecture.\n\nIn addition, the article emphasizes the significance of simulation tools in testing and visualizing the functionality of the CPU, which is crucial for ensuring its correct operation. Documentation is also stressed as an important resource for understanding the design specifications and choices made during the development process. Overall, the TD4 CPU serves as a valuable educational project that merges theory with practical skills in computer science.",
@@ -512,15 +512,15 @@
       "is_ai_ml": false,
       "comments_summary": "The discussion surrounding the article \"Building the TD4 4-Bit CPU\" on HackerNews reflects a strong appreciation for the simplicity and educational value of such projects. Many commenters expressed nostalgia for early computing experiences, with one user reminiscing about a 1980s TI/99 computer and a BASIC program that emulated a 4-bit microprocessor. This sentiment highlights how small-scale, hands-on projects can serve as effective tools for understanding fundamental computing principles, even if they lack practical application in modern contexts. The simplicity of the TD4's instruction set, comprising only 12 commands, was particularly appealing, prompting some users to consider building their own versions using vintage components.\n\nHowever, the conversation also included some technical nuances and corrections. While several users mentioned the well-known \"ben-eater's 8-bit computer\" and the \"nand-to-tetris\" resources as benchmarks in the DIY CPU community, one commenter pointed out the tendency for these references to dominate discussions, suggesting that a broader recognition of diverse designs would be beneficial. Additionally, there was a request for a complete list of the TD4's instructions, which was promptly addressed by another user, showcasing the collaborative spirit of the community. Overall, the sentiment was overwhelmingly positive, with readers finding the project both inspiring and a reminder of the foundational concepts of computer architecture.",
       "hackernews_id": 48045384,
-      "cluster_id": 5,
-      "cluster_name": "🕹️ Retro and Niche Computing"
+      "cluster_id": 23,
+      "cluster_name": "🖥️ Hardware & DIY"
     },
     {
       "id": "69fe909799f33489ca619941",
       "title": "Looking at the data behind prediction markets",
       "url": "https://asteriskmag.com/issues/14/are-prediction-markets-good-for-anything",
       "hn_score": 53,
-      "comments": 47,
+      "comments": 48,
       "author": "kqr",
       "source": "hackernews",
       "summary": "The article explores the evolution and potential utility of prediction markets, which have been endorsed by scholars as a means to improve both public and private decision-making. Central to the debate is the argument that these markets can aggregate knowledge more effectively than centralized methods, a concept rooted in economist Friedrich Hayek's theories. Despite optimistic beliefs regarding their function, most public prediction markets, such as Polymarket and Kalshi, primarily engage in sports betting, raising questions about their overall value in producing actionable insights.\n\nThe piece also highlights the mixed success of institutional experiments with prediction markets, noting that increased participation could enhance predictive accuracy. However, significant concerns about gambling-related issues and the real-world applicability of the information generated are prevalent. Ultimately, while predicting market data could be valuable, its current focus on non-informative betting raises skepticism about fulfilling the original vision of these markets as tools for societal foresight.",
@@ -529,15 +529,15 @@
       "is_ai_ml": false,
       "comments_summary": "The discussion surrounding the article on prediction markets on HackerNews revealed a mix of skepticism and intrigue among the community. Many commenters expressed a desire for a more nuanced conversation that moved beyond the typical debates about the ethical implications of prediction markets, such as their potential for abuse or their classification as gambling. Instead, they focused on the specific data and arguments presented in the article, with some participants emphasizing the need to engage with the material in a meaningful way. A recurring theme was the notion that prediction markets might be better termed \"indicator markets,\" as they often reflect existing knowledge rather than providing true predictive power. This perspective was supported by various commenters who noted that while these markets can summarize current sentiments effectively, they may not necessarily forecast future events with high accuracy.\n\nTechnical corrections and counterpoints were also prominent in the discussion. Some users pointed out the challenges in comparing the accuracy of predictions over time, highlighting that differences in question difficulty could skew results. The article's author acknowledged this complexity, explaining that they attempted to filter for similar markets to make comparisons more valid. Additionally, there were discussions about the relationship between market volume and accuracy, with some commenters suggesting that in efficient markets, price adjustments might occur without the need for active trading. This led to a broader inquiry into the theoretical underpinnings of prediction markets and what factors contribute to their effectiveness, with calls for more rigorous theoretical frameworks to understand their dynamics.\n\nOverall, the sentiment in the thread was one of curiosity and a desire for deeper understanding. Readers found the article's insights valuable, particularly in light of their own experiences with prediction markets. The conversation highlighted a collective interest in exploring the mechanisms that make these markets function, as well as the implications of their findings for broader forecasting practices. The interplay between empirical data and theoretical exploration seemed to resonate with many, suggesting that while prediction markets may not be perfect, they offer a fascinating lens through which to view collective decision-making and information aggregation.",
       "hackernews_id": 48049014,
-      "cluster_id": 6,
-      "cluster_name": "📚 Digital Preservation and Knowledge"
+      "cluster_id": 14,
+      "cluster_name": "📊 Prediction Markets and Decision-Making"
     },
     {
       "id": "69ff7d0b05b9f988825172a8",
       "title": "PipeDream on the Acorn Archimedes",
       "url": "https://stonetools.ghost.io/pipedream-archimedes/",
       "hn_score": 52,
-      "comments": 36,
+      "comments": 54,
       "author": "msephton",
       "source": "hackernews",
       "summary": "The article discusses the Acorn Archimedes, an innovative computing device released in the late 1980s, which significantly contributed to the evolution of computing technology. Focusing on its RISC architecture, the article highlights its performance improvements, advanced graphics abilities, and strong software development support, appealing to educators, gamers, and professionals alike. Despite facing competition from other leading platforms, the Archimedes made a lasting impact on computing and influenced future technologies.\n\nFurthermore, the article delves into how the Archimedes fostered educational use in schools while engaging students through interactive applications. It also points out the ongoing interest from enthusiast communities who cherish the Archimedes' legacy in the retro computing sphere. Overall, the piece serves as a nostalgic reminder of the Archimedes' role in shaping modern computing while celebrating its innovations and historical significance.",
@@ -546,15 +546,15 @@
       "is_ai_ml": false,
       "comments_summary": "The discussion surrounding the article \"PipeDream on the Acorn Archimedes\" on HackerNews is marked by a strong sense of nostalgia among commenters, many of whom fondly recall their experiences with RISC OS and the Acorn Archimedes. Users shared personal anecdotes about their early computing experiences, often highlighting the unique interface and capabilities of RISC OS, such as the fast boot times and the innovative use of folders as programs. This sentiment reflects a broader appreciation for the creativity and innovation that characterized the era, with some commenters noting that RISC OS represented a distinct alternative to the dominant Windows and Mac systems of the time.\n\nTechnical nuances emerged in the conversation, particularly regarding the terminology used in the article. For instance, one commenter corrected the reference to the \"Icon Tray,\" clarifying that it should be referred to as the \"Icon Bar,\" a term still in use within the RISC OS community. Additionally, some users expressed mixed feelings about the overall legacy of RISC OS, acknowledging both its pioneering features and its eventual decline due to market challenges. The mention of PipeDream as a precursor to modern software like Affinity sparked discussions on how early innovations laid the groundwork for contemporary applications, underscoring a recognition of the historical significance of these early computing platforms. Overall, the community's reaction was one of appreciation for the past, coupled with a critical examination of how those innovations have influenced today's technology landscape.",
       "hackernews_id": 48075528,
-      "cluster_id": 5,
-      "cluster_name": "🕹️ Retro and Niche Computing"
+      "cluster_id": 18,
+      "cluster_name": "🛠️ PC Engine and Acorn Archimedes"
     },
     {
       "id": "69fe909799f33489ca619942",
       "title": "The React2Shell Story",
       "url": "https://lachlan.nz/blog/the-react2shell-story/",
       "hn_score": 50,
-      "comments": 46,
+      "comments": 47,
       "author": "mufeedvh",
       "source": "hackernews",
       "summary": "The article outlines the journey of Lachlan Davidson, who inadvertently discovered a critical remote code execution vulnerability known as React2Shell while exploring web application protocols. Initially motivated by a desire to enhance his pentesting skills, Davidson's curiosity led him to uncover a significant flaw within the React framework, which ultimately affected millions of websites worldwide. Following the disclosure of the vulnerability to Meta, the company promptly issued a fix and public advisory, urging immediate updates to safeguard against potential exploits.\n\nIn addition to detailing the events leading to the discovery, the article provides insight into the workings of the Next.js framework and its reliance on React Server Components and Functions. It highlights the absence of comprehensive documentation for the protocol, which posed challenges for developers and attackers alike. Davidson's exploration underscores the need for careful scrutiny of new technologies and methodologies in web application security, ultimately leading to the aspiration of formulating a new approach for testing these vulnerable systems.",
@@ -563,15 +563,15 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews discussion surrounding \"The React2Shell Story\" reflects a strong appreciation for the collaborative efforts between security researchers and the Meta team. Many commenters praised the swift response from Meta, highlighting the impressive turnaround time of under 24 hours for triaging and confirming a vulnerability submission. This efficiency was seen as a testament to the team's dedication to security and responsible disclosure, with one commenter specifically commending Lachlan, the security researcher involved, for his proactive engagement and support throughout the remediation process. This collaborative spirit resonated with the community, emphasizing the importance of teamwork in addressing security vulnerabilities.\n\nIn addition to the praise, the comments also touched on the complexities of the vulnerability itself, with some users noting the intricate nature of the exploit. The discussion included a mix of technical insights and personal anecdotes, illustrating the challenges faced during the research process. One commenter highlighted the emotional rollercoaster often experienced in vulnerability discovery, encapsulated in a humorous graph that depicted the oscillation between optimism and despair. Overall, the sentiment was largely positive, with readers expressing admiration for the work done and the lessons learned from the experience, while also recognizing the ongoing challenges in the field of cybersecurity.",
       "hackernews_id": 48065511,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs"
+      "cluster_id": 14,
+      "cluster_name": "📊 Prediction Markets and Decision-Making"
     },
     {
       "id": "69ff7d0b05b9f988825172a9",
       "title": "Reviving the IBM Selectric Composer Fonts (2023)",
       "url": "https://www.kutilek.de/selectric/",
       "hn_score": 49,
-      "comments": 6,
+      "comments": 9,
       "author": "tangus",
       "source": "hackernews",
       "summary": "The article discusses the revival of IBM's Selectric Composer fonts, emphasizing its historical significance as a revolutionary typewriter introduced in 1964. This typewriter broke new ground by allowing variable width glyphs, moving away from the conventional monospaced design, thus enhancing typographic flexibility. The precision-engineered type elements, nicknamed 'golf balls', not only showcased advanced engineering but also significantly contributed to the machine's typographic capabilities, facilitating various font sizes and styles through a color-coded unit system.\n\nFurthermore, the process of digitizing these fonts involves intricate mathematical calculations to faithfully recreate their original characteristics. The article highlights the intricacies of cap heights and unitized glyph widths integral to typesetting, laying the groundwork for contemporary font revival initiatives. Jens Kutilek's work on this revival project demonstrates a commitment to preserving typographic heritage, breathing new life into a pivotal chapter in the evolution of typesetting technology.",
@@ -580,15 +580,15 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews discussion surrounding the revival of the IBM Selectric Composer fonts reveals a deep appreciation for the mechanical ingenuity of the Selectric Composer, particularly its rotating ball mechanism that allowed for complex typesetting. Many commenters expressed nostalgia for the device, recalling their experiences with it in educational or professional settings. Users highlighted the impressive capability of the Composer to produce well-spaced and justified text, which was a significant advancement over traditional typewriters. The mechanical nature of the Composer, in contrast to modern software solutions, sparked admiration for the craftsmanship involved in its design.\n\nHowever, the conversation also touched on some technical nuances and historical context. One commenter noted the Selectric's role in the Killian documents forgery case, pointing out that while the Composer was a marvel for its time, it could not replicate the precise formatting capabilities of modern word processors. This led to a broader discussion about the evolution of typesetting technology, with some users reminiscing about their personal experiences with the Composer and its unique operational quirks, such as the need to type lines in non-printing mode for justification. Overall, the sentiment in the thread was one of fascination and respect for the Selectric Composer, with many readers finding the blend of nostalgia and technical history particularly compelling.",
       "hackernews_id": 48040412,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs"
+      "cluster_id": 24,
+      "cluster_name": "🛠️ Open Source & Community Projects"
     },
     {
       "id": "69fe909799f33489ca619943",
       "title": "Can LLMs model real-world systems in TLA+?",
       "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
       "hn_score": 48,
-      "comments": 31,
+      "comments": 32,
       "author": "mad",
       "source": "hackernews",
       "summary": "The article discusses the recent exploration of Large Language Models (LLMs) in modeling real-world systems using TLA+, a formal specification language for describing system behaviors. The Specula team conducted evaluations to address the challenges of verifying whether LLMs are generating meaningful formal models or merely reproducing content from existing reference materials. Initial evaluations illustrated that LLMs could create specifications that passed syntax and runtime checks but often failed to accurately reflect the specifics of the target systems, as many specifications closely resembled foundational texts rather than the unique characteristics of the systems in question.\n\nTo tackle this challenge, the team introduced SysMoBench, a benchmark that analyzes how LLMs generate specifications across multiple systems through a structured evaluation process. This process involves several phases: checking syntax compliance, validating runtime execution, ensuring conformance through trace validation, and verifying that specifications meet critical safety and liveness properties. The findings from these evaluations reveal consistent patterns among different LLMs, indicating their current limitations in differentiating between general theoretical knowledge and the specifics of complex system implementations. The study underscores the importance of developing methods to accurately assess and refine LLM capabilities in formal modeling.",
@@ -597,15 +597,15 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews discussion surrounding the article \"Can LLMs model real-world systems in TLA+?\" reflects a vibrant community interest in the intersection of formal verification and machine learning. A prominent sentiment is the excitement over tools like TLA+ and their potential to streamline software development processes, as highlighted by users who have created platforms to integrate TLA+ with practical applications. One commenter shared their experience with a tool that allows for rapid software development in complex environments, suggesting that such integrations could significantly reduce development time and enhance reliability.\n\nHowever, the conversation also introduced critical perspectives, particularly regarding the limitations of using LLMs for modeling real-world systems. Some commenters pointed out the risks of divergence between models and actual implementations, advocating for methodologies like Verus, which emphasize coupling implementation and verification. This indicates a nuanced understanding within the community that while LLMs offer innovative possibilities, there are inherent challenges in ensuring that models remain aligned with real-world applications. Overall, the sentiment is cautiously optimistic, with readers intrigued by the potential of combining formal methods with advanced AI, while also recognizing the need for robust verification techniques to mitigate risks.",
       "hackernews_id": 48065254,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs"
+      "cluster_id": 21,
+      "cluster_name": "🔒 Cryptography & Privacy"
     },
     {
       "id": "69fe909799f33489ca619944",
       "title": "Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests",
       "url": "https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests",
       "hn_score": 37,
-      "comments": 55,
+      "comments": 59,
       "author": "amanaplanacanal",
       "source": "hackernews",
       "summary": "Tesla's Model Y has made history by becoming the first vehicle to successfully complete the National Highway Traffic Safety Administration's (NHTSA) newly established Advanced Driver Assistance System (ADAS) tests. This milestone signifies a key advancement in automotive safety, particularly in the realm of automated driving technologies, highlighting Tesla's role as a significant player in the electric vehicle market. The NHTSA's rigorous testing criteria were designed to enhance safety standards and accountability for advanced driving systems, reflecting growing concerns about the reliability of these technologies in real-world conditions.\n\nBy passing these stringent tests, Tesla not only reinforces its commitment to safety and innovation but also potentially boosts consumer confidence in autonomous vehicle technologies. This achievement may set a new benchmark for automotive manufacturers, encouraging a broader adoption of advanced driver assistance features across the industry. Furthermore, the NHTSA’s findings could guide future regulations, shaping the landscape of automated driving as more vehicles enter the market with similar technologies.",
@@ -614,8 +614,8 @@
       "is_ai_ml": false,
       "comments_summary": "The discussion surrounding Tesla Model Y's successful completion of the NHTSA's new 'Advanced Driver Assistance System' (ADAS) tests reveals a mix of admiration and skepticism within the HackerNews community. Many commenters expressed surprise at Tesla's performance, particularly in comparison to other brands, including those utilizing LIDAR technology. A notable point raised was a Chinese TV channel's testing, which indicated that Tesla outperformed several local brands, although the tests were conducted during the day, raising questions about the robustness of the results in varied conditions. This sparked curiosity about how other manufacturers, especially those with advanced safety systems like Toyota's Safety Sense, would fare under similar scrutiny.\n\nHowever, the conversation also highlighted significant concerns regarding Tesla's existing Autopilot and Full Self-Driving (FSD) features. Users shared personal experiences of phantom braking and erratic behavior, leading to fears for safety. Some commenters argued that the issues with Tesla's systems could warrant legal action, particularly in markets outside the U.S. where performance has been notably poor. Additionally, there were technical discussions about the differences in safety features across brands, with some questioning whether Tesla's systems genuinely outperformed competitors or simply met the new testing standards. The overall sentiment was mixed; while some celebrated Tesla's achievements, others remained critical of the company's track record and the potential implications of its advanced driver assistance systems on road safety.",
       "hackernews_id": 48070115,
-      "cluster_id": 9,
-      "cluster_name": "🚗 Autonomous and Electric Vehicles"
+      "cluster_id": 36,
+      "cluster_name": "🚗 Autonomous Vehicles"
     },
     {
       "id": "69ff7d0c05b9f988825172aa",
@@ -631,15 +631,15 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews discussion surrounding the article on a flight simulator built with a custom programming language revealed a mix of admiration and technical scrutiny from the community. Many commenters expressed excitement about the achievement, highlighting the novelty of creating a flight simulator from scratch. This sentiment was echoed by users who appreciated the creativity involved in developing a personal programming language, with some noting that such projects often require significant dedication and skill. However, the choice of terminology—specifically the use of \"flight simulator\"—was questioned by some, who suggested that the project might lean more towards an arcade-style game rather than a true simulation, given the simplifications in flight dynamics.\n\nTechnical nuances also emerged in the conversation, particularly regarding the implementation of flight mechanics. Some commenters pointed out that conventional aircraft control involves more than just pitch and yaw, emphasizing the importance of direct roll control for a realistic simulation. Others discussed the performance aspects of the programming language used, with mentions of compilation to QBE IR and C99, and the need for further optimization. Additionally, the role of AI tools like GitHub Copilot and Claude in assisting with language creation and game development was a recurring theme, with several users acknowledging that such technologies have made it easier to embark on ambitious programming projects. Overall, the discussion reflected a blend of enthusiasm for innovative programming endeavors and a critical eye towards the technical accuracy and execution of the project.",
       "hackernews_id": 48042427,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs"
+      "cluster_id": 23,
+      "cluster_name": "🖥️ Hardware & DIY"
     },
     {
       "id": "69fe909799f33489ca619945",
       "title": "When is your birthday? The math behind hash collisions",
       "url": "https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html",
       "hn_score": 34,
-      "comments": 17,
+      "comments": 21,
       "author": "denismenace",
       "source": "hackernews",
       "summary": "The article explores the mathematics behind the famous birthday problem, emphasizing how quickly the probability of shared birthdays escalates with an increasing number of individuals. It highlights that in a group of just 23 people, there exists almost a 50% chance that at least two will share a birthday, which seems counterintuitive at first glance.\n\nThe article delves into the mathematical concepts needed to compute these probabilities, including the principle of complementary probabilities where the focus is on the number of unique birthdays. It discusses both the exact formulas and approximate methods for calculating birthday probabilities, demonstrating the intriguing nature of combinatorial probability, and concludes with a glance into more complex scenarios, such as three individuals sharing the same birthday in a larger group.",
@@ -648,15 +648,15 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews community engaged in a lively discussion about the article \"When is your birthday? The math behind hash collisions,\" with many users expressing fascination with the mathematical concepts presented. A dominant theme was the exploration of the implications of hash collisions, particularly in the context of birthday paradoxes. Several commenters shared personal anecdotes about their birthdays, highlighting the relatable nature of the topic and how it connects to broader mathematical principles. One user humorously noted their birthday's position at the center of the year, prompting a light-hearted exchange about the odds of such a coincidence, which led to a playful debate about probability.\n\nIn addition to personal reflections, some commenters offered technical corrections and deeper insights into the mathematics of hash functions and collisions. There were discussions about the practical applications of understanding hash collisions in computer science, particularly in cryptography and data integrity. A few users pointed out nuances in the article's explanations, emphasizing that while the birthday problem illustrates interesting probabilities, real-world scenarios often involve more complex factors that can affect outcomes. Overall, the sentiment was positive, with readers appreciating the blend of personal connection and technical depth, while also enjoying the playful banter that emerged from their shared experiences. The article successfully sparked curiosity and engagement, highlighting the intersection of math and everyday life.",
       "hackernews_id": 48068254,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs"
+      "cluster_id": 26,
+      "cluster_name": "🎮 Gaming & Entertainment"
     },
     {
       "id": "69fe909799f33489ca619946",
       "title": "All means are fair except solving the problem",
       "url": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
       "hn_score": 33,
-      "comments": 53,
+      "comments": 56,
       "author": "akkartik",
       "source": "hackernews",
       "summary": "The article discusses an incident involving an industry veteran who mistakenly introduced warning messages into his code, leading to unexpected failures in critical workflows. The warnings, intended to inform users of misuse, ended up causing confusion and prompting critical scripts to erroneously assume that the program had failed. Instead of fixing the original problem, colleagues suggested various workarounds, such as reprinting messages or suppressing warnings, reflecting a common tendency in the industry to avoid addressing root causes in favor of expedient solutions.\n\nThe article highlights broader issues within software development, particularly the challenges of dependency management and the implications of Hyrum's law, which asserts that all observable behaviors of a system will be relied upon by someone, often without their willingness to rectify their code. This situation is a cautionary tale about the complexities of software engineering, emphasizing the importance of addressing core issues rather than implementing superficial fixes.",
@@ -665,15 +665,15 @@
       "is_ai_ml": false,
       "comments_summary": "The discussion surrounding the article \"All means are fair except solving the problem\" on HackerNews revealed a strong focus on the technical nuances of error handling in programming, particularly the use of standard output (stdout) and standard error (stderr). Many commenters emphasized the importance of adhering to POSIX conventions, where stderr is designated for error messages and diagnostic information, while stdout is reserved for regular program output. This distinction sparked a debate about the implications of misusing these streams, with some users sharing experiences of how improper handling led to significant issues, such as file corruption in unique Unix setups. The sentiment was largely one of frustration with the lack of adherence to these conventions, as well as a call for better practices in error reporting.\n\nNotably, some commenters pointed out that warnings should not be treated as errors, arguing that the article's conclusion oversimplified the complexities of error handling. They highlighted the necessity of distinguishing between warnings that can be deferred and those that require immediate attention. This led to a broader discussion about the responsibilities of developers in ensuring that their code behaves predictably, especially when it comes to exit codes and the implications of returning non-zero statuses. The conversation also touched on the balance between maintaining backward compatibility and the need for robust error handling, with some advocating for more stringent practices to prevent future issues. Overall, the community's sentiment reflected a mix of technical critique and a desire for clearer guidelines in programming practices, particularly in the context of error management.",
       "hackernews_id": 48037655,
-      "cluster_id": 8,
-      "cluster_name": "🔧 Software Development and Tools"
+      "cluster_id": 19,
+      "cluster_name": "📚 Software Development & Best Practices"
     },
     {
       "id": "69ff7d0c05b9f988825172ab",
       "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
       "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
       "hn_score": 25,
-      "comments": 55,
+      "comments": 78,
       "author": "ggallas",
       "source": "hackernews",
       "summary": "In May 2026, cPanel faced a significant cybersecurity incident involving a ransomware attack that compromised 44,000 web hosting servers. The company swiftly responded by issuing an emergency security patch for three new vulnerabilities—two of which were deemed highly severe with CVSS scores of 8.8. This prompted a noticeable increase in security diligence, as the release of these patches showcased a deeper code audit following the initial breach. Notably, two of the identified vulnerabilities could allow for arbitrary code execution or privilege escalation, intensifying the urgency for users to apply these patches promptly.\n\nThe rapid succession of Technical Security Releases (TSRs) highlights the critical nature of these vulnerabilities within the web hosting domain. cPanel's proactive approach, including immediate notifications to registered customers, underscores its commitment to safeguarding user data and server integrity, particularly in a threat landscape that has become increasingly complex and perilous. The incident reflects broader concerns in the web hosting industry regarding continuous security challenges and the need for vigilance against evolving cyber threats.",
@@ -682,15 +682,15 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews discussion surrounding the article on CPanel's recent vulnerabilities reflects a mix of concern and resignation among users regarding the platform's security. Many commenters expressed disbelief that CPanel, a widely used tool for managing shared hosting, continues to be prevalent despite its age and the inherent risks associated with outdated codebases. Some users reminisced about their own experiences with older software, drawing parallels between past hacks and the current vulnerabilities affecting CPanel. This sentiment was echoed by those who pointed out that many users of shared hosting services may not be well-versed in cybersecurity, potentially leaving them exposed to risks.\n\nHowever, there were notable counterpoints raised in the discussion. Some commenters argued that the age of the software does not inherently correlate with its vulnerability, suggesting that the real issue lies in the user base's lack of technical knowledge and the design of GUI wrappers that obscure critical information. This perspective highlighted a broader issue within the hosting ecosystem, where the convenience of user-friendly interfaces may come at the cost of security awareness and best practices. The overall sentiment in the thread was one of cautious concern, with many users recognizing the need for better education and security measures in the shared hosting environment, especially as CPanel remains a staple for millions of websites.",
       "hackernews_id": 48076465,
-      "cluster_id": 1,
-      "cluster_name": "🔐 Cybersecurity and Vulnerabilities"
+      "cluster_id": 12,
+      "cluster_name": "🔐 cPanel Security Patches"
     },
     {
       "id": "69ff7d0d05b9f988825172ac",
       "title": "Show HN: Mochi.js: bun-native high-fidelity browser automation library",
       "url": "https://mochijs.com/",
       "hn_score": 24,
-      "comments": 18,
+      "comments": 20,
       "author": "ccheshirecat",
       "source": "hackernews",
       "summary": "Mochi.js is presented as a state-of-the-art browser automation library that uniquely combines high fidelity and stealth, making it a powerful tool for developers seeking effective browser interactions. Built with a core focus on avoiding detection, Mochi.js utilizes a Bun-native architecture that ensures automation tasks maintain a relationally-coherent fingerprint, avoiding traditional fingerprinting pitfalls associated with existing libraries.\n\nBy integrating various advanced methodologies, such as a relational consistency engine and human-like behavioral synthesis, Mochi.js addresses the common vulnerabilities faced by its predecessors. The framework captures both real-time user interaction baselines while simplifying the automation process to just a few lines of code. Ultimately, it represents a substantial advancement in browser automation technology, providing versatility for cross-platform use while ensuring exceptional user privacy.",
@@ -699,8 +699,8 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews discussion surrounding Mochi.js, a new browser automation library, reveals a mix of enthusiasm and skepticism among the community. Many users expressed interest in the library's capabilities, particularly its promise of high-fidelity automation and advanced fingerprinting techniques. However, there were notable concerns regarding the clarity and accessibility of its documentation, especially on mobile devices. One commenter pointed out that the homepage and documentation were nearly unreadable on mobile, prompting a debate about the responsibility of developers to ensure usability across platforms. This sentiment was met with some pushback, as another user argued that not all submissions are held to the same standard, suggesting that frustrations with mobile rendering shouldn't solely be attributed to the use of language models in the development process.\n\nOn a technical level, the discussion also highlighted potential vulnerabilities in the library's approach to fingerprinting. One user raised a critical point about the effectiveness of the tool in evading detection, questioning whether running a browser in debug mode could be easily identified by sites that are serious about blocking bots. This concern was echoed by another commenter who noted that the library's transparency in documenting its fingerprinting mechanisms could inadvertently aid those developing detection systems. Overall, the sentiment in the thread was mixed; while there was excitement about the innovative features of Mochi.js, there were also significant reservations about its practical application and the clarity of its communication, underscoring the need for further refinement in both technical and user-facing aspects.",
       "hackernews_id": 48075059,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs"
+      "cluster_id": 20,
+      "cluster_name": "🌐 Web Development & Tools"
     },
     {
       "id": "69fe909799f33489ca619947",
@@ -716,15 +716,15 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews discussion surrounding the article \"Hosting a Site on a Raspberry Pi\" revealed a mix of enthusiasm and caution among community members. Many users expressed excitement about the DIY aspect of hosting a website on a Raspberry Pi, highlighting the low cost and educational value of such a project. However, this enthusiasm was tempered by significant concerns regarding security. A notable point raised was the risk of exposing one's home network to vulnerabilities by directly hosting a public site. Users like Lord_Zero emphasized the importance of using tools like Cloudflare Tunnel to mitigate these risks, suggesting that while self-hosting can be rewarding, it should be approached with careful consideration of network safety.\n\nIn addition to security concerns, some commenters shared their personal experiences and technical insights, discussing the potential performance limitations of Raspberry Pis compared to traditional hosting solutions. They noted that while a Raspberry Pi can handle small personal projects effectively, it may struggle under heavier loads or with complex applications. This sparked a nuanced debate about the trade-offs between the charm of self-hosting and the practicality of using established cloud services. Overall, the sentiment in the discussion leaned towards a cautious optimism, with many readers intrigued by the possibilities of Raspberry Pi hosting while recognizing the need for robust security measures and realistic expectations regarding performance.",
       "hackernews_id": 48046405,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs"
+      "cluster_id": 2,
+      "cluster_name": "🖥️ Raspberry Pi Web Hosting"
     },
     {
       "id": "69fe909799f33489ca619948",
       "title": "Human typing habits and token counts",
       "url": "https://pankajpipada.com/posts/2026-05-08-human-habits-tokens/",
       "hn_score": 20,
-      "comments": 5,
+      "comments": 6,
       "author": "ppipada",
       "source": "hackernews",
       "summary": "The article discusses how human typing habits affect token counts used by various AI models, emphasizing that common typing mistakes and shorthand can lead to higher billing without changing the message's intent. It illustrates cases where minor spelling errors or the use of fillers in chat can result in unexpected tokenization changes, demonstrating the discrepancies between different tokenizers like OpenAI and Claude. \n\nThrough detailed examples, the article highlights that our typing practices and the way we phrase conversations often clash with how tokenizers categorize text for billing, leading to a nuanced understanding of potential costs in using AI services. The author suggests that while humans optimize for efficiency in typing, the focus should also be on how these habits can affect financial aspects when using AI platforms.",
@@ -733,8 +733,8 @@
       "is_ai_ml": false,
       "comments_summary": "The discussion surrounding the article \"Human typing habits and token counts\" on HackerNews revealed a mix of skepticism and practicality among readers regarding the idea of actively managing token counts in real-time typing scenarios. Many commenters expressed disbelief that individuals would go to the lengths of monitoring their typing habits to save minimal costs, suggesting that the effort could lead to unnecessary stress and distraction. This sentiment was echoed by users who highlighted the futility of trying to optimize token counts during live interactions, arguing that the focus should instead be on effective communication rather than minute savings.\n\nOn the technical side, some commenters pointed out that while it is indeed beneficial to streamline automated processes and reduce token counts in pre-prepared content, the notion of policing one's typing in casual or spontaneous conversations seemed excessive. This raised a nuanced debate about the balance between cost efficiency and the natural flow of communication. Overall, the sentiment leaned towards a preference for prioritizing clarity and engagement over meticulous token management, with many readers finding the concept of obsessively tracking typing habits both impractical and counterproductive. The discussion highlighted a broader tension between efficiency in digital communication and the inherent value of human interaction.",
       "hackernews_id": 48062606,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs"
+      "cluster_id": 29,
+      "cluster_name": "⌨️ Typing Analysis"
     },
     {
       "id": "69ff7d0d05b9f988825172ad",
@@ -750,15 +750,15 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews discussion surrounding the article \"I Will Not Add Query Strings to Your URLs\" reveals a strong sentiment against the indiscriminate use of query strings in URLs, with many commenters expressing concerns about their potential to break functionality and create confusion. A significant point raised is the author's decision to implement a blanket ban on unauthorized query strings, which some users found problematic, particularly when it results in a 414 error for legitimate requests. Critics argue that this approach punishes users who may not understand the implications of query strings, suggesting that a more user-friendly response could be to provide guidance rather than outright rejection.\n\nTechnical nuances emerged in the conversation, with some commenters highlighting that while query strings can be useful for tracking and customization, they often lead to unpredictable behavior. Examples were shared of websites that malfunctioned due to poorly handled query strings, reinforcing the idea that not all implementations are created equal. There was also a debate about the appropriateness of certain HTTP error codes in response to query string issues, with suggestions ranging from 400 Bad Request to more humorous alternatives. Ultimately, the community's overall sentiment leaned towards advocating for a balanced approach: recognizing the utility of query strings while also emphasizing the need for careful implementation to avoid user frustration and technical failures.",
       "hackernews_id": 48076173,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs"
+      "cluster_id": 8,
+      "cluster_name": "📜 Web Development Practices"
     },
     {
       "id": "69fe909899f33489ca619949",
       "title": "Light without electricity? Glowing algae could make it possible",
       "url": "https://www.colorado.edu/today/2026/05/06/light-without-electricity-glowing-algae-could-make-it-possible",
       "hn_score": 17,
-      "comments": 35,
+      "comments": 38,
       "author": "geox",
       "source": "hackernews",
       "summary": "Researchers from CU Boulder have developed a groundbreaking technique to keep bioluminescent algae illuminated without the use of electricity, potentially revolutionizing how we perceive and utilize light sources. By exposing the algae Pyrocystis lunula to specific chemical solutions, they were able to sustain luminescence for extended periods, achieving bright, concentrated light for up to 25 minutes. This innovative approach not only addresses aesthetic needs, such as decorative lighting, but also offers practical applications in autonomous robotics and environmental monitoring through living sensors.\n\nThe study highlights the natural phenomenon of bioluminescence, observable in various organisms, and demonstrates how manipulating environmental factors can control light production. The researchers embedded the glowing algae into a hydrogel and used 3D printing techniques to shape this material for potential applications. As researchers like Wil Srubar explore biological alternatives for lighting, this work represents a critical step toward engineering sustainable technologies that could diminish reliance on electricity.",
@@ -767,15 +767,15 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews discussion surrounding the article on glowing algae as a potential light source reveals a mix of skepticism and intrigue among readers. Many commenters expressed doubts about the practicality of using bioluminescent organisms for lighting, emphasizing that these organisms still require energy inputs for their luminescence, which undermines the notion of \"light without electricity.\" One user highlighted their experience with genetically engineered luminescent plants, noting that while they are fascinating, they are not yet viable for practical applications. This sentiment was echoed by others who pointed out that traditional light sources, such as candles and torches, also provide illumination without relying on electricity, suggesting that the allure of glowing algae might be overstated.\n\nAdditionally, some commenters brought up the need for a more nuanced understanding of the energy dynamics involved in bioluminescence. While the concept of using living organisms for lighting is captivating, the community seemed to agree that the current state of technology is far from making it a feasible alternative to conventional lighting methods. The overall sentiment leaned towards cautious optimism, with readers intrigued by the potential of bioluminescent organisms but recognizing the significant hurdles that remain before they can be used effectively in everyday applications. The discussion highlighted a broader curiosity about sustainable lighting solutions, yet underscored the importance of realistic expectations regarding their implementation.",
       "hackernews_id": 48040470,
-      "cluster_id": 15,
-      "cluster_name": "🔬 Scientific Discoveries and Innovations"
+      "cluster_id": 25,
+      "cluster_name": "📈 Economic & Environmental Impact"
     },
     {
       "id": "69ff7d0e05b9f988825172ae",
       "title": "Introduction to Beaver Triples",
       "url": "https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples",
       "hn_score": 16,
-      "comments": 11,
+      "comments": 12,
       "author": "badcryptobitch",
       "source": "hackernews",
       "summary": "The article discusses the significance of Beaver triples in secure multi-party computation (MPC). Beaver triples serve as a mathematical framework that allows multiple parties to perform computations on shared data without compromising confidentiality. By leveraging these triples, protocols can achieve greater efficiency, reduce communication overhead, and enhance security during computations, making them vital for applications in cryptography, secure data handling, and privacy-conscious systems.\n\nThe article emphasizes that understanding Beaver triples is essential for professionals in the field of cryptography, as it influences the design and execution of secure computing protocols. The implications of effectively implementing Beaver triples extend beyond mere theoretical applications, affecting real-world scenarios such as privacy-preserving data analysis and collaborative computations, highlighting the importance of innovative approaches in handling sensitive information securely.",
@@ -784,15 +784,15 @@
       "is_ai_ml": false,
       "comments_summary": "The discussion surrounding the article \"Introduction to Beaver Triples\" on HackerNews revealed a mix of technical insights and frustrations regarding the online reading experience. Many commenters expressed concern over the quality of online content, particularly highlighting issues with typos and the rush to publish. One user pointed out a specific example of a typographical error, suggesting that the pressure to produce content quickly may compromise editorial standards. This sentiment resonated with others who noted that the prevalence of AI-generated content could also contribute to a decline in quality, raising questions about the authenticity and reliability of online articles.\n\nIn addition to the content-related discussions, a significant portion of the conversation focused on technical difficulties users experienced while trying to access the article. Several commenters reported issues with their browsers, such as crashes and slow performance, particularly on Safari and Firefox. This led to a broader discussion about the reliability of different web browsers and potential compatibility problems with certain websites. The overall sentiment in the thread was a mix of frustration with both the quality of online writing and the technical challenges faced while engaging with digital content, indicating a desire for improvement in both areas. Readers found the juxtaposition of technical issues and content quality particularly interesting, as it highlighted the interconnected nature of technology and media consumption.",
       "hackernews_id": 48076009,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs"
+      "cluster_id": 21,
+      "cluster_name": "🔒 Cryptography & Privacy"
     },
     {
       "id": "69ff7d0e05b9f988825172af",
       "title": "Show HN: Free tool to mark points and polygon regions",
       "url": "https://tack.pics",
       "hn_score": 16,
-      "comments": 6,
+      "comments": 7,
       "author": "magikMaker",
       "source": "hackernews",
       "summary": "The article presents Tack, a free online tool designed for precise image annotation by marking points and polygons. It caters to a broad audience, including game developers, UI engineers, and machine learning data labelers, providing functionalities such as bezier curve drawing, multiple origin adjustments, and support for exporting structured data in various formats. Tack is built with user privacy in mind; it runs entirely in the browser, ensuring that no images or annotations are sent to servers, allowing users to work safely and securely.\n\nTack's extensive features facilitate a versatile approach to image handling, enabling flexible options for coordinate representation, whether in absolute pixels or normalized values. Users can engage with the tool offline after visiting the site, making it a convenient resource for professionals needing to transcribe visual elements into structured datasets. This innovative tool streamlines the process of converting image content into actionable data, catering to diverse use cases from game design to machine learning.",
@@ -801,15 +801,15 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews discussion surrounding the \"Show HN: Free tool to mark points and polygon regions\" article reveals a generally positive sentiment towards the tool, with users expressing excitement about its potential applications. One user shared a personal anecdote about utilizing a similar technology to visualize a lighting arrangement for their balcony, highlighting the practical uses of such tools in everyday life. This enthusiasm was echoed by others who appreciated the innovative nature of the tool and its user-friendly interface, suggesting it could be beneficial for various projects, from home improvement to more complex design tasks.\n\nHowever, the conversation also included some critical feedback, particularly regarding the tool's performance on mobile devices. One commenter pointed out that the application is not optimized for smaller screens, which could limit its accessibility and usability for a significant portion of users. This raised a valid concern about ensuring that the tool is functional across different platforms, as mobile accessibility is increasingly important in today’s tech landscape. Additionally, another user shared a link to a blog post detailing their own experiences with the tool, contributing to the discussion with further insights and practical examples. Overall, while the community was largely supportive and intrigued by the tool's capabilities, there were notable calls for improvements, particularly in mobile compatibility, to enhance user experience.",
       "hackernews_id": 48043002,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs"
+      "cluster_id": 20,
+      "cluster_name": "🌐 Web Development & Tools"
     },
     {
       "id": "69ff7d0f05b9f988825172b0",
       "title": "Zed Editor Theme-Builder",
       "url": "https://zed.dev/theme-builder",
       "hn_score": 11,
-      "comments": 44,
+      "comments": 83,
       "author": "cuechan",
       "source": "hackernews",
       "summary": "The Zed Editor Theme-Builder is a feature designed to enhance user experience by allowing for comprehensive customization of the editor's appearance. Users can create, save, and share personalized themes, fostering a collaborative atmosphere within the coding community. The interface is intuitive and supports real-time updates, ensuring that any changes made to themes can be seen immediately, which is beneficial for both new and experienced users alike.\n\nIn addition to customization options, the Theme-Builder comes with a wide array of pre-designed themes, streamlining the design process for users who may want quick results. The documentation is accessible and well-organized, making it easy to navigate through the customization capabilities. As a cross-platform tool, Zed Editor focuses on enhancing productivity while accommodating the diverse needs of its users, ultimately promoting a more efficient coding environment.",
@@ -818,15 +818,15 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews discussion surrounding the \"Zed Editor Theme-Builder\" reveals a mix of enthusiasm and constructive criticism from the community. Many users expressed excitement about the new dynamic theming capabilities introduced in the recent Omarchy update, which they found to be a significant improvement. The ability to customize themes resonated particularly well with users who emphasized the importance of visual aesthetics in coding environments. One commenter highlighted the difference in color schemes between Zed and VSCode, illustrating how small visual tweaks can impact user experience. However, some users pointed out that while the theming options are a step forward, there are still areas needing improvement, particularly in markdown editing and preview functionalities.\n\nTechnical nuances were also brought to light, with discussions on the limitations of Zed's syntax coloring and the need for more customizable UI elements, such as line height and scrolling smoothness. A notable concern raised was the lack of high-contrast default themes, which some users found unappealing and detrimental to their overall experience. While others suggested that users could easily find and install better themes through the extensions window, the sentiment remained that Zed should ideally come with a selection of high-quality themes out of the box. Overall, the community's sentiment was largely positive, with many users feeling that Zed is on the right track but still has room for enhancements to meet their preferences and needs.",
       "hackernews_id": 48076651,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs"
+      "cluster_id": 34,
+      "cluster_name": "🖌️ Code Customization"
     },
     {
       "id": "69ff7d0f05b9f988825172b1",
       "title": "Apple is increasing my cortisol levels",
       "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
       "hn_score": 10,
-      "comments": 123,
+      "comments": 279,
       "author": "LorenDB",
       "source": "hackernews",
       "summary": "In the blog post titled 'Apple is increasing my cortisol levels,' the author discusses frustrations encountered while developing a simple utility in the Go programming language for managing Claude Code profiles. While compiling applications for Windows and Linux is straightforward, the author faces significant challenges with macOS due to Apple’s strict software distribution constraints, which include quarantine error messages for unverified downloads that hinder user experience. The author expresses disappointment at the necessity of enrolling in the Apple Developer Program, as the high annual fee seems disproportionately burdensome for a utility that may see minimal sales.\n\nThe author argues that Apple’s pricing and gatekeeping strategies create barriers for hobbyist developers, making it economically unfeasible to release lightweight applications without a viable monetization strategy. With a nominal income from potential software sales being heavily taxed and cut by platforms like Itch.io, the realities of releasing applications often result in financial loss rather than profit. The piece ultimately calls attention to the need for a more accessible model for distributing software that allows developers to thrive without excessive costs or regulations.",
@@ -835,8 +835,8 @@
       "is_ai_ml": false,
       "comments_summary": "The HackerNews discussion surrounding the article \"Apple is increasing my cortisol levels\" reveals a strong sentiment of frustration among users regarding Apple's stringent security measures, particularly Gatekeeper and the associated processes for app verification. Many commenters expressed their annoyance at the friction these security protocols introduce, with some suggesting that users who find them burdensome should simply disable them through Terminal commands. This perspective highlights a divide between those who appreciate the added security and those who prioritize convenience, leading to a broader debate about the balance between user safety and usability.\n\nTechnical corrections and counterpoints emerged as well, particularly regarding the notarization process for applications. Some users pointed out that notarizing an app and stapling the receipt can bypass Gatekeeper warnings, although this still requires navigating Apple's verification hoops. This nuance indicates that while there are solutions to the issues raised, they may not be straightforward for all developers, especially those catering to less technical users. Overall, the sentiment was one of exasperation with Apple's ecosystem, as many readers found the discussion of user experience versus security particularly engaging and relevant to their own frustrations with technology.",
       "hackernews_id": 48075366,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs"
+      "cluster_id": 30,
+      "cluster_name": "🍏 Tech Stress"
     },
     {
       "id": "69fe909899f33489ca61994a",
@@ -852,8 +852,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": 48068732,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs"
+      "cluster_id": 31,
+      "cluster_name": "🧑‍💼 Job Opportunity"
     },
     {
       "id": "69fe910999f33489ca61994d",
@@ -869,8 +869,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 3,
-      "cluster_name": "🖥️ Programming Languages and Tools",
+      "cluster_id": 8,
+      "cluster_name": "📜 Web Development Practices",
       "lobsters_url": ""
     },
     {
@@ -887,8 +887,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 8,
-      "cluster_name": "🔧 Software Development and Tools",
+      "cluster_id": 19,
+      "cluster_name": "📚 Software Development & Best Practices",
       "lobsters_url": ""
     },
     {
@@ -905,8 +905,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs",
+      "cluster_id": 16,
+      "cluster_name": "🖥️ Programming Language Innovations",
       "lobsters_url": ""
     },
     {
@@ -923,8 +923,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs",
+      "cluster_id": 4,
+      "cluster_name": "🔧 Claude Model Improvements",
       "lobsters_url": ""
     },
     {
@@ -942,7 +942,7 @@
       "comments_summary": "",
       "hackernews_id": null,
       "cluster_id": 1,
-      "cluster_name": "🔐 Cybersecurity and Vulnerabilities",
+      "cluster_name": "🔒 Linux Vulnerabilities",
       "lobsters_url": ""
     },
     {
@@ -959,8 +959,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 11,
-      "cluster_name": "🔋 Hardware and Performance",
+      "cluster_id": 23,
+      "cluster_name": "🖥️ Hardware & DIY",
       "lobsters_url": ""
     },
     {
@@ -977,8 +977,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 4,
-      "cluster_name": "📡 Communication and Networking",
+      "cluster_id": 9,
+      "cluster_name": "🛡️ SSH Security Measures",
       "lobsters_url": ""
     },
     {
@@ -995,8 +995,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 3,
-      "cluster_name": "🖥️ Programming Languages and Tools",
+      "cluster_id": 16,
+      "cluster_name": "🖥️ Programming Language Innovations",
       "lobsters_url": ""
     },
     {
@@ -1013,8 +1013,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 3,
-      "cluster_name": "🖥️ Programming Languages and Tools",
+      "cluster_id": 16,
+      "cluster_name": "🖥️ Programming Language Innovations",
       "lobsters_url": ""
     },
     {
@@ -1031,8 +1031,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs",
+      "cluster_id": 10,
+      "cluster_name": "🖥️ Unique Web Server Implementations",
       "lobsters_url": ""
     },
     {
@@ -1049,8 +1049,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 5,
-      "cluster_name": "🕹️ Retro and Niche Computing",
+      "cluster_id": 10,
+      "cluster_name": "🖥️ Unique Web Server Implementations",
       "lobsters_url": ""
     },
     {
@@ -1067,8 +1067,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs",
+      "cluster_id": 19,
+      "cluster_name": "📚 Software Development & Best Practices",
       "lobsters_url": ""
     },
     {
@@ -1085,8 +1085,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs",
+      "cluster_id": 25,
+      "cluster_name": "📈 Economic & Environmental Impact",
       "lobsters_url": ""
     },
     {
@@ -1103,8 +1103,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 8,
-      "cluster_name": "🔧 Software Development and Tools",
+      "cluster_id": 9,
+      "cluster_name": "🛡️ SSH Security Measures",
       "lobsters_url": ""
     },
     {
@@ -1121,8 +1121,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 6,
-      "cluster_name": "📚 Digital Preservation and Knowledge",
+      "cluster_id": 7,
+      "cluster_name": "🔍 CVE and Vulnerability Management",
       "lobsters_url": ""
     },
     {
@@ -1139,8 +1139,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 2,
-      "cluster_name": "🌍 Economic and Environmental Impact",
+      "cluster_id": 12,
+      "cluster_name": "🔐 cPanel Security Patches",
       "lobsters_url": ""
     },
     {
@@ -1157,8 +1157,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs",
+      "cluster_id": 20,
+      "cluster_name": "🌐 Web Development & Tools",
       "lobsters_url": ""
     },
     {
@@ -1175,8 +1175,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 11,
-      "cluster_name": "🔋 Hardware and Performance",
+      "cluster_id": 23,
+      "cluster_name": "🖥️ Hardware & DIY",
       "lobsters_url": ""
     },
     {
@@ -1193,8 +1193,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 1,
-      "cluster_name": "🔐 Cybersecurity and Vulnerabilities",
+      "cluster_id": 5,
+      "cluster_name": "🛡️ Vulnerability Disclosure Cultures",
       "lobsters_url": ""
     },
     {
@@ -1211,8 +1211,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs",
+      "cluster_id": 24,
+      "cluster_name": "🛠️ Open Source & Community Projects",
       "lobsters_url": ""
     },
     {
@@ -1229,8 +1229,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 10,
-      "cluster_name": "🖼️ Design and User Experience",
+      "cluster_id": 24,
+      "cluster_name": "🛠️ Open Source & Community Projects",
       "lobsters_url": ""
     },
     {
@@ -1247,8 +1247,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs",
+      "cluster_id": 3,
+      "cluster_name": "📚 AI and Document Handling",
       "video_id": "4nQnhjimB4Y"
     },
     {
@@ -1265,8 +1265,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs",
+      "cluster_id": 19,
+      "cluster_name": "📚 Software Development & Best Practices",
       "video_id": "DygEd_WvUxU"
     },
     {
@@ -1283,8 +1283,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 13,
-      "cluster_name": "🔍 AI Tools and Integrations",
+      "cluster_id": 22,
+      "cluster_name": "🤖 AI & Machine Learning",
       "video_id": "b6Mxcv1pyBU"
     },
     {
@@ -1302,7 +1302,7 @@
       "comments_summary": "",
       "hackernews_id": null,
       "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs",
+      "cluster_name": "🤖 ChatGPT 5.5 Advancements",
       "video_id": "dEPzRtZLd2M"
     },
     {
@@ -1319,8 +1319,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 12,
-      "cluster_name": "📈 AI in Business and Society",
+      "cluster_id": 22,
+      "cluster_name": "🤖 AI & Machine Learning",
       "video_id": "ef4WR5vUJro"
     },
     {
@@ -1337,8 +1337,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 7,
-      "cluster_name": "🎮 Gaming and Entertainment",
+      "cluster_id": 11,
+      "cluster_name": "🎮 Gaming Industry Insights",
       "video_id": "CU8x7Z1KCs4"
     },
     {
@@ -1355,8 +1355,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 10,
-      "cluster_name": "🖼️ Design and User Experience",
+      "cluster_id": 20,
+      "cluster_name": "🌐 Web Development & Tools",
       "video_id": "4JUx-8KkRPw"
     },
     {
@@ -1373,8 +1373,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 14,
-      "cluster_name": "📰 Media and Public Figures",
+      "cluster_id": 11,
+      "cluster_name": "🎮 Gaming Industry Insights",
       "video_id": "dYueaZBZMrk"
     },
     {
@@ -1391,8 +1391,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs",
+      "cluster_id": 22,
+      "cluster_name": "🤖 AI & Machine Learning",
       "video_id": "_tqqYas1zSE"
     },
     {
@@ -1409,8 +1409,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 13,
-      "cluster_name": "🔍 AI Tools and Integrations",
+      "cluster_id": 22,
+      "cluster_name": "🤖 AI & Machine Learning",
       "video_id": "0xu3MYYg0ek"
     },
     {
@@ -1427,8 +1427,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 0,
-      "cluster_name": "🧠 Advances in AI and LLMs",
+      "cluster_id": 17,
+      "cluster_name": "🧠 Understanding AI Thought Processes",
       "video_id": "Nn2eXwch-K0"
     },
     {
@@ -1445,8 +1445,8 @@
       "is_ai_ml": false,
       "comments_summary": "",
       "hackernews_id": null,
-      "cluster_id": 12,
-      "cluster_name": "📈 AI in Business and Society",
+      "cluster_id": 17,
+      "cluster_name": "🧠 Understanding AI Thought Processes",
       "video_id": "PvEKR0cFnTU"
     },
     {
@@ -1464,178 +1464,377 @@
       "comments_summary": "",
       "hackernews_id": null,
       "cluster_id": 13,
-      "cluster_name": "🔍 AI Tools and Integrations",
+      "cluster_name": "🛡️ AI Model Building Tools",
       "video_id": "VgsgMEJisks"
     }
   ],
   "clusters": [
     {
       "id": 0,
-      "name": "🧠 Advances in AI and LLMs",
-      "description": "These articles explore the rapid advancements in AI, particularly focusing on large language models (LLMs) and their capabilities in problem-solving, ethical alignment, and system modeling.",
-      "size": 36,
+      "name": "🤖 ChatGPT 5.5 Advancements",
+      "description": "These articles discuss the advancements and capabilities of OpenAI's ChatGPT 5.5 model, highlighting its improved performance in mathematical problem-solving and agentic workflows.",
+      "size": 2,
       "sample_titles": [
         "A recent experience with ChatGPT 5.5 Pro",
-        "LLMs Corrupt Your Documents When You Delegate",
-        "Using Claude Code: The unreasonable effectiveness of HTML"
+        "Is GPT-5.5 Better Than Opus Now? (ft. Our New AI Co-Host) - EP99.38"
       ]
     },
     {
       "id": 1,
-      "name": "🔐 Cybersecurity and Vulnerabilities",
-      "description": "This cluster highlights the ongoing challenges in cybersecurity, including vulnerability disclosures, privilege escalation exploits, and the need for robust security measures.",
-      "size": 7,
+      "name": "🔒 Linux Vulnerabilities",
+      "description": "These articles focus on specific vulnerabilities within the Linux kernel, detailing the technical aspects and potential impacts of these security issues.",
+      "size": 2,
       "sample_titles": [
-        "AI is breaking two vulnerability cultures",
         "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
-        "GrapheneOS fixes Android VPN leak Google refused to patch"
+        "Copy Fail 2: Electric Boogaloo"
       ]
     },
     {
       "id": 2,
-      "name": "🌍 Economic and Environmental Impact",
-      "description": "These articles discuss significant economic developments and environmental issues, such as Poland's economic growth and the toxic legacy of the carpet industry.",
-      "size": 3,
+      "name": "🖥️ Raspberry Pi Web Hosting",
+      "description": "These articles explore the use of Raspberry Pi devices for hosting websites, emphasizing unique setups and technical challenges.",
+      "size": 2,
       "sample_titles": [
-        "Poland is now among the 20 largest economies",
-        "America's carpet capital: an empire and its toxic legacy",
-        "Let's Encrypt Stopping Issuance for Potential Incident"
+        "Serving a website on a Raspberry Pi Zero running in RAM",
+        "Hosting a Site on a Raspberry Pi"
       ]
     },
     {
       "id": 3,
-      "name": "🖥️ Programming Languages and Tools",
-      "description": "This cluster focuses on innovations in programming languages and tools, showcasing new languages like Mojo and Blaise, and tools for enhancing coding efficiency.",
-      "size": 5,
+      "name": "📚 AI and Document Handling",
+      "description": "These articles examine the role of AI in document handling and editing, focusing on the challenges and potential errors introduced by AI systems.",
+      "size": 2,
       "sample_titles": [
-        "Mojo 1.0 Beta",
-        "Making Julia as Fast as C++ (2019)",
-        "Just Fucking Use Go"
+        "LLMs Corrupt Your Documents When You Delegate",
+        "OpenAI's GPT 5.5 Instant: The Good, The Bad And The Insane"
       ]
     },
     {
       "id": 4,
-      "name": "📡 Communication and Networking",
-      "description": "These articles explore advancements in communication technologies, including off-grid communication with Meshtastic and issues with Google's reCAPTCHA.",
-      "size": 4,
+      "name": "🔧 Claude Model Improvements",
+      "description": "These articles discuss improvements in the Claude AI models, focusing on alignment and performance enhancements.",
+      "size": 2,
       "sample_titles": [
-        "Google broke reCAPTCHA for de-googled Android users",
-        "An Introduction to Meshtastic",
-        "OpenAI's WebRTC problem"
+        "Teaching Claude Why",
+        "Behind the Scenes Hardening Firefox with Claude Mythos Preview"
       ]
     },
     {
       "id": 5,
-      "name": "🕹️ Retro and Niche Computing",
-      "description": "This cluster delves into retro computing and niche hardware projects, such as the PC Engine CPU and hosting websites on Raspberry Pi.",
-      "size": 4,
+      "name": "🛡️ Vulnerability Disclosure Cultures",
+      "description": "These articles delve into the cultural aspects of vulnerability disclosure in cybersecurity, comparing different approaches to handling security issues.",
+      "size": 2,
       "sample_titles": [
-        "Serving a website on a Raspberry Pi Zero running in RAM",
-        "Building the TD4 4-Bit CPU",
-        "PipeDream on the Acorn Archimedes"
+        "AI is breaking two vulnerability cultures",
+        "CVE-2026-31431: Copy Fail"
       ]
     },
     {
       "id": 6,
-      "name": "📚 Digital Preservation and Knowledge",
-      "description": "These articles emphasize the importance of digital preservation and access to information, highlighting initiatives like the Internet Archive in Switzerland.",
-      "size": 3,
+      "name": "🔧 Android Security Fixes",
+      "description": "Articles discussing specific security vulnerabilities and fixes related to Android systems.",
+      "size": 2,
       "sample_titles": [
-        "Internet Archive Switzerland",
-        "Looking at the data behind prediction markets",
-        "Vulnerability Garden: A growing list of named vulnerabilities, attack techniques and exploits"
+        "Google broke reCAPTCHA for de-googled Android users",
+        "GrapheneOS fixes Android VPN leak Google refused to patch"
       ]
     },
     {
       "id": 7,
-      "name": "🎮 Gaming and Entertainment",
-      "description": "This cluster covers developments in the gaming industry, including the financial prospects of GTA6 and the historical significance of Cartoon Network Flash games.",
-      "size": 3,
+      "name": "🔍 CVE and Vulnerability Management",
+      "description": "Articles focused on the challenges and solutions in managing CVEs and vulnerabilities in software systems.",
+      "size": 2,
       "sample_titles": [
-        "Cartoon Network Flash Games",
-        "PC Engine CPU",
-        "People Are Going to Print Money with GTA6"
+        "Non-determinism is an issue with patching CVEs",
+        "Vulnerability Garden: A growing list of named vulnerabilities, attack techniques and exploits"
       ]
     },
     {
       "id": 8,
-      "name": "🔧 Software Development and Tools",
-      "description": "These articles discuss various aspects of software development, from memory management in C++ to the challenges of patching CVEs.",
-      "size": 5,
+      "name": "📜 Web Development Practices",
+      "description": "Articles reflecting on web development practices and the influence of community feedback.",
+      "size": 2,
       "sample_titles": [
-        "How do I deal with memory leaks? (2022)",
-        "Non-determinism is an issue with patching CVEs",
-        "All means are fair except solving the problem"
+        "I Will Not Add Query Strings to Your URLs",
+        "Just Fucking Use Go"
       ]
     },
     {
       "id": 9,
-      "name": "🚗 Autonomous and Electric Vehicles",
-      "description": "This cluster focuses on advancements in autonomous vehicle technology, particularly Tesla's achievements in safety standards.",
-      "size": 1,
+      "name": "🛡️ SSH Security Measures",
+      "description": "Articles discussing methods to enhance security in SSH connections, particularly against MITM attacks.",
+      "size": 2,
       "sample_titles": [
-        "Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests"
+        "Stop MITM on the first SSH connection, on any VPS or cloud provider",
+        "NixOS and Secrets"
       ]
     },
     {
       "id": 10,
-      "name": "🖼️ Design and User Experience",
-      "description": "These articles explore innovations in design and user experience, such as improvements in date pickers and the creation of in-browser CAD tools.",
+      "name": "🖥️ Unique Web Server Implementations",
+      "description": "Articles exploring unconventional web server setups, highlighting unique technical challenges and solutions.",
       "size": 2,
       "sample_titles": [
-        "CADara - I made an open-source fully in-browser CAD",
-        "Date pickers suck, we fixed them"
+        "building a web server in aarch64 assembly to give my life (a lack of) meaning",
+        "Wii IP6 webserver"
       ]
     },
     {
       "id": 11,
-      "name": "🔋 Hardware and Performance",
-      "description": "This cluster examines hardware innovations and performance enhancements, including the Ryzen AI NPU and the Ploopy Bean trackpoint.",
+      "name": "🎮 Gaming Industry Insights",
+      "description": "Articles discussing significant developments and financial prospects within the gaming industry.",
       "size": 2,
       "sample_titles": [
-        "Ploopy Bean - external trackpoint",
-        "Getting peak TOPS on a Ryzen AI 7 350 NPU"
+        "People Are Going to Print Money with GTA6",
+        "Elon Musk killed two birds with one stone: put Dario Amodei on a leash and hurt Sam Altman"
       ]
     },
     {
       "id": 12,
-      "name": "📈 AI in Business and Society",
-      "description": "These articles discuss the impact of AI on business and society, including AI's role in job creation and the ethical considerations of AI system versioning.",
+      "name": "🔐 cPanel Security Patches",
+      "description": "cPanel released emergency patches for three vulnerabilities following a ransomware attack affecting 44,000 servers, highlighting the importance of swift cybersecurity responses.",
       "size": 2,
       "sample_titles": [
-        "The Week the AI Story Shifted",
-        "Ben Bucknall - Assurance of AI System Versioning"
+        "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+        "Let's Encrypt Stopping Issuance for Potential Incident"
       ]
     },
     {
       "id": 13,
-      "name": "🔍 AI Tools and Integrations",
-      "description": "This cluster focuses on AI tools and their integrations, such as Codex's new capabilities and the introduction of NEO for AI model building.",
-      "size": 3,
+      "name": "🛡️ AI Model Building Tools",
+      "description": "Articles discussing AI tools and frameworks that simplify or enhance the process of building AI models, including NEO and Mojo.",
+      "size": 2,
       "sample_titles": [
-        "Codex can now use Chrome directly on macOS and Windows.",
-        "NotebookLM Just Got Automations: Build POWERFUL AI Automations!",
+        "Mojo 1.0 Beta",
         "NEO: The AI Agent That Builds AI Models, Agents & Apps From One Prompt"
       ]
     },
     {
       "id": 14,
-      "name": "📰 Media and Public Figures",
-      "description": "These articles cover media events and public figures, including David Attenborough's 100th birthday and Elon Musk's legal battles.",
+      "name": "📊 Prediction Markets and Decision-Making",
+      "description": "Exploration of prediction markets as a tool for improving decision-making and evaluating policy effectiveness, with references to Hayek and Hanson.",
       "size": 2,
       "sample_titles": [
-        "David Attenborough's 100th Birthday",
-        "Elon Musk killed two birds with one stone: put Dario Amodei on a leash and hurt Sam Altman"
+        "Looking at the data behind prediction markets",
+        "The React2Shell Story"
       ]
     },
     {
       "id": 15,
-      "name": "🔬 Scientific Discoveries and Innovations",
-      "description": "This cluster highlights scientific discoveries and innovations, such as the study of lightning formation and the development of glowing algae.",
+      "name": "🔒 End-to-End Encryption Changes",
+      "description": "Meta's decision to discontinue end-to-end encryption for Instagram messaging, impacting user privacy and security.",
       "size": 2,
       "sample_titles": [
+        "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
+        "Killswitch: Per-function short-circuit mitigation primitive"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "🖥️ Programming Language Innovations",
+      "description": "Innovations in programming languages, focusing on Blaise's modern Object Pascal compiler and cuda-oxide's Rust-to-CUDA compilation.",
+      "size": 4,
+      "sample_titles": [
+        "Making Julia as Fast as C++ (2019)",
+        "Why Don’t Lowercase Letters Come Right After Uppercase Letters in ASCII?",
+        "blaise: A modern, self-hosting Object Pascal compiler built for the 2020s. Zero legacy, full ARC, and unified UTF-8"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "🧠 Understanding AI Thought Processes",
+      "description": "Advancements in understanding AI internal processes, including Anthropic's Claude Mythos translating neural activations into English text.",
+      "size": 2,
+      "sample_titles": [
+        "we JUST figured out how AI thinks",
+        "Ben Bucknall - Assurance of AI System Versioning"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "🛠️ PC Engine and Acorn Archimedes",
+      "description": "Articles discussing the technological advancements and unique features of the PC Engine and Acorn Archimedes, two notable computing devices from the late 1980s.",
+      "size": 2,
+      "sample_titles": [
+        "PC Engine CPU",
+        "PipeDream on the Acorn Archimedes"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "📚 Software Development & Best Practices",
+      "description": "These articles explore various aspects of software development, from foundational principles to modern practices, highlighting challenges and solutions in coding and project management.",
+      "size": 6,
+      "sample_titles": [
+        "Mythical Man Month",
+        "How do I deal with memory leaks? (2022)",
+        "All means are fair except solving the problem"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "🌐 Web Development & Tools",
+      "description": "This group focuses on web development technologies and tools, emphasizing the importance of HTML, browser automation, and innovative web-based applications.",
+      "size": 5,
+      "sample_titles": [
+        "Using Claude Code: The unreasonable effectiveness of HTML",
+        "Show HN: Mochi.js: bun-native high-fidelity browser automation library",
+        "Show HN: Free tool to mark points and polygon regions"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "🔒 Cryptography & Privacy",
+      "description": "Articles in this group discuss secure computation and privacy-focused technologies, highlighting advancements in cryptography and data protection.",
+      "size": 3,
+      "sample_titles": [
+        "OpenAI's WebRTC problem",
+        "Can LLMs model real-world systems in TLA+?",
+        "Introduction to Beaver Triples"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "🤖 AI & Machine Learning",
+      "description": "These articles cover advancements in AI and machine learning, showcasing new models, tools, and the impact of AI on various sectors.",
+      "size": 4,
+      "sample_titles": [
+        "Codex can now use Chrome directly on macOS and Windows.",
+        "The Week the AI Story Shifted",
+        "ERNIE 5.1 Just Arrived - Full Testing from Mona Vale Beach"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "🖥️ Hardware & DIY",
+      "description": "This group includes articles about hardware innovations and DIY projects, focusing on CPUs, NPUs, and unique hardware solutions.",
+      "size": 5,
+      "sample_titles": [
+        "How LEDs are made (2014)",
+        "Building the TD4 4-Bit CPU",
+        "Show HN: I wrote a flight simulator in my own programming language"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "🛠️ Open Source & Community Projects",
+      "description": "Articles in this group highlight open-source initiatives and community-driven projects, emphasizing collaboration and innovation.",
+      "size": 5,
+      "sample_titles": [
+        "An Introduction to Meshtastic",
+        "Internet Archive Switzerland",
+        "Reviving the IBM Selectric Composer Fonts (2023)"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "📈 Economic & Environmental Impact",
+      "description": "These articles explore the economic and environmental impacts of various industries, from economic growth to environmental challenges.",
+      "size": 4,
+      "sample_titles": [
         "What causes lightning? The answer keeps getting more interesting",
+        "America's carpet capital: an empire and its toxic legacy",
         "Light without electricity? Glowing algae could make it possible"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "🎮 Gaming & Entertainment",
+      "description": "This group covers the intersection of gaming and entertainment, focusing on the cultural impact and technological advancements in these fields.",
+      "size": 2,
+      "sample_titles": [
+        "Cartoon Network Flash Games",
+        "When is your birthday? The math behind hash collisions"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "🌍 Global Economy",
+      "description": "",
+      "size": 1,
+      "sample_titles": [
+        "Poland is now among the 20 largest economies"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "💻 Digital Ethics",
+      "description": "",
+      "size": 1,
+      "sample_titles": [
+        "The Intolerable Hypocrisy of Cyberlibertarianism"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "⌨️ Typing Analysis",
+      "description": "",
+      "size": 1,
+      "sample_titles": [
+        "Human typing habits and token counts"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "🍏 Tech Stress",
+      "description": "",
+      "size": 1,
+      "sample_titles": [
+        "Apple is increasing my cortisol levels"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "🧑‍💼 Job Opportunity",
+      "description": "",
+      "size": 1,
+      "sample_titles": [
+        "Mux (YC W16) Is Hiring"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "🎥 Nature Icon",
+      "description": "",
+      "size": 1,
+      "sample_titles": [
+        "David Attenborough's 100th Birthday"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "🛸 UFO Disclosure",
+      "description": "",
+      "size": 1,
+      "sample_titles": [
+        "US Government releases first batch of UAP documents and videos"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "🖌️ Code Customization",
+      "description": "",
+      "size": 1,
+      "sample_titles": [
+        "Zed Editor Theme-Builder"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "☁️ Cloud Outage",
+      "description": "",
+      "size": 1,
+      "sample_titles": [
+        "AWS North Virginia data center outage – recovery to take hours"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "🚗 Autonomous Vehicles",
+      "description": "",
+      "size": 1,
+      "sample_titles": [
+        "Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests"
       ]
     }
   ]
