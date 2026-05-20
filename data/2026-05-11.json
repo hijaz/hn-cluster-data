@@ -1,8 +1,8 @@
 {
   "date": "2026-05-11",
   "generated_at": "2026-05-11T02:12:06.590723+00:00",
-  "article_count": 49,
-  "cluster_count": 18,
+  "article_count": 47,
+  "cluster_count": 17,
   "clustering_model": "gpt-4o",
   "articles": [
     {
@@ -822,42 +822,6 @@
       "cluster_id": 1,
       "cluster_name": "🔐 Security and Vulnerabilities",
       "lobsters_url": "https://lobste.rs/s/r1eihn/claudebleed_flaw_claude_s_browser"
-    },
-    {
-      "id": "6a0135d7246b53715603661c",
-      "title": "From Bombing on Shark Tank to a $2 BILLION Exit | Rohan Oza",
-      "url": "https://www.youtube.com/watch?v=JodK7vXsPE0",
-      "hn_score": 0,
-      "comments": 0,
-      "author": "My First Million Clips Official",
-      "source": "youtube",
-      "summary": "In the video titled 'From Bombing on Shark Tank to a $2 BILLION Exit,' Rohan Oza shares the incredible transformation of a beverage brand that started poorly on Shark Tank as 'Mother.' Initially faced with skepticism from investors due to its unappealing taste and branding, the founders pivoted under Oza's guidance, focusing on creating a product that was not just healthy but appealing as a modern soda. The rebranding to Poppi marked a new beginning, highlighting the drink's benefits while enhancing its market presentation.\n\nFollowing its launch in March 2020, Poppi capitalized on the shift towards digital sales during the COVID-19 pandemic, leading to incredible growth from just a couple of million dollars to over half a billion within a few years. The discussion emphasizes key entrepreneurial lessons, including the importance of operational leadership and the combination of branding and cultural relevance in driving business success. Oza's insights into the creation and exit strategies for successful brands offer valuable lessons for aspiring entrepreneurs.",
-      "relevance_score": null,
-      "combined_score": null,
-      "is_ai_ml": false,
-      "comments_summary": "",
-      "hackernews_id": null,
-      "cluster_id": 10,
-      "cluster_name": "💡 Innovation and Entrepreneurship",
-      "video_id": "JodK7vXsPE0"
-    },
-    {
-      "id": "6a0135d7246b53715603661d",
-      "title": "NVIDIA Nemotron Elastic: 3-in-1 Elastic LLM Like Russian Dolls in One File",
-      "url": "https://www.youtube.com/watch?v=-3SXz1_nbvc",
-      "hn_score": 0,
-      "comments": 0,
-      "author": "Fahd Mirza",
-      "source": "youtube",
-      "summary": "This video highlights NVIDIA's launch of the Nemotron Elastic models, which cleverly integrate three AI reasoning models into a single checkpoint, accommodating different hardware capabilities. The models, likened to Russian nesting dolls, share weights, allowing users to select the model size that best fits their available resources without loss of functionality. The architecture consists of efficient components—Mamba, attention, and a mixture of expert layers—that ensure performance and low resource consumption, making it competitive even at smaller sizes. \n\nFurthermore, the video walks through the installation process and showcases a practical application by challenging the model to build a real-time air traffic control simulator. This demonstration not only confirms the model's capability in software architecture but also exemplifies the potential for users to leverage high-complexity functionalities from simplified prompts. Overall, the Nvidia Nemotron Elastic models present a significant advance in AI technology, allowing greater flexibility, efficiency, and accessibility in deploying AI reasoning capabilities.",
-      "relevance_score": null,
-      "combined_score": null,
-      "is_ai_ml": false,
-      "comments_summary": "",
-      "hackernews_id": null,
-      "cluster_id": 17,
-      "cluster_name": "🔍 AI Models and Innovations",
-      "video_id": "-3SXz1_nbvc"
     }
   ],
   "clusters": [
@@ -966,15 +930,6 @@
       ]
     },
     {
-      "id": 10,
-      "name": "💡 Innovation and Entrepreneurship",
-      "description": "Focusing on the journey from initial failure to success, this cluster highlights stories of innovation and entrepreneurship, showcasing how initial setbacks can lead to significant achievements.",
-      "size": 1,
-      "sample_titles": [
-        "From Bombing on Shark Tank to a $2 BILLION Exit | Rohan Oza"
-      ]
-    },
-    {
       "id": 11,
       "name": "🔧 Software Development and Maintenance",
       "description": "These articles delve into the intricacies of software development, from the challenges of maintaining code to the evolution of enterprise software channels, reflecting the ongoing evolution of the software industry.",
@@ -1042,10 +997,9 @@
       "id": 17,
       "name": "🔍 AI Models and Innovations",
       "description": "These articles highlight the latest innovations in AI model development, from NVIDIA's Nemotron Elastic models to the challenges of integrating AI into existing workflows and systems.",
-      "size": 2,
+      "size": 1,
       "sample_titles": [
-        "I'm going back to writing code by hand",
-        "NVIDIA Nemotron Elastic: 3-in-1 Elastic LLM Like Russian Dolls in One File"
+        "I'm going back to writing code by hand"
       ]
     }
   ]

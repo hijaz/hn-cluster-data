@@ -1,8 +1,8 @@
 {
   "date": "2026-05-19",
   "generated_at": "2026-05-19T01:49:42.787066+00:00",
-  "article_count": 47,
-  "cluster_count": 22,
+  "article_count": 32,
+  "cluster_count": 19,
   "clustering_model": "gpt-4o",
   "articles": [
     {
@@ -548,276 +548,6 @@
       "hackernews_id": null,
       "cluster_id": 3,
       "cluster_name": "🎨 AI and Creativity"
-    },
-    {
-      "id": "6a0bad505aaee8ca90c70376",
-      "title": "No more write code by hand. Write spec",
-      "url": "https://www.youtube.com/watch?v=cf-lZBpOI20",
-      "hn_score": 0,
-      "comments": 0,
-      "author": "DeepLearningAI",
-      "source": "youtube",
-      "summary": "The video emphasizes a shift in mindset from being mere builders to becoming architects in software development. It highlights the importance of writing specifications instead of manually coding, suggesting that this approach elevates design thinking and allows developers to conceptualize their systems before diving into code. By advocating for this practice, the video implies that developers can reduce errors, improve communication with stakeholders, and collaborate more effectively during the development process.\n\nMoreover, the focus on specifications promotes an iterative design process that encourages refinement and clarity in project requirements. This strategy not only streamlines development but also empowers teams to approach projects with a holistic understanding of the architecture, ultimately fostering a deeper alignment between technology and business goals. The overarching message is clear: by shifting the focus away from hand-coding and towards specifications, professionals can enhance both their productivity and the quality of their outputs.",
-      "relevance_score": null,
-      "combined_score": null,
-      "is_ai_ml": false,
-      "comments_summary": "",
-      "hackernews_id": null,
-      "cluster_id": 7,
-      "cluster_name": "💻 Software Development and Tools",
-      "video_id": "cf-lZBpOI20"
-    },
-    {
-      "id": "6a0bad515aaee8ca90c70377",
-      "title": "AI Memory: Stop Building Stateless Agents",
-      "url": "https://www.youtube.com/watch?v=whyz0m302ZI",
-      "hn_score": 0,
-      "comments": 0,
-      "author": "Jack Herrington",
-      "source": "youtube",
-      "summary": "In the video 'AI Memory: Stop Building Stateless Agents,' Jack Herrington discusses the development of agentic memory for TanStack AI, highlighting its ability to remember user preferences across different chat sessions. By showcasing a practical demo, he illustrates how traditional episodic memory restricts AI responses to individual conversations, leading to generic answers. In contrast, agentic memory allows the AI to recall pertinent facts about users, significantly enhancing the relevancy of interactions.\n\nHerrington introduces the concept of a Memory Bench application, which provides a platform for comparing various memory systems such as Hindsight, Mem0, and Honcho. He emphasizes the importance of long-term user memory that retains durable facts and preferences while explaining the critical processes of recall and retain necessary for effective memory management in conversational AI. Throughout the video, he shares insights on implementing local memory solutions and integrating these systems into AI chats, thereby marking a significant shift towards more personalized AI experiences.",
-      "relevance_score": null,
-      "combined_score": null,
-      "is_ai_ml": false,
-      "comments_summary": "",
-      "hackernews_id": null,
-      "cluster_id": 5,
-      "cluster_name": "🤖 AI and Automation",
-      "video_id": "whyz0m302ZI"
-    },
-    {
-      "id": "6a0bad515aaee8ca90c70378",
-      "title": "The Next War Is Already Here — Yaroslav Azhnyuk, The Fourth Law & Noah Smith, Noahpinion",
-      "url": "https://www.youtube.com/watch?v=UmCZBwsibgs",
-      "hn_score": 0,
-      "comments": 0,
-      "author": "Latent Space",
-      "source": "youtube",
-      "summary": "The video discusses the transformative role of drones in modern warfare, focusing on the disparity in drone production capabilities between Ukraine and China. Yaroslav Azhnyuk shares his experience transitioning from creating pet technology to developing drones for defense due to the Russian invasion of Ukraine. He emphasizes that the necessity to fight back against aggression is a moral obligation for Ukrainians, highlighting how drone technology has significantly reshaped military strategies, particularly for Ukraine's defense efforts.\n\nThe advancement in drone technology has led to unprecedented levels of autonomy, increasing efficiency and mission success rates on the battlefield. For instance, through the implementation of level 1 autonomy, drones' mission success rates soared from 20% to 71%. This evolution not only transforms traditional combat dynamics but raises critical ethical questions regarding developers' responsibilities as technologies become increasingly autonomous. Overall, the discussion underscores the profound impact of drone warfare on modern military engagements.",
-      "relevance_score": null,
-      "combined_score": null,
-      "is_ai_ml": false,
-      "comments_summary": "",
-      "hackernews_id": null,
-      "cluster_id": 20,
-      "cluster_name": "⚔️ Geopolitical Conflict",
-      "video_id": "UmCZBwsibgs"
-    },
-    {
-      "id": "6a0bad525aaee8ca90c70379",
-      "title": "What Google Needs to Do at I/O This Week",
-      "url": "https://www.youtube.com/watch?v=8uCkUyRFUqY",
-      "hn_score": 0,
-      "comments": 0,
-      "author": "The AI Daily Brief: Artificial Intelligence News",
-      "source": "youtube",
-      "summary": "The AI Daily Brief discusses significant developments in the AI sector, highlighting Cerebras' successful IPO that saw its valuation skyrocket on the first trading day. OpenAI's introduction of Codex in the ChatGPT mobile app is a major advancement, emphasizing the evolving role of AI from assistants to persistent agents, capable of managing tasks across devices seamlessly. The delineation between consumer-focused and work-oriented AI is becoming clearer, with major players like OpenAI, Google, and Nvidia preparing for pivotal launches and updates at Google's I/O event.\n\nAs the competition heats up, companies are navigating the balance between consumer engagement and professional utility in AI technologies. Figma's resurgence through AI features showcases how AI can positively impact enterprise software, while tensions between OpenAI and Apple highlight the complexities of partnerships in the tech sphere. These developments underscore the market's high expectations for future AI innovations, indicating a landscape rich with opportunity but also fraught with challenges, especially regarding security implications stemming from advanced AI capabilities.",
-      "relevance_score": null,
-      "combined_score": null,
-      "is_ai_ml": false,
-      "comments_summary": "",
-      "hackernews_id": null,
-      "cluster_id": 21,
-      "cluster_name": "📱 Tech Conference",
-      "video_id": "8uCkUyRFUqY"
-    },
-    {
-      "id": "6a0bad535aaee8ca90c7037a",
-      "title": "This React Library Makes Videos For You",
-      "url": "https://www.youtube.com/watch?v=kUmzkLKZgBU",
-      "hn_score": 0,
-      "comments": 0,
-      "author": "Syntax",
-      "source": "youtube",
-      "summary": "In the video, Johnny Burger discusses the evolution of Remotion, a library that allows developers to create videos programmatically using React. The tool has made headlines following the integration of AI capabilities via Claude, allowing for user-friendly video creation by simply prompting. This significant shift has expanded its user base to include non-technical individuals who leverage the library for various video projects such as explainer videos and small product launch clips.\n\nAdditionally, Remotion has implemented a sustainable monetization framework that allows small teams to use it for free while larger organizations are required to pay, aligning with the project's open-source philosophy. The discussion also covers exciting new features, particularly the Chrome development of HTML in canvas, which opens up possibilities for advanced video effects. Johnny emphasizes the importance of maintaining the roots of video technology within Remotion while also seeking innovative workflows to enhance user interaction and experience.",
-      "relevance_score": null,
-      "combined_score": null,
-      "is_ai_ml": false,
-      "comments_summary": "",
-      "hackernews_id": null,
-      "cluster_id": 3,
-      "cluster_name": "🎨 AI and Creativity",
-      "video_id": "kUmzkLKZgBU"
-    },
-    {
-      "id": "6a0bad535aaee8ca90c7037b",
-      "title": "The Essence of Linear Regression",
-      "url": "https://www.youtube.com/watch?v=aFDOzpTeg0s",
-      "hn_score": 0,
-      "comments": 0,
-      "author": "StatQuest with Josh Starmer",
-      "source": "youtube",
-      "summary": "In the video 'The Essence of Linear Regression', Josh Starmer explains the core concepts and applications of linear regression in statistical analysis. He clarifies that linear regression is essential for fitting a line to data points, such as predicting revenue based on the number of stores a company has. To evaluate how well the line predicts, he introduces the concept of sum of squared residuals, which helps in determining the accuracy of the predictions made by the fitted line. The video also emphasizes the least squares method used to minimize these residuals, providing a systematic approach to finding the best-fitting line.\n\nStarmer elaborates on the importance of R squared, which communicates the percentage improvement of the prediction accuracy compared to simply using the mean of the data. He cautions that a high p-value can indicate low confidence in the predictions. Overall, the video serves as a foundational guide for those interested in applying linear regression to real-world problem solving, conveying both the theoretical and practical aspects of the technique.",
-      "relevance_score": null,
-      "combined_score": null,
-      "is_ai_ml": false,
-      "comments_summary": "",
-      "hackernews_id": null,
-      "cluster_id": 8,
-      "cluster_name": "📊 Data Analysis and Prediction",
-      "video_id": "aFDOzpTeg0s"
-    },
-    {
-      "id": "6a0bad545aaee8ca90c7037c",
-      "title": "SpaceX just BLEW UP...",
-      "url": "https://www.youtube.com/watch?v=j-FWwcnDC9k",
-      "hn_score": 0,
-      "comments": 0,
-      "author": "Wes Roth",
-      "source": "youtube",
-      "summary": "The video discusses the impending IPO of SpaceX, expected to be monumental in scale, valued at around $2 trillion. It outlines the structural intricacies that provide Elon Musk significant control over the company, particularly as large pension funds seem aligned against his governance style. Historical conflicts surrounding Musk's executive compensation reveal the complex dynamics between shareholder interests, judicial authority, and corporate governance.\n\nIn addition, the video delves into SpaceX's revenue streams, emphasizing the significance of Starlink and launch services in driving financial growth. As launch costs decrease, prospects for space-based data centers increase, with Google showing interest in utilizing SpaceX's services. Ultimately, the IPO represents not just a corporate milestone, but also a tactical maneuver to safeguard Musk’s management style against systemic obstacles within the investor landscape.",
-      "relevance_score": null,
-      "combined_score": null,
-      "is_ai_ml": false,
-      "comments_summary": "",
-      "hackernews_id": null,
-      "cluster_id": 13,
-      "cluster_name": "🚀 Space and Technology",
-      "video_id": "j-FWwcnDC9k"
-    },
-    {
-      "id": "6a0bad545aaee8ca90c7037d",
-      "title": "My Full Claude Cowork Setup (steal my workflows!)",
-      "url": "https://www.youtube.com/watch?v=gdrPkpXuNks",
-      "hn_score": 0,
-      "comments": 0,
-      "author": "Tina Huang",
-      "source": "youtube",
-      "summary": "In this video, Tina Huang presents her Claude Co-work setup, showcasing how it aids in managing her daily tasks, investments, and software development workflows. The video emphasizes the necessity of configuring your Co-work settings through a structured process that includes crafting a product requirement document (PRD) for effective project management. She encourages viewers to replicate her workflows by providing relevant prompts, ensuring that even those without coding knowledge can customize and enhance their own systems.\n\nThroughout the tutorial, Tina elaborates on essential topics such as the importance of effective note-taking, memory management, and the detailed architecture of the Co-work system, which operates on a local machine. She discusses the benefits of the autonomous builder feature, enabling users to work on projects seamlessly. Furthermore, Tina underlines the significance of developing various skills tailored to individual needs, thereby facilitating a personalized experience with Co-work. By the end of the video, viewers are equipped with actionable insights to implement and optimize their own productivity tools using Claude Co-work.",
-      "relevance_score": null,
-      "combined_score": null,
-      "is_ai_ml": false,
-      "comments_summary": "",
-      "hackernews_id": null,
-      "cluster_id": 7,
-      "cluster_name": "💻 Software Development and Tools",
-      "video_id": "gdrPkpXuNks"
-    },
-    {
-      "id": "6a0bad555aaee8ca90c7037e",
-      "title": "Codex: Build Your Full AI Marketing Team (Agents + Skills)",
-      "url": "https://www.youtube.com/watch?v=sL_KBnYB17I",
-      "hn_score": 0,
-      "comments": 0,
-      "author": "Riley Brown",
-      "source": "youtube",
-      "summary": "In the video titled 'Codex: Build Your Full AI Marketing Team (Agents + Skills)', Riley Brown explores the capabilities of Codeex, a super app that enhances content creation and marketing through AI agents. He emphasizes the importance of building repeatable workflows and skills around Codeex, demonstrating how various plugins and skills can be used to efficiently manage tasks related to content generation and digital marketing. Key skills highlighted include 'YouTube Researcher', which leverages popular video transcripts for crafting engaging content, and 'Readwise CLI', which aids in generating ideas based on user bookmarks. Furthermore, tools like Excaladraw, Paper, Remotion, and Hyperframes enable users to create dynamic visuals and motion graphics for their marketing efforts.\n\nRiley also discusses the potential of integrating image and video generation through the Gen Media skill, showcasing how it allows AI agents to create assets that users can easily modify. Automations are highlighted as essential for optimizing workflows, including managing brand deals and scheduling meetings. Additionally, the Buffer skill simplifies the organization of content ideas for social media posting. Overall, the video serves as a comprehensive guide for marketers and creators looking to leverage AI for enhancing their productivity and expanding their reach.",
-      "relevance_score": null,
-      "combined_score": null,
-      "is_ai_ml": false,
-      "comments_summary": "",
-      "hackernews_id": null,
-      "cluster_id": 5,
-      "cluster_name": "🤖 AI and Automation",
-      "video_id": "sL_KBnYB17I"
-    },
-    {
-      "id": "6a0bad555aaee8ca90c7037f",
-      "title": "Pi to Pi: Two-Way Agent Orchestration with the Pi Coding Agent",
-      "url": "https://www.youtube.com/watch?v=PIdETjcXNIk",
-      "hn_score": 0,
-      "comments": 0,
-      "author": "IndyDevDan",
-      "source": "youtube",
-      "summary": "In the video \"Pi to Pi: Two-Way Agent Orchestration with the Pi Coding Agent,\" IndyDevDan discusses the significant advantages of using multiple GPT 5.5 PI coding agents that work collaboratively rather than in isolation. By allowing these agents to communicate bidirectionally, users can foster a flat hierarchy where the most effective ideas and strategies can surface. This approach not only enhances the problem-solving capabilities of the agents but also ensures that sensitive information remains protected during collaboration, particularly in production environments where personal identifiable information (PII) is involved.\n\nThe video illustrates how different agents can effectively coordinate to reproduce issues from production environments in a safe manner, emphasizing the importance of specialized agents focusing on specific tasks. Throughout, the speaker highlights the balance of pros and cons associated with various orchestration techniques in agentic engineering, underscoring the need to explore and adapt agent communication processes to maximize operational efficiency and reliability. Ultimately, the engagement between agents across devices leads to scalable solutions in software development and engineering.",
-      "relevance_score": null,
-      "combined_score": null,
-      "is_ai_ml": false,
-      "comments_summary": "",
-      "hackernews_id": null,
-      "cluster_id": 5,
-      "cluster_name": "🤖 AI and Automation",
-      "video_id": "PIdETjcXNIk"
-    },
-    {
-      "id": "6a0bad565aaee8ca90c70380",
-      "title": "Samsung Is Watching Your HDMI Ports",
-      "url": "https://www.youtube.com/watch?v=o0WCYronjFw",
-      "hn_score": 0,
-      "comments": 0,
-      "author": "Bilawal Sidhu",
-      "source": "youtube",
-      "summary": "The video discusses the alarming capabilities of smart TVs, specifically focusing on Samsung and LG models that capture screens at alarming frequencies. Samsung captures frames every 500 milliseconds while LG varies, with some devices taking up to 10 milliseconds. This continuous capturing not only involves streamed content but also any source connected via HDMI, raising critical privacy concerns.\n\nThe presenter emphasizes that most users may be unaware their TVs are actively taking screenshots, potentially recording sensitive content from connected devices, including gaming consoles and doorbell cameras. This automated data collection poses significant implications for user privacy and underscores the need for consumers to be well-informed about their devices' capabilities and the related privacy risks.",
-      "relevance_score": null,
-      "combined_score": null,
-      "is_ai_ml": false,
-      "comments_summary": "",
-      "hackernews_id": null,
-      "cluster_id": 11,
-      "cluster_name": "🛡️ Privacy and Security Concerns",
-      "video_id": "o0WCYronjFw"
-    },
-    {
-      "id": "6a0bad575aaee8ca90c70381",
-      "title": "Cursor: coding agents tutorial (2026)",
-      "url": "https://www.youtube.com/watch?v=kF2WQgk1LtY",
-      "hn_score": 0,
-      "comments": 0,
-      "author": "leerob",
-      "source": "youtube",
-      "summary": "The video tutorial centers on the use of coding agents, particularly through the AI editor Cursor, to enhance software development efficiency. Developers can interact with these agents through detailed prompts to generate code, manage context effectively, and employ advanced searching techniques for better productivity. The tutorial highlights the importance of giving specific intent in prompts to yield high-quality programming results, and it emphasizes efficient context management by suggesting fresh conversations to avoid confusion. With tools like instant grep and semantic search, agents can rapidly locate code, which helps developers better understand complex codebases.\n\nIn addition to code generation, the tutorial covers the significance of debugging, recommending systematic methodologies that agents can assist with, thus simplifying the process of error detection and correction. It also stresses the necessity for thorough code reviews, particularly for code produced by AI, to mitigate technical debt. Lastly, customization of agents using rules and skills is presented as a way to align their capabilities with team practices, ensuring the agents are contextually aware and effective aids in the software development process.",
-      "relevance_score": null,
-      "combined_score": null,
-      "is_ai_ml": false,
-      "comments_summary": "",
-      "hackernews_id": null,
-      "cluster_id": 7,
-      "cluster_name": "💻 Software Development and Tools",
-      "video_id": "kF2WQgk1LtY"
-    },
-    {
-      "id": "6a0bad575aaee8ca90c70382",
-      "title": "Could Open Source AI Beat the Biggest Labs? 👀",
-      "url": "https://www.youtube.com/watch?v=MUGmWTTskNg",
-      "hn_score": 0,
-      "comments": 0,
-      "author": "The Neuron",
-      "source": "youtube",
-      "summary": "The video discusses the potential of open source AI to surpass the biggest labs if adequately funded. It highlights that open source models can facilitate collaboration among global research groups, leading to faster advancements in the field of artificial intelligence. By promoting accessibility to these models, open source fosters an environment where shared insights can drive innovation and breakthroughs, potentially resulting in significant advancements that may not be achievable through proprietary systems alone.\n\nFurthermore, the discussion emphasizes the importance of open science in enabling diverse contributions to the AI frontier. The ability to work collectively and leverage diverse ideas from various researchers can yield quicker progress, demonstrating that the landscape of AI development may be significantly enhanced through open collaboration rather than solely relying on established, proprietary entities.",
-      "relevance_score": null,
-      "combined_score": null,
-      "is_ai_ml": false,
-      "comments_summary": "",
-      "hackernews_id": null,
-      "cluster_id": 3,
-      "cluster_name": "🎨 AI and Creativity",
-      "video_id": "MUGmWTTskNg"
-    },
-    {
-      "id": "6a0a727e4b13988fc2ee6b36",
-      "title": "MTP vs DFlash — Speculative Decoding Explained Simply",
-      "url": "https://www.youtube.com/watch?v=-7xQqlsrc5M",
-      "hn_score": 0,
-      "comments": 0,
-      "author": "Fahd Mirza",
-      "source": "youtube",
-      "summary": "The video delves into the concepts of MTP (Multi-Token Prediction) and DeepFlash, two forms of speculative decoding used in language models. Speculative decoding accelerates the process by allowing models to guess multiple subsequent tokens all at once, significantly enhancing the efficiency of text generation. MTP integrates additional heads into existing models for simultaneous token prediction, boosting performance by around 20% without needing any external setup, making it suitable for users with consumer hardware. Conversely, DeepFlash involves a separate draft model and operates by predicting entire blocks of tokens based on the internal states of the primary model, achieving 2-3 times the speed of traditional methods but requiring more complex setup with custom runtimes and additional model files.\n\nIn summary, while both methods provide significant performance improvements, they cater to different user profiles: MTP is user-friendly and straightforward, making it ideal for casual users, while DeepFlash offers superior speed for those willing to invest in a more intricate setup. Ultimately, the choice between MTP and DeepFlash depends on the user's needs and the importance of accessibility versus maximum performance.",
-      "relevance_score": null,
-      "combined_score": null,
-      "is_ai_ml": false,
-      "comments_summary": "",
-      "hackernews_id": null,
-      "cluster_id": 8,
-      "cluster_name": "📊 Data Analysis and Prediction",
-      "video_id": "-7xQqlsrc5M"
-    },
-    {
-      "id": "6a0a727e4b13988fc2ee6b37",
-      "title": "Claude Mythos Just Appeared in Google Cloud. It's Not What You Think!",
-      "url": "https://www.youtube.com/watch?v=OmaWozRgz5E",
-      "hn_score": 0,
-      "comments": 0,
-      "author": "Universe of AI",
-      "source": "youtube",
-      "summary": "In a surprising turn of events, Claude Mythos, a model from Enthropic that was initially stated to remain locked and unreleased due to cybersecurity risks, appeared in Google Cloud without a preview indication. This has led to significant speculation within the tech community regarding whether this model will actually be made publicly available. Enthropic's previous reluctance to release the model was attributed to its advanced capabilities in identifying code vulnerabilities, raising concerns about potential abuse if widely distributed. Access is currently restricted to a select group of organizations, which further complicates the release narrative.\n\nMeanwhile, OpenAI is making strides with its Codeex technology, aimed at controlling desktop applications via mobile devices, although it faces challenges when devices are locked. Additionally, there's anticipation surrounding a potential new Gemini model, which surfaced days before the highly anticipated Google IO conference, suggesting that a more formal announcement may be forthcoming. The situation remains fluid, particularly in light of pressure from competitors like OpenAI, as the outcome of Enthropic's plans for Mythos and Google’s forthcoming announcements continues to shape the future of AI development.",
-      "relevance_score": null,
-      "combined_score": null,
-      "is_ai_ml": false,
-      "comments_summary": "",
-      "hackernews_id": null,
-      "cluster_id": 0,
-      "cluster_name": "🤖 Anthropic Developments",
-      "video_id": "OmaWozRgz5E"
     }
   ],
   "clusters": [
@@ -825,10 +555,9 @@
       "id": 0,
       "name": "🤖 Anthropic Developments",
       "description": "Anthropic's strategic moves include acquiring Stainless to enhance agent connectivity and the unexpected appearance of Claude Mythos in Google Cloud, highlighting their focus on advanced AI capabilities.",
-      "size": 2,
+      "size": 1,
       "sample_titles": [
-        "Anthropic acquires Stainless",
-        "Claude Mythos Just Appeared in Google Cloud. It's Not What You Think!"
+        "Anthropic acquires Stainless"
       ]
     },
     {
@@ -855,11 +584,9 @@
       "id": 3,
       "name": "🎨 AI and Creativity",
       "description": "Exploring the intersection of AI and creativity, these articles discuss the potential of open source AI to rival major labs and the establishment of a benchmark for evaluating human creativity.",
-      "size": 3,
+      "size": 1,
       "sample_titles": [
-        "Human creativity benchmark",
-        "This React Library Makes Videos For You",
-        "Could Open Source AI Beat the Biggest Labs? 👀"
+        "Human creativity benchmark"
       ]
     },
     {
@@ -876,11 +603,10 @@
       "id": 5,
       "name": "🤖 AI and Automation",
       "description": "Exploring the integration of AI in various domains, from enhancing content creation to managing radio stations and improving memory in AI agents.",
-      "size": 5,
+      "size": 2,
       "sample_titles": [
         "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-        "Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint",
-        "AI Memory: Stop Building Stateless Agents"
+        "Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint"
       ]
     },
     {
@@ -898,21 +624,11 @@
       "id": 7,
       "name": "💻 Software Development and Tools",
       "description": "Focusing on advancements and tools in software development, including coding agents, design systems, and programming conventions.",
-      "size": 6,
+      "size": 3,
       "sample_titles": [
         "The Fil-C Optimized Calling Convention",
         "Understanding Singleflight in Go",
         "How to make Claude Code follow your design system in Figma"
-      ]
-    },
-    {
-      "id": 8,
-      "name": "📊 Data Analysis and Prediction",
-      "description": "Discussing methodologies and tools for data analysis, prediction, and optimization in various fields, including linear regression and speculative decoding.",
-      "size": 2,
-      "sample_titles": [
-        "The Essence of Linear Regression",
-        "MTP vs DFlash — Speculative Decoding Explained Simply"
       ]
     },
     {
@@ -939,10 +655,9 @@
       "id": 11,
       "name": "🛡️ Privacy and Security Concerns",
       "description": "Addressing privacy and security issues in technology, such as smart TVs capturing screen content and challenges in subscription practices.",
-      "size": 2,
+      "size": 1,
       "sample_titles": [
-        "Shutterstock to pay $35M over hard-to-cancel subscriptions",
-        "Samsung Is Watching Your HDMI Ports"
+        "Shutterstock to pay $35M over hard-to-cancel subscriptions"
       ]
     },
     {
@@ -959,10 +674,9 @@
       "id": 13,
       "name": "🚀 Space and Technology",
       "description": "Discussing the intersection of space exploration and technology, including SpaceX's IPO and the impact of radio signals in space.",
-      "size": 2,
+      "size": 1,
       "sample_titles": [
-        "Earth's Radio Bubble: Every signal we've ever sent into space",
-        "SpaceX just BLEW UP..."
+        "Earth's Radio Bubble: Every signal we've ever sent into space"
       ]
     },
     {
@@ -1017,24 +731,6 @@
       "size": 1,
       "sample_titles": [
         "The text is not the product"
-      ]
-    },
-    {
-      "id": 20,
-      "name": "⚔️ Geopolitical Conflict",
-      "description": "",
-      "size": 1,
-      "sample_titles": [
-        "The Next War Is Already Here — Yaroslav Azhnyuk, The Fourth Law & Noah Smith, Noahpinion"
-      ]
-    },
-    {
-      "id": 21,
-      "name": "📱 Tech Conference",
-      "description": "",
-      "size": 1,
-      "sample_titles": [
-        "What Google Needs to Do at I/O This Week"
       ]
     }
   ]

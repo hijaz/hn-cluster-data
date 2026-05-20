@@ -1,7 +1,7 @@
 {
   "date": "2026-05-17",
   "generated_at": "2026-05-17T02:05:33.940054+00:00",
-  "article_count": 47,
+  "article_count": 45,
   "cluster_count": 16,
   "clustering_model": "gpt-4o",
   "articles": [
@@ -788,42 +788,6 @@
       "cluster_id": 6,
       "cluster_name": "🔧 Hardware & DIY",
       "lobsters_url": "https://lobste.rs/s/9ro8pd/tomy_tutor_state_1983_home_computers"
-    },
-    {
-      "id": "6a091ec76ffd89eaf4726e43",
-      "title": "GroundedAI with Ollama - Universal Evaluation Interface for LLM Applications",
-      "url": "https://www.youtube.com/watch?v=YM1_2NqvbkI",
-      "hn_score": 0,
-      "comments": 0,
-      "author": "Fahd Mirza",
-      "source": "youtube",
-      "summary": "In the video 'GroundedAI with Ollama - Universal Evaluation Interface for LLM Applications', Fahd Mirza emphasizes the importance of evaluation (evals) in AI to ensure the trustworthy performance of models in production. He introduces the concept of grounded AI, which employs techniques to anchor AI responses to factual information, breaking away from the problem of model hallucinations. Through various tests using a local model on an Ubuntu system, he showcases how grounded AI effectively verifies facts and maintains accuracy in responses, illustrating the significance of systematic testing in AI development.\n\nThe framework provided by grounded AI is highlighted as an essential tool for developers, as it allows for customizable evaluations, control over testing parameters, and flexibility in utilizing multiple judge models without needing to alter code. The modular approach enables developers to adapt evaluations to their specific requirements effectively. Ultimately, the video underlines the necessity of implementing rigorous evals in AI development to foster reliable AI applications while inviting developers to engage and share their insights regarding evaluation methods.",
-      "relevance_score": null,
-      "combined_score": null,
-      "is_ai_ml": false,
-      "comments_summary": "",
-      "hackernews_id": null,
-      "cluster_id": 0,
-      "cluster_name": "🧠 AI & Machine Learning",
-      "video_id": "YM1_2NqvbkI"
-    },
-    {
-      "id": "6a091ec76ffd89eaf4726e44",
-      "title": "AI just BROKE the ENTIRE INDUSTRY...",
-      "url": "https://www.youtube.com/watch?v=RTa6Z0BJ_WY",
-      "hn_score": 0,
-      "comments": 0,
-      "author": "Wes Roth",
-      "source": "youtube",
-      "summary": "The video discusses the transformative impact of AI on the fintech sector, suggesting that it is on the brink of a major disruption. It highlights recent cybersecurity vulnerabilities exacerbated by AI developments, pointing to a growing urgency for financial institutions to adopt AI solutions robustly to manage risks effectively. OpenAI's introduction of ChatGPT for personal finance management represents a significant shift towards integrating AI into everyday finance, offering consumers advanced control over their financial data, and signaling an era where accounting tasks may become largely automated. \n\nThe potential for AI to enhance financial workflows is being recognized by major institutions, with companies like Anthropic embedding AI systems in banking to optimize compliance and operational efficiency. As competition intensifies, the emphasis is shifting from chatbot capabilities to controlling critical financial processes. This suggests a future where AI not only aids in personal finance but also revolutionizes how financial institutions operate, with implications that the industry must navigate carefully, especially in the face of emerging cybersecurity threats.",
-      "relevance_score": null,
-      "combined_score": null,
-      "is_ai_ml": false,
-      "comments_summary": "",
-      "hackernews_id": null,
-      "cluster_id": 0,
-      "cluster_name": "🧠 AI & Machine Learning",
-      "video_id": "RTa6Z0BJ_WY"
     }
   ],
   "clusters": [
@@ -831,7 +795,7 @@
       "id": 0,
       "name": "🧠 AI & Machine Learning",
       "description": "Exploring advancements and applications in AI, from world models to language processing and AI's societal impacts.",
-      "size": 6,
+      "size": 4,
       "sample_titles": [
         "Frontier AI has broken the open CTF format",
         "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",

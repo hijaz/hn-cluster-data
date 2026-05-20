@@ -1,7 +1,7 @@
 {
   "date": "2026-05-18",
   "generated_at": "2026-05-18T02:19:27.726283+00:00",
-  "article_count": 47,
+  "article_count": 45,
   "cluster_count": 17,
   "clustering_model": "gpt-4o",
   "articles": [
@@ -783,42 +783,6 @@
       "hackernews_id": null,
       "cluster_id": 5,
       "cluster_name": "🧠 Human & AI Interaction"
-    },
-    {
-      "id": "6a0a727e4b13988fc2ee6b36",
-      "title": "MTP vs DFlash — Speculative Decoding Explained Simply",
-      "url": "https://www.youtube.com/watch?v=-7xQqlsrc5M",
-      "hn_score": 0,
-      "comments": 0,
-      "author": "Fahd Mirza",
-      "source": "youtube",
-      "summary": "The video delves into the concepts of MTP (Multi-Token Prediction) and DeepFlash, two forms of speculative decoding used in language models. Speculative decoding accelerates the process by allowing models to guess multiple subsequent tokens all at once, significantly enhancing the efficiency of text generation. MTP integrates additional heads into existing models for simultaneous token prediction, boosting performance by around 20% without needing any external setup, making it suitable for users with consumer hardware. Conversely, DeepFlash involves a separate draft model and operates by predicting entire blocks of tokens based on the internal states of the primary model, achieving 2-3 times the speed of traditional methods but requiring more complex setup with custom runtimes and additional model files.\n\nIn summary, while both methods provide significant performance improvements, they cater to different user profiles: MTP is user-friendly and straightforward, making it ideal for casual users, while DeepFlash offers superior speed for those willing to invest in a more intricate setup. Ultimately, the choice between MTP and DeepFlash depends on the user's needs and the importance of accessibility versus maximum performance.",
-      "relevance_score": null,
-      "combined_score": null,
-      "is_ai_ml": false,
-      "comments_summary": "",
-      "hackernews_id": null,
-      "cluster_id": 11,
-      "cluster_name": "🖥️ Software & System Performance",
-      "video_id": "-7xQqlsrc5M"
-    },
-    {
-      "id": "6a0a727e4b13988fc2ee6b37",
-      "title": "Claude Mythos Just Appeared in Google Cloud. It's Not What You Think!",
-      "url": "https://www.youtube.com/watch?v=OmaWozRgz5E",
-      "hn_score": 0,
-      "comments": 0,
-      "author": "Universe of AI",
-      "source": "youtube",
-      "summary": "In a surprising turn of events, Claude Mythos, a model from Enthropic that was initially stated to remain locked and unreleased due to cybersecurity risks, appeared in Google Cloud without a preview indication. This has led to significant speculation within the tech community regarding whether this model will actually be made publicly available. Enthropic's previous reluctance to release the model was attributed to its advanced capabilities in identifying code vulnerabilities, raising concerns about potential abuse if widely distributed. Access is currently restricted to a select group of organizations, which further complicates the release narrative.\n\nMeanwhile, OpenAI is making strides with its Codeex technology, aimed at controlling desktop applications via mobile devices, although it faces challenges when devices are locked. Additionally, there's anticipation surrounding a potential new Gemini model, which surfaced days before the highly anticipated Google IO conference, suggesting that a more formal announcement may be forthcoming. The situation remains fluid, particularly in light of pressure from competitors like OpenAI, as the outcome of Enthropic's plans for Mythos and Google’s forthcoming announcements continues to shape the future of AI development.",
-      "relevance_score": null,
-      "combined_score": null,
-      "is_ai_ml": false,
-      "comments_summary": "",
-      "hackernews_id": null,
-      "cluster_id": 1,
-      "cluster_name": "🤖 AI & Machine Learning",
-      "video_id": "OmaWozRgz5E"
     }
   ],
   "clusters": [
@@ -837,7 +801,7 @@
       "id": 1,
       "name": "🤖 AI & Machine Learning",
       "description": "Articles discussing the impact, challenges, and advancements in AI and machine learning technologies, including their integration and ethical considerations.",
-      "size": 6,
+      "size": 5,
       "sample_titles": [
         "I don't think AI will make your processes go faster",
         "AI is a technology not a product",
@@ -943,7 +907,7 @@
       "id": 11,
       "name": "🖥️ Software & System Performance",
       "description": "Articles focusing on optimizing software and system performance, including speculative decoding and system integration.",
-      "size": 4,
+      "size": 3,
       "sample_titles": [
         "Native all the way, until you need text",
         "C++26 Shipped a SIMD Library Nobody Asked For",

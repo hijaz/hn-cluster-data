@@ -1,8 +1,8 @@
 {
   "date": "2026-05-20",
   "generated_at": "2026-05-20T01:49:08.244534+00:00",
-  "article_count": 55,
-  "cluster_count": 26,
+  "article_count": 52,
+  "cluster_count": 25,
   "clustering_model": "gpt-4o",
   "articles": [
     {
@@ -910,60 +910,6 @@
       "cluster_id": 16,
       "cluster_name": "🔌 Open Source & Linux",
       "lobsters_url": "https://lobste.rs/s/9ygtid/tonic_is_joining_grpc_project"
-    },
-    {
-      "id": "6a0cff6c8e64df16b3a2449c",
-      "title": "Training a Unitree G1 to Walk w/ Reinforcement Learning",
-      "url": "https://www.youtube.com/watch?v=FGnAeUXRZ4E",
-      "hn_score": 0,
-      "comments": 0,
-      "author": "sentdex",
-      "source": "youtube",
-      "summary": "In the video, the presenter discusses the journey of using reinforcement learning to train a Unitree G1 robot to walk, highlighting the challenges of transferring learned behavior from simulation (sim) to real-world scenarios. The presenter emphasizes that while actuator technology has advanced, ensuring reliable performance in real environments remains difficult. They advocate for using MJLab as a simulator for training, as it allows users to address the critical step of sim-to-sim training before moving on to sim-to-real applications.\n\nThe significance of applying motion imitation techniques to improve robot capabilities is also examined, with a focus on developing policies for specific tasks, like navigating real-world environments and picking objects. The presenter shares practical insights gained from personal experimentation and encourages viewers to explore and adapt their approaches to robotic programming, reinforcing the idea that individual creativity and problem-solving are essential for progress in robotics. Overall, the video offers a deep dive into contemporary challenges and future goals in the field of robotic motion and learning.",
-      "relevance_score": null,
-      "combined_score": null,
-      "is_ai_ml": false,
-      "comments_summary": "",
-      "hackernews_id": null,
-      "cluster_id": 10,
-      "cluster_name": "🤖 Reinforcement Learning in Robotics",
-      "video_id": "FGnAeUXRZ4E"
-    },
-    {
-      "id": "6a0cff6d8e64df16b3a2449d",
-      "title": "PhD Roadmap: Year by Year, What to Expect (Should you do a PhD?)",
-      "url": "https://www.youtube.com/watch?v=YkTyNjybZLw",
-      "hn_score": 0,
-      "comments": 0,
-      "author": "Andy Stapleton",
-      "source": "youtube",
-      "summary": "The video 'PhD Roadmap: Year by Year, What to Expect' by Andy Stapleton serves as a comprehensive guide for prospective PhD students, detailing the realities of pursuing a doctorate. Key insights include the high dropout rates among PhD students (40%) and alarming mental health statistics, with 39% exhibiting depressive symptoms. The speaker emphasizes that a PhD is not necessarily about creating groundbreaking work; rather, it's about making an original contribution to a field. The journey is divided into phases, with the first year focused on foundational reading and developing a research question, while subsequent years are marked by intensive research and potential emotional struggles, commonly referred to as the 'valley of despair'.\n\nFurthermore, the relationship with one's PhD supervisor is highlighted as a critical factor in determining the likelihood of success, underscoring the importance of careful selection when pursuing a PhD. After completing their PhDs, only a minority (43%) continue in academia, with many shifting to industry positions. Stapleton ultimately encourages viewers to approach the decision to pursue a PhD thoughtfully, weighing the potential emotional toll and the importance of support systems throughout the process.",
-      "relevance_score": null,
-      "combined_score": null,
-      "is_ai_ml": false,
-      "comments_summary": "",
-      "hackernews_id": null,
-      "cluster_id": 15,
-      "cluster_name": "📚 Education & Learning",
-      "video_id": "YkTyNjybZLw"
-    },
-    {
-      "id": "6a0cff6e8e64df16b3a2449e",
-      "title": "MTP + Ngram Stacked in llama.cpp - Qwen3.6 27B at 56 tok/s Locally",
-      "url": "https://www.youtube.com/watch?v=71T4aQiwZ_I",
-      "hn_score": 0,
-      "comments": 0,
-      "author": "Fahd Mirza",
-      "source": "youtube",
-      "summary": "In the video, Fahd Mirza discusses the recent merging of the MTPPR into the llama.cpp framework, which significantly enhances the speed of token processing. Together with the introduction of the N-gram mod, a new speculative decoding technique, the token generation rate can reach an impressive 56 tokens per second. By stacking both methods, the models can predict multiple tokens simultaneously, which optimizes efficiency, particularly in coding tasks where patterns commonly repeat. \n\nThe video explains the mechanics behind these improvements, highlighting that MTP enables faster draft token generation using internal model weights, while N-gram mod utilizes historical text patterns for generating repeated token sequences. Both techniques operate within a streamlined process that doesn't require additional model downloads or excessive VRAM, making advanced processing accessible for users with contemporary GPUs. Overall, the content emphasizes the practical application of these methods and their potential to drastically improve performance on local systems.",
-      "relevance_score": null,
-      "combined_score": null,
-      "is_ai_ml": false,
-      "comments_summary": "",
-      "hackernews_id": null,
-      "cluster_id": 10,
-      "cluster_name": "🤖 Reinforcement Learning in Robotics",
-      "video_id": "71T4aQiwZ_I"
     }
   ],
   "clusters": [
@@ -1070,16 +1016,6 @@
       ]
     },
     {
-      "id": 10,
-      "name": "🤖 Reinforcement Learning in Robotics",
-      "description": "These articles explore the application of reinforcement learning in robotics, focusing on the challenges of transferring learning from simulation to real-world scenarios.",
-      "size": 2,
-      "sample_titles": [
-        "Training a Unitree G1 to Walk w/ Reinforcement Learning",
-        "MTP + Ngram Stacked in llama.cpp - Qwen3.6 27B at 56 tok/s Locally"
-      ]
-    },
-    {
       "id": 11,
       "name": "🌐 Visualization & Graphics",
       "description": "Exploring innovative techniques in computer graphics and visualization, these articles highlight advancements in rendering and cultural representation through visual mediums.",
@@ -1125,10 +1061,9 @@
       "id": 15,
       "name": "📚 Education & Learning",
       "description": "Focusing on educational journeys and methodologies, these articles provide insights into the challenges and strategies in learning environments, from PhD programs to coding practices.",
-      "size": 2,
+      "size": 1,
       "sample_titles": [
-        "Type out the code",
-        "PhD Roadmap: Year by Year, What to Expect (Should you do a PhD?)"
+        "Type out the code"
       ]
     },
     {
