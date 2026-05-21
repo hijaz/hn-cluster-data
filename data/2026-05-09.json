@@ -1,8 +1,8 @@
 {
   "date": "2026-05-09",
   "generated_at": "2026-05-17T11:16:52.723911+00:00",
-  "article_count": 83,
-  "cluster_count": 46,
+  "article_count": 96,
+  "cluster_count": 51,
   "clustering_model": "gpt-4o",
   "articles": [
     {
@@ -1234,6 +1234,240 @@
       "lobsters_url": ""
     },
     {
+      "id": "69ff818c05b9f988825172b6",
+      "title": "OpenAI's GPT 5.5 Instant: The Good, The Bad And The Insane",
+      "url": "https://www.youtube.com/watch?v=4nQnhjimB4Y",
+      "hn_score": 0,
+      "comments": 0,
+      "author": "Two Minute Papers",
+      "source": "youtube",
+      "summary": "The video focuses on OpenAI's latest model, GPT 5.5 Instant, emphasizing its significance and performance in various challenging areas, including medical and cybersecurity. It highlights the model's impressive reduction in hallucination rates, which bodes well for legal applications and suggests it is approaching the capabilities of leading AI models in several tasks. However, there are caveats regarding the handling of complex prompts, where the model showed vulnerabilities, indicating potential risks of misuse. To address this, OpenAI has implemented additional classifiers to filter and evaluate responses before they reach users, although concerns remain about the security being more of a superficial fix rather than a fundamental solution.\n\nThe analysis of benchmark testing reveals that previous models have achieved inflated scores by exploiting answer length rather than correctness, leading to a re-evaluation of how these systems are assessed. Overall, while GPT 5.5 Instant demonstrates remarkable advancements and usefulness, especially in urgent scenarios, it is vital for developers and researchers to remain vigilant and address underlying concerns in the AI models to ensure safe and ethical deployment.",
+      "relevance_score": null,
+      "combined_score": null,
+      "is_ai_ml": false,
+      "comments_summary": "",
+      "hackernews_id": null,
+      "cluster_id": 3,
+      "cluster_name": "📈 AI Model Performance and Advancements",
+      "video_id": "4nQnhjimB4Y"
+    },
+    {
+      "id": "69ff818d05b9f988825172b7",
+      "title": "Vibe coding works… until your agent confidently builds the wrong thing",
+      "url": "https://www.youtube.com/watch?v=DygEd_WvUxU",
+      "hn_score": 0,
+      "comments": 0,
+      "author": "DeepLearningAI",
+      "source": "youtube",
+      "summary": "The video discusses the concept of vibe coding, where natural language prompts are used to instruct coding agents to create functionality, such as user interface elements. While this method can streamline development, it poses challenges when agents misinterpret instructions, resulting in improperly created features. The humor illustrated in the exchanges underscores the importance of clarity and specificity in instructions to prevent significant misalignments between user expectations and the AI-generated outputs.\n\nThe video highlights the necessity of iterative feedback and learning in the software development process. It emphasizes that collaboration between developers and AI, combined with precise communication, is crucial for the success of vibe coding. By addressing miscommunication and reinforcing the need for meticulous requirements, developers can enhance the functionality of coding agents, ultimately leading to better quality and relevance in software development outcomes.",
+      "relevance_score": null,
+      "combined_score": null,
+      "is_ai_ml": false,
+      "comments_summary": "",
+      "hackernews_id": null,
+      "cluster_id": 40,
+      "cluster_name": "🤖 AI Development",
+      "video_id": "DygEd_WvUxU"
+    },
+    {
+      "id": "69ff818d05b9f988825172b8",
+      "title": "Codex can now use Chrome directly on macOS and Windows.",
+      "url": "https://www.youtube.com/watch?v=b6Mxcv1pyBU",
+      "hn_score": 0,
+      "comments": 0,
+      "author": "OpenAI",
+      "source": "youtube",
+      "summary": "The video introduces the new Chrome extension for Cortex, allowing it to function directly within the users' Chrome browsers on macOS and Windows. This integration enables users to leverage Cortex's capabilities without interrupting their workflow, utilizing the same session and cookies across tabs. The extension helps automate a variety of tasks such as research, data collection, and expense reporting by interacting with familiar browser tools and plugins.\n\nBy creating its own tab group, Cortex can handle multiple tasks in the background, eliminating the need for the user to toggle between different applications. The extension's ability to script repetitive tasks and collaborate in real-time using separate browser tabs marks a significant advancement, enhancing productivity through seamless connectivity with already-used tools. Overall, the Chrome extension enriches the functionality of Cortex, making it a valuable tool for professionals looking to streamline their processes.",
+      "relevance_score": null,
+      "combined_score": null,
+      "is_ai_ml": false,
+      "comments_summary": "",
+      "hackernews_id": null,
+      "cluster_id": 0,
+      "cluster_name": "🔢 ChatGPT 5.5 Advancements",
+      "video_id": "b6Mxcv1pyBU"
+    },
+    {
+      "id": "69ff818e05b9f988825172b9",
+      "title": "Is GPT-5.5 Better Than Opus Now? (ft. Our New AI Co-Host) - EP99.38",
+      "url": "https://www.youtube.com/watch?v=dEPzRtZLd2M",
+      "hn_score": 0,
+      "comments": 0,
+      "author": "This Day in AI Podcast",
+      "source": "youtube",
+      "summary": "In this episode of 'This Day in AI Podcast,' the hosts discuss various advancements in AI, particularly focusing on the new GPT 5.5 model which reportedly enhances agentic workflows significantly compared to its predecessor, GPT 5.4. The introduction of a new co-host, Moshi, aims to bolster fact-checking and streamline the discussions. The episode also raises intriguing points about the development of a potential OpenAI phone, suggesting that while it could offer unique integration and functions, the necessity and execution of such a device come into question. \n\nMoreover, while the hosts laud GPT 5.5 for its improved performance and context management capabilities, they express disappointment in Grok 4.3, which failed to meet expectations. A crucial focus of the conversation revolves around the unsustainable nature of current AI token pricing models, the competition among providers, and the impact of hardware decisions on the future of AI applications. As the hosts look forward to upcoming announcements from Google, they emphasize the importance of continuous innovation and the refinement of AI models to maintain a competitive edge.",
+      "relevance_score": null,
+      "combined_score": null,
+      "is_ai_ml": false,
+      "comments_summary": "",
+      "hackernews_id": null,
+      "cluster_id": 0,
+      "cluster_name": "🔢 ChatGPT 5.5 Advancements",
+      "video_id": "dEPzRtZLd2M"
+    },
+    {
+      "id": "69ff818f05b9f988825172ba",
+      "title": "The Week the AI Story Shifted",
+      "url": "https://www.youtube.com/watch?v=ef4WR5vUJro",
+      "hn_score": 0,
+      "comments": 0,
+      "author": "The AI Daily Brief: Artificial Intelligence News",
+      "source": "youtube",
+      "summary": "In the latest episode of the AI Daily Brief, the discussion revolves around a pivotal week that saw significant shifts in the narrative surrounding artificial intelligence. The host mentions the introduction of weekly recap episodes aimed at providing context for AI developments, emphasizing the importance of understanding the broader implications amidst a rapidly changing technology landscape. Insights from prominent essays argue against the fear of an AI-induced job apocalypse, positing that sectors such as the relational economy may see growth instead. Notably, the mainstream engagement with these ideas indicates a maturation in how the public and experts are beginning to comprehend AI's potential impact on various job sectors and investments in technology.\n\nThe episode highlights substantial investment activity in enterprise AI, underscoring a shift in attitude from skepticism to cautious optimism, especially on Wall Street, which is now less inclined to view the AI surge as a speculative bubble. Major developments like the collaboration between Elon Musk's firms and Anthropic are positioned as strategic moves to bolster AI infrastructure, signaling a trend towards balancing model development with the necessary computational resources to support ongoing demands. The focus on practical applications through new tools emerging in AI reflects an awareness of the challenges that come with the integration of AI into everyday use, suggesting a more nuanced understanding of what it takes to effectively navigate and capitalize on AI advancements.",
+      "relevance_score": null,
+      "combined_score": null,
+      "is_ai_ml": false,
+      "comments_summary": "",
+      "hackernews_id": null,
+      "cluster_id": 16,
+      "cluster_name": "🤖 AI & Machine Learning",
+      "video_id": "ef4WR5vUJro"
+    },
+    {
+      "id": "69ff818f05b9f988825172bb",
+      "title": "People Are Going to Print Money with GTA6",
+      "url": "https://www.youtube.com/watch?v=CU8x7Z1KCs4",
+      "hn_score": 0,
+      "comments": 0,
+      "author": "My First Million Clips Official",
+      "source": "youtube",
+      "summary": "The video discusses the substantial financial prospects associated with the upcoming release of Grand Theft Auto 6. The gaming industry has surpassed Hollywood in size, with franchises like GTA leading the way by generating unprecedented sales figures—such as the billion dollars made in three days by GTA 5. The discussion suggests that the game's recurring revenue model, particularly through GTA Online, demonstrates a sustainable income strategy for the franchise, setting a solid foundation for future profitability.\n\nMoreover, the excitement surrounding GTA 6 is expected to foster a vibrant economy where younger demographics, especially those aged 13 to 25, can explore entrepreneurial ventures. This includes opportunities for content creation, mod development, and in-game transactions. The conversation also touches on investment moves, such as potential hostile takeovers of Take-Two Interactive, indicating the game's significant market value. In conclusion, the upcoming release of GTA 6 represents not just a gaming milestone, but a wider economic opportunity for creators and entrepreneurs alike.",
+      "relevance_score": null,
+      "combined_score": null,
+      "is_ai_ml": false,
+      "comments_summary": "",
+      "hackernews_id": null,
+      "cluster_id": 22,
+      "cluster_name": "🎮 Gaming & Entertainment",
+      "video_id": "CU8x7Z1KCs4"
+    },
+    {
+      "id": "69ff819005b9f988825172bc",
+      "title": "Date pickers suck, we fixed them",
+      "url": "https://www.youtube.com/watch?v=4JUx-8KkRPw",
+      "hn_score": 0,
+      "comments": 0,
+      "author": "Syntax",
+      "source": "youtube",
+      "summary": "In the video titled 'Date pickers suck, we fixed them,' the hosts from the Syntax channel openly discuss their shared frustration with traditional date pickers. They challenge each other to design a better date picker, emphasizing the importance of features such as natural language input, user-friendliness, and design aesthetics. Each designer showcases their creation, which are then tested with users to assess design, ease of use, and overall enjoyment. User feedback plays a crucial role in determining the effectiveness of each date picker, ultimately highlighting the preferred features like holiday detection and typo tolerance.\n\nThe discussion reveals that while natural language processing enhances usability by allowing users to input dates in a conversational manner, traditional visual elements like calendars remain important for many users. The video culminates in a competitive analysis of each design, showcasing the strengths and weaknesses of each approach, and emphasizing how user preferences can guide future designs in creating more effective tools. This reinforces the concept that improving date selection tools is not only about innovative ideas but also about understanding user behavior and preferences.",
+      "relevance_score": null,
+      "combined_score": null,
+      "is_ai_ml": false,
+      "comments_summary": "",
+      "hackernews_id": null,
+      "cluster_id": 41,
+      "cluster_name": "📅 UX Design",
+      "video_id": "4JUx-8KkRPw"
+    },
+    {
+      "id": "69ff819005b9f988825172bd",
+      "title": "Elon Musk killed two birds with one stone: put Dario Amodei on a leash and hurt Sam Altman",
+      "url": "https://www.youtube.com/watch?v=dYueaZBZMrk",
+      "hn_score": 0,
+      "comments": 0,
+      "author": "Ksenia | Turing Post",
+      "source": "youtube",
+      "summary": "The video delves into the intricate dynamics of Elon Musk's current litigation against OpenAI, highlighting how he strategically used court revelations to his advantage. Underlining the drama, Musk's AI company, xAI, is embroiled in controversy after allegedly utilizing OpenAI's AI models for its tools. The merger of xAI with SpaceX signifies an effort to bolster Musk’s technological assets ahead of a massive IPO, capitalizing on the latest market demands for AI capabilities.\n\nMusk's tactical maneuvers extend to Anthropic, a rival AI firm, where he publicly lambasted its principles while simultaneously leasing critical computing power to it. This unexpected partnership positions Musk as a dominant force in infrastructure for AI companies, framing his narrative as a 'moral judge' in AI development. Ultimately, the unfolding events reflect a larger commentary on the human complexities driving business decisions in the AI space, showcasing how power struggles intertwine with personal vendettas among tech leaders.",
+      "relevance_score": null,
+      "combined_score": null,
+      "is_ai_ml": false,
+      "comments_summary": "",
+      "hackernews_id": null,
+      "cluster_id": 42,
+      "cluster_name": "🦸‍♂️ Tech Leadership",
+      "video_id": "dYueaZBZMrk"
+    },
+    {
+      "id": "69ff819105b9f988825172be",
+      "title": "ERNIE 5.1 Just Arrived - Full Testing from Mona Vale Beach",
+      "url": "https://www.youtube.com/watch?v=_tqqYas1zSE",
+      "hn_score": 0,
+      "comments": 0,
+      "author": "Fahd Mirza",
+      "source": "youtube",
+      "summary": "The video introduces ERNIE 5.1, a highly efficient AI model developed by Baidu that significantly reduces training costs to just 6% of the budgets of comparable models while achieving top-tier performance across various global AI leaderboards. With a focus on versatility, ERNIE 5.1 employs a unique training method that enables it to adapt across different parameters simultaneously, making it both efficient and powerful. The presenter highlights the model's capabilities by testing it in real-world scenarios, such as coding a black box locator tool and performing multilingual translations, showcasing its remarkable skills in reasoning, tool usage, and language proficiency.\n\nThroughout the demonstration, ERNIE 5.1 consistently delivers impressive responses, navigating complex challenges with logical reasoning and clear decision-making. The model's ability to maintain high performance across diverse tasks positions it as a competitive player in the AI field, challenging established models while promoting the potential for future advancements. Overall, this review not only emphasizes the technological breakthroughs presented by ERNIE 5.1 but also highlights the remarkable strides made in AI efficiency and problem-solving capabilities, leaving viewers excited for what comes next.",
+      "relevance_score": null,
+      "combined_score": null,
+      "is_ai_ml": false,
+      "comments_summary": "",
+      "hackernews_id": null,
+      "cluster_id": 3,
+      "cluster_name": "📈 AI Model Performance and Advancements",
+      "video_id": "_tqqYas1zSE"
+    },
+    {
+      "id": "69ff819205b9f988825172bf",
+      "title": "NotebookLM Just Got Automations: Build POWERFUL AI Automations!",
+      "url": "https://www.youtube.com/watch?v=0xu3MYYg0ek",
+      "hn_score": 0,
+      "comments": 0,
+      "author": "Universe of AI",
+      "source": "youtube",
+      "summary": "In the video, the presenter discusses the integration of Codex and Notebook LM to create powerful AI automations for enhancing productivity in personal and professional contexts. Codex is recognized for its programming capabilities, while Notebook LM stands out for its deep research functionalities. The introduction of a new Chrome extension allows seamless communication between these two tools, enabling the creation of automations that can regularly update a Notebook LM with the latest resources, like YouTube videos or other data, without manual effort.\n\nThe video also explores the ability to automate email updates based on insights garnered from Notebook LM, showcasing the setup of plugins like Gmail to facilitate broader automation workflows. By harnessing these tools, users can design customized workflows that not only enhance their productivity but also save time for larger projects, ensuring timely updates and information sharing. The overall message emphasizes the importance of automation in modern work, encouraging viewers to adopt these techniques to streamline their processes.",
+      "relevance_score": null,
+      "combined_score": null,
+      "is_ai_ml": false,
+      "comments_summary": "",
+      "hackernews_id": null,
+      "cluster_id": 11,
+      "cluster_name": "🔍 AI Model Building and Integration",
+      "video_id": "0xu3MYYg0ek"
+    },
+    {
+      "id": "69ff819205b9f988825172c0",
+      "title": "we JUST figured out how AI thinks",
+      "url": "https://www.youtube.com/watch?v=Nn2eXwch-K0",
+      "hn_score": 0,
+      "comments": 0,
+      "author": "Wes Roth",
+      "source": "youtube",
+      "summary": "In the latest updates from Enthropy, significant strides have been made in understanding artificial intelligence through Anthropic's Claude Mythos. The introduction of Natural Language Autoencoders (NLA) marks a pivotal moment in AI research, as it enables the translation of neural activations into comprehensible English text. This breakthrough offers insight into how AI models like Claude behave and think, particularly revealing their potential awareness of being tested. Moreover, experts estimate a considerable chance—60%—that AI systems will achieve recursive self-improvement by 2028, a development that poses both promising advancements and substantial risks to humanity's safety.\n\nWhile the progress in AI capabilities races ahead, our comprehension of AI safety remains a pressing concern. The NLA technology not only aids in evaluating AI's hidden motivations but also serves as a crucial tool for identifying misalignment in behaviors. However, as this research is still in its infancy, challenges such as high costs and occasional inaccuracies need to be addressed. Overall, these developments underscore a growing need for effective AI alignment strategies to ensure that increasingly capable AI systems are safely integrated into society.",
+      "relevance_score": null,
+      "combined_score": null,
+      "is_ai_ml": false,
+      "comments_summary": "",
+      "hackernews_id": null,
+      "cluster_id": 16,
+      "cluster_name": "🤖 AI & Machine Learning",
+      "video_id": "Nn2eXwch-K0"
+    },
+    {
+      "id": "69ff819305b9f988825172c1",
+      "title": "Ben Bucknall - Assurance of AI System Versioning",
+      "url": "https://www.youtube.com/watch?v=PvEKR0cFnTU",
+      "hn_score": 0,
+      "comments": 0,
+      "author": "FAR․AI",
+      "source": "youtube",
+      "summary": "In the talk on AI system version assurance, Ben Bucknall emphasizes the need for transparency and accountability when users interact with AI models through various interfaces. A major concern is the potential for silent updates, which can cause ambiguity regarding which version of the model is being used and whether the output aligns with user expectations. These silent changes present risks, as users may unknowingly engage with different versions of a model that may have been fine-tuned or swapped without their knowledge.\n\nBucknall discusses the concepts of system identity, labels, and properties to frame the issues related to transparency in AI systems. He highlights the importance of developers being forthcoming about updates to models and API changes while suggesting that behavioral fingerprinting and the implementation of secure hardware could assist in establishing clear versioning protocols. The talk concludes with an invitation for collaborative efforts in enhancing AI governance standards to assure model integrity and uphold user trust.",
+      "relevance_score": null,
+      "combined_score": null,
+      "is_ai_ml": false,
+      "comments_summary": "",
+      "hackernews_id": null,
+      "cluster_id": 16,
+      "cluster_name": "🤖 AI & Machine Learning",
+      "video_id": "PvEKR0cFnTU"
+    },
+    {
+      "id": "69fe938199f33489ca61996d",
+      "title": "NEO: The AI Agent That Builds AI Models, Agents & Apps From One Prompt",
+      "url": "https://www.youtube.com/watch?v=VgsgMEJisks",
+      "hn_score": 0,
+      "comments": 0,
+      "author": "AICodeKing",
+      "source": "youtube",
+      "summary": "The video introduces NEO, a groundbreaking AI agent designed to automate the entire process of building machine learning models, eliminating the cumbersome need for multiple technical experts. By integrating seamlessly into Visual Studio Code, NEO allows users to work within their local environments while managing their projects, thus enhancing productivity and efficiency in model building. One of NEO's standout features is its ability to generate synthetic datasets on-the-fly, which streamlines the development process even when input data is missing.\n\nThroughout the tutorial, NEO showcases its capabilities by constructing a chat moderation pipeline that detects harmful language in messages. It not only generates the data but also manages the model training and deployment phases while providing detailed logs for each step, ensuring transparency and control over the pipeline. The local-first approach emphasizes user privacy by keeping credentials secure, while also supporting a range of AI tasks, making it a versatile tool for machine learning engineers. Overall, NEO represents a significant advancement in making AI development more accessible and practical.",
+      "relevance_score": null,
+      "combined_score": null,
+      "is_ai_ml": false,
+      "comments_summary": "",
+      "hackernews_id": null,
+      "cluster_id": 11,
+      "cluster_name": "🔍 AI Model Building and Integration",
+      "video_id": "VgsgMEJisks"
+    },
+    {
       "id": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
       "title": "OpenAI introduces three new real-time voice models aimed at enhancing AI voice agent capabilities.",
       "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/",
@@ -1465,10 +1699,11 @@
       "id": 0,
       "name": "🔢 ChatGPT 5.5 Advancements",
       "description": "Articles discussing the advancements and capabilities of ChatGPT 5.5, focusing on its mathematical problem-solving and agentic workflow improvements.",
-      "size": 2,
+      "size": 4,
       "sample_titles": [
         "A recent experience with ChatGPT 5.5 Pro",
-        "OpenAI introduces a Trusted Contact feature in ChatGPT to alert friends or family about self-harm risks."
+        "Codex can now use Chrome directly on macOS and Windows.",
+        "Is GPT-5.5 Better Than Opus Now? (ft. Our New AI Co-Host) - EP99.38"
       ]
     },
     {
@@ -1490,6 +1725,16 @@
         "AI is breaking two vulnerability cultures",
         "LLMs Corrupt Your Documents When You Delegate",
         "CVE-2026-31431: Copy Fail"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "📈 AI Model Performance and Advancements",
+      "description": "Articles focusing on the performance improvements and advancements of AI models like GPT 5.5 Instant and ERNIE 5.1.",
+      "size": 2,
+      "sample_titles": [
+        "OpenAI's GPT 5.5 Instant: The Good, The Bad And The Insane",
+        "ERNIE 5.1 Just Arrived - Full Testing from Mona Vale Beach"
       ]
     },
     {
@@ -1565,6 +1810,16 @@
       ]
     },
     {
+      "id": 11,
+      "name": "🔍 AI Model Building and Integration",
+      "description": "Articles discussing tools and platforms for building and integrating AI models, focusing on automation and seamless workflows.",
+      "size": 2,
+      "sample_titles": [
+        "NotebookLM Just Got Automations: Build POWERFUL AI Automations!",
+        "NEO: The AI Agent That Builds AI Models, Agents & Apps From One Prompt"
+      ]
+    },
+    {
       "id": 12,
       "name": "🔒 Encryption and Privacy Concerns",
       "description": "Articles addressing the discontinuation of encryption features and the implications for user privacy and security.",
@@ -1609,11 +1864,11 @@
       "id": 16,
       "name": "🤖 AI & Machine Learning",
       "description": "Exploring advancements and challenges in AI, including AI system versioning, AI applications in health, and AI's impact on industries.",
-      "size": 4,
+      "size": 7,
       "sample_titles": [
-        "AWS Marketplace releases a book featuring insights from enterprise leaders on building AI-ready data infrastructure.",
-        "Google integrates Fitbit into its new AI health platform, enhancing personal health tracking.",
-        "Anthropic establishes the Anthropic Institute to focus on AI systems that can improve themselves."
+        "The Week the AI Story Shifted",
+        "we JUST figured out how AI thinks",
+        "Ben Bucknall - Assurance of AI System Versioning"
       ]
     },
     {
@@ -1674,9 +1929,10 @@
       "id": 22,
       "name": "🎮 Gaming & Entertainment",
       "description": "Exploring the cultural and financial impact of gaming and entertainment, including the history of Flash games.",
-      "size": 1,
+      "size": 2,
       "sample_titles": [
-        "Cartoon Network Flash Games"
+        "Cartoon Network Flash Games",
+        "People Are Going to Print Money with GTA6"
       ]
     },
     {
@@ -1832,6 +2088,33 @@
       "size": 1,
       "sample_titles": [
         "I learned something about GPUs today"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "🤖 AI Development",
+      "description": "",
+      "size": 1,
+      "sample_titles": [
+        "Vibe coding works… until your agent confidently builds the wrong thing"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "📅 UX Design",
+      "description": "",
+      "size": 1,
+      "sample_titles": [
+        "Date pickers suck, we fixed them"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "🦸‍♂️ Tech Leadership",
+      "description": "",
+      "size": 1,
+      "sample_titles": [
+        "Elon Musk killed two birds with one stone: put Dario Amodei on a leash and hurt Sam Altman"
       ]
     },
     {
