@@ -1,6 +1,6 @@
 {
   "date": "2026-06-03",
-  "generated_at": "2026-06-06T20:51:57.011679+00:00",
+  "generated_at": "2026-06-06T21:11:13.256672+00:00",
   "article_count": 50,
   "cluster_count": 8,
   "clustering_model": "gpt-5.4",
@@ -53,7 +53,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 3,
-      "cluster_name": "Systems Performance and Platforms"
+      "cluster_name": "Systems Performance and Low-Level Computing"
     },
     {
       "id": "6a20333eed59302dcbe89614",
@@ -83,7 +83,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 2,
-      "cluster_name": "Programming Languages and Toolchains"
+      "cluster_name": "Programming Languages and Developer Tools"
     },
     {
       "id": "6a20333eed59302dcbe89616",
@@ -97,8 +97,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 4,
-      "cluster_name": "Retro Computing and Hardware Engineering"
+      "cluster_id": 5,
+      "cluster_name": "Physical Engineering and Robotics"
     },
     {
       "id": "6a20333eed59302dcbe89617",
@@ -113,7 +113,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 2,
-      "cluster_name": "Programming Languages and Toolchains"
+      "cluster_name": "Programming Languages and Developer Tools"
     },
     {
       "id": "6a20333eed59302dcbe89618",
@@ -143,7 +143,7 @@
       "combined_score": 60.8,
       "is_ai_ml": false,
       "cluster_id": 4,
-      "cluster_name": "Retro Computing and Hardware Engineering"
+      "cluster_name": "Open Platforms and Creative Computing"
     },
     {
       "id": "6a20333eed59302dcbe8961a",
@@ -188,7 +188,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 2,
-      "cluster_name": "Programming Languages and Toolchains"
+      "cluster_name": "Programming Languages and Developer Tools"
     },
     {
       "id": "6a20333eed59302dcbe8961d",
@@ -203,7 +203,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 4,
-      "cluster_name": "Retro Computing and Hardware Engineering"
+      "cluster_name": "Open Platforms and Creative Computing"
     },
     {
       "id": "6a20333eed59302dcbe8961e",
@@ -218,7 +218,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 4,
-      "cluster_name": "Retro Computing and Hardware Engineering"
+      "cluster_name": "Open Platforms and Creative Computing"
     },
     {
       "id": "6a20333eed59302dcbe8961f",
@@ -278,7 +278,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 3,
-      "cluster_name": "Systems Performance and Platforms"
+      "cluster_name": "Systems Performance and Low-Level Computing"
     },
     {
       "id": "6a20333eed59302dcbe89623",
@@ -292,8 +292,8 @@
       "relevance_score": 49,
       "combined_score": 53.4,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "Developer Craft and Software Culture"
+      "cluster_id": 0,
+      "cluster_name": "AI Agents, Models, Society"
     },
     {
       "id": "6a20333eed59302dcbe89624",
@@ -308,7 +308,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 3,
-      "cluster_name": "Systems Performance and Platforms"
+      "cluster_name": "Systems Performance and Low-Level Computing"
     },
     {
       "id": "6a20333eed59302dcbe89625",
@@ -322,8 +322,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 4,
-      "cluster_name": "Retro Computing and Hardware Engineering"
+      "cluster_id": 3,
+      "cluster_name": "Systems Performance and Low-Level Computing"
     },
     {
       "id": "6a20333eed59302dcbe89626",
@@ -338,7 +338,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 3,
-      "cluster_name": "Systems Performance and Platforms"
+      "cluster_name": "Systems Performance and Low-Level Computing"
     },
     {
       "id": "6a20333eed59302dcbe89627",
@@ -346,14 +346,14 @@
       "url": "https://dl.acm.org/doi/pdf/10.1145/1995966.1996008",
       "source": "hackernews",
       "hn_score": 48,
-      "comments": 31,
+      "comments": 33,
       "author": "aragonite",
       "summary": "'Pale Fire' by Vladimir Nabokov, published in 1962, is often regarded as a pioneering work in hypertext literature due to its intricate narrative structure and interactive reading experience. The novel features a poem and a detailed commentary by a fictional editor, leading to multiple interpretations and a nonlinear interaction that reflects the essence of hypertext. This complexity challenges traditional narrative conventions and invites readers to engage with the text in innovative ways akin to the digital realm.\n\nThe article emphasizes the significance of Nabokov’s techniques, which not only transform reading into an interactive process but also provoke fundamental questions about authorship and the relationship between text and reader. As a precursor to contemporary digital literature, 'Pale Fire' offers insights into how narratives can be constructed and experienced in a non-linear fashion, influencing the evolution of hypertext and interactive storytelling in modern media.",
       "relevance_score": 50,
       "combined_score": 50.0,
       "is_ai_ml": false,
       "cluster_id": 6,
-      "cluster_name": "Web, Graphics, and Interaction"
+      "cluster_name": "Internet Culture and Public Systems"
     },
     {
       "id": "6a20333eed59302dcbe89628",
@@ -367,8 +367,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 4,
-      "cluster_name": "Retro Computing and Hardware Engineering"
+      "cluster_id": 5,
+      "cluster_name": "Physical Engineering and Robotics"
     },
     {
       "id": "6a20333eed59302dcbe89629",
@@ -382,8 +382,8 @@
       "relevance_score": 0,
       "combined_score": 10,
       "is_ai_ml": false,
-      "cluster_id": 7,
-      "cluster_name": "Public Data and Internet Oddities"
+      "cluster_id": 6,
+      "cluster_name": "Internet Culture and Public Systems"
     },
     {
       "id": "6a20333eed59302dcbe8962a",
@@ -398,7 +398,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 7,
-      "cluster_name": "Public Data and Internet Oddities"
+      "cluster_name": "Science, Music, and Craft"
     },
     {
       "id": "6a20333eed59302dcbe8962b",
@@ -412,8 +412,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 7,
-      "cluster_name": "Public Data and Internet Oddities"
+      "cluster_id": 6,
+      "cluster_name": "Internet Culture and Public Systems"
     },
     {
       "id": "6a20333eed59302dcbe8962c",
@@ -427,8 +427,8 @@
       "relevance_score": 65,
       "combined_score": 67,
       "is_ai_ml": false,
-      "cluster_id": 6,
-      "cluster_name": "Web, Graphics, and Interaction"
+      "cluster_id": 4,
+      "cluster_name": "Open Platforms and Creative Computing"
     },
     {
       "id": "6a20333eed59302dcbe8962d",
@@ -442,8 +442,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 7,
-      "cluster_name": "Public Data and Internet Oddities"
+      "cluster_id": 6,
+      "cluster_name": "Internet Culture and Public Systems"
     },
     {
       "id": "6a2033b3ed59302dcbe89630",
@@ -458,7 +458,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 2,
-      "cluster_name": "Programming Languages and Toolchains"
+      "cluster_name": "Programming Languages and Developer Tools"
     },
     {
       "id": "6a2033b3ed59302dcbe89631",
@@ -472,8 +472,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "Developer Craft and Software Culture"
+      "cluster_id": 3,
+      "cluster_name": "Systems Performance and Low-Level Computing"
     },
     {
       "id": "6a2033b3ed59302dcbe89632",
@@ -487,8 +487,8 @@
       "relevance_score": 75,
       "combined_score": 75,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "Developer Craft and Software Culture"
+      "cluster_id": 6,
+      "cluster_name": "Internet Culture and Public Systems"
     },
     {
       "id": "6a2033b3ed59302dcbe89633",
@@ -503,7 +503,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 2,
-      "cluster_name": "Programming Languages and Toolchains"
+      "cluster_name": "Programming Languages and Developer Tools"
     },
     {
       "id": "6a20355eed59302dcbe89660",
@@ -517,8 +517,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 6,
-      "cluster_name": "Web, Graphics, and Interaction"
+      "cluster_id": 4,
+      "cluster_name": "Open Platforms and Creative Computing"
     },
     {
       "id": "6a2033b3ed59302dcbe89634",
@@ -533,7 +533,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 2,
-      "cluster_name": "Programming Languages and Toolchains"
+      "cluster_name": "Programming Languages and Developer Tools"
     },
     {
       "id": "6a2033b3ed59302dcbe89635",
@@ -563,7 +563,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 2,
-      "cluster_name": "Programming Languages and Toolchains"
+      "cluster_name": "Programming Languages and Developer Tools"
     },
     {
       "id": "6a2033b3ed59302dcbe89637",
@@ -578,7 +578,7 @@
       "combined_score": 69,
       "is_ai_ml": false,
       "cluster_id": 3,
-      "cluster_name": "Systems Performance and Platforms"
+      "cluster_name": "Systems Performance and Low-Level Computing"
     },
     {
       "id": "6a2033b3ed59302dcbe89638",
@@ -607,8 +607,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 7,
-      "cluster_name": "Public Data and Internet Oddities"
+      "cluster_id": 6,
+      "cluster_name": "Internet Culture and Public Systems"
     },
     {
       "id": "6a2033b3ed59302dcbe8963a",
@@ -622,8 +622,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "Developer Craft and Software Culture"
+      "cluster_id": 2,
+      "cluster_name": "Programming Languages and Developer Tools"
     },
     {
       "id": "6a2033b3ed59302dcbe8963b",
@@ -637,8 +637,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 3,
-      "cluster_name": "Systems Performance and Platforms"
+      "cluster_id": 2,
+      "cluster_name": "Programming Languages and Developer Tools"
     },
     {
       "id": "6a2033b3ed59302dcbe8963c",
@@ -667,8 +667,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 2,
-      "cluster_name": "Programming Languages and Toolchains"
+      "cluster_id": 3,
+      "cluster_name": "Systems Performance and Low-Level Computing"
     },
     {
       "id": "6a2033b3ed59302dcbe8963e",
@@ -683,7 +683,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 4,
-      "cluster_name": "Retro Computing and Hardware Engineering"
+      "cluster_name": "Open Platforms and Creative Computing"
     },
     {
       "id": "6a2033b3ed59302dcbe8963f",
@@ -712,8 +712,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 2,
-      "cluster_name": "Programming Languages and Toolchains"
+      "cluster_id": 3,
+      "cluster_name": "Systems Performance and Low-Level Computing"
     },
     {
       "id": "6a2033b3ed59302dcbe89641",
@@ -727,8 +727,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 7,
-      "cluster_name": "Public Data and Internet Oddities"
+      "cluster_id": 3,
+      "cluster_name": "Systems Performance and Low-Level Computing"
     },
     {
       "id": "6a2033b3ed59302dcbe89642",
@@ -743,7 +743,7 @@
       "combined_score": 86,
       "is_ai_ml": false,
       "cluster_id": 2,
-      "cluster_name": "Programming Languages and Toolchains"
+      "cluster_name": "Programming Languages and Developer Tools"
     },
     {
       "id": "6a2033b3ed59302dcbe89643",
@@ -757,16 +757,16 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 6,
-      "cluster_name": "Web, Graphics, and Interaction"
+      "cluster_id": 4,
+      "cluster_name": "Open Platforms and Creative Computing"
     }
   ],
   "clusters": [
     {
       "id": 0,
       "name": "AI Agents, Models, Society",
-      "theme": "These pieces collectively trace AI’s expansion from coding and retrieval systems into professional expertise, workplace mediation, scientific practice, and platform strategy.",
-      "size": 8,
+      "theme": "These pieces collectively track AI’s expansion from coding and knowledge systems into professional work, scientific practice, workplace culture, and platform strategy.",
+      "size": 9,
       "sample_titles": [
         "MAI-Code-1-Flash",
         "AI outperforms law professors in Stanford Law study",
@@ -776,7 +776,7 @@
     {
       "id": 1,
       "name": "Security Exploits and Memory Safety",
-      "theme": "This cluster highlights the modern attack surface—from developer tools and peripherals to protocol-level DoS—and the growing urgency of memory-safe software and reverse-engineering infrastructure.",
+      "theme": "This cluster highlights the modern attack surface—from developer tools and peripherals to protocol-level DoS—and the growing urgency of memory-safe software and reverse-engineering tooling.",
       "size": 5,
       "sample_titles": [
         "1-Click GitHub Token Stealing via a VSCode Bug",
@@ -786,8 +786,8 @@
     },
     {
       "id": 2,
-      "name": "Programming Languages and Toolchains",
-      "theme": "A broad language-and-tooling wave spanning new languages, editor and notebook releases, type-system mechanics, shell evolution, and practical coding techniques for experienced developers.",
+      "name": "Programming Languages and Developer Tools",
+      "theme": "These articles center on language design, type systems, editors, shells, and practical developer ergonomics across both established and emerging ecosystems.",
       "size": 10,
       "sample_titles": [
         "My thoughts after using Clojure for about a month",
@@ -797,9 +797,9 @@
     },
     {
       "id": 3,
-      "name": "Systems Performance and Platforms",
-      "theme": "These articles focus on low-level computing concerns: memory hierarchy, assembly portability, OS and desktop platform transitions, Windows developer infrastructure, and hardware supply pressure.",
-      "size": 6,
+      "name": "Systems Performance and Low-Level Computing",
+      "theme": "Together these pieces emphasize hardware-aware engineering, low-level implementation techniques, and platform transitions that matter for performance-sensitive systems work.",
+      "size": 10,
       "sample_titles": [
         "Use your Nvidia GPU's VRAM as swap space on Linux",
         "Every Byte Matters",
@@ -808,46 +808,43 @@
     },
     {
       "id": 4,
-      "name": "Retro Computing and Hardware Engineering",
-      "theme": "A hardware-centric set mixing classic architectures, revived tools, embedded OS experimentation, robotics, and teardown-style engineering analysis of both old and new systems.",
+      "name": "Open Platforms and Creative Computing",
+      "theme": "This group captures projects that open up platforms or repurpose technical systems for inventive, exploratory, or educational uses.",
       "size": 7,
       "sample_titles": [
-        "CT scans of BYD car parts",
         "Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
-        "Roku LT Operating System open source distribution"
+        "Roku LT Operating System open source distribution",
+        "HP re-releases classic computer science calculator: The HP-16C"
       ]
     },
     {
       "id": 5,
-      "name": "Developer Craft and Software Culture",
-      "theme": "These pieces examine how engineers think and work—through unsafe Rust internals, quality philosophy, versioning practice, and the human side of technical labor and surveillance.",
-      "size": 4,
+      "name": "Physical Engineering and Robotics",
+      "theme": "These articles focus on engineered physical systems, from EV battery-pack design to unconventional actuation in hobbyist robotics.",
+      "size": 2,
       "sample_titles": [
-        "Meta workers can opt out of being tracked at work up to 30 min",
-        "iddqd, or the hardest kind of unsafe Rust",
-        "Quality in the Age of Slop"
+        "CT scans of BYD car parts",
+        "DIY Bipedal Robot Used Pneumatic \"Air-Muscles\" Instead of Motors"
       ]
     },
     {
       "id": 6,
-      "name": "Web, Graphics, and Interaction",
-      "theme": "This cluster centers on building and experiencing digital interfaces, from voxel graphics and learning-focused UX to literary hypertext and novel physical-digital visualizations.",
-      "size": 4,
+      "name": "Internet Culture and Public Systems",
+      "theme": "These pieces examine how technical infrastructure intersects with governance, markets, communities, and cultural artifacts beyond core software engineering.",
+      "size": 6,
       "sample_titles": [
         "Nabokov's pale fire: the lost 'father of all hypertext demos'? (2011)",
-        "I built a ceiling projection mapping of the planes flying over my house",
-        "heerich.js"
+        "Turkey Hacked the Hair Transplant Industry",
+        "Take Action: LAPD Removed Crime Location Data. Here's Why It Matters"
       ]
     },
     {
       "id": 7,
-      "name": "Public Data and Internet Oddities",
-      "theme": "A grab bag of internet-era infrastructure and societal edge cases, covering transparency, niche governance, globalization, and unusual market dynamics outside mainstream software.",
-      "size": 6,
+      "name": "Science, Music, and Craft",
+      "theme": "This final cluster gathers technically rich explorations of specialized domains where deep structure, practice, and interpretation matter.",
+      "size": 1,
       "sample_titles": [
-        "Turkey Hacked the Hair Transplant Industry",
-        "What I've learned about the trombone",
-        "Take Action: LAPD Removed Crime Location Data. Here's Why It Matters"
+        "What I've learned about the trombone"
       ]
     }
   ]

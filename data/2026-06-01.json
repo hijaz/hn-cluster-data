@@ -1,8 +1,8 @@
 {
   "date": "2026-06-01",
-  "generated_at": "2026-06-06T20:50:38.312672+00:00",
+  "generated_at": "2026-06-06T21:10:09.888913+00:00",
   "article_count": 47,
-  "cluster_count": 8,
+  "cluster_count": 9,
   "clustering_model": "gpt-5.4",
   "sources": [
     "hackernews",
@@ -23,7 +23,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "Local AI and Model Deployment"
+      "cluster_name": "Local AI Hardware Shift"
     },
     {
       "id": "6a1d9579d3aa73d5af1ffeac",
@@ -38,7 +38,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 2,
-      "cluster_name": "Privacy, Tracking, and Platform Control"
+      "cluster_name": "Supply Chain and Tracking Threats"
     },
     {
       "id": "6a1d9579d3aa73d5af1ffead",
@@ -53,7 +53,7 @@
       "combined_score": 86,
       "is_ai_ml": false,
       "cluster_id": 1,
-      "cluster_name": "AI Risks, Abuse, and Culture"
+      "cluster_name": "AI Risk, Abuse, Culture"
     },
     {
       "id": "6a1d9579d3aa73d5af1ffeae",
@@ -68,7 +68,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "Local AI and Model Deployment"
+      "cluster_name": "Local AI Hardware Shift"
     },
     {
       "id": "6a1d9579d3aa73d5af1ffeaf",
@@ -82,8 +82,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 2,
-      "cluster_name": "Privacy, Tracking, and Platform Control"
+      "cluster_id": 8,
+      "cluster_name": "Consumer Tech and Digital Life"
     },
     {
       "id": "6a1d957ad3aa73d5af1ffeb0",
@@ -97,8 +97,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 6,
-      "cluster_name": "Personal Computing and Software Craft"
+      "cluster_id": 7,
+      "cluster_name": "Developer Craft and Career"
     },
     {
       "id": "6a1d957ad3aa73d5af1ffeb1",
@@ -112,8 +112,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 6,
-      "cluster_name": "Personal Computing and Software Craft"
+      "cluster_id": 8,
+      "cluster_name": "Consumer Tech and Digital Life"
     },
     {
       "id": "6a1d957ad3aa73d5af1ffeb2",
@@ -127,8 +127,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 2,
-      "cluster_name": "Privacy, Tracking, and Platform Control"
+      "cluster_id": 8,
+      "cluster_name": "Consumer Tech and Digital Life"
     },
     {
       "id": "6a1d957ad3aa73d5af1ffeb3",
@@ -143,7 +143,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 2,
-      "cluster_name": "Privacy, Tracking, and Platform Control"
+      "cluster_name": "Supply Chain and Tracking Threats"
     },
     {
       "id": "6a1d957ad3aa73d5af1ffeb4",
@@ -157,8 +157,8 @@
       "relevance_score": 50,
       "combined_score": 59,
       "is_ai_ml": false,
-      "cluster_id": 1,
-      "cluster_name": "AI Risks, Abuse, and Culture"
+      "cluster_id": 7,
+      "cluster_name": "Developer Craft and Career"
     },
     {
       "id": "6a1d957ad3aa73d5af1ffeb5",
@@ -173,7 +173,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 4,
-      "cluster_name": "Developer Workflow and Systems Operations"
+      "cluster_name": "Pragmatic Systems Engineering"
     },
     {
       "id": "6a1d957ad3aa73d5af1ffeb6",
@@ -187,8 +187,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 4,
-      "cluster_name": "Developer Workflow and Systems Operations"
+      "cluster_id": 2,
+      "cluster_name": "Supply Chain and Tracking Threats"
     },
     {
       "id": "6a1d957ad3aa73d5af1ffeb7",
@@ -203,7 +203,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 1,
-      "cluster_name": "AI Risks, Abuse, and Culture"
+      "cluster_name": "AI Risk, Abuse, Culture"
     },
     {
       "id": "6a1d957ad3aa73d5af1ffeb8",
@@ -217,8 +217,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 7,
-      "cluster_name": "Science and the Natural World"
+      "cluster_id": 8,
+      "cluster_name": "Consumer Tech and Digital Life"
     },
     {
       "id": "6a1d957bd3aa73d5af1ffeb9",
@@ -232,8 +232,8 @@
       "relevance_score": 50,
       "combined_score": 52,
       "is_ai_ml": false,
-      "cluster_id": 6,
-      "cluster_name": "Personal Computing and Software Craft"
+      "cluster_id": 8,
+      "cluster_name": "Consumer Tech and Digital Life"
     },
     {
       "id": "6a1d957bd3aa73d5af1ffeba",
@@ -247,8 +247,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "Data, Databases, and Performance Engineering"
+      "cluster_id": 4,
+      "cluster_name": "Pragmatic Systems Engineering"
     },
     {
       "id": "6a1d957bd3aa73d5af1ffebb",
@@ -263,7 +263,7 @@
       "combined_score": 66,
       "is_ai_ml": false,
       "cluster_id": 3,
-      "cluster_name": "Compilers, Languages, and Runtime Tooling"
+      "cluster_name": "Compilers, Languages, Toolchains"
     },
     {
       "id": "6a1d957bd3aa73d5af1ffebc",
@@ -278,7 +278,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 4,
-      "cluster_name": "Developer Workflow and Systems Operations"
+      "cluster_name": "Pragmatic Systems Engineering"
     },
     {
       "id": "6a1d957bd3aa73d5af1ffebd",
@@ -292,8 +292,8 @@
       "relevance_score": 49,
       "combined_score": 52,
       "is_ai_ml": false,
-      "cluster_id": 7,
-      "cluster_name": "Science and the Natural World"
+      "cluster_id": 8,
+      "cluster_name": "Consumer Tech and Digital Life"
     },
     {
       "id": "6a1d957bd3aa73d5af1ffebe",
@@ -308,7 +308,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 6,
-      "cluster_name": "Personal Computing and Software Craft"
+      "cluster_name": "Graphics, Media, and Timing"
     },
     {
       "id": "6a1d957bd3aa73d5af1ffebf",
@@ -323,7 +323,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 3,
-      "cluster_name": "Compilers, Languages, and Runtime Tooling"
+      "cluster_name": "Compilers, Languages, Toolchains"
     },
     {
       "id": "6a1d957bd3aa73d5af1ffec0",
@@ -338,7 +338,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 3,
-      "cluster_name": "Compilers, Languages, and Runtime Tooling"
+      "cluster_name": "Compilers, Languages, Toolchains"
     },
     {
       "id": "6a1d957bd3aa73d5af1ffec1",
@@ -353,7 +353,7 @@
       "combined_score": 86,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "Local AI and Model Deployment"
+      "cluster_name": "Local AI Hardware Shift"
     },
     {
       "id": "6a1d957bd3aa73d5af1ffec2",
@@ -367,8 +367,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 7,
-      "cluster_name": "Science and the Natural World"
+      "cluster_id": 8,
+      "cluster_name": "Consumer Tech and Digital Life"
     },
     {
       "id": "6a1d957cd3aa73d5af1ffec3",
@@ -382,8 +382,8 @@
       "relevance_score": 50,
       "combined_score": 56,
       "is_ai_ml": false,
-      "cluster_id": 6,
-      "cluster_name": "Personal Computing and Software Craft"
+      "cluster_id": 8,
+      "cluster_name": "Consumer Tech and Digital Life"
     },
     {
       "id": "6a1d957cd3aa73d5af1ffec4",
@@ -398,7 +398,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 3,
-      "cluster_name": "Compilers, Languages, and Runtime Tooling"
+      "cluster_name": "Compilers, Languages, Toolchains"
     },
     {
       "id": "6a1d957cd3aa73d5af1ffec5",
@@ -412,8 +412,8 @@
       "relevance_score": 55,
       "combined_score": 57,
       "is_ai_ml": false,
-      "cluster_id": 6,
-      "cluster_name": "Personal Computing and Software Craft"
+      "cluster_id": 5,
+      "cluster_name": "Linux, Desktop, and Ops Transitions"
     },
     {
       "id": "6a1d95f7d3aa73d5af1ffec8",
@@ -427,8 +427,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 6,
-      "cluster_name": "Personal Computing and Software Craft"
+      "cluster_id": 5,
+      "cluster_name": "Linux, Desktop, and Ops Transitions"
     },
     {
       "id": "6a1d95f7d3aa73d5af1ffec9",
@@ -443,7 +443,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 3,
-      "cluster_name": "Compilers, Languages, and Runtime Tooling"
+      "cluster_name": "Compilers, Languages, Toolchains"
     },
     {
       "id": "6a1d95f7d3aa73d5af1ffeca",
@@ -458,7 +458,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "Local AI and Model Deployment"
+      "cluster_name": "Local AI Hardware Shift"
     },
     {
       "id": "6a1d95f8d3aa73d5af1ffecb",
@@ -473,7 +473,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 1,
-      "cluster_name": "AI Risks, Abuse, and Culture"
+      "cluster_name": "AI Risk, Abuse, Culture"
     },
     {
       "id": "6a1d95f8d3aa73d5af1ffecc",
@@ -488,7 +488,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 1,
-      "cluster_name": "AI Risks, Abuse, and Culture"
+      "cluster_name": "AI Risk, Abuse, Culture"
     },
     {
       "id": "6a1d95f8d3aa73d5af1ffecd",
@@ -503,7 +503,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 1,
-      "cluster_name": "AI Risks, Abuse, and Culture"
+      "cluster_name": "AI Risk, Abuse, Culture"
     },
     {
       "id": "6a1d95f8d3aa73d5af1ffece",
@@ -518,7 +518,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 3,
-      "cluster_name": "Compilers, Languages, and Runtime Tooling"
+      "cluster_name": "Compilers, Languages, Toolchains"
     },
     {
       "id": "6a1d95f8d3aa73d5af1ffecf",
@@ -533,7 +533,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 3,
-      "cluster_name": "Compilers, Languages, and Runtime Tooling"
+      "cluster_name": "Compilers, Languages, Toolchains"
     },
     {
       "id": "6a1d95f8d3aa73d5af1ffed0",
@@ -547,8 +547,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 6,
-      "cluster_name": "Personal Computing and Software Craft"
+      "cluster_id": 7,
+      "cluster_name": "Developer Craft and Career"
     },
     {
       "id": "6a1d95f8d3aa73d5af1ffed1",
@@ -562,8 +562,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "Data, Databases, and Performance Engineering"
+      "cluster_id": 6,
+      "cluster_name": "Graphics, Media, and Timing"
     },
     {
       "id": "6a1d95f8d3aa73d5af1ffed2",
@@ -577,8 +577,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 6,
-      "cluster_name": "Personal Computing and Software Craft"
+      "cluster_id": 8,
+      "cluster_name": "Consumer Tech and Digital Life"
     },
     {
       "id": "6a1d95f8d3aa73d5af1ffed3",
@@ -593,7 +593,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 3,
-      "cluster_name": "Compilers, Languages, and Runtime Tooling"
+      "cluster_name": "Compilers, Languages, Toolchains"
     },
     {
       "id": "6a1d95f9d3aa73d5af1ffed4",
@@ -608,7 +608,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 4,
-      "cluster_name": "Developer Workflow and Systems Operations"
+      "cluster_name": "Pragmatic Systems Engineering"
     },
     {
       "id": "6a1d95f9d3aa73d5af1ffed5",
@@ -623,7 +623,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 4,
-      "cluster_name": "Developer Workflow and Systems Operations"
+      "cluster_name": "Pragmatic Systems Engineering"
     },
     {
       "id": "6a1d95f9d3aa73d5af1ffed6",
@@ -638,7 +638,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 4,
-      "cluster_name": "Developer Workflow and Systems Operations"
+      "cluster_name": "Pragmatic Systems Engineering"
     },
     {
       "id": "6a1d95f9d3aa73d5af1ffed7",
@@ -652,8 +652,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 4,
-      "cluster_name": "Developer Workflow and Systems Operations"
+      "cluster_id": 5,
+      "cluster_name": "Linux, Desktop, and Ops Transitions"
     },
     {
       "id": "6a1d95f9d3aa73d5af1ffed8",
@@ -668,7 +668,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 4,
-      "cluster_name": "Developer Workflow and Systems Operations"
+      "cluster_name": "Pragmatic Systems Engineering"
     },
     {
       "id": "6a1d95f9d3aa73d5af1ffed9",
@@ -682,8 +682,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "Data, Databases, and Performance Engineering"
+      "cluster_id": 6,
+      "cluster_name": "Graphics, Media, and Timing"
     },
     {
       "id": "6a1d95f9d3aa73d5af1ffeda",
@@ -698,7 +698,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 3,
-      "cluster_name": "Compilers, Languages, and Runtime Tooling"
+      "cluster_name": "Compilers, Languages, Toolchains"
     },
     {
       "id": "6a1d95f9d3aa73d5af1ffedb",
@@ -712,15 +712,15 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "Data, Databases, and Performance Engineering"
+      "cluster_id": 6,
+      "cluster_name": "Graphics, Media, and Timing"
     }
   ],
   "clusters": [
     {
       "id": 0,
-      "name": "Local AI and Model Deployment",
-      "theme": "These pieces track the push to run increasingly capable AI workloads on constrained or repurposed hardware, from phones and laptops to aging servers and cheap datacenter GPUs.",
+      "name": "Local AI Hardware Shift",
+      "theme": "These pieces show AI moving onto cheaper, smaller, and more specialized hardware—from 1-bit image models to old servers, repurposed datacenter GPUs, and embodied-world foundation models.",
       "size": 4,
       "sample_titles": [
         "1-Bit Bonsai Image 4B Image Generation for Local Devices",
@@ -730,30 +730,30 @@
     },
     {
       "id": 1,
-      "name": "AI Risks, Abuse, and Culture",
-      "theme": "Together these articles show the widening blast radius of generative AI across security, open source governance, labor, writing, and human rights.",
-      "size": 6,
+      "name": "AI Risk, Abuse, Culture",
+      "theme": "Together these articles capture the broader backlash to generative AI: security failures, open-source friction, human-rights concerns, degraded writing norms, and messy developer workflows.",
+      "size": 5,
       "sample_titles": [
         "ChatGPT for Google Sheets exfiltrates workbooks",
-        "What if remote working, not AI, is to blame for weak junior hiring?",
-        "When AI Crosses the Line: The Matplotlib Incident"
+        "When AI Crosses the Line: The Matplotlib Incident",
+        "vibecoding as adhd multiplier"
       ]
     },
     {
       "id": 2,
-      "name": "Privacy, Tracking, and Platform Control",
-      "theme": "This cluster highlights how modern platforms increasingly rely on invasive verification, novel fingerprinting, monetization shifts, and brittle security theater.",
-      "size": 4,
+      "name": "Supply Chain and Tracking Threats",
+      "theme": "This cluster centers on modern trust failures in the software and web stack, spanning package compromise, browser fingerprinting, and novel hardware-side tracking techniques.",
+      "size": 3,
       "sample_titles": [
         "Cloudflare Turnstile requiring fingerprintable WebGL",
-        "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
-        "Meta launches Instagram, Facebook, and WhatsApp subscriptions"
+        "Websites have a new way to spy on visitors: analyzing their SSD activity",
+        "NPM packages from RedHat have been compromised"
       ]
     },
     {
       "id": 3,
-      "name": "Compilers, Languages, and Runtime Tooling",
-      "theme": "These articles center on language design, compiler infrastructure, and low-level tooling choices that shape how systems software gets built and maintained.",
+      "name": "Compilers, Languages, Toolchains",
+      "theme": "These articles focus on programming-language and compiler infrastructure work, from new languages and backends to runtime safety, cross-target code generation, and language evolution.",
       "size": 9,
       "sample_titles": [
         "Cessation of public development of Kefir C compiler",
@@ -763,46 +763,57 @@
     },
     {
       "id": 4,
-      "name": "Developer Workflow and Systems Operations",
-      "theme": "This set focuses on practical engineering work: tracing, merging, concurrency control, package breakage, shell and mail tooling, and the social mechanics of shipping software.",
-      "size": 8,
+      "name": "Pragmatic Systems Engineering",
+      "theme": "A set of deeply practical engineering pieces on observability, concurrency, database performance, version-control ergonomics, shell and mail tooling, and the hidden costs of review processes.",
+      "size": 7,
       "sample_titles": [
         "Tracing HTTP Requests with Go's net/HTTP/httptrace",
-        "NPM packages from RedHat have been compromised",
+        "Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)",
         "Using Git's rerere feature to escape recurring conflict hell"
       ]
     },
     {
       "id": 5,
-      "name": "Data, Databases, and Performance Engineering",
-      "theme": "These articles are tied by measurement and optimization, spanning database benchmarks, compression formats, graphics encoding, numeric conventions, and timing precision.",
+      "name": "Linux, Desktop, and Ops Transitions",
+      "theme": "These stories track platform and operations change management across desktop accessibility, distro/package breakage, and the educational value of older sysadmin practices.",
+      "size": 3,
+      "sample_titles": [
+        "Sysadmining Like It's 2009",
+        "My Accessibility Stack and the future on Wayland",
+        "Arch Linux: Breaking changes for all users of `varnish`, which is renamed to `vinyl-cache`"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Graphics, Media, and Timing",
+      "theme": "This cluster brings together low-level media and rendering topics, including texture compression, color normalization, TUI rendering, and precise synchronization for interactive experiences.",
       "size": 4,
       "sample_titles": [
-        "Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)",
+        "Movwin: My (Unpublished) TUI Framework",
         "Why does ASTC use ISE when almost nothing else does?",
         "Should you normalize RGB values by 255 or 256?"
       ]
     },
     {
-      "id": 6,
-      "name": "Personal Computing and Software Craft",
-      "theme": "This cluster captures hands-on computing culture, from retro and portable hardware to accessibility, gaming preservation, TUIs, and classic programming practice.",
-      "size": 9,
+      "id": 7,
+      "name": "Developer Craft and Career",
+      "theme": "These articles reflect on how engineers learn and work: classic interview problem-solving, the junior-talent pipeline under remote work, and the long tail of maintaining useful developer tools.",
+      "size": 3,
       "sample_titles": [
         "The four programming questions from my 1994 Microsoft internship interview (2023)",
-        "Chuwi Minibook X",
-        "New Beam Spring Keyboards"
+        "What if remote working, not AI, is to blame for weak junior hiring?",
+        "Five Years of Trying to Add Recursion to lychee"
       ]
     },
     {
-      "id": 7,
-      "name": "Science and the Natural World",
-      "theme": "These stories showcase observation and restoration in the physical world, from ecosystems and animal biomechanics to next-generation astronomy.",
-      "size": 3,
+      "id": 8,
+      "name": "Consumer Tech and Digital Life",
+      "theme": "A broad cluster on user-facing technology and society, covering devices, retro and game preservation, social-platform monetization, security theater, and science or nature stories with technical appeal.",
+      "size": 9,
       "sample_titles": [
-        "Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek",
-        "The Genius of the Barn Owl's Feathers",
-        "Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas"
+        "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+        "Chuwi Minibook X",
+        "Meta launches Instagram, Facebook, and WhatsApp subscriptions"
       ]
     }
   ]

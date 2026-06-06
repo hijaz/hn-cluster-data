@@ -1,8 +1,8 @@
 {
   "date": "2026-06-02",
-  "generated_at": "2026-06-06T20:51:17.967417+00:00",
+  "generated_at": "2026-06-06T21:10:37.644727+00:00",
   "article_count": 29,
-  "cluster_count": 9,
+  "cluster_count": 8,
   "clustering_model": "gpt-5.4",
   "sources": [
     "hackernews",
@@ -22,8 +22,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 2,
-      "cluster_name": "Security Failures and Trust Boundaries"
+      "cluster_id": 5,
+      "cluster_name": "Platform Security and Trust Failures"
     },
     {
       "id": "6a1edcac06fe28a59c5c8736",
@@ -38,7 +38,7 @@
       "combined_score": 88,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "AI Education and Agent Workflows"
+      "cluster_name": "AI Agents and Model Building"
     },
     {
       "id": "6a1edcac06fe28a59c5c8737",
@@ -53,7 +53,7 @@
       "combined_score": 86,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "AI Education and Agent Workflows"
+      "cluster_name": "AI Agents and Model Building"
     },
     {
       "id": "6a1edcac06fe28a59c5c8738",
@@ -68,7 +68,7 @@
       "combined_score": 86,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "AI Education and Agent Workflows"
+      "cluster_name": "AI Agents and Model Building"
     },
     {
       "id": "6a1edcac06fe28a59c5c8739",
@@ -82,8 +82,8 @@
       "relevance_score": 60,
       "combined_score": 63,
       "is_ai_ml": false,
-      "cluster_id": 4,
-      "cluster_name": "Apple Platform Friction and UX"
+      "cluster_id": 3,
+      "cluster_name": "Apple and macOS Friction"
     },
     {
       "id": "6a1edcad06fe28a59c5c873a",
@@ -97,8 +97,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 6,
-      "cluster_name": "Maker Projects and Playful Hacks"
+      "cluster_id": 7,
+      "cluster_name": "Offbeat Builds and Experiments"
     },
     {
       "id": "6a1edcad06fe28a59c5c873b",
@@ -112,7 +112,7 @@
       "relevance_score": 45,
       "combined_score": 51,
       "is_ai_ml": false,
-      "cluster_id": 7,
+      "cluster_id": 6,
       "cluster_name": "Science, Bioengineering, and Natural Systems"
     },
     {
@@ -128,7 +128,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 1,
-      "cluster_name": "AI Hardware and Inference Economics"
+      "cluster_name": "Semiconductor and Hardware Frontiers"
     },
     {
       "id": "6a1edcad06fe28a59c5c873d",
@@ -142,7 +142,7 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 7,
+      "cluster_id": 6,
       "cluster_name": "Science, Bioengineering, and Natural Systems"
     },
     {
@@ -157,8 +157,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 3,
-      "cluster_name": "Developer Tools and Systems Craft"
+      "cluster_id": 2,
+      "cluster_name": "Developer Tools and Systems Practice"
     },
     {
       "id": "6a1edcad06fe28a59c5c873f",
@@ -172,8 +172,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 2,
-      "cluster_name": "Security Failures and Trust Boundaries"
+      "cluster_id": 0,
+      "cluster_name": "AI Agents and Model Building"
     },
     {
       "id": "6a1edcad06fe28a59c5c8740",
@@ -187,8 +187,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 2,
-      "cluster_name": "Security Failures and Trust Boundaries"
+      "cluster_id": 5,
+      "cluster_name": "Platform Security and Trust Failures"
     },
     {
       "id": "6a1edcae06fe28a59c5c8741",
@@ -202,8 +202,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 6,
-      "cluster_name": "Maker Projects and Playful Hacks"
+      "cluster_id": 1,
+      "cluster_name": "Semiconductor and Hardware Frontiers"
     },
     {
       "id": "6a1edcae06fe28a59c5c8742",
@@ -217,8 +217,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 3,
-      "cluster_name": "Developer Tools and Systems Craft"
+      "cluster_id": 2,
+      "cluster_name": "Developer Tools and Systems Practice"
     },
     {
       "id": "6a1edcae06fe28a59c5c8743",
@@ -233,7 +233,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 1,
-      "cluster_name": "AI Hardware and Inference Economics"
+      "cluster_name": "Semiconductor and Hardware Frontiers"
     },
     {
       "id": "6a1edcae06fe28a59c5c8744",
@@ -247,8 +247,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 3,
-      "cluster_name": "Developer Tools and Systems Craft"
+      "cluster_id": 2,
+      "cluster_name": "Developer Tools and Systems Practice"
     },
     {
       "id": "6a1edcae06fe28a59c5c8745",
@@ -262,8 +262,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 4,
-      "cluster_name": "Apple Platform Friction and UX"
+      "cluster_id": 3,
+      "cluster_name": "Apple and macOS Friction"
     },
     {
       "id": "6a1edcae06fe28a59c5c8746",
@@ -278,7 +278,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 1,
-      "cluster_name": "AI Hardware and Inference Economics"
+      "cluster_name": "Semiconductor and Hardware Frontiers"
     },
     {
       "id": "6a1edcae06fe28a59c5c8747",
@@ -292,8 +292,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 3,
-      "cluster_name": "Developer Tools and Systems Craft"
+      "cluster_id": 2,
+      "cluster_name": "Developer Tools and Systems Practice"
     },
     {
       "id": "6a1edcaf06fe28a59c5c8748",
@@ -307,8 +307,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "Web and Interactive Interface Experiments"
+      "cluster_id": 4,
+      "cluster_name": "Web UI and Interactive Experiences"
     },
     {
       "id": "6a1edcaf06fe28a59c5c8749",
@@ -322,8 +322,8 @@
       "relevance_score": 30,
       "combined_score": 34,
       "is_ai_ml": false,
-      "cluster_id": 8,
-      "cluster_name": "Product and Design Philosophy"
+      "cluster_id": 6,
+      "cluster_name": "Science, Bioengineering, and Natural Systems"
     },
     {
       "id": "6a1edcaf06fe28a59c5c874a",
@@ -337,8 +337,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "Web and Interactive Interface Experiments"
+      "cluster_id": 4,
+      "cluster_name": "Web UI and Interactive Experiences"
     },
     {
       "id": "6a1edcaf06fe28a59c5c874b",
@@ -352,8 +352,8 @@
       "relevance_score": 50,
       "combined_score": 54,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "Web and Interactive Interface Experiments"
+      "cluster_id": 4,
+      "cluster_name": "Web UI and Interactive Experiences"
     },
     {
       "id": "6a1edcaf06fe28a59c5c874c",
@@ -367,8 +367,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 2,
-      "cluster_name": "Security Failures and Trust Boundaries"
+      "cluster_id": 1,
+      "cluster_name": "Semiconductor and Hardware Frontiers"
     },
     {
       "id": "6a1edcaf06fe28a59c5c874d",
@@ -382,8 +382,8 @@
       "relevance_score": 70,
       "combined_score": 68,
       "is_ai_ml": false,
-      "cluster_id": 3,
-      "cluster_name": "Developer Tools and Systems Craft"
+      "cluster_id": 2,
+      "cluster_name": "Developer Tools and Systems Practice"
     },
     {
       "id": "6a1edcaf06fe28a59c5c874e",
@@ -398,7 +398,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "AI Education and Agent Workflows"
+      "cluster_name": "AI Agents and Model Building"
     },
     {
       "id": "6a1edf4e06fe28a59c5c876c",
@@ -413,7 +413,7 @@
       "combined_score": 86,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "AI Education and Agent Workflows"
+      "cluster_name": "AI Agents and Model Building"
     },
     {
       "id": "6a1edf4e06fe28a59c5c876d",
@@ -428,7 +428,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "AI Education and Agent Workflows"
+      "cluster_name": "AI Agents and Model Building"
     },
     {
       "id": "6a1edf4e06fe28a59c5c876e",
@@ -442,16 +442,16 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 4,
-      "cluster_name": "Apple Platform Friction and UX"
+      "cluster_id": 3,
+      "cluster_name": "Apple and macOS Friction"
     }
   ],
   "clusters": [
     {
       "id": 0,
-      "name": "AI Education and Agent Workflows",
-      "theme": "These pieces together show how AI is moving from model-building fundamentals into agent design, developer productivity, and practical deployment inside mainstream platforms.",
-      "size": 6,
+      "name": "AI Agents and Model Building",
+      "theme": "These pieces capture the current AI developer stack from learning how language models work, to deploying frontier models, to operationalizing agentic systems in products and teams.",
+      "size": 7,
       "sample_titles": [
         "CS336: Language Modeling from Scratch",
         "AI Agent Guidelines for CS336 at Stanford",
@@ -460,30 +460,19 @@
     },
     {
       "id": 1,
-      "name": "AI Hardware and Inference Economics",
-      "theme": "This cluster captures the infrastructure race behind AI, spanning new client hardware, chip packaging advances, and the business realities of inference-focused silicon companies.",
-      "size": 3,
+      "name": "Semiconductor and Hardware Frontiers",
+      "theme": "This cluster tracks the hardware layer of the AI and systems boom, spanning new chip architectures, inference-company economics, device teardowns, and novel personal computing form factors.",
+      "size": 5,
       "sample_titles": [
         "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra",
-        "How is Groq raising more money?",
-        "A new way to build chips: Sequentially stacking silicon to extend Moore's Law"
+        "Muxcard, a dyi credit card size computer",
+        "How is Groq raising more money?"
       ]
     },
     {
       "id": 2,
-      "name": "Security Failures and Trust Boundaries",
-      "theme": "These articles examine how trust breaks down across consumer platforms, LLM interfaces, legal conflict, and hardware verification, revealing weak points from social processes to silicon.",
-      "size": 4,
-      "sample_titles": [
-        "The newest Instagram “exploit” is the goofiest I've seen",
-        "Fooling around with encrypted reasoning blobs",
-        "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai"
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Developer Tools and Systems Craft",
-      "theme": "A set of articles focused on improving day-to-day engineering leverage through better languages, data formalisms, terminal tooling, scheduling primitives, and home-lab infrastructure.",
+      "name": "Developer Tools and Systems Practice",
+      "theme": "These articles focus on practical engineering craft: better debugging and terminal workflows, modern service scheduling, advanced data tooling, networking upgrades, and alternative programming languages.",
       "size": 5,
       "sample_titles": [
         "Why Janet? (2023)",
@@ -492,9 +481,9 @@
       ]
     },
     {
-      "id": 4,
-      "name": "Apple Platform Friction and UX",
-      "theme": "These stories center on the Apple ecosystem from different angles: lost desktop ergonomics, App Store policy constraints, and the onboarding gap for designers entering native development.",
+      "id": 3,
+      "name": "Apple and macOS Friction",
+      "theme": "Together these stories highlight the tension between Apple platform polish and the constraints its UX and App Store policies impose on power users, accessibility tools, and newcomers.",
       "size": 3,
       "sample_titles": [
         "macOS needs its grid back",
@@ -503,9 +492,9 @@
       ]
     },
     {
-      "id": 5,
-      "name": "Web and Interactive Interface Experiments",
-      "theme": "This cluster highlights lightweight interface innovation across the web and consumer interaction, from CSS-native motion to browser games and webcam-driven control schemes.",
+      "id": 4,
+      "name": "Web UI and Interactive Experiences",
+      "theme": "This group centers on front-end and interaction design, from native browser animation techniques to lightweight web and game-like interfaces that showcase modern input and feedback patterns.",
       "size": 3,
       "sample_titles": [
         "CSS-Native Parallax Effect",
@@ -514,32 +503,33 @@
       ]
     },
     {
-      "id": 6,
-      "name": "Maker Projects and Playful Hacks",
-      "theme": "These articles showcase the inventive, hobbyist side of tech culture, where compact hardware builds and whimsical software experiments blur the line between prototype and joke.",
+      "id": 5,
+      "name": "Platform Security and Trust Failures",
+      "theme": "These articles expose weaknesses in digital trust systems, including social-platform account recovery abuse, legal conflict around online publication, and the broader challenge of proving system integrity.",
       "size": 2,
       "sample_titles": [
-        "Chipotlai Max",
-        "Muxcard, a dyi credit card size computer"
+        "The newest Instagram “exploit” is the goofiest I've seen",
+        "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Science, Bioengineering, and Natural Systems",
+      "theme": "These pieces explore how engineering and scientific inquiry intersect with complex natural systems, from geology that mimics metabolism to mosquito population control and broader product-design philosophy.",
+      "size": 3,
+      "sample_titles": [
+        "What appear to be biochemical processes may be a natural feature of geology",
+        "Debug Project",
+        "Stop Ruining It"
       ]
     },
     {
       "id": 7,
-      "name": "Science, Bioengineering, and Natural Systems",
-      "theme": "Together these pieces explore how engineering and science intersect with complex natural systems, from geochemical pseudo-metabolism to mosquito population control.",
-      "size": 2,
-      "sample_titles": [
-        "What appear to be biochemical processes may be a natural feature of geology",
-        "Debug Project"
-      ]
-    },
-    {
-      "id": 8,
-      "name": "Product and Design Philosophy",
-      "theme": "These articles focus on the human side of building technology: preserving product essence and helping non-engineers cross into implementation.",
+      "name": "Offbeat Builds and Experiments",
+      "theme": "This cluster collects the day's more playful or unconventional projects—creative hacks, novelty builds, and experiments that are technically interesting even when not obviously production-bound.",
       "size": 1,
       "sample_titles": [
-        "Stop Ruining It"
+        "Chipotlai Max"
       ]
     }
   ]

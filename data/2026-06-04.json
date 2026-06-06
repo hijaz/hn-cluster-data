@@ -1,8 +1,8 @@
 {
   "date": "2026-06-04",
-  "generated_at": "2026-06-06T20:52:26.094925+00:00",
+  "generated_at": "2026-06-06T21:11:54.305433+00:00",
   "article_count": 28,
-  "cluster_count": 7,
+  "cluster_count": 8,
   "clustering_model": "gpt-5.4",
   "sources": [
     "hackernews",
@@ -23,7 +23,7 @@
       "combined_score": 86,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "AI Models, Safety, and Use"
+      "cluster_name": "AI Models, Safety, and Limits"
     },
     {
       "id": "6a217d1d75ea832bc753618a",
@@ -37,7 +37,7 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 1,
+      "cluster_id": 2,
       "cluster_name": "Programming Languages and Developer Tooling"
     },
     {
@@ -53,7 +53,7 @@
       "combined_score": 86,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "AI Models, Safety, and Use"
+      "cluster_name": "AI Models, Safety, and Limits"
     },
     {
       "id": "6a217d1d75ea832bc753618c",
@@ -67,8 +67,8 @@
       "relevance_score": 0,
       "combined_score": 8,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "Culture, Media, and Society"
+      "cluster_id": 6,
+      "cluster_name": "Science, Health, and Human Stories"
     },
     {
       "id": "6a217d1d75ea832bc753618d",
@@ -82,8 +82,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 0,
-      "cluster_name": "AI Models, Safety, and Use"
+      "cluster_id": 1,
+      "cluster_name": "AI in Practice and Product"
     },
     {
       "id": "6a217d1d75ea832bc753618e",
@@ -98,7 +98,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "AI Models, Safety, and Use"
+      "cluster_name": "AI Models, Safety, and Limits"
     },
     {
       "id": "6a217d1d75ea832bc753618f",
@@ -112,8 +112,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 0,
-      "cluster_name": "AI Models, Safety, and Use"
+      "cluster_id": 1,
+      "cluster_name": "AI in Practice and Product"
     },
     {
       "id": "6a217d1d75ea832bc7536190",
@@ -127,8 +127,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 3,
-      "cluster_name": "Productivity Software and Applied AI"
+      "cluster_id": 1,
+      "cluster_name": "AI in Practice and Product"
     },
     {
       "id": "6a217d1d75ea832bc7536191",
@@ -136,14 +136,14 @@
       "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
       "source": "hackernews",
       "hn_score": 473,
-      "comments": 784,
+      "comments": 785,
       "author": "littlexsparkee",
       "summary": "The article highlights a concerning trend at UC Berkeley where the increased reliance on artificial intelligence (AI) tools by students is correlating with a rise in failing grades, particularly in computer science (CS) classes. Professors have noted a marked decline in students' fundamental math skills, indicating that the use of AI may be preventing students from developing the necessary competencies needed for success in their coursework.\n\nThis phenomenon raises broader questions about the impacts of technology on education and learning outcomes. It suggests that while AI can provide convenience, it also poses risks of knowledge erosion if students substitute technology for essential problem-solving and critical thinking skills. The article urges universities to rethink their educational approaches to ensure that foundational skills are not neglected in the face of technological advancements.",
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 0,
-      "cluster_name": "AI Models, Safety, and Use"
+      "cluster_id": 1,
+      "cluster_name": "AI in Practice and Product"
     },
     {
       "id": "6a217d1d75ea832bc7536192",
@@ -157,7 +157,7 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 2,
+      "cluster_id": 3,
       "cluster_name": "Systems, Hardware, and Performance"
     },
     {
@@ -173,7 +173,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 0,
-      "cluster_name": "AI Models, Safety, and Use"
+      "cluster_name": "AI Models, Safety, and Limits"
     },
     {
       "id": "6a217d1d75ea832bc7536194",
@@ -187,7 +187,7 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 1,
+      "cluster_id": 2,
       "cluster_name": "Programming Languages and Developer Tooling"
     },
     {
@@ -203,7 +203,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 5,
-      "cluster_name": "Culture, Media, and Society"
+      "cluster_name": "Media, Search, and Information Trust"
     },
     {
       "id": "6a217d1d75ea832bc7536196",
@@ -217,8 +217,8 @@
       "relevance_score": 20,
       "combined_score": 29,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "Culture, Media, and Society"
+      "cluster_id": 6,
+      "cluster_name": "Science, Health, and Human Stories"
     },
     {
       "id": "6a217d1d75ea832bc7536197",
@@ -232,8 +232,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 4,
-      "cluster_name": "Science, Infrastructure, and Discovery"
+      "cluster_id": 6,
+      "cluster_name": "Science, Health, and Human Stories"
     },
     {
       "id": "6a217d1d75ea832bc7536198",
@@ -247,7 +247,7 @@
       "relevance_score": 90,
       "combined_score": 87,
       "is_ai_ml": false,
-      "cluster_id": 2,
+      "cluster_id": 3,
       "cluster_name": "Systems, Hardware, and Performance"
     },
     {
@@ -262,8 +262,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 3,
-      "cluster_name": "Productivity Software and Applied AI"
+      "cluster_id": 5,
+      "cluster_name": "Media, Search, and Information Trust"
     },
     {
       "id": "6a217d1d75ea832bc753619a",
@@ -277,8 +277,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "Culture, Media, and Society"
+      "cluster_id": 6,
+      "cluster_name": "Science, Health, and Human Stories"
     },
     {
       "id": "6a217d1d75ea832bc753619b",
@@ -292,8 +292,8 @@
       "relevance_score": 49,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 4,
-      "cluster_name": "Science, Infrastructure, and Discovery"
+      "cluster_id": 6,
+      "cluster_name": "Science, Health, and Human Stories"
     },
     {
       "id": "6a217d1d75ea832bc753619c",
@@ -307,7 +307,7 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 2,
+      "cluster_id": 3,
       "cluster_name": "Systems, Hardware, and Performance"
     },
     {
@@ -322,7 +322,7 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 2,
+      "cluster_id": 3,
       "cluster_name": "Systems, Hardware, and Performance"
     },
     {
@@ -338,7 +338,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 4,
-      "cluster_name": "Science, Infrastructure, and Discovery"
+      "cluster_name": "Tech History and Product Archaeology"
     },
     {
       "id": "6a217d1d75ea832bc753619f",
@@ -352,7 +352,7 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 1,
+      "cluster_id": 2,
       "cluster_name": "Programming Languages and Developer Tooling"
     },
     {
@@ -367,7 +367,7 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 1,
+      "cluster_id": 2,
       "cluster_name": "Programming Languages and Developer Tooling"
     },
     {
@@ -382,8 +382,8 @@
       "relevance_score": 0,
       "combined_score": 16,
       "is_ai_ml": false,
-      "cluster_id": 5,
-      "cluster_name": "Culture, Media, and Society"
+      "cluster_id": 7,
+      "cluster_name": "Craft, Design, and Everyday Systems"
     },
     {
       "id": "6a217d1d75ea832bc75361a2",
@@ -397,8 +397,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 6,
-      "cluster_name": "Computing History and Interface Evolution"
+      "cluster_id": 4,
+      "cluster_name": "Tech History and Product Archaeology"
     },
     {
       "id": "6a217d1d75ea832bc75361a3",
@@ -412,8 +412,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 3,
-      "cluster_name": "Productivity Software and Applied AI"
+      "cluster_id": 2,
+      "cluster_name": "Programming Languages and Developer Tooling"
     },
     {
       "id": "6a2180a775ea832bc75361c4",
@@ -427,27 +427,38 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 0,
-      "cluster_name": "AI Models, Safety, and Use"
+      "cluster_id": 1,
+      "cluster_name": "AI in Practice and Product"
     }
   ],
   "clusters": [
     {
       "id": 0,
-      "name": "AI Models, Safety, and Use",
-      "theme": "These pieces collectively track the current AI stack from model architecture and philosophical framing to operational containment, product UX, security testing, and enterprise economics.",
-      "size": 8,
+      "name": "AI Models, Safety, and Limits",
+      "theme": "These articles collectively examine frontier AI capabilities alongside the practical, philosophical, and operational constraints shaping how advanced models are built, contained, and understood.",
+      "size": 4,
       "sample_titles": [
         "Gemma 4 12B: A unified, encoder-free multimodal model",
         "They’re made out of weights",
-        "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it"
+        "Artificial intelligence is not conscious – Ted Chiang"
       ]
     },
     {
       "id": 1,
+      "name": "AI in Practice and Product",
+      "theme": "This cluster captures how AI is being applied in real workflows—from coding economics and security testing to education, creative tools, and interface design.",
+      "size": 5,
+      "sample_titles": [
+        "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+        "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+        "DaVinci Resolve 21"
+      ]
+    },
+    {
+      "id": 2,
       "name": "Programming Languages and Developer Tooling",
-      "theme": "This cluster highlights core shifts in how developers build software, spanning language evolution, durable data skills, lightweight web authoring, and major ecosystem platform moves.",
-      "size": 4,
+      "theme": "These pieces highlight enduring and evolving foundations of software development, spanning language design, data skills, web tooling, lightweight publishing, and hiring demand.",
+      "size": 5,
       "sample_titles": [
         "Elixir v1.20: Now a gradually typed language",
         "Learn SQL Once, Use It for 30 Years",
@@ -455,9 +466,9 @@
       ]
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Systems, Hardware, and Performance",
-      "theme": "These articles focus on low-level computing advances and practical performance engineering, from new silicon and homegrown interconnects to rendering techniques and retro cross-development.",
+      "theme": "This group focuses on low-level computing advances and performance-oriented engineering, from microcontrollers and homegrown interconnects to rendering and retro cross-development.",
       "size": 4,
       "sample_titles": [
         "ESP32-S31",
@@ -466,45 +477,43 @@
       ]
     },
     {
-      "id": 3,
-      "name": "Productivity Software and Applied AI",
-      "theme": "This group centers on software products using modern automation and AI to reshape creative workflows, search, and enterprise SaaS operations.",
-      "size": 3,
-      "sample_titles": [
-        "DaVinci Resolve 21",
-        "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
-        "AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools"
-      ]
-    },
-    {
       "id": 4,
-      "name": "Science, Infrastructure, and Discovery",
-      "theme": "These stories showcase how physical-world observation and modeling—from meteors to archaeology to hydraulic simulation—continue to produce valuable technical and historical insight.",
-      "size": 3,
+      "name": "Tech History and Product Archaeology",
+      "theme": "These articles surface how past systems and physical models continue to inform present-day technical culture, design thinking, and infrastructure understanding.",
+      "size": 2,
       "sample_titles": [
-        "Meteor Explodes over Massachusetts",
-        "Under Notre Dame, a 'dig of the century' unearths 1,700 years of history",
-        "U.S. Army Corps of Engineers Bay Model"
+        "U.S. Army Corps of Engineers Bay Model",
+        "The placeholder name for the Windows 8 experience was \"modern\""
       ]
     },
     {
       "id": 5,
-      "name": "Culture, Media, and Society",
-      "theme": "This cluster gathers broader societal and human-interest pieces about media transparency, literary work, public figures, health, and everyday craft.",
-      "size": 5,
+      "name": "Media, Search, and Information Trust",
+      "theme": "This cluster centers on how information is mediated, discovered, and framed—through private search products, editorial gatekeeping, and disclosure failures.",
+      "size": 2,
       "sample_titles": [
-        "I was recently diagnosed with anti-NMDA receptor encephalitis",
         "UK media fails to disclose defence sector links in nearly 60% of cases",
-        "A Man Who Reads Books for a Living"
+        "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites"
       ]
     },
     {
       "id": 6,
-      "name": "Computing History and Interface Evolution",
-      "theme": "These articles look backward at how past operating systems and product naming decisions shaped the software environments developers still inherit today.",
+      "name": "Science, Health, and Human Stories",
+      "theme": "These articles are united by real-world phenomena and human narratives that broaden a technical reader’s perspective beyond software, from illness and astronomy to literature and archaeology.",
+      "size": 5,
+      "sample_titles": [
+        "I was recently diagnosed with anti-NMDA receptor encephalitis",
+        "A Man Who Reads Books for a Living",
+        "Meteor Explodes over Massachusetts"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Craft, Design, and Everyday Systems",
+      "theme": "These pieces explore practical design in everyday artifacts, showing how small systems—from knots to workflows—can be optimized for simplicity and reliability.",
       "size": 1,
       "sample_titles": [
-        "The placeholder name for the Windows 8 experience was \"modern\""
+        "Ian's Secure Shoelace Knot"
       ]
     }
   ]

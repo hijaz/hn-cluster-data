@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated_at": "2026-06-06T20:53:03.179352+00:00",
+  "generated_at": "2026-06-06T21:12:32.379394+00:00",
   "article_count": 50,
   "cluster_count": 8,
   "clustering_model": "gpt-5.4",
@@ -31,14 +31,14 @@
       "url": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
       "source": "hackernews",
       "hn_score": 729,
-      "comments": 509,
+      "comments": 508,
       "author": "tristanj",
       "summary": "The recent decision by S&P Dow Jones to maintain its current mega-cap IPO index entry rules signifies a continued commitment to a uniform and consistent evaluation process for new public companies. Despite consultations that involved feedback from various stakeholders, the ruling means that major companies, including SpaceX, will not be afforded quick access to index inclusion. This decision highlights the complexities and implications that surround the IPO landscape, particularly for technology giants that are eyeing the stock market.\n\nThe S&P's adherence to established criteria for index entries emphasizes the importance of ensuring integrity and consistency in financial metrics. Analysts suggest that this ruling could lead to longer timelines for mega IPOs to be recognized within major indices, impacting investor strategies and expectations. Overall, the decision reflects a careful balance between market innovation and the necessity for rigorous standards in corporate classification.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 7,
-      "cluster_name": "Science, Society, and Careers"
+      "cluster_name": "Industry, Society, and Human Stories"
     },
     {
       "id": "6a22cd09c183ce9163c09849",
@@ -53,7 +53,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 3,
-      "cluster_name": "Open Source Governance Trends"
+      "cluster_name": "Open Source Governance and Sovereignty"
     },
     {
       "id": "6a22cd09c183ce9163c0984a",
@@ -82,8 +82,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 1,
-      "cluster_name": "Programming Languages and Performance"
+      "cluster_id": 2,
+      "cluster_name": "Systems Performance and Data Structures"
     },
     {
       "id": "6a22cd09c183ce9163c0984c",
@@ -98,7 +98,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 6,
-      "cluster_name": "Data Systems and ML Architecture"
+      "cluster_name": "Science, Math, and Computing Foundations"
     },
     {
       "id": "6a22cd09c183ce9163c0984d",
@@ -113,7 +113,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 5,
-      "cluster_name": "Hardware Hacking and Embedded"
+      "cluster_name": "Networking, GPS, and Embedded Hacking"
     },
     {
       "id": "6a22cd09c183ce9163c0984e",
@@ -128,7 +128,7 @@
       "combined_score": 33,
       "is_ai_ml": false,
       "cluster_id": 7,
-      "cluster_name": "Science, Society, and Careers"
+      "cluster_name": "Industry, Society, and Human Stories"
     },
     {
       "id": "6a22cd09c183ce9163c0984f",
@@ -158,7 +158,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 1,
-      "cluster_name": "Programming Languages and Performance"
+      "cluster_name": "Programming Languages and Toolchains"
     },
     {
       "id": "6a22cd09c183ce9163c09851",
@@ -166,14 +166,14 @@
       "url": "https://arxiv.org/abs/2606.03673",
       "source": "hackernews",
       "hn_score": 169,
-      "comments": 216,
+      "comments": 217,
       "author": "mimorigasaka",
       "summary": "This article focuses on the detection and analysis of a significant space-based interference source impacting the Global Navigation Satellite System (GNSS) in Europe, Greenland, and Canada since 2019. The authors identify this source through an extensive study utilizing data from a network of terrestrial GNSS reference stations. Notably, while most interference currently arises from terrestrial sources, this paper underscores the heightened risks posed by space-based sources, which have a broader reach and could lead to a qualitative shift in GNSS interference events.\n\nThrough the development of a received-power detection framework and the analysis of spatial, temporal, and spectral patterns, the research conclusively identifies the interference source as a constellation of Russian early warning satellites operating in Molniya orbits. By employing sophisticated identification techniques that incorporate power received and time-difference-of-arrival measurements, the authors establish a strong foundation for addressing these emerging interference challenges. The findings are significant for enhancing the robustness of GNSS systems against potential threats from various interference sources.",
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 4,
-      "cluster_name": "Networks, GPS, and Infrastructure"
+      "cluster_id": 5,
+      "cluster_name": "Networking, GPS, and Embedded Hacking"
     },
     {
       "id": "6a22cd09c183ce9163c09852",
@@ -188,7 +188,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 2,
-      "cluster_name": "Developer Tools and Shells"
+      "cluster_name": "Systems Performance and Data Structures"
     },
     {
       "id": "6a22cd09c183ce9163c09853",
@@ -203,7 +203,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 7,
-      "cluster_name": "Science, Society, and Careers"
+      "cluster_name": "Industry, Society, and Human Stories"
     },
     {
       "id": "6a22cd09c183ce9163c09854",
@@ -217,8 +217,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 6,
-      "cluster_name": "Data Systems and ML Architecture"
+      "cluster_id": 2,
+      "cluster_name": "Systems Performance and Data Structures"
     },
     {
       "id": "6a22cd09c183ce9163c09855",
@@ -232,8 +232,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 4,
-      "cluster_name": "Networks, GPS, and Infrastructure"
+      "cluster_id": 5,
+      "cluster_name": "Networking, GPS, and Embedded Hacking"
     },
     {
       "id": "6a22cd09c183ce9163c09856",
@@ -248,7 +248,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 4,
-      "cluster_name": "Networks, GPS, and Infrastructure"
+      "cluster_name": "Unix Interfaces and Developer Ergonomics"
     },
     {
       "id": "6a22cd09c183ce9163c09857",
@@ -262,8 +262,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 7,
-      "cluster_name": "Science, Society, and Careers"
+      "cluster_id": 6,
+      "cluster_name": "Science, Math, and Computing Foundations"
     },
     {
       "id": "6a22cd09c183ce9163c09858",
@@ -278,7 +278,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 5,
-      "cluster_name": "Hardware Hacking and Embedded"
+      "cluster_name": "Networking, GPS, and Embedded Hacking"
     },
     {
       "id": "6a22cd09c183ce9163c09859",
@@ -292,8 +292,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 7,
-      "cluster_name": "Science, Society, and Careers"
+      "cluster_id": 6,
+      "cluster_name": "Science, Math, and Computing Foundations"
     },
     {
       "id": "6a22cd09c183ce9163c0985a",
@@ -308,7 +308,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 3,
-      "cluster_name": "Open Source Governance Trends"
+      "cluster_name": "Open Source Governance and Sovereignty"
     },
     {
       "id": "6a22cd09c183ce9163c0985b",
@@ -323,7 +323,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 7,
-      "cluster_name": "Science, Society, and Careers"
+      "cluster_name": "Industry, Society, and Human Stories"
     },
     {
       "id": "6a22cd09c183ce9163c0985c",
@@ -337,8 +337,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 2,
-      "cluster_name": "Developer Tools and Shells"
+      "cluster_id": 1,
+      "cluster_name": "Programming Languages and Toolchains"
     },
     {
       "id": "6a22cd09c183ce9163c0985d",
@@ -352,8 +352,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 7,
-      "cluster_name": "Science, Society, and Careers"
+      "cluster_id": 6,
+      "cluster_name": "Science, Math, and Computing Foundations"
     },
     {
       "id": "6a22cd09c183ce9163c0985e",
@@ -368,7 +368,7 @@
       "combined_score": 23,
       "is_ai_ml": false,
       "cluster_id": 7,
-      "cluster_name": "Science, Society, and Careers"
+      "cluster_name": "Industry, Society, and Human Stories"
     },
     {
       "id": "6a22cd09c183ce9163c0985f",
@@ -376,7 +376,7 @@
       "url": "https://github.com/zdk/lowfat",
       "source": "hackernews",
       "hn_score": 38,
-      "comments": 72,
+      "comments": 73,
       "author": "zdkaster",
       "summary": "Lowfat's design is centered around enhancing the efficiency of interactions with AI tools by reducing unnecessary output and, in turn, costs associated with token usage. Users can easily set up the tool in various shell environments and utilize it by prefixing their commands. The project is also supported by comprehensive documentation on its architecture and configuration, making it accessible to a wide range of users. Overall, Lowfat aims to empower users to optimize their AI interactions while retaining control over their data.",
       "relevance_score": 85,
@@ -398,7 +398,7 @@
       "combined_score": 69,
       "is_ai_ml": false,
       "cluster_id": 5,
-      "cluster_name": "Hardware Hacking and Embedded"
+      "cluster_name": "Networking, GPS, and Embedded Hacking"
     },
     {
       "id": "6a22cd09c183ce9163c09861",
@@ -412,8 +412,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 2,
-      "cluster_name": "Developer Tools and Shells"
+      "cluster_id": 4,
+      "cluster_name": "Unix Interfaces and Developer Ergonomics"
     },
     {
       "id": "6a22cd09c183ce9163c09862",
@@ -428,7 +428,7 @@
       "combined_score": 0,
       "is_ai_ml": false,
       "cluster_id": 7,
-      "cluster_name": "Science, Society, and Careers"
+      "cluster_name": "Industry, Society, and Human Stories"
     },
     {
       "id": "6a22cd09c183ce9163c09863",
@@ -443,7 +443,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 7,
-      "cluster_name": "Science, Society, and Careers"
+      "cluster_name": "Industry, Society, and Human Stories"
     },
     {
       "id": "6a22cd75c183ce9163c09866",
@@ -458,7 +458,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 1,
-      "cluster_name": "Programming Languages and Performance"
+      "cluster_name": "Programming Languages and Toolchains"
     },
     {
       "id": "6a22cd75c183ce9163c09867",
@@ -473,7 +473,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 1,
-      "cluster_name": "Programming Languages and Performance"
+      "cluster_name": "Programming Languages and Toolchains"
     },
     {
       "id": "6a22cd75c183ce9163c09868",
@@ -488,7 +488,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 1,
-      "cluster_name": "Programming Languages and Performance"
+      "cluster_name": "Programming Languages and Toolchains"
     },
     {
       "id": "6a22cd75c183ce9163c09869",
@@ -502,8 +502,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 4,
-      "cluster_name": "Networks, GPS, and Infrastructure"
+      "cluster_id": 5,
+      "cluster_name": "Networking, GPS, and Embedded Hacking"
     },
     {
       "id": "6a22cd75c183ce9163c0986a",
@@ -518,7 +518,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 1,
-      "cluster_name": "Programming Languages and Performance"
+      "cluster_name": "Programming Languages and Toolchains"
     },
     {
       "id": "6a22cd75c183ce9163c0986b",
@@ -562,8 +562,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 1,
-      "cluster_name": "Programming Languages and Performance"
+      "cluster_id": 6,
+      "cluster_name": "Science, Math, and Computing Foundations"
     },
     {
       "id": "6a22cd75c183ce9163c0986e",
@@ -577,8 +577,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 2,
-      "cluster_name": "Developer Tools and Shells"
+      "cluster_id": 1,
+      "cluster_name": "Programming Languages and Toolchains"
     },
     {
       "id": "6a22cd75c183ce9163c0986f",
@@ -592,8 +592,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 3,
-      "cluster_name": "Open Source Governance Trends"
+      "cluster_id": -1,
+      "cluster_name": "Unclustered"
     },
     {
       "id": "6a22cd75c183ce9163c09870",
@@ -607,8 +607,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 4,
-      "cluster_name": "Networks, GPS, and Infrastructure"
+      "cluster_id": 7,
+      "cluster_name": "Industry, Society, and Human Stories"
     },
     {
       "id": "6a22cd75c183ce9163c09872",
@@ -622,8 +622,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 2,
-      "cluster_name": "Developer Tools and Shells"
+      "cluster_id": 4,
+      "cluster_name": "Unix Interfaces and Developer Ergonomics"
     },
     {
       "id": "6a22cd75c183ce9163c09871",
@@ -638,7 +638,7 @@
       "combined_score": 81,
       "is_ai_ml": false,
       "cluster_id": 1,
-      "cluster_name": "Programming Languages and Performance"
+      "cluster_name": "Programming Languages and Toolchains"
     },
     {
       "id": "6a22cd75c183ce9163c09873",
@@ -668,7 +668,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 7,
-      "cluster_name": "Science, Society, and Careers"
+      "cluster_name": "Industry, Society, and Human Stories"
     },
     {
       "id": "6a22cd75c183ce9163c09875",
@@ -683,7 +683,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 3,
-      "cluster_name": "Open Source Governance Trends"
+      "cluster_name": "Open Source Governance and Sovereignty"
     },
     {
       "id": "6a22cd75c183ce9163c09876",
@@ -697,8 +697,8 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 2,
-      "cluster_name": "Developer Tools and Shells"
+      "cluster_id": 4,
+      "cluster_name": "Unix Interfaces and Developer Ergonomics"
     },
     {
       "id": "6a22cd75c183ce9163c09877",
@@ -713,7 +713,7 @@
       "combined_score": 50,
       "is_ai_ml": false,
       "cluster_id": 3,
-      "cluster_name": "Open Source Governance Trends"
+      "cluster_name": "Open Source Governance and Sovereignty"
     },
     {
       "id": "6a22cd75c183ce9163c09878",
@@ -727,8 +727,8 @@
       "relevance_score": 50,
       "combined_score": 50,
       "is_ai_ml": false,
-      "cluster_id": 1,
-      "cluster_name": "Programming Languages and Performance"
+      "cluster_id": 2,
+      "cluster_name": "Systems Performance and Data Structures"
     },
     {
       "id": "6a22cd75c183ce9163c09879",
@@ -757,15 +757,15 @@
       "relevance_score": 85,
       "combined_score": 81,
       "is_ai_ml": false,
-      "cluster_id": 4,
-      "cluster_name": "Networks, GPS, and Infrastructure"
+      "cluster_id": 5,
+      "cluster_name": "Networking, GPS, and Embedded Hacking"
     }
   ],
   "clusters": [
     {
       "id": 0,
       "name": "AI Coding Workflow Shift",
-      "theme": "These pieces collectively show how AI is reshaping software creation and review, while raising new questions about code quality, cost, and organizational visibility.",
+      "theme": "These pieces capture how AI is changing software creation and review, while raising new questions about code quality, cost, visibility, and engineering practice.",
       "size": 8,
       "sample_titles": [
         "Anthropic's open-source framework for AI-powered vulnerability discovery",
@@ -775,74 +775,75 @@
     },
     {
       "id": 1,
-      "name": "Programming Languages and Performance",
-      "theme": "This cluster centers on language ecosystems, runtime internals, and low-level algorithmic work that matter to engineers optimizing correctness, speed, and maintainability.",
-      "size": 9,
+      "name": "Programming Languages and Toolchains",
+      "theme": "This cluster covers language ecosystems, developer philosophy, and core tooling evolution across C++, Rust, Haskell, J, version control, and packaging.",
+      "size": 8,
       "sample_titles": [
-        "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
         "C++: The Documentary",
+        "Ohbin – uv wrapper for installing tools from GitHub",
         "A faster bump allocator for rust"
       ]
     },
     {
       "id": 2,
-      "name": "Developer Tools and Shells",
-      "theme": "These articles focus on practical tooling for day-to-day engineering work across databases, packaging, version control, terminals, and keyboard-driven workflows.",
-      "size": 6,
+      "name": "Systems Performance and Data Structures",
+      "theme": "These articles focus on low-level performance engineering, from sorting and allocators to compression, databases, and in-memory systems.",
+      "size": 4,
       "sample_titles": [
+        "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
         "databow: a Rust CLI to query any database with an ADBC driver",
-        "Ohbin – uv wrapper for installing tools from GitHub",
-        "Mouseless – keyboard-driven control of macOS/Linux/Windows"
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Open Source Governance Trends",
-      "theme": "Together these stories highlight how open-source projects and public institutions are rethinking contribution models, browser development, reproducibility, and strategic autonomy.",
-      "size": 5,
-      "sample_titles": [
-        "Changing How We Develop Ladybird",
-        "Communication on European Tech Sovereignty, and an EU Open-Source Strategy",
-        "Reproducible Builds in May 2026"
-      ]
-    },
-    {
-      "id": 4,
-      "name": "Networks, GPS, and Infrastructure",
-      "theme": "This group captures the fragility and complexity of modern digital and radio infrastructure, from IPv6 quirks and service status to GNSS interference and timing systems.",
-      "size": 6,
-      "sample_titles": [
-        "Tracing a powerful GNSS interference source over Europe",
-        "WiFi Time",
-        "The IsUpMap lets you check the status of over 100 major sites at once"
-      ]
-    },
-    {
-      "id": 5,
-      "name": "Hardware Hacking and Embedded",
-      "theme": "These articles are united by hands-on work with devices, buses, protocols, and embedded platforms, spanning both legacy hardware and repurposed modern systems.",
-      "size": 3,
-      "sample_titles": [
-        "Meta enables ADB on deprecated Portal devices [video]",
-        "ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol",
-        "Watching a Z80 from an RP2350"
-      ]
-    },
-    {
-      "id": 6,
-      "name": "Data Systems and ML Architecture",
-      "theme": "These pieces track infrastructure-level advances in data platforms and model design, from Redis capabilities to transformer simplification.",
-      "size": 2,
-      "sample_titles": [
-        "Do transformers need three projections? Systematic study of QKV variants",
         "Redis 8.8: New array data structure, rate limiter, performance improvements"
       ]
     },
     {
+      "id": 3,
+      "name": "Open Source Governance and Sovereignty",
+      "theme": "Together these stories show how software projects and governments are rethinking control, contribution models, browser independence, and strategic tech autonomy.",
+      "size": 4,
+      "sample_titles": [
+        "Changing How We Develop Ladybird",
+        "Communication on European Tech Sovereignty, and an EU Open-Source Strategy",
+        "The EU tech sovereignty plan"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Unix Interfaces and Developer Ergonomics",
+      "theme": "This group centers on practical developer interaction layers—shells, terminals, session management, keyboard-first workflows, and service visibility.",
+      "size": 4,
+      "sample_titles": [
+        "The IsUpMap lets you check the status of over 100 major sites at once",
+        "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+        "The terminal, the TTY, and the shell"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Networking, GPS, and Embedded Hacking",
+      "theme": "These articles connect hardware experimentation and infrastructure edge cases across GNSS interference, timing, protocol tools, legacy chips, device access, and network semantics.",
+      "size": 7,
+      "sample_titles": [
+        "Meta enables ADB on deprecated Portal devices [video]",
+        "Tracing a powerful GNSS interference source over Europe",
+        "WiFi Time"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Science, Math, and Computing Foundations",
+      "theme": "This set spans foundational ideas and research advances in ML architecture, theoretical computing, physics, biology, and applied mathematical visualization.",
+      "size": 5,
+      "sample_titles": [
+        "Do transformers need three projections? Systematic study of QKV variants",
+        "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
+        "Leap in DNA synthesis slashes time to build new genetic sequences"
+      ]
+    },
+    {
       "id": 7,
-      "name": "Science, Society, and Careers",
-      "theme": "This cluster brings together broader scientific breakthroughs, policy and social analysis, and human stories that shape the wider context technical leaders operate within.",
-      "size": 11,
+      "name": "Industry, Society, and Human Stories",
+      "theme": "These articles provide broader context on business, policy, labor, education, history, and culture that shape the environment technical leaders operate within.",
+      "size": 9,
       "sample_titles": [
         "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
         "I'm skeptical about efforts to revolutionize schooling",
