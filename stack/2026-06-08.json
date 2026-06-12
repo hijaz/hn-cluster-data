@@ -1,0 +1,94 @@
+{
+  "date": "2026-06-08",
+  "generated_at": "2026-06-12T08:17:31.383670+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 80,
+  "items": [
+    {
+      "title": "Tiny CUDA language model playground",
+      "urls": [
+        "https://github.com/markusheimerl/gpt"
+      ],
+      "oneliner": "Minimal CUDA LLM you can read end-to-end, modify kernels, and benchmark on your own GPU today."
+    },
+    {
+      "title": "Zero-copy Transit serializer in C",
+      "urls": [
+        "https://github.com/DotFox/transit.c"
+      ],
+      "oneliner": "C11 Transit reader and writer uses zero-copy parsing and SIMD to replace slower JSON pipelines."
+    },
+    {
+      "title": "Use Zig allocators from C",
+      "urls": [
+        "https://github.com/D-Berg/zalloc"
+      ],
+      "oneliner": "Drop-in allocator bridge lets C projects replace malloc and free with Zig allocators."
+    },
+    {
+      "title": "Learn Zig through runnable examples",
+      "urls": [
+        "https://github.com/boringcollege/zig-by-example"
+      ],
+      "oneliner": "Hands-on Zig examples cover core syntax, errors, and data structures without forcing you through abstract docs."
+    },
+    {
+      "title": "Rust Pico 2 embedded examples",
+      "urls": [
+        "https://github.com/melastmohican/rust-rpico2-embassy-examples"
+      ],
+      "oneliner": "Runnable Embassy examples show Rust on Raspberry Pi Pico 2 with sensors, displays, Wi-Fi, and Matter."
+    },
+    {
+      "title": "LLM study tool for new domains",
+      "urls": [
+        "https://github.com/devenjarvis/lathe"
+      ],
+      "oneliner": "Open-source learning app uses LLMs to quiz, explain, and deepen understanding instead of skipping the hard parts."
+    },
+    {
+      "title": "Build a perceptron from scratch",
+      "urls": [
+        "https://ranpara.net/posts/perceptron-explained-from-scratch/"
+      ],
+      "oneliner": "Step-by-step Python tutorial implements a perceptron from first principles with browser demos you can inspect live."
+    },
+    {
+      "title": "Go amd64 tuning benchmark guide",
+      "urls": [
+        "https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/"
+      ],
+      "oneliner": "Benchmark-driven walkthrough shows when GOAMD64 recompiles actually speed up Go workloads on modern x86 CPUs."
+    },
+    {
+      "title": "Reliable Linux mount watching technique",
+      "urls": [
+        "https://bal-e.org/blog/2026/verifying-proc/"
+      ],
+      "oneliner": "Deep systems walkthrough shows how to verify /proc and combine it with inotify for safer mount detection."
+    },
+    {
+      "title": "Datasette database editing plugin release",
+      "urls": [
+        "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/"
+      ],
+      "oneliner": "Early Datasette plugin adds agent-assisted database editing and is ready to inspect, install, and extend."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "instant",
+    "unlocked",
+    "local",
+    "open",
+    "practical"
+  ],
+  "tokenUsage": {
+    "promptTokens": 15048,
+    "completionTokens": 633,
+    "totalTokens": 15681,
+    "costUsd": 0.047115000000000004
+  }
+}

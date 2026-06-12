@@ -1,0 +1,94 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-12T08:17:48.997190+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 68,
+  "items": [
+    {
+      "title": "OpenCV 5 modernizes vision pipelines",
+      "urls": [
+        "https://opencv.org/opencv-5/"
+      ],
+      "oneliner": "Major computer vision upgrade with better ONNX support, DNN acceleration, and 3D tooling for Python and edge deployments."
+    },
+    {
+      "title": "Apple ships Core AI framework docs",
+      "urls": [
+        "https://developer.apple.com/documentation/coreai/"
+      ],
+      "oneliner": "Official framework docs for building on-device Apple AI apps with structured APIs for vision, language, and model integration."
+    },
+    {
+      "title": "Performative UI ships startup design tropes",
+      "urls": [
+        "https://vorpus.github.io/performativeUI/"
+      ],
+      "oneliner": "MIT React component library with 27 polished landing page patterns for AI products, waitlists, pricing, and social proof."
+    },
+    {
+      "title": "Argus Red scans code offensively",
+      "urls": [
+        "https://www.argusred.com/cli"
+      ],
+      "oneliner": "CLI security scanner and authorized pen test tool that finds code vulnerabilities and outputs markdown reports with fixes."
+    },
+    {
+      "title": "Gravity simulates Newton through Einstein",
+      "urls": [
+        "https://qunabu.github.io/Gravity/"
+      ],
+      "oneliner": "Interactive browser simulator lets you explore orbital mechanics and compare classical and relativistic gravity behavior visually."
+    },
+    {
+      "title": "ThinkPad X61 coreboot port walkthrough",
+      "urls": [
+        "https://blog.aheymans.xyz/post/thinkpad_x61/"
+      ],
+      "oneliner": "Detailed firmware porting writeup shows how to reverse engineer and bring coreboot to unsupported ThinkPad hardware."
+    },
+    {
+      "title": "Postgres 19 query hints explained",
+      "urls": [
+        "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints"
+      ],
+      "oneliner": "Practical deep dive into pg_plan_advice and pg_stash_advice for engineers evaluating upcoming PostgreSQL query hint support."
+    },
+    {
+      "title": "Thi.ng offers modular creative coding blocks",
+      "urls": [
+        "https://thi.ng"
+      ],
+      "oneliner": "Open-source toolkit of reusable components for generative graphics, computational design, and rapid prototyping across JavaScript projects."
+    },
+    {
+      "title": "CSS centering generator covers every case",
+      "urls": [
+        "https://css-generators.com/center/"
+      ],
+      "oneliner": "Hands-on CSS reference with 100 centering techniques you can copy for flexbox, grid, transforms, and legacy layouts."
+    },
+    {
+      "title": "Parallel dsymutil linker performance notes",
+      "urls": [
+        "https://jonasdevlieghere.com/post/dsymutil-parallel-linker/"
+      ],
+      "oneliner": "Engineering writeup explains how parallel DWARF linking speeds Apple debug symbol generation without changing debugger expectations."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "instant",
+    "local",
+    "open",
+    "embedded",
+    "unlocked"
+  ],
+  "tokenUsage": {
+    "promptTokens": 11587,
+    "completionTokens": 663,
+    "totalTokens": 12250,
+    "costUsd": 0.0389125
+  }
+}

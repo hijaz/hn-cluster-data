@@ -1,0 +1,94 @@
+{
+  "date": "2026-06-07",
+  "generated_at": "2026-06-12T08:17:13.251230+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 196,
+  "items": [
+    {
+      "title": "This CLI slashes LLM token waste",
+      "urls": [
+        "https://github.com/zdk/lowfat"
+      ],
+      "oneliner": "Pluggable CLI filter cut one developer's LLM token usage by 91.8 percent before prompts hit the model."
+    },
+    {
+      "title": "Postgres gets durable workflow execution",
+      "urls": [
+        "https://github.com/microsoft/pg_durable"
+      ],
+      "oneliner": "Open-source extension runs fault-tolerant long jobs inside PostgreSQL with checkpointing, retries, and SQL-defined workflows."
+    },
+    {
+      "title": "This CLI automates code review",
+      "urls": [
+        "https://github.com/alibaba/open-code-review"
+      ],
+      "oneliner": "Alibaba's open-source reviewer analyzes full file context to catch defects across large changesets from the command line."
+    },
+    {
+      "title": "Git diffs become code entity aware",
+      "urls": [
+        "https://ataraxy-labs.github.io/sem/"
+      ],
+      "oneliner": "Entity-level Git tooling shows function, class, and method changes instead of raw lines for faster debugging."
+    },
+    {
+      "title": "Self-host JavaScript workers with WASM",
+      "urls": [
+        "https://kyushu.dev/"
+      ],
+      "oneliner": "Experimental CLI compiles JavaScript or TypeScript handlers into isolated WebAssembly workers without Node, Bun, or Docker."
+    },
+    {
+      "title": "Sandbox Python with MicroPython WASM",
+      "urls": [
+        "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/"
+      ],
+      "oneliner": "Practical walkthrough shows how to run untrusted Python plugins in a WebAssembly sandbox with strict resource limits."
+    },
+    {
+      "title": "One CLI for thirty databases",
+      "urls": [
+        "https://columnar.tech/blog/introducing-databow//"
+      ],
+      "oneliner": "Rust ADBC client queries 30 plus databases with one interface, REPL, and export formats for scripts."
+    },
+    {
+      "title": "Isolate dev environments by worktree",
+      "urls": [
+        "https://github.com/stemps/treehouse"
+      ],
+      "oneliner": "Git worktree helper assigns stable numbers so ports, databases, and env vars stay isolated per branch."
+    },
+    {
+      "title": "Install GitHub binaries through uv",
+      "urls": [
+        "https://github.com/prostomarkeloff/ohbin"
+      ],
+      "oneliner": "uv wrapper pulls release binaries from GitHub, verifies SHA256 hashes, and caches tools from pyproject.toml."
+    },
+    {
+      "title": "Animated Vue icons ship free",
+      "urls": [
+        "https://respeak-io.github.io/lucide-motion-vue/"
+      ],
+      "oneliner": "Open-source Vue icon library adds motion-ready UI icons you can drop into apps without designing animations."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "offline",
+    "open",
+    "instant",
+    "embedded",
+    "replaced"
+  ],
+  "tokenUsage": {
+    "promptTokens": 38306,
+    "completionTokens": 653,
+    "totalTokens": 38959,
+    "costUsd": 0.10556
+  }
+}

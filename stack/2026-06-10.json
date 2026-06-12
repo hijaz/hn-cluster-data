@@ -1,0 +1,94 @@
+{
+  "date": "2026-06-10",
+  "generated_at": "2026-06-12T08:18:12.653483+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 78,
+  "items": [
+    {
+      "title": "Run macOS container machines locally",
+      "urls": [
+        "https://github.com/apple/container/blob/main/docs/container-machine.md"
+      ],
+      "oneliner": "Apple documents lightweight macOS container VMs you can spin up for isolated builds, testing, and reproducible local environments."
+    },
+    {
+      "title": "Try the Rust React compiler port",
+      "urls": [
+        "https://github.com/react/react/pull/36173"
+      ],
+      "oneliner": "Experimental React Compiler port runs about 3x faster than the Babel plugin and already passes the existing fixture suite."
+    },
+    {
+      "title": "Track Claude quota from the menu bar",
+      "urls": [
+        "https://github.com/grzegorz-raczek-unit8/claude-quota"
+      ],
+      "oneliner": "Tiny macOS utility shows Claude Code quota gauges in your menu bar, so you stop guessing remaining usage."
+    },
+    {
+      "title": "Build your own Async Rust executor",
+      "urls": [
+        "https://aibodh.com/posts/async-rust-chapter-1-hands-on-intro-to-async-rust/"
+      ],
+      "oneliner": "Hands-on Async Rust tutorial walks through futures and executors by building the runtime pieces yourself."
+    },
+    {
+      "title": "Steal this HTML-first rebuild playbook",
+      "urls": [
+        "https://mohkohn.co.uk/writing/html-first/"
+      ],
+      "oneliner": "Practical Astro case study shows how replacing a fragile React flow with HTML-first forms doubled completed usage overnight."
+    },
+    {
+      "title": "Use reducers to shrink failing tests",
+      "urls": [
+        "https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html"
+      ],
+      "oneliner": "Concrete debugging guide shows how test-case reducers cut huge crashing inputs into minimal repros you can actually reason about."
+    },
+    {
+      "title": "Self-host email from your own IP block",
+      "urls": [
+        "https://anil.recoil.org/notes/recoil-self-hosting-2026"
+      ],
+      "oneliner": "Detailed walkthrough covers SPF, DKIM, DMARC, reputation, and routing for running your own deliverable mail server."
+    },
+    {
+      "title": "Query PostgreSQL with property graphs",
+      "urls": [
+        "https://www.postgresql.org/docs/19/ddl-property-graphs.html"
+      ],
+      "oneliner": "PostgreSQL 19 docs show read-only property graphs that let you model many-to-many data with graph pattern queries."
+    },
+    {
+      "title": "Turn text into charts with a font",
+      "urls": [
+        "https://franktisellano.github.io/datatype/"
+      ],
+      "oneliner": "Open source variable font renders inline bar charts, sparklines, and pies without JavaScript, images, or charting libraries."
+    },
+    {
+      "title": "Build persistent LLM memory with Elixir",
+      "urls": [
+        "https://0xcc.re/2026/05/03/skynet-towards-synthetic-neurobiology.html/"
+      ],
+      "oneliner": "Deep implementation writeup shows an OTP-based agent memory architecture that replaces brittle chat history and naive RAG."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "instant",
+    "offline",
+    "open",
+    "embedded",
+    "unlocked"
+  ],
+  "tokenUsage": {
+    "promptTokens": 15820,
+    "completionTokens": 661,
+    "totalTokens": 16481,
+    "costUsd": 0.049465
+  }
+}
