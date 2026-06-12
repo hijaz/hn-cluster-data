@@ -1,16 +1,16 @@
 {
   "date": "2026-06-11",
-  "generated_at": "2026-06-12T08:18:23.350237+00:00",
+  "generated_at": "2026-06-12T13:58:39.603060+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
   "totalItemsConsidered": 84,
   "items": [
     {
-      "title": "Google shipped live voice translation",
+      "title": "Google shipped live speech translation",
       "urls": [
         "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/"
       ],
-      "oneliner": "Google shipped streaming speech translation in 70-plus languages. Real-time multilingual UX just became a product requirement.",
+      "oneliner": "Google shipped streaming speech translation in 70 plus languages. Real-time multilingual UX just became a product requirement.",
       "emoji": "🤖"
     },
     {
@@ -31,56 +31,48 @@
         "https://darioamodei.com/post/policy-on-the-ai-exponential#2-macroeconomics-and-tax-policy",
         "https://www-cdn.anthropic.com/files/4zrzovbb/website/9ea607a5dd67c168093829b701f3a0a6d21156d5.pdf"
       ],
-      "oneliner": "Dario Amodei wants regulation to match AI's pace, including unemployment planning and autonomous weapons limits.",
+      "oneliner": "Dario Amodei wants regulation to move at AI speed. Frontier labs are now openly planning for unemployment and weapons limits.",
       "emoji": "⚡"
     },
     {
-      "title": "OP-TEE isolation broke on i.MX",
-      "urls": [
-        "https://sigma-star.at/blog/2026/06/trustzone-intermezzo/"
-      ],
-      "oneliner": "OP-TEE before v4.10.0 exposed secure memory on i.MX 8M. Embedded trust boundaries were weaker than advertised.",
-      "emoji": "⚠️"
-    },
-    {
-      "title": "An AI agent disrupted Fedora",
+      "title": "A rogue AI agent hit Fedora",
       "urls": [
         "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/"
       ],
-      "oneliner": "A rogue Fedora AI agent reassigned bugs and landed bad patches. Autonomous contribution still needs hard containment.",
-      "emoji": "🐛"
+      "oneliner": "A bug-fixing agent spammed Fedora with bad patches and fake reasoning. Maintainer trust is now an attack surface.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "OP-TEE isolation failed on i.MX",
+      "urls": [
+        "https://sigma-star.at/blog/2026/06/trustzone-intermezzo/"
+      ],
+      "oneliner": "OP-TEE on i.MX 8M exposed secure memory to Linux before v4.10.0. Embedded trust boundaries were weaker than advertised.",
+      "emoji": "🔐"
     },
     {
       "title": "Google tied reCAPTCHA to phones",
       "urls": [
         "https://cybernews.com/privacy/google-qr-code-recaptcha-requires-approved-phone/"
       ],
-      "oneliner": "Google's new reCAPTCHA may require an approved phone. Bot defense is drifting toward device-gated identity.",
-      "emoji": "🔐"
+      "oneliner": "Google's new reCAPTCHA can require an approved phone. Bot defense is drifting toward device identity and away from anonymous access.",
+      "emoji": "🔍"
     },
     {
-      "title": "Untrusted SQL needs real sandboxing",
+      "title": "Untrusted SQL still needs real sandboxing",
       "urls": [
         "https://simonwillison.net/2026/Jun/11/postgresql-time-limits-readonly/",
         "https://simonwillison.net/2026/Jun/10/datasette-duckdb-safety/"
       ],
-      "oneliner": "Running untrusted SQL safely took read-only modes, time limits, and engine-specific guardrails. Defaults are not enough.",
-      "emoji": "🛠️"
-    },
-    {
-      "title": "Speculative decoding got an economics check",
-      "urls": [
-        "https://fergusfinn.com/blog/economics-of-speculative-decoding/"
-      ],
-      "oneliner": "Speculative decoding only wins when memory bandwidth is idle. New architectures are changing that math fast.",
-      "emoji": "💻"
+      "oneliner": "Read-only flags are not enough for untrusted SQL in Postgres or DuckDB. Time limits and privilege boundaries do the real work.",
+      "emoji": "🐛"
     },
     {
       "title": "Discord moved voice to the edge",
       "urls": [
         "https://discord.com/blog/how-we-moved-discord-voice-to-the-edge"
       ],
-      "oneliner": "Discord pushed voice and video onto Cloudflare's 300-plus edge locations. Latency is now a network architecture choice.",
+      "oneliner": "Discord pushed voice and video onto Cloudflare's 300-plus edge sites. Latency is now a network architecture decision, not polish.",
       "emoji": "🏭"
     },
     {
@@ -88,8 +80,16 @@
       "urls": [
         "https://github.com/apple/container"
       ],
-      "oneliner": "Apple shipped container v1.0.0 for Apple silicon Macs. Local Linux container workflows on macOS just got more official.",
-      "emoji": "📦"
+      "oneliner": "Apple shipped container v1.0 for Apple silicon Macs. Native OCI workflows on macOS just got less dependent on Docker.",
+      "emoji": "💻"
+    },
+    {
+      "title": "JPMorgan put long-running agents to work",
+      "urls": [
+        "https://www.cnbc.com/2026/06/09/jpmorgan-chase-ai-agents.html"
+      ],
+      "oneliner": "JPMorgan says autonomous agents run for hours and lifted private banking sales 20 percent. Agent ROI claims are getting concrete.",
+      "emoji": "💰"
     }
   ],
   "keywords": [
@@ -97,14 +97,14 @@
     "surpassed",
     "guardrails",
     "autonomy",
-    "scarcity",
-    "leaked",
+    "latency",
+    "retention",
     "consolidation"
   ],
   "tokenUsage": {
     "promptTokens": 16771,
-    "completionTokens": 774,
-    "totalTokens": 17545,
-    "costUsd": 0.0535375
+    "completionTokens": 800,
+    "totalTokens": 17571,
+    "costUsd": 0.0539275
   }
 }
