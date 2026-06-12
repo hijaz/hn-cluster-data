@@ -1,0 +1,109 @@
+{
+  "date": "2026-06-10",
+  "generated_at": "2026-06-12T08:18:00.645695+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 78,
+  "items": [
+    {
+      "title": "Anthropic opened its Mythos-class model",
+      "urls": [
+        "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+        "https://simonwillison.net/2026/Jun/9/claude-fable-5/",
+        "https://www.youtube.com/watch?v=g4KYm5Hjjyw",
+        "https://www.youtube.com/watch?v=xUbIVUnQnZg",
+        "https://x.com/claudeai/status/2064394146916229443",
+        "https://x.com/claudeai/status/2064394151441863006"
+      ],
+      "oneliner": "Anthropic shipped Claude Fable 5 publicly and claims 72.9% on CursorBench, raising the floor for production coding agents.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "Apple pushed Apple Intelligence deeper into iOS",
+      "urls": [
+        "https://www.apple.com/apple-events/event-stream/"
+      ],
+      "oneliner": "Apple used WWDC to make Siri more conversational, signaling on-device AI is becoming a platform feature, not an app.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "React Compiler is moving to Rust",
+      "urls": [
+        "https://github.com/react/react/pull/36173"
+      ],
+      "oneliner": "Meta's experimental Rust port runs about 3x faster than the Babel plugin, which could make compiler-driven React practical.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "Germany made Google own AI answers",
+      "urls": [
+        "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/"
+      ],
+      "oneliner": "A German court said AI Overviews are Google's own words, putting legal liability directly on generated search answers.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "npm v12 will stop auto-running scripts",
+      "urls": [
+        "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/"
+      ],
+      "oneliner": "npm v12 turns install scripts off by default and blocks Git dependencies, finally treating package install as code execution.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Anthropic broadened law enforcement disclosures",
+      "urls": [
+        "https://www.anthropic.com/legal/privacy"
+      ],
+      "oneliner": "Anthropic's privacy update gives it wider discretion to share data with law enforcement, raising enterprise governance questions.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "Apple documented macOS container machines",
+      "urls": [
+        "https://github.com/apple/container/blob/main/docs/container-machine.md"
+      ],
+      "oneliner": "Apple's container-machine docs point to a more native macOS container story, which matters for local AI and CI workflows.",
+      "emoji": "💻"
+    },
+    {
+      "title": "LaunchDarkly added runtime controls for agents",
+      "urls": [
+        "https://launchdarkly.com/platform/agent-control/"
+      ],
+      "oneliner": "LaunchDarkly wants AI agents managed like feature flags, giving teams live behavior control without redeploying model code.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "Free AI infrastructure came with a bill",
+      "urls": [
+        "https://forestwalk.ai/blog/surprise-blacksmith-costs/"
+      ],
+      "oneliner": "A startup says Blacksmith's free trial quietly ran past limits and produced a $1,000 invoice, so AI tooling costs need guardrails.",
+      "emoji": "💰"
+    },
+    {
+      "title": "PostgreSQL added property graphs",
+      "urls": [
+        "https://www.postgresql.org/docs/19/ddl-property-graphs.html"
+      ],
+      "oneliner": "Postgres 19 adds property graphs as read-only views, bringing graph queries closer to mainstream operational databases.",
+      "emoji": "📦"
+    }
+  ],
+  "keywords": [
+    "weaponized",
+    "surpassed",
+    "crackdown",
+    "autonomy",
+    "scarcity",
+    "rewired",
+    "volatile"
+  ],
+  "tokenUsage": {
+    "promptTokens": 15995,
+    "completionTokens": 783,
+    "totalTokens": 16778,
+    "costUsd": 0.051732499999999994
+  }
+}
