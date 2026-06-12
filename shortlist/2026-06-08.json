@@ -1,0 +1,105 @@
+{
+  "date": "2026-06-08",
+  "generated_at": "2026-06-12T08:17:25.777807+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 80,
+  "items": [
+    {
+      "title": "Anthropic maps recursive self-improvement risks",
+      "urls": [
+        "https://www.anthropic.com/institute/recursive-self-improvement"
+      ],
+      "oneliner": "Anthropic says recursive self-improvement is no longer sci-fi; engineers should treat self-editing models as an imminent safety problem.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "DeepSeek claims a precision lead",
+      "urls": [
+        "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision"
+      ],
+      "oneliner": "DeepSeek V4 Pro beat GPT-5.5 Pro 38 to 33 on fresh precision tasks, raising the bar for schema-critical workflows.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "OpenAI is merging ChatGPT and Codex",
+      "urls": [
+        "https://www.ft.com/content/ca0f5f5e-fb9a-41a0-a2a9-0127e15b7db9?syn-25a6b1a6=1",
+        "https://www.theneurondaily.com/p/chatgpt-is-about-to-look-completely-different"
+      ],
+      "oneliner": "OpenAI is turning ChatGPT into an agent-and-coding superapp, signaling that standalone AI tools are heading for bundling.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "xAI reportedly trained on Claude outputs",
+      "urls": [
+        "https://the-decoder.com/elon-musks-xai-reportedly-trained-its-coding-models-on-claude-outputs-for-months-before-getting-cut-off/"
+      ],
+      "oneliner": "xAI allegedly used Claude outputs for coding training after access was cut, exposing how porous model-to-model data boundaries remain.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Config files are a supply chain blindspot",
+      "urls": [
+        "https://safedep.io/config-files-that-run-code/"
+      ],
+      "oneliner": "Config files that execute code are still slipping past reviews, giving attackers a quiet path to AWS and GitHub credentials.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "Breach disclosure delays are getting worse",
+      "urls": [
+        "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/"
+      ],
+      "oneliner": "After 1,000 breaches, Troy Hunt says disclosure lag is worsening, which means users still learn about compromises far too late.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "Hiring algorithms show hidden discrimination",
+      "urls": [
+        "https://algorithmichiring.github.io/"
+      ],
+      "oneliner": "A study of 3.4 million applications found hiring systems can mask severe racial disparities that aggregate metrics completely miss.",
+      "emoji": "📊"
+    },
+    {
+      "title": "Washington may buy into OpenAI",
+      "urls": [
+        "https://www.cnbc.com/2026/06/05/trump-open-ai-altman-stake.html"
+      ],
+      "oneliner": "The US government is reportedly discussing a 1 to 5 percent OpenAI stake, making AI policy look more industrial than regulatory.",
+      "emoji": "💰"
+    },
+    {
+      "title": "Banks are cutting junior analyst classes",
+      "urls": [
+        "https://fortune.com/2026/06/07/banks-mass-workforce-cuts-ai-entry-level-jobs-junior-analysts/"
+      ],
+      "oneliner": "Some banks are shrinking junior analyst hiring by two-thirds while adding AI talent, a labor shift product teams should not ignore.",
+      "emoji": "🏭"
+    },
+    {
+      "title": "Nvidia and LG are building AI factories",
+      "urls": [
+        "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/"
+      ],
+      "oneliner": "Nvidia and LG are pairing humanoid robotics with AI factory infrastructure, showing where real-world deployment money is moving.",
+      "emoji": "💻"
+    }
+  ],
+  "keywords": [
+    "surpassed",
+    "weaponized",
+    "racing",
+    "autonomy",
+    "scarcity",
+    "leaked",
+    "consolidation"
+  ],
+  "tokenUsage": {
+    "promptTokens": 15223,
+    "completionTokens": 781,
+    "totalTokens": 16004,
+    "costUsd": 0.0497725
+  }
+}

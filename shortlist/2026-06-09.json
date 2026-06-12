@@ -1,0 +1,116 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-12T08:17:43.131779+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 68,
+  "items": [
+    {
+      "title": "Apple rebuilt Siri as an AI layer",
+      "urls": [
+        "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
+        "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+        "https://www.apple.com/apple-intelligence/",
+        "https://developer.apple.com/documentation/coreai/",
+        "https://www.therundown.ai/p/apple-siri-ai-overhaul-is-here-sort-of",
+        "https://www.youtube.com/watch?v=hF8swzNR1-o",
+        "https://www.theneurondaily.com/p/apple-finally-rebuilt-siri",
+        "https://www.theneuron.ai/explainer-articles/everything-ai-apple-announced-at-wwdc-2026/",
+        "https://www.youtube.com/live/hF8swzNR1-o?si=FGnBXE_r2FxcpppG"
+      ],
+      "oneliner": "Apple turned Siri into an OS-wide agent layer, signaling that mobile AI is shifting from chatbots to system actions.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "Xiaomi claimed 1000 tokens per second",
+      "urls": [
+        "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+        "https://www.reddit.com/r/LocalLLaMA/comments/1u0buhm/xiaomi_just_claimed_1000_tps_on_a_1t_model_using/"
+      ],
+      "oneliner": "Xiaomi says its 1T model decodes above 1000 tokens per second, making inference speed a product differentiator.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "NotebookLM now runs code",
+      "urls": [
+        "https://blog.google/innovation-and-ai/products/notebooklm/better-research-notebooklm/",
+        "https://www.youtube.com/watch?v=BRvjwOmByIk"
+      ],
+      "oneliner": "NotebookLM can now write and execute code, pushing research copilots closer to analyst workflows instead of note-taking.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "Google fixed Gemma for agents",
+      "urls": [
+        "https://www.youtube.com/watch?v=FWKkfIftR68"
+      ],
+      "oneliner": "Google fixed Gemma's chat template bug, so agentic workflows no longer lose reasoning between turns.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "Microsoft's developer tools were supply-chain compromised",
+      "urls": [
+        "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+        "https://www.reddit.com/r/ClaudeAI/comments/1u05t5e/an_active_attack_is_planting_backdoors_inside/"
+      ],
+      "oneliner": "Attackers slipped password-stealing malware into Microsoft's open source developer tools, reminding every AI team that dependencies are attack surfaces.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Anthropic widened its privacy disclosure language",
+      "urls": [
+        "https://www.anthropic.com/legal/privacy"
+      ],
+      "oneliner": "Anthropic's updated privacy terms broaden internal discretion to report users, raising fresh governance questions for enterprise adoption.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "A model was tuned for offensive security",
+      "urls": [
+        "https://www.argusred.com/cli"
+      ],
+      "oneliner": "Argus Red post-trained a model to pen test code instead of refusing, showing security agents are getting more operational.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "OpenCV 5 shipped a major modernization",
+      "urls": [
+        "https://opencv.org/opencv-5/"
+      ],
+      "oneliner": "OpenCV 5 adds a new DNN engine, stronger ONNX support, and hardware acceleration, finally updating classic vision stacks.",
+      "emoji": "💻"
+    },
+    {
+      "title": "Kimi launched desktop agents for work",
+      "urls": [
+        "https://www.kimi.com/products/kimi-work",
+        "https://x.com/KimiDevs/status/2063981516708024369"
+      ],
+      "oneliner": "Kimi Work launched 300 desktop agents with memory and browser control, pushing agent products beyond coding into operations.",
+      "emoji": "📦"
+    },
+    {
+      "title": "Argentina is courting AI with deregulation",
+      "urls": [
+        "https://www.batimes.com.ar/news/argentina/milei-promises-tech-firms-new-laws-and-unregulated-ai-in-argentina.phtml"
+      ],
+      "oneliner": "Argentina proposed laws for AI-run corporations, a real policy experiment in how far governments will bend for AI capital.",
+      "emoji": "🌐"
+    }
+  ],
+  "keywords": [
+    "cracked",
+    "surpassed",
+    "weaponized",
+    "autonomy",
+    "scarcity",
+    "leaked",
+    "consolidation"
+  ],
+  "tokenUsage": {
+    "promptTokens": 11762,
+    "completionTokens": 795,
+    "totalTokens": 12557,
+    "costUsd": 0.04133
+  }
+}

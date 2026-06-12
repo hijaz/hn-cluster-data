@@ -1,0 +1,110 @@
+{
+  "date": "2026-06-07",
+  "generated_at": "2026-06-12T08:17:06.885117+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 196,
+  "items": [
+    {
+      "title": "Claude is writing most of Anthropic's code",
+      "urls": [
+        "https://www.anthropic.com/institute/recursive-self-improvement",
+        "https://www.theneurondaily.com/p/anthropic-ai-is-building-ai-now",
+        "https://x.com/AnthropicAI/status/2062568862479208923"
+      ],
+      "oneliner": "Anthropic says Claude wrote 80% of merged code and lifted engineer success from 26% to 76%.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "Google pushed Gemma 4 QAT onto devices",
+      "urls": [
+        "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+        "https://www.youtube.com/watch?v=gF4JVxHT8xo",
+        "https://huggingface.co/collections/google/gemma-4-qat",
+        "https://developers.googleblog.com/bringing-gemma-4-12b-to-your-laptop-unlocking-local-agentic-workflows-with-google-ai-edge/"
+      ],
+      "oneliner": "Google's Gemma 4 QAT cuts memory enough for laptops and phones, making local multimodal agents more practical.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "Nvidia released an open 550B agent model",
+      "urls": [
+        "https://x.com/nvidia/status/2062522316672667770"
+      ],
+      "oneliner": "Nvidia's Nemotron 3 Ultra exposes a 550B MoE with 55B active parameters, aimed squarely at long-running agents.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "Researchers described autonomous AI worms",
+      "urls": [
+        "https://arxiv.org/abs/2606.03811"
+      ],
+      "oneliner": "AI worms can reason on compromised hosts and spread across Linux, Windows, and IoT without commercial model APIs.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "Magecart hid malware inside Stripe metadata",
+      "urls": [
+        "https://sansec.io/research/stripe-api-skimmer-infrastructure"
+      ],
+      "oneliner": "Attackers turned Stripe into skimmer command-and-control, making checkout malware blend into trusted payment traffic.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Meta's AI chatbot exposed Instagram accounts",
+      "urls": [
+        "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/"
+      ],
+      "oneliner": "Meta says 20,225 Instagram users were hit after its AI chatbot misrouted password resets to attackers.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "Smart TVs are feeding the scraping economy",
+      "urls": [
+        "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/"
+      ],
+      "oneliner": "Smart TVs and consumer apps are being used as residential proxies, quietly powering AI data collection at scale.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "Google locked in massive rented AI compute",
+      "urls": [
+        "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
+        "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/"
+      ],
+      "oneliner": "Google will pay $920 million monthly for 110,000 Nvidia GPUs, proving frontier capacity is now a supply-chain problem.",
+      "emoji": "💰"
+    },
+    {
+      "title": "TSMC says AI chip shortages will persist",
+      "urls": [
+        "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-ceo-c-c-wei-says-it-will-be-a-long-time-before-we-can-meet-customer-demand-tells-shareholders-that-he-will-keep-prices-stable-refrain-from-implementing-price-hikes"
+      ],
+      "oneliner": "TSMC warned AI demand will exceed supply for years, so model roadmaps now depend on foundry reality.",
+      "emoji": "🏭"
+    },
+    {
+      "title": "Cloudflare acquired the VoidZero team",
+      "urls": [
+        "https://x.com/Cloudflare/status/2062521221132992533"
+      ],
+      "oneliner": "Cloudflare bought VoidZero and pledged Vite stays neutral, signaling the AI-era toolchain stack is consolidating fast.",
+      "emoji": "📦"
+    }
+  ],
+  "keywords": [
+    "weaponized",
+    "surpassed",
+    "scarcity",
+    "autonomy",
+    "leaked",
+    "consolidation",
+    "reckoning"
+  ],
+  "tokenUsage": {
+    "promptTokens": 38481,
+    "completionTokens": 785,
+    "totalTokens": 39266,
+    "costUsd": 0.1079775
+  }
+}
