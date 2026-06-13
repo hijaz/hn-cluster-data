@@ -1,37 +1,37 @@
 {
   "date": "2026-06-11",
-  "generated_at": "2026-06-12T13:58:45.479487+00:00",
+  "generated_at": "2026-06-12T08:18:28.954027+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
   "totalItemsConsidered": 84,
   "items": [
     {
-      "title": "Apple ships local container runtime",
+      "title": "Apple ships local Linux containers",
       "urls": [
         "https://github.com/apple/container"
       ],
-      "oneliner": "Run OCI Linux containers on Apple silicon Macs with a signed native tool built on Swift."
+      "oneliner": "Run OCI Linux containers on Apple silicon Macs with a signed CLI built on macOS virtualization."
     },
     {
-      "title": "Open document UI kit ships",
+      "title": "Open document app UI kit",
       "urls": [
         "https://www.extend.ai/ui"
       ],
-      "oneliner": "React components for PDF, DOCX, XLSX, and CSV apps, including citations, e-signing, uploads, and schema builders."
+      "oneliner": "React components for PDF, DOCX, XLSX, and CSV viewers with citations, e-signing, uploads, and schema builder."
     },
     {
-      "title": "Rust verification tool is usable",
+      "title": "Rust verification with Hax",
       "urls": [
         "https://github.com/cryspen/hax"
       ],
-      "oneliner": "Formally verify Rust code with an open-source tool built for higher-assurance systems and security-critical codebases."
+      "oneliner": "Formally verify Rust code with an open-source toolchain aimed at high-assurance and security-critical software."
     },
     {
-      "title": "Single-file messenger runs on Git",
+      "title": "Single-file messenger over GitHub",
       "urls": [
         "https://github.com/vanyapr/makaroshki"
       ],
-      "oneliner": "This HTML-only messenger stores messages in GitHub repos, making a cloneable demo of Git-backed communication."
+      "oneliner": "Clone a one-file HTML messenger that stores chats in Git repos and works directly in the browser."
     },
     {
       "title": "Safer patterns for untrusted SQL",
@@ -39,57 +39,57 @@
         "https://simonwillison.net/2026/Jun/11/postgresql-time-limits-readonly/",
         "https://simonwillison.net/2026/Jun/10/datasette-duckdb-safety/"
       ],
-      "oneliner": "Concrete guidance for sandboxing untrusted SQL with PostgreSQL, SQLite, and DuckDB, including read-only and time-limit patterns."
+      "oneliner": "Concrete SQLite, PostgreSQL, and DuckDB safety patterns for running untrusted SQL with read-only access and time limits."
     },
     {
-      "title": "Cross-browser glass effect walkthrough",
+      "title": "Cross-browser glass effect tutorial",
       "urls": [
         "https://aave.com/design/building-glass-for-the-web"
       ],
-      "oneliner": "Hands-on CSS guide for shipping glassmorphism that stays readable and performs consistently across modern browsers."
+      "oneliner": "Hands-on CSS walkthrough for shipping glassmorphism that stays readable and performs consistently across browsers."
     },
     {
-      "title": "Arabic typography rendering deep dive",
+      "title": "Arabic typography rendering guide",
       "urls": [
         "https://lr0.org/blog/p/arabic/"
       ],
-      "oneliner": "Interactive walkthrough of Arabic text rendering bugs, webfont fixes, and the layout edge cases most UI stacks miss."
+      "oneliner": "Interactive deep dive into Arabic web rendering bugs, font choices, and the fixes needed beyond basic CSS."
     },
     {
-      "title": "Linux latency tuning with measurements",
+      "title": "Linux latency measurement walkthrough",
       "urls": [
         "https://farnoy.dev/posts/linux-latency"
       ],
-      "oneliner": "Measure click-to-photon latency with a Teensy rig and tune compositor settings using real Linux gaming data."
+      "oneliner": "Measure click-to-photon latency on Linux with a Teensy rig and compositor tuning notes from real tests."
     },
     {
-      "title": "Build a shading language yourself",
+      "title": "Build your own shading language",
       "urls": [
         "https://agraphicsguynotes.com/posts/making_a_shading_langauge_for_my_offline_renderer/"
       ],
-      "oneliner": "A practical compiler-building diary for creating a custom shading language that works with an offline renderer."
+      "oneliner": "Detailed compiler diary for a custom shading language, including parser design and Apple Silicon portability tradeoffs."
     },
     {
-      "title": "Implement the TTT inference algorithm",
+      "title": "TTT grammar inference tutorial",
       "urls": [
         "https://rahul.gopinath.org/post/2026/06/09/ttt-grammar-inference/"
       ],
-      "oneliner": "Step through code for learning regular languages from examples using the TTT algorithm and reproducible experiments."
+      "oneliner": "Step through the TTT algorithm for learning regular languages from examples with practical implementation detail."
     }
   ],
   "keywords": [
     "shipped",
     "blazing",
-    "instant",
-    "unlocked",
-    "local",
+    "offline",
     "open",
-    "practical"
+    "instant",
+    "embedded",
+    "unlocked"
   ],
   "tokenUsage": {
     "promptTokens": 16596,
-    "completionTokens": 641,
-    "totalTokens": 17237,
-    "costUsd": 0.051105
+    "completionTokens": 628,
+    "totalTokens": 17224,
+    "costUsd": 0.05091
   }
 }
