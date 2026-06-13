@@ -1,0 +1,94 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-13T05:33:22.133252+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 51,
+  "items": [
+    {
+      "title": "Efficient open coding model weights",
+      "urls": [
+        "https://huggingface.co/moonshotai/Kimi-K2.7-Code"
+      ],
+      "oneliner": "Open coding model with downloadable weights and 30% lower token use for long-horizon software tasks."
+    },
+    {
+      "title": "Local filler-word removal CLI",
+      "urls": [
+        "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/"
+      ],
+      "oneliner": "Local CLI strips ums, uhs, and erms from recordings using Whisper plus pause detection."
+    },
+    {
+      "title": "Automatic skeleton screens from DOM",
+      "urls": [
+        "https://boneyard.vercel.app/overview"
+      ],
+      "oneliner": "UI tool auto-generates pixel-matched skeleton loaders from your real DOM with zero manual configuration."
+    },
+    {
+      "title": "Coding model benchmark on real tasks",
+      "urls": [
+        "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype"
+      ],
+      "oneliner": "Benchmark of 200 real coding tasks shows 59.8% solve rate and only 19.0% security success."
+    },
+    {
+      "title": "Vintage language model build log",
+      "urls": [
+        "https://crlf.link/log/entries/260525-1/"
+      ],
+      "oneliner": "Hands-on walkthrough shows how to train a 340M historical Llama model from 1800s text."
+    },
+    {
+      "title": "MiMo Code open-source release",
+      "urls": [
+        "https://mimo.xiaomi.com/mimocode"
+      ],
+      "oneliner": "Open-source coding project with public code and docs for building across languages and platforms."
+    },
+    {
+      "title": "Homebrew 6 for safer installs",
+      "urls": [
+        "https://brew.sh/2026/06/11/homebrew-6.0.0/"
+      ],
+      "oneliner": "Package manager update adds tap trust, Linux sandboxing, and faster JSON-backed dependency operations."
+    },
+    {
+      "title": "AUR compromise incident details",
+      "urls": [
+        "https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577"
+      ],
+      "oneliner": "Security report names compromised AUR packages and gives immediate steps to audit and protect systems."
+    },
+    {
+      "title": "AMD updater RCE writeup",
+      "urls": [
+        "https://mrbruh.com/amd2/"
+      ],
+      "oneliner": "Detailed vulnerability writeup shows how HTTP-based updater downloads enabled remote code execution attacks."
+    },
+    {
+      "title": "Interactive shortcut training keyboard",
+      "urls": [
+        "https://shrtcts.click/"
+      ],
+      "oneliner": "Interactive 3D keyboard helps developers memorize app shortcuts faster across tools, devices, and operating systems."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "instant",
+    "unlocked",
+    "local",
+    "open",
+    "practical"
+  ],
+  "tokenUsage": {
+    "promptTokens": 11028,
+    "completionTokens": 618,
+    "totalTokens": 11646,
+    "costUsd": 0.03684
+  }
+}
