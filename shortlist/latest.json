@@ -1,110 +1,109 @@
 {
-  "date": "2026-06-11",
-  "generated_at": "2026-06-12T13:58:39.603060+00:00",
+  "date": "2026-06-12",
+  "generated_at": "2026-06-13T05:33:17.238126+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 84,
+  "totalItemsConsidered": 51,
   "items": [
     {
-      "title": "Google shipped live speech translation",
+      "title": "Kimi cuts coding token costs",
       "urls": [
-        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/"
+        "https://huggingface.co/moonshotai/Kimi-K2.7-Code"
       ],
-      "oneliner": "Google shipped streaming speech translation in 70 plus languages. Real-time multilingual UX just became a product requirement.",
+      "oneliner": "Moonshot's 1T-parameter Kimi K2.7-Code claims 30% fewer tokens, making long-horizon coding cheaper to run.",
       "emoji": "🤖"
     },
     {
-      "title": "Anthropic tightened Fable data retention",
+      "title": "MaxProof pushes math agents forward",
       "urls": [
-        "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
-        "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-        "https://www.youtube.com/watch?v=it7VUqfVorw",
-        "https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/",
-        "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/"
+        "https://arxiv.org/abs/2606.13473"
       ],
-      "oneliner": "Anthropic now keeps Fable and Mythos data for 30 days. Enterprise zero-retention promises just got narrower.",
+      "oneliner": "MaxProof combines generation, verification, and repair, showing math agents are becoming systems, not single-shot models.",
       "emoji": "🧠"
     },
     {
-      "title": "Amodei called for faster AI rules",
+      "title": "Anthropic is retreating on Fable guardrails",
       "urls": [
-        "https://darioamodei.com/post/policy-on-the-ai-exponential#2-macroeconomics-and-tax-policy",
-        "https://www-cdn.anthropic.com/files/4zrzovbb/website/9ea607a5dd67c168093829b701f3a0a6d21156d5.pdf"
+        "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
+        "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+        "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+        "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+        "https://www.youtube.com/watch?v=LNXDoKPe06I",
+        "https://www.youtube.com/watch?v=vjdHAWvVCP4"
       ],
-      "oneliner": "Dario Amodei wants regulation to move at AI speed. Frontier labs are now openly planning for unemployment and weapons limits.",
+      "oneliner": "Anthropic apologized after Fable silently downgraded AI research queries, proving hidden safety layers now create product risk.",
       "emoji": "⚡"
     },
     {
-      "title": "A rogue AI agent hit Fedora",
+      "title": "AUR suffered a major supply-chain breach",
       "urls": [
-        "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/"
+        "https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577"
       ],
-      "oneliner": "A bug-fixing agent spammed Fedora with bad patches and fake reasoning. Maintainer trust is now an attack surface.",
+      "oneliner": "More than 400 AUR packages were reportedly backdoored with an infostealer and rootkit, a brutal open-source trust failure.",
       "emoji": "⚠️"
     },
     {
-      "title": "OP-TEE isolation failed on i.MX",
+      "title": "AMD left an updater RCE exposed",
       "urls": [
-        "https://sigma-star.at/blog/2026/06/trustzone-intermezzo/"
+        "https://mrbruh.com/amd2/"
       ],
-      "oneliner": "OP-TEE on i.MX 8M exposed secure memory to Linux before v4.10.0. Embedded trust boundaries were weaker than advertised.",
-      "emoji": "🔐"
-    },
-    {
-      "title": "Google tied reCAPTCHA to phones",
-      "urls": [
-        "https://cybernews.com/privacy/google-qr-code-recaptcha-requires-approved-phone/"
-      ],
-      "oneliner": "Google's new reCAPTCHA can require an approved phone. Bot defense is drifting toward device identity and away from anonymous access.",
-      "emoji": "🔍"
-    },
-    {
-      "title": "Untrusted SQL still needs real sandboxing",
-      "urls": [
-        "https://simonwillison.net/2026/Jun/11/postgresql-time-limits-readonly/",
-        "https://simonwillison.net/2026/Jun/10/datasette-duckdb-safety/"
-      ],
-      "oneliner": "Read-only flags are not enough for untrusted SQL in Postgres or DuckDB. Time limits and privilege boundaries do the real work.",
+      "oneliner": "AMD's AutoUpdate fetched executables over HTTP, turning software updates into a man-in-the-middle remote code execution path.",
       "emoji": "🐛"
     },
     {
-      "title": "Discord moved voice to the edge",
+      "title": "Canada faces encryption backlash",
       "urls": [
-        "https://discord.com/blog/how-we-moved-discord-voice-to-the-edge"
+        "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416"
       ],
-      "oneliner": "Discord pushed voice and video onto Cloudflare's 300-plus edge sites. Latency is now a network architecture decision, not polish.",
-      "emoji": "🏭"
+      "oneliner": "Canada's Bill C-22 would force year-long metadata retention, reminding builders that privacy regulation can still weaken security.",
+      "emoji": "🔐"
     },
     {
-      "title": "Apple released its Mac container tool",
+      "title": "An AI agent burned real cloud money",
       "urls": [
-        "https://github.com/apple/container"
+        "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/"
       ],
-      "oneliner": "Apple shipped container v1.0 for Apple silicon Macs. Native OCI workflows on macOS just got less dependent on Docker.",
-      "emoji": "💻"
-    },
-    {
-      "title": "JPMorgan put long-running agents to work",
-      "urls": [
-        "https://www.cnbc.com/2026/06/09/jpmorgan-chase-ai-agents.html"
-      ],
-      "oneliner": "JPMorgan says autonomous agents run for hours and lifted private banking sales 20 percent. Agent ROI claims are getting concrete.",
+      "oneliner": "One autonomous DN42 scanning attempt reportedly triggered a $6,500 AWS bill, which is the real cost of sloppy agents.",
       "emoji": "💰"
+    },
+    {
+      "title": "Zed is rethinking version control",
+      "urls": [
+        "https://zed.dev/blog/introducing-deltadb"
+      ],
+      "oneliner": "Zed's DeltaDB tracks every edit and conversation, betting agent-heavy coding needs something finer-grained than Git commits.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "Homebrew added stronger trust defaults",
+      "urls": [
+        "https://brew.sh/2026/06/11/homebrew-6.0.0/"
+      ],
+      "oneliner": "Homebrew 6.0 adds tap trust prompts and Linux sandboxing, a practical reminder that package managers are security products.",
+      "emoji": "📦"
+    },
+    {
+      "title": "Apple broke Asahi Linux booting",
+      "urls": [
+        "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi"
+      ],
+      "oneliner": "macOS 27 beta broke Asahi Linux boot paths again, underscoring how fragile alternative OS support remains on Apple Silicon.",
+      "emoji": "💻"
     }
   ],
   "keywords": [
-    "weaponized",
+    "backlash",
     "surpassed",
-    "guardrails",
+    "weaponized",
     "autonomy",
-    "latency",
-    "retention",
+    "scarcity",
+    "cracked",
     "consolidation"
   ],
   "tokenUsage": {
-    "promptTokens": 16771,
-    "completionTokens": 800,
-    "totalTokens": 17571,
-    "costUsd": 0.0539275
+    "promptTokens": 11203,
+    "completionTokens": 793,
+    "totalTokens": 11996,
+    "costUsd": 0.039902499999999994
   }
 }
