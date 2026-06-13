@@ -1,80 +1,79 @@
 {
-  "date": "2026-06-11",
-  "generated_at": "2026-06-12T13:58:45.479487+00:00",
+  "date": "2026-06-12",
+  "generated_at": "2026-06-13T05:33:22.133252+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 84,
+  "totalItemsConsidered": 51,
   "items": [
     {
-      "title": "Apple ships local container runtime",
+      "title": "Efficient open coding model weights",
       "urls": [
-        "https://github.com/apple/container"
+        "https://huggingface.co/moonshotai/Kimi-K2.7-Code"
       ],
-      "oneliner": "Run OCI Linux containers on Apple silicon Macs with a signed native tool built on Swift."
+      "oneliner": "Open coding model with downloadable weights and 30% lower token use for long-horizon software tasks."
     },
     {
-      "title": "Open document UI kit ships",
+      "title": "Local filler-word removal CLI",
       "urls": [
-        "https://www.extend.ai/ui"
+        "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/"
       ],
-      "oneliner": "React components for PDF, DOCX, XLSX, and CSV apps, including citations, e-signing, uploads, and schema builders."
+      "oneliner": "Local CLI strips ums, uhs, and erms from recordings using Whisper plus pause detection."
     },
     {
-      "title": "Rust verification tool is usable",
+      "title": "Automatic skeleton screens from DOM",
       "urls": [
-        "https://github.com/cryspen/hax"
+        "https://boneyard.vercel.app/overview"
       ],
-      "oneliner": "Formally verify Rust code with an open-source tool built for higher-assurance systems and security-critical codebases."
+      "oneliner": "UI tool auto-generates pixel-matched skeleton loaders from your real DOM with zero manual configuration."
     },
     {
-      "title": "Single-file messenger runs on Git",
+      "title": "Coding model benchmark on real tasks",
       "urls": [
-        "https://github.com/vanyapr/makaroshki"
+        "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype"
       ],
-      "oneliner": "This HTML-only messenger stores messages in GitHub repos, making a cloneable demo of Git-backed communication."
+      "oneliner": "Benchmark of 200 real coding tasks shows 59.8% solve rate and only 19.0% security success."
     },
     {
-      "title": "Safer patterns for untrusted SQL",
+      "title": "Vintage language model build log",
       "urls": [
-        "https://simonwillison.net/2026/Jun/11/postgresql-time-limits-readonly/",
-        "https://simonwillison.net/2026/Jun/10/datasette-duckdb-safety/"
+        "https://crlf.link/log/entries/260525-1/"
       ],
-      "oneliner": "Concrete guidance for sandboxing untrusted SQL with PostgreSQL, SQLite, and DuckDB, including read-only and time-limit patterns."
+      "oneliner": "Hands-on walkthrough shows how to train a 340M historical Llama model from 1800s text."
     },
     {
-      "title": "Cross-browser glass effect walkthrough",
+      "title": "MiMo Code open-source release",
       "urls": [
-        "https://aave.com/design/building-glass-for-the-web"
+        "https://mimo.xiaomi.com/mimocode"
       ],
-      "oneliner": "Hands-on CSS guide for shipping glassmorphism that stays readable and performs consistently across modern browsers."
+      "oneliner": "Open-source coding project with public code and docs for building across languages and platforms."
     },
     {
-      "title": "Arabic typography rendering deep dive",
+      "title": "Homebrew 6 for safer installs",
       "urls": [
-        "https://lr0.org/blog/p/arabic/"
+        "https://brew.sh/2026/06/11/homebrew-6.0.0/"
       ],
-      "oneliner": "Interactive walkthrough of Arabic text rendering bugs, webfont fixes, and the layout edge cases most UI stacks miss."
+      "oneliner": "Package manager update adds tap trust, Linux sandboxing, and faster JSON-backed dependency operations."
     },
     {
-      "title": "Linux latency tuning with measurements",
+      "title": "AUR compromise incident details",
       "urls": [
-        "https://farnoy.dev/posts/linux-latency"
+        "https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577"
       ],
-      "oneliner": "Measure click-to-photon latency with a Teensy rig and tune compositor settings using real Linux gaming data."
+      "oneliner": "Security report names compromised AUR packages and gives immediate steps to audit and protect systems."
     },
     {
-      "title": "Build a shading language yourself",
+      "title": "AMD updater RCE writeup",
       "urls": [
-        "https://agraphicsguynotes.com/posts/making_a_shading_langauge_for_my_offline_renderer/"
+        "https://mrbruh.com/amd2/"
       ],
-      "oneliner": "A practical compiler-building diary for creating a custom shading language that works with an offline renderer."
+      "oneliner": "Detailed vulnerability writeup shows how HTTP-based updater downloads enabled remote code execution attacks."
     },
     {
-      "title": "Implement the TTT inference algorithm",
+      "title": "Interactive shortcut training keyboard",
       "urls": [
-        "https://rahul.gopinath.org/post/2026/06/09/ttt-grammar-inference/"
+        "https://shrtcts.click/"
       ],
-      "oneliner": "Step through code for learning regular languages from examples using the TTT algorithm and reproducible experiments."
+      "oneliner": "Interactive 3D keyboard helps developers memorize app shortcuts faster across tools, devices, and operating systems."
     }
   ],
   "keywords": [
@@ -87,9 +86,9 @@
     "practical"
   ],
   "tokenUsage": {
-    "promptTokens": 16596,
-    "completionTokens": 641,
-    "totalTokens": 17237,
-    "costUsd": 0.051105
+    "promptTokens": 11028,
+    "completionTokens": 618,
+    "totalTokens": 11646,
+    "costUsd": 0.03684
   }
 }
