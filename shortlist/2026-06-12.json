@@ -1,0 +1,109 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-13T05:33:17.238126+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 51,
+  "items": [
+    {
+      "title": "Kimi cuts coding token costs",
+      "urls": [
+        "https://huggingface.co/moonshotai/Kimi-K2.7-Code"
+      ],
+      "oneliner": "Moonshot's 1T-parameter Kimi K2.7-Code claims 30% fewer tokens, making long-horizon coding cheaper to run.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "MaxProof pushes math agents forward",
+      "urls": [
+        "https://arxiv.org/abs/2606.13473"
+      ],
+      "oneliner": "MaxProof combines generation, verification, and repair, showing math agents are becoming systems, not single-shot models.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "Anthropic is retreating on Fable guardrails",
+      "urls": [
+        "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
+        "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+        "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+        "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+        "https://www.youtube.com/watch?v=LNXDoKPe06I",
+        "https://www.youtube.com/watch?v=vjdHAWvVCP4"
+      ],
+      "oneliner": "Anthropic apologized after Fable silently downgraded AI research queries, proving hidden safety layers now create product risk.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "AUR suffered a major supply-chain breach",
+      "urls": [
+        "https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577"
+      ],
+      "oneliner": "More than 400 AUR packages were reportedly backdoored with an infostealer and rootkit, a brutal open-source trust failure.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "AMD left an updater RCE exposed",
+      "urls": [
+        "https://mrbruh.com/amd2/"
+      ],
+      "oneliner": "AMD's AutoUpdate fetched executables over HTTP, turning software updates into a man-in-the-middle remote code execution path.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "Canada faces encryption backlash",
+      "urls": [
+        "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416"
+      ],
+      "oneliner": "Canada's Bill C-22 would force year-long metadata retention, reminding builders that privacy regulation can still weaken security.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "An AI agent burned real cloud money",
+      "urls": [
+        "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/"
+      ],
+      "oneliner": "One autonomous DN42 scanning attempt reportedly triggered a $6,500 AWS bill, which is the real cost of sloppy agents.",
+      "emoji": "💰"
+    },
+    {
+      "title": "Zed is rethinking version control",
+      "urls": [
+        "https://zed.dev/blog/introducing-deltadb"
+      ],
+      "oneliner": "Zed's DeltaDB tracks every edit and conversation, betting agent-heavy coding needs something finer-grained than Git commits.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "Homebrew added stronger trust defaults",
+      "urls": [
+        "https://brew.sh/2026/06/11/homebrew-6.0.0/"
+      ],
+      "oneliner": "Homebrew 6.0 adds tap trust prompts and Linux sandboxing, a practical reminder that package managers are security products.",
+      "emoji": "📦"
+    },
+    {
+      "title": "Apple broke Asahi Linux booting",
+      "urls": [
+        "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi"
+      ],
+      "oneliner": "macOS 27 beta broke Asahi Linux boot paths again, underscoring how fragile alternative OS support remains on Apple Silicon.",
+      "emoji": "💻"
+    }
+  ],
+  "keywords": [
+    "backlash",
+    "surpassed",
+    "weaponized",
+    "autonomy",
+    "scarcity",
+    "cracked",
+    "consolidation"
+  ],
+  "tokenUsage": {
+    "promptTokens": 11203,
+    "completionTokens": 793,
+    "totalTokens": 11996,
+    "costUsd": 0.039902499999999994
+  }
+}
