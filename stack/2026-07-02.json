@@ -1,0 +1,94 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-03T19:02:19.383182+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 49,
+  "items": [
+    {
+      "title": "WinPE speeds Windows driver fuzzing",
+      "urls": [
+        "https://bednars.me/blog/winpe-harness"
+      ],
+      "oneliner": "Boot a 200MB stateless Windows harness for unsigned driver testing, E2E runs, and kernel fuzzing without full VMs."
+    },
+    {
+      "title": "Build a passive Ethernet tap",
+      "urls": [
+        "https://blog.lvmbdv.dev/posts/building-a-passive-ethernet-tap/"
+      ],
+      "oneliner": "Step-by-step guide to sniff 100 Mbps Ethernet with cheap parts and receive-only monitor ports that cannot disrupt traffic."
+    },
+    {
+      "title": "JavaScript ECS benchmark with memory data",
+      "urls": [
+        "https://www.dmurph.com/posts/2026/06/ecs_vs_oop_benchmark/ecs_vs_oop_benchmark.html"
+      ],
+      "oneliner": "Benchmarks ECS versus OOP in JavaScript on Apple M4 Pro, showing memory-locality tradeoffs for game loops."
+    },
+    {
+      "title": "Wordgard is a new rich text core",
+      "urls": [
+        "https://marijnhaverbeke.nl/blog/wordgard-0.1.html"
+      ],
+      "oneliner": "MIT-licensed editor engine from ProseMirror's author offers a fresh architecture for building custom rich text tooling."
+    },
+    {
+      "title": "Senior SWE-Bench tests coding agents",
+      "urls": [
+        "https://senior-swe-bench.snorkel.ai/"
+      ],
+      "oneliner": "Open benchmark evaluates agents on senior-level debugging tasks that require runtime investigation, not just patch generation."
+    },
+    {
+      "title": "CursorBench compares coding model performance",
+      "urls": [
+        "https://cursor.com/evals"
+      ],
+      "oneliner": "Interactive eval suite helps teams compare coding assistant quality and responsiveness before standardizing on a model."
+    },
+    {
+      "title": "Build your own robot vacuum",
+      "urls": [
+        "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/"
+      ],
+      "oneliner": "Open-source Raspberry Pi and ROS 2 vacuum includes BOM, build docs, and local-first control without cloud lock-in."
+    },
+    {
+      "title": "Google open sourced ZKP libraries",
+      "urls": [
+        "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/"
+      ],
+      "oneliner": "Privacy-preserving identity libraries let developers verify age or credentials without exposing the underlying personal data."
+    },
+    {
+      "title": "Typed localStorage object restoration pattern",
+      "urls": [
+        "https://taxorubio.com/blog/type-definitions-to-retrieve-objects-from-localstorage/"
+      ],
+      "oneliner": "Practical TypeScript pattern restores class instances from localStorage instead of returning methodless JSON objects."
+    },
+    {
+      "title": "Better jj aliases for daily use",
+      "urls": [
+        "https://caiustheory.com/jj-jj-jj-jj-jj/"
+      ],
+      "oneliner": "Hands-on jj alias patterns fix nested command pain and make the VCS CLI safer to use every day."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "offline",
+    "open",
+    "local",
+    "instant",
+    "unlocked"
+  ],
+  "tokenUsage": {
+    "promptTokens": 11404,
+    "completionTokens": 650,
+    "totalTokens": 12054,
+    "costUsd": 0.038259999999999995
+  }
+}
