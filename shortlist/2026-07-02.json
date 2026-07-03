@@ -1,0 +1,104 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-03T19:02:13.732421+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 49,
+  "items": [
+    {
+      "title": "GitHub Copilot adds an open-weight coding model",
+      "urls": [
+        "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/"
+      ],
+      "oneliner": "GitHub Copilot now ships Kimi K2.7 Code. Open-weight coding models just entered mainstream enterprise workflows.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "Senior SWE-Bench raises the bar",
+      "urls": [
+        "https://senior-swe-bench.snorkel.ai/"
+      ],
+      "oneliner": "Senior SWE-Bench tests runtime debugging, not toy patches. Agent evals are finally inching toward real senior engineering work.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "Mixedbread cuts retrieval storage by 97 percent",
+      "urls": [
+        "https://www.mixedbread.com/blog/asymmetric-quant"
+      ],
+      "oneliner": "Mixedbread says asymmetric quantization shrinks late-interaction indexes 97% with minor quality loss. Retrieval economics just changed.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "A FUSE bug gives local users root",
+      "urls": [
+        "https://cyberstan.co.uk/fuse-readdir-oob/"
+      ],
+      "oneliner": "CVE-2026-31694 lets unprivileged users gain root on common Linux desktops. FUSE remains a surprisingly sharp local attack surface.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "Browsers may need token-bound sessions",
+      "urls": [
+        "https://codon.org.uk/~mjg59/blog/p/preventing-token-theft/"
+      ],
+      "oneliner": "Token theft keeps bypassing MFA, and browser-generated client certificates may be the most practical fix on the table.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "EU-US data transfers face another legal shock",
+      "urls": [
+        "https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers"
+      ],
+      "oneliner": "A US Supreme Court ruling may undermine FTC independence, putting the EU-US data transfer framework back on thin ice.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "Google loses its Android antitrust appeal",
+      "urls": [
+        "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html"
+      ],
+      "oneliner": "Europe upheld Google's 4.1 billion euro Android fine. Platform bundling risk is still very real for ecosystem owners.",
+      "emoji": "📊"
+    },
+    {
+      "title": "Cloudflare turns APIs into metered products",
+      "urls": [
+        "https://blog.cloudflare.com/monetization-gateway/"
+      ],
+      "oneliner": "Cloudflare's x402 gateway brings stablecoin micropayments to APIs and pages. Usage-based monetization is getting infrastructure support.",
+      "emoji": "💰"
+    },
+    {
+      "title": "Vite Plus bundles the modern web stack",
+      "urls": [
+        "https://voidzero.dev/posts/announcing-vite-plus-beta"
+      ],
+      "oneliner": "Vite+ beta packages build, dev, and workflow tooling together. Frontend teams are being pushed toward opinionated consolidation.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "Qualcomm unifies its embedded Linux stack",
+      "urls": [
+        "https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available"
+      ],
+      "oneliner": "Qualcomm Linux 2.0 standardizes Dragonwing IoT on Yocto 6.0 and Linux 6.18 LTS. Embedded fragmentation just took a hit.",
+      "emoji": "🏭"
+    }
+  ],
+  "keywords": [
+    "cracked",
+    "weaponized",
+    "surpassed",
+    "autonomy",
+    "scarcity",
+    "leaked",
+    "consolidation"
+  ],
+  "tokenUsage": {
+    "promptTokens": 11579,
+    "completionTokens": 798,
+    "totalTokens": 12377,
+    "costUsd": 0.0409175
+  }
+}
