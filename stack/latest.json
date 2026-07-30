@@ -1,79 +1,79 @@
 {
   "date": "2026-07-30",
-  "generated_at": "2026-07-30T13:19:08.020020+00:00",
+  "generated_at": "2026-07-30T16:40:35.725287+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 63,
+  "totalItemsConsidered": 95,
   "items": [
     {
-      "title": "Tmux manager for coding agents",
+      "title": "Open KVM for two computers",
       "urls": [
-        "https://github.com/YoanWai/agent-manager"
+        "https://github.com/hrvach/deskhop"
       ],
-      "oneliner": "Terminal TUI that runs Claude Code, Codex, and Grok in parallel with persistent tmux sessions."
+      "oneliner": "Open-source USB switch lets one keyboard and mouse jump between two machines by edge scrolling, with parts under 15 EUR."
     },
     {
-      "title": "Mac engine for giant local models",
+      "title": "Run Gemma locally on Mac",
       "urls": [
         "https://github.com/drumih/turbo-fieldfare"
       ],
-      "oneliner": "Swift and Metal engine streams Gemma 4 26B from SSD, running on M-series Macs with 2 GB RAM."
+      "oneliner": "Swift and Metal engine streams Gemma 4 26B from SSD, running on M-series Macs with as little as 2 GB RAM."
     },
     {
-      "title": "ESP32-C6 power benchmark comparison",
+      "title": "Manage coding agents in tmux",
       "urls": [
-        "https://www.qoitech.com/blog/esp32-c6-power-consumption-comparison/"
+        "https://github.com/YoanWai/agent-manager"
       ],
-      "oneliner": "Measured Arduino, Zephyr, and ESP-IDF power draw side by side for battery-sensitive ESP32-C6 deployments."
+      "oneliner": "Terminal TUI runs Claude Code, Codex, OpenCode, and Grok in parallel tmux sessions with persistent background execution."
     },
     {
-      "title": "Renter-safe smart AC build",
+      "title": "Scan repositories with Codex Security",
+      "urls": [
+        "https://x.com/OpenAI/status/2082263717916586117"
+      ],
+      "oneliner": "Open-source CLI scans codebases for security issues, tracks findings, and verifies fixes inside existing developer pipelines."
+    },
+    {
+      "title": "Automate a rental AC cheaply",
       "urls": [
         "https://prilik.com/blog/post/automating-ac-nyc/"
       ],
-      "oneliner": "Hands-on ESP32 and stepper motor hack automates a dumb AC for under $15 without permanent modifications."
+      "oneliner": "Hands-on ESP32 and stepper motor build makes a dumb AC remotely controllable for under 15 dollars."
     },
     {
-      "title": "Decompiler built with coding agents",
+      "title": "Compare ESP32-C6 power across stacks",
       "urls": [
-        "https://noelo.org/blog/kuna-release/"
+        "https://www.qoitech.com/blog/esp32-c6-power-consumption-comparison/"
       ],
-      "oneliner": "Experimental decompiler release shows control-flow structuring competitive with IDA Pro and exposes a reproducible agent-driven workflow."
+      "oneliner": "Benchmark compares Arduino, Zephyr, and ESP-IDF power draw on ESP32-C6 using repeatable out-of-box measurements."
     },
     {
-      "title": "Declarative GPIO patterns for Raspberry Pi",
+      "title": "Build better forms with htmx",
+      "urls": [
+        "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/"
+      ],
+      "oneliner": "Practical htmx walkthrough shows how to preserve transient form state while keeping forms usable without JavaScript."
+    },
+    {
+      "title": "Program Raspberry Pi with value streams",
       "urls": [
         "https://bennuttall.com/blog/2026/07/gpiozero-flow/"
       ],
-      "oneliner": "Practical gpiozero guide shows procedural, event-based, and declarative device control with reusable value streams."
+      "oneliner": "gpiozero patterns show procedural, event-based, and declarative GPIO control with composable value streams for sensors and actuators."
     },
     {
-      "title": "Practical logic for programmers",
+      "title": "Build a compiler with Zig",
       "urls": [
-        "https://logicforprogrammers.com/"
+        "https://tomekw.com/overengineered-calculator-zig-qbe/"
       ],
-      "oneliner": "Free book teaches Boolean algebra for safer APIs, race-condition hunting, verification, and cleaner conditionals."
+      "oneliner": "Step-by-step Zig and QBE tutorial turns arithmetic expressions into native executables, covering tokenization, parsing, and code generation."
     },
     {
-      "title": "MCP update for stateless integrations",
+      "title": "Generate favicons from SVG fast",
       "urls": [
-        "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude"
+        "https://dmpop.xyz/article.php?id=2026-07-30_favicons-with-inkscape"
       ],
-      "oneliner": "Protocol update makes MCP request-response and OAuth-friendly, simplifying scalable Claude and tool integrations."
-    },
-    {
-      "title": "Google Play age signals API",
-      "urls": [
-        "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html"
-      ],
-      "oneliner": "Android developers can integrate parent-provided age signals to gate features and tailor safer app experiences."
-    },
-    {
-      "title": "Animated UI components you can copy",
-      "urls": [
-        "https://www.originkit.dev/"
-      ],
-      "oneliner": "Free component library provides ready-to-paste animated website blocks that speed up polished frontend builds."
+      "oneliner": "Single Inkscape command exports a full favicon set from one SVG, including common PNG sizes and naming."
     }
   ],
   "keywords": [
@@ -83,12 +83,12 @@
     "unlocked",
     "local",
     "open",
-    "parallel"
+    "practical"
   ],
   "tokenUsage": {
-    "promptTokens": 11513,
-    "completionTokens": 641,
-    "totalTokens": 12154,
-    "costUsd": 0.0383975
+    "promptTokens": 18107,
+    "completionTokens": 674,
+    "totalTokens": 18781,
+    "costUsd": 0.0553775
   }
 }

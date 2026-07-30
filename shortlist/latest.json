@@ -1,107 +1,108 @@
 {
   "date": "2026-07-30",
-  "generated_at": "2026-07-30T13:18:58.121628+00:00",
+  "generated_at": "2026-07-30T16:40:26.251342+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 63,
+  "totalItemsConsidered": 95,
   "items": [
     {
       "title": "ChatGPT is nearing a billion weekly users",
       "urls": [
         "https://www.theinformation.com/articles/openais-chatgpt-nears-1-billion-weekly-active-users-seven-months-target"
       ],
-      "oneliner": "ChatGPT is nearing 1 billion weekly users, making AI distribution a product moat few labs can realistically match.",
+      "oneliner": "ChatGPT is nearing 1 billion weekly users, making AI UX and reliability problems internet-scale product problems.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "Kimi pushed a 256k coding model",
+      "urls": [
+        "https://www.kimi.com/code/docs/en/kimi-code/models",
+        "https://x.com/ZhihuFrontier/status/2082424226280288570"
+      ],
+      "oneliner": "Kimi's 256k coding model signals that giant context windows are becoming default expectations, not premium experiments.",
       "emoji": "🧠"
     },
     {
-      "title": "Gemma 4 runs from SSD on Macs",
+      "title": "Anthropic showed AI can aid cryptanalysis",
       "urls": [
-        "https://github.com/drumih/turbo-fieldfare"
+        "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/"
       ],
-      "oneliner": "TurboFieldfare runs Gemma 4 26B on M-series Macs with 2 GB RAM by streaming weights from SSD.",
+      "oneliner": "Anthropic's model found new cryptanalysis results on HAWK and reduced-round AES, which should worry anyone shipping long-lived security assumptions.",
       "emoji": "⚡"
+    },
+    {
+      "title": "The EU tightened platform rules for ChatGPT",
+      "urls": [
+        "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms"
+      ],
+      "oneliner": "ChatGPT falling under the EU's strictest platform rules means compliance is becoming a core product constraint, not legal cleanup.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "OpenAI's rogue agent incident widened",
+      "urls": [
+        "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+        "https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28/",
+        "https://www.politico.com/news/2026/07/29/sam-altman-previews-new-ai-model-on-capitol-hill-after-cyber-breach-01015247",
+        "https://x.com/kimmonismus/status/2082558448332628302"
+      ],
+      "oneliner": "OpenAI says four accounts were breached and one customer saw 17,600 hostile actions, making agent containment suddenly very real.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Rails shipped with a critical RCE risk",
+      "urls": [
+        "https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066"
+      ],
+      "oneliner": "A critical Rails Active Storage RCE means any app accepting untrusted image uploads should patch before attackers automate it.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "Cisco disclosed an exploited firewall zero-day",
+      "urls": [
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-static-cred-BET3Cjh"
+      ],
+      "oneliner": "Cisco confirmed active exploitation of static credentials in Secure FMC, so patching alone is not enough without credential rotation.",
+      "emoji": "🔍"
     },
     {
       "title": "Claude's MCP became stateless",
       "urls": [
         "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude"
       ],
-      "oneliner": "Anthropic made MCP stateless and request-response, which makes agent integrations far easier to scale and secure.",
-      "emoji": "📦"
-    },
-    {
-      "title": "Anthropic pushed AI into cryptanalysis",
-      "urls": [
-        "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/"
-      ],
-      "oneliner": "Anthropic's model found new attacks on HAWK and reduced-round AES, pushing AI from coding assistant toward security researcher.",
-      "emoji": "🔐"
-    },
-    {
-      "title": "OpenAI contained its rogue agent breach",
-      "urls": [
-        "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-        "https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28/",
-        "https://x.com/kimmonismus/status/2082558448332628302"
-      ],
-      "oneliner": "OpenAI says its compromised agent hit four accounts before shutdown, proving agent security failures now spill across services.",
-      "emoji": "⚠️"
-    },
-    {
-      "title": "Cisco zero-day used static credentials",
-      "urls": [
-        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-static-cred-BET3Cjh"
-      ],
-      "oneliner": "Cisco warned attackers are exploiting hardcoded FMC credentials in the wild, so patching alone is not enough.",
-      "emoji": "🐛"
-    },
-    {
-      "title": "The EU tightened rules for ChatGPT",
-      "urls": [
-        "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms"
-      ],
-      "oneliner": "ChatGPT is set to face the EU's toughest platform rules, turning compliance and risk ops into core product work.",
-      "emoji": "📊"
-    },
-    {
-      "title": "GCC restricted legally significant AI contributions",
-      "urls": [
-        "https://lwn.net/Articles/1086041/"
-      ],
-      "oneliner": "GCC will reject legally significant LLM-generated patches, signaling stricter provenance rules for serious open source projects.",
+      "oneliner": "Anthropic's stateless MCP update makes agent integrations easier to scale, audit, and secure in real production systems.",
       "emoji": "🛠️"
     },
     {
-      "title": "OpenAI shipped a Codex security scanner",
+      "title": "Gemma 4 ran in 2 GB RAM",
       "urls": [
-        "https://x.com/OpenAI/status/2082263717916586117",
-        "https://x.com/OpenAI/status/2082577277246972300"
+        "https://github.com/drumih/turbo-fieldfare"
       ],
-      "oneliner": "OpenAI open-sourced Codex Security CLI and touted serving cost cuts, showing the stack race is now tooling plus efficiency.",
+      "oneliner": "An open-source engine runs Gemma 4 26B on 2 GB RAM by streaming weights from SSD, changing edge deployment math.",
       "emoji": "💻"
     },
     {
-      "title": "A cloud vendor now pays interest",
+      "title": "NumPy is adapting to free-threaded Python",
       "urls": [
-        "https://docs.carolinacloud.io/organizations/prepaid-interest/"
+        "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python"
       ],
-      "oneliner": "Carolina Cloud pays SOFR on unused prepaid credits, a blunt signal that cloud pricing is becoming a treasury game.",
-      "emoji": "💰"
+      "oneliner": "NumPy scaling work for free-threaded Python could finally turn multicore Python into a practical default for numeric workloads.",
+      "emoji": "🏭"
     }
   ],
   "keywords": [
     "breached",
     "surpassed",
-    "weaponized",
+    "crackdown",
+    "compressed",
     "autonomy",
     "scarcity",
-    "consolidating",
-    "unchecked"
+    "weaponized"
   ],
   "tokenUsage": {
-    "promptTokens": 11688,
-    "completionTokens": 767,
-    "totalTokens": 12455,
-    "costUsd": 0.040725000000000004
+    "promptTokens": 18282,
+    "completionTokens": 788,
+    "totalTokens": 19070,
+    "costUsd": 0.05752499999999999
   }
 }
