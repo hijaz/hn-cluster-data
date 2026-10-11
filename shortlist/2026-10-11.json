@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T18:13:48.805203+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 87,
+  "items": [
+    {
+      "title": "Byte models are becoming practical",
+      "urls": [
+        "https://www.nature.com/articles/s41586-026-11111-4",
+        "https://arxiv.org/html/2610.05978v1"
+      ],
+      "oneliner": "Byte-level language models are catching tokenized models at scale, which could finally kill tokenizer debt.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "Google tested AMIE with real patients",
+      "urls": [
+        "https://www.theneurondaily.com/p/google-tested-amie-with-98-patients"
+      ],
+      "oneliner": "Google says AMIE matched doctors' final diagnosis lists 90% of the time in 98 urgent-care chats.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "Small models can make calibrated decisions",
+      "urls": [
+        "https://nishtahir.com/build-your-own-decision-model/"
+      ],
+      "oneliner": "Constraining Qwen3-1.7B to fixed options turns generation into decisioning, which is far more useful for product workflows.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "Researchers broke into Eufy doorbells",
+      "urls": [
+        "https://adepts.of0x.cc/Eufy-DoorBell-hacking/"
+      ],
+      "oneliner": "Researchers extracted encrypted credentials from Eufy hardware and jammed connectivity, exposing how brittle consumer AI security remains.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "Halifax leaked customer data again",
+      "urls": [
+        "https://danq.me/2026/10/09/halifax-dun-goofed-again/"
+      ],
+      "oneliner": "Halifax reportedly exposed card details to the wrong household again, a reminder that privacy failures are usually boring and repeatable.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Europe is moving on AI glasses",
+      "urls": [
+        "https://www.regjeringen.no/no/aktuelt/vil-innfore-midlertidig-forbud-mot-ki-briller/id3175516/",
+        "https://blog.avas.space/smart-glasses-school/"
+      ],
+      "oneliner": "Norway proposed banning AI glasses in some public spaces as schools and regulators start treating ambient recording seriously.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "NumPy sped up searchsorted dramatically",
+      "urls": [
+        "https://blog.scientific-python.org/numpy/searchsorted/"
+      ],
+      "oneliner": "NumPy 2.5 makes searchsorted up to 25 times faster, which quietly accelerates histograms, interval lookups, and downstream ML stacks.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "Logfire cut JSON query times hard",
+      "urls": [
+        "https://pydantic.dev/articles/dynamic-shredding-2026-01-26"
+      ],
+      "oneliner": "Pydantic says dynamic shredding turned 30-second JSON queries into sub-second ones, a real win for observability at scale.",
+      "emoji": "📦"
+    },
+    {
+      "title": "Rust got a span-aware heap profiler",
+      "urls": [
+        "https://github.com/rupert648/culpert"
+      ],
+      "oneliner": "Culpert brings low-overhead heap profiling with tracing spans and CI regression checks, which is exactly how memory bugs get caught early.",
+      "emoji": "💻"
+    },
+    {
+      "title": "The RAM shortage revived DDR4",
+      "urls": [
+        "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback"
+      ],
+      "oneliner": "DDR5 prices got bad enough that Intel and AMD are reviving DDR4 paths, and infrastructure cost is steering architecture again.",
+      "emoji": "💰"
+    }
+  ],
+  "keywords": [
+    "cracked",
+    "weaponized",
+    "surpassed",
+    "racing",
+    "autonomy",
+    "scarcity",
+    "consolidation"
+  ],
+  "tokenUsage": {
+    "promptTokens": 18721,
+    "completionTokens": 777,
+    "totalTokens": 19498,
+    "costUsd": 0.0584575
+  }
+}

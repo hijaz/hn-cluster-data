@@ -1,94 +1,94 @@
 {
-  "date": "2026-10-10",
-  "generated_at": "2026-10-10T17:36:30.785521+00:00",
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T18:13:56.140429+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 30,
+  "totalItemsConsidered": 87,
   "items": [
     {
-      "title": "Self-hosted AI agent on Cloudflare",
+      "title": "Rust heap profiler with span attribution",
       "urls": [
-        "https://github.com/rociiu/talorys"
+        "https://github.com/rupert648/culpert"
       ],
-      "oneliner": "Deploy a private task, notes, and reminders agent in your own Cloudflare account with no server to manage."
+      "oneliner": "Rust heap profiler exports pprof traces and catches allocation regressions in CI with low-overhead span-aware sampling."
     },
     {
-      "title": "Browser PII redaction that runs locally",
+      "title": "Offline Mac dictation you can inspect",
       "urls": [
-        "https://ndstudio.gov/posts/say-hello-to-rampart"
+        "https://betterwispr.com/"
       ],
-      "oneliner": "On-device browser redaction combines regex and MiniLM to strip PII before prompts leave the user's machine."
+      "oneliner": "Open-source macOS dictation app runs locally, supports 25 plus languages, and adds cleanup commands for usable transcripts."
     },
     {
-      "title": "WSL 3 benchmark comparison",
+      "title": "Full SQLite access from Python",
       "urls": [
-        "https://tonym.us/wsl2-vs-wsl3-benchmarks.html"
+        "https://github.com/rogerbinns/apsw"
       ],
-      "oneliner": "Benchmarks show WSL 3 is 5 to 60 percent faster than WSL 2 across memory, syscalls, and builds."
+      "oneliner": "Python SQLite wrapper exposes the full C API, including virtual tables, FTS, sessions, and async-friendly workflows."
     },
     {
-      "title": "Reverse engineer apps with an agent",
+      "title": "Raspberry Pi inside a PSP",
       "urls": [
-        "https://rea.tools/"
+        "https://github.com/othermod/PSPi-Version-6"
       ],
-      "oneliner": "This tool connects a coding agent to binaries so you can inspect behavior and ask plain-English reverse engineering questions."
+      "oneliner": "Open hardware project replaces a PSP 1000 mainboard with Raspberry Pi support for RetroPie, Ubuntu, audio, and power management."
     },
     {
-      "title": "Carrier settings dataset and API",
+      "title": "A practical README testing method",
       "urls": [
-        "https://carrierexplode.com/"
+        "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/"
       ],
-      "oneliner": "Compare iPhone, Pixel, and Galaxy carrier configs through a JSON API and daily CC0 dataset."
+      "oneliner": "Concrete walkthrough shows how paying users to follow your README uncovers broken links, jargon, and install blockers fast."
     },
     {
-      "title": "Rust to readable C compiler",
+      "title": "Build a constrained decision model",
       "urls": [
-        "https://lwn.net/Articles/1055211/"
+        "https://nishtahir.com/build-your-own-decision-model/"
       ],
-      "oneliner": "Eurydice translates Rust into readable C for teams that need existing C verification and compliance tooling."
+      "oneliner": "Hands-on tutorial builds a small Qwen-based classifier with structured outputs and calibrated probabilities for real decision flows."
     },
     {
-      "title": "Timestamped Common Crawl archive",
+      "title": "Arena allocators explained in C",
       "urls": [
-        "https://projecttimestamper.org/blog/common-crawl/"
+        "https://eliasebner.com/blog/guides/arena-allocators-in-c/"
       ],
-      "oneliner": "Project Timestamper lets you verify Common Crawl snapshots cryptographically across 339 billion pages and 18 years."
+      "oneliner": "Implementation guide shows how arena allocators reduce malloc churn, simplify cleanup, and improve C program performance."
     },
     {
-      "title": "Practical guide to script rendering fixes",
+      "title": "Reverse engineering a smart doorbell",
       "urls": [
-        "https://www.datocms.com/blog/handling-less-common-scripts"
+        "https://adepts.of0x.cc/Eufy-DoorBell-hacking/"
       ],
-      "oneliner": "This localization walkthrough shows how Noto font fallback fixed dotted-circle rendering issues across 43 scripts."
+      "oneliner": "Detailed hardware hacking writeup covers jamming, protocol reversing, and credential extraction on Eufy doorbell devices."
     },
     {
-      "title": "Reasoning model RL training walkthrough",
+      "title": "Deep link into exact media moments",
       "urls": [
-        "https://www.youtube.com/watch?v=VxfUrUrrczs"
+        "https://www.autodidacts.io/how-to-deeplink-to-specific-part-of-text-audio-video-pdf-image/"
       ],
-      "oneliner": "Hands-on video explains GRPO training metrics, KL terms, entropy, and clipping for building reasoning models from scratch."
+      "oneliner": "Useful reference shows exact URL syntax for linking to text, audio, video, PDFs, and image regions."
     },
     {
-      "title": "ChatGPT mobile agent setup tutorial",
+      "title": "NumPy searchsorted got much faster",
       "urls": [
-        "https://www.youtube.com/watch?v=p5KxBTUncoE"
+        "https://blog.scientific-python.org/numpy/searchsorted/"
       ],
-      "oneliner": "Quick setup walkthrough shows how to connect mobile agents to calendar and email for real task execution."
+      "oneliner": "Benchmark-driven deep dive explains the vectorization tricks behind up to 25x faster np.searchsorted in NumPy 2.5."
     }
   ],
   "keywords": [
     "shipped",
-    "instant",
     "blazing",
-    "unlocked",
-    "local",
+    "offline",
     "open",
-    "native"
+    "local",
+    "instant",
+    "unlocked"
   ],
   "tokenUsage": {
-    "promptTokens": 7590,
-    "completionTokens": 648,
-    "totalTokens": 8238,
-    "costUsd": 0.028695000000000005
+    "promptTokens": 18546,
+    "completionTokens": 659,
+    "totalTokens": 19205,
+    "costUsd": 0.05625
   }
 }

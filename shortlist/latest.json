@@ -1,104 +1,106 @@
 {
-  "date": "2026-10-10",
-  "generated_at": "2026-10-10T17:36:23.501245+00:00",
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T18:13:48.805203+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 30,
+  "totalItemsConsidered": 87,
   "items": [
     {
-      "title": "Microsoft shipped containers for AI agents",
+      "title": "Byte models are becoming practical",
       "urls": [
-        "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/"
+        "https://www.nature.com/articles/s41586-026-11111-4",
+        "https://arxiv.org/html/2610.05978v1"
       ],
-      "oneliner": "Microsoft's MXC gives agents policy-bound sandboxes, which turns agent security from prompt hygiene into enforceable runtime controls.",
+      "oneliner": "Byte-level language models are catching tokenized models at scale, which could finally kill tokenizer debt.",
       "emoji": "🤖"
     },
     {
-      "title": "Rampart redacts PII inside the browser",
+      "title": "Google tested AMIE with real patients",
       "urls": [
-        "https://ndstudio.gov/posts/say-hello-to-rampart"
+        "https://www.theneurondaily.com/p/google-tested-amie-with-98-patients"
       ],
-      "oneliner": "Rampart claims 98.4% multilingual PII recall on-device, which is the privacy architecture enterprise copilots actually need.",
-      "emoji": "🔍"
-    },
-    {
-      "title": "Jane Street tested diffusion for market data",
-      "urls": [
-        "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/"
-      ],
-      "oneliner": "Jane Street is probing autoregressive diffusion for synthetic markets, a sign generative modeling is moving into quant infrastructure.",
+      "oneliner": "Google says AMIE matched doctors' final diagnosis lists 90% of the time in 98 urgent-care chats.",
       "emoji": "🧠"
     },
     {
-      "title": "A weak password exposed Denmark's registry",
+      "title": "Small models can make calibrated decisions",
       "urls": [
-        "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/"
+        "https://nishtahir.com/build-your-own-decision-model/"
       ],
-      "oneliner": "An admin password of 123456 helped expose 8.8 million Danish records, proving basic IAM failures still beat exotic attacks.",
+      "oneliner": "Constraining Qwen3-1.7B to fixed options turns generation into decisioning, which is far more useful for product workflows.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "Researchers broke into Eufy doorbells",
+      "urls": [
+        "https://adepts.of0x.cc/Eufy-DoorBell-hacking/"
+      ],
+      "oneliner": "Researchers extracted encrypted credentials from Eufy hardware and jammed connectivity, exposing how brittle consumer AI security remains.",
       "emoji": "⚠️"
     },
     {
-      "title": "Common Crawl now has blockchain timestamps",
+      "title": "Halifax leaked customer data again",
       "urls": [
-        "https://projecttimestamper.org/blog/common-crawl/"
+        "https://danq.me/2026/10/09/halifax-dun-goofed-again/"
       ],
-      "oneliner": "Project Timestamper anchored 339 billion Common Crawl snapshots to Bitcoin, giving AI training corpora a stronger provenance trail.",
+      "oneliner": "Halifax reportedly exposed card details to the wrong household again, a reminder that privacy failures are usually boring and repeatable.",
       "emoji": "🔐"
     },
     {
-      "title": "Rust can now compile into readable C",
+      "title": "Europe is moving on AI glasses",
       "urls": [
-        "https://lwn.net/Articles/1055211/"
+        "https://www.regjeringen.no/no/aktuelt/vil-innfore-midlertidig-forbud-mot-ki-briller/id3175516/",
+        "https://blog.avas.space/smart-glasses-school/"
       ],
-      "oneliner": "Eurydice turns Rust into readable C, which could unblock regulated teams stuck with C-only verification and compliance toolchains.",
+      "oneliner": "Norway proposed banning AI glasses in some public spaces as schools and regulators start treating ambient recording seriously.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "NumPy sped up searchsorted dramatically",
+      "urls": [
+        "https://blog.scientific-python.org/numpy/searchsorted/"
+      ],
+      "oneliner": "NumPy 2.5 makes searchsorted up to 25 times faster, which quietly accelerates histograms, interval lookups, and downstream ML stacks.",
       "emoji": "🛠️"
     },
     {
-      "title": "WSL3 looks materially faster than WSL2",
+      "title": "Logfire cut JSON query times hard",
       "urls": [
-        "https://tonym.us/wsl2-vs-wsl3-benchmarks.html"
+        "https://pydantic.dev/articles/dynamic-shredding-2026-01-26"
       ],
-      "oneliner": "Independent benchmarks show WSL3 running 5% to 60% faster, making Windows a less compromised dev box for Linux workloads.",
-      "emoji": "💻"
-    },
-    {
-      "title": "TypeSafe AI raised an enormous Series A",
-      "urls": [
-        "https://typesafe.ai/blog/series-ai"
-      ],
-      "oneliner": "TypeSafe AI raised $870 million at a $7.5 billion valuation, showing enterprise AI infrastructure still commands peak pricing.",
-      "emoji": "💰"
-    },
-    {
-      "title": "A personal AI agent runs on Cloudflare",
-      "urls": [
-        "https://github.com/rociiu/talorys"
-      ],
-      "oneliner": "Talorys runs a self-hosted personal agent on Cloudflare's free tier, pushing private AI assistants closer to commodity deployment.",
+      "oneliner": "Pydantic says dynamic shredding turned 30-second JSON queries into sub-second ones, a real win for observability at scale.",
       "emoji": "📦"
     },
     {
-      "title": "Bitwarden changed its app licensing model",
+      "title": "Rust got a span-aware heap profiler",
       "urls": [
-        "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750"
+        "https://github.com/rupert648/culpert"
       ],
-      "oneliner": "Bitwarden is dual-licensing its apps, a reminder that open-source AI-era distribution economics are getting harder to sustain.",
-      "emoji": "📰"
+      "oneliner": "Culpert brings low-overhead heap profiling with tracing spans and CI regression checks, which is exactly how memory bugs get caught early.",
+      "emoji": "💻"
+    },
+    {
+      "title": "The RAM shortage revived DDR4",
+      "urls": [
+        "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback"
+      ],
+      "oneliner": "DDR5 prices got bad enough that Intel and AMD are reviving DDR4 paths, and infrastructure cost is steering architecture again.",
+      "emoji": "💰"
     }
   ],
   "keywords": [
     "cracked",
-    "racing",
     "weaponized",
     "surpassed",
+    "racing",
     "autonomy",
     "scarcity",
-    "leaked"
+    "consolidation"
   ],
   "tokenUsage": {
-    "promptTokens": 7765,
-    "completionTokens": 784,
-    "totalTokens": 8549,
-    "costUsd": 0.0311725
+    "promptTokens": 18721,
+    "completionTokens": 777,
+    "totalTokens": 19498,
+    "costUsd": 0.0584575
   }
 }

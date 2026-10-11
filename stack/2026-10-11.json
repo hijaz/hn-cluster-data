@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T18:13:56.140429+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 87,
+  "items": [
+    {
+      "title": "Rust heap profiler with span attribution",
+      "urls": [
+        "https://github.com/rupert648/culpert"
+      ],
+      "oneliner": "Rust heap profiler exports pprof traces and catches allocation regressions in CI with low-overhead span-aware sampling."
+    },
+    {
+      "title": "Offline Mac dictation you can inspect",
+      "urls": [
+        "https://betterwispr.com/"
+      ],
+      "oneliner": "Open-source macOS dictation app runs locally, supports 25 plus languages, and adds cleanup commands for usable transcripts."
+    },
+    {
+      "title": "Full SQLite access from Python",
+      "urls": [
+        "https://github.com/rogerbinns/apsw"
+      ],
+      "oneliner": "Python SQLite wrapper exposes the full C API, including virtual tables, FTS, sessions, and async-friendly workflows."
+    },
+    {
+      "title": "Raspberry Pi inside a PSP",
+      "urls": [
+        "https://github.com/othermod/PSPi-Version-6"
+      ],
+      "oneliner": "Open hardware project replaces a PSP 1000 mainboard with Raspberry Pi support for RetroPie, Ubuntu, audio, and power management."
+    },
+    {
+      "title": "A practical README testing method",
+      "urls": [
+        "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/"
+      ],
+      "oneliner": "Concrete walkthrough shows how paying users to follow your README uncovers broken links, jargon, and install blockers fast."
+    },
+    {
+      "title": "Build a constrained decision model",
+      "urls": [
+        "https://nishtahir.com/build-your-own-decision-model/"
+      ],
+      "oneliner": "Hands-on tutorial builds a small Qwen-based classifier with structured outputs and calibrated probabilities for real decision flows."
+    },
+    {
+      "title": "Arena allocators explained in C",
+      "urls": [
+        "https://eliasebner.com/blog/guides/arena-allocators-in-c/"
+      ],
+      "oneliner": "Implementation guide shows how arena allocators reduce malloc churn, simplify cleanup, and improve C program performance."
+    },
+    {
+      "title": "Reverse engineering a smart doorbell",
+      "urls": [
+        "https://adepts.of0x.cc/Eufy-DoorBell-hacking/"
+      ],
+      "oneliner": "Detailed hardware hacking writeup covers jamming, protocol reversing, and credential extraction on Eufy doorbell devices."
+    },
+    {
+      "title": "Deep link into exact media moments",
+      "urls": [
+        "https://www.autodidacts.io/how-to-deeplink-to-specific-part-of-text-audio-video-pdf-image/"
+      ],
+      "oneliner": "Useful reference shows exact URL syntax for linking to text, audio, video, PDFs, and image regions."
+    },
+    {
+      "title": "NumPy searchsorted got much faster",
+      "urls": [
+        "https://blog.scientific-python.org/numpy/searchsorted/"
+      ],
+      "oneliner": "Benchmark-driven deep dive explains the vectorization tricks behind up to 25x faster np.searchsorted in NumPy 2.5."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "offline",
+    "open",
+    "local",
+    "instant",
+    "unlocked"
+  ],
+  "tokenUsage": {
+    "promptTokens": 18546,
+    "completionTokens": 659,
+    "totalTokens": 19205,
+    "costUsd": 0.05625
+  }
+}
