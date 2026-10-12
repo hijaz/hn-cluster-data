@@ -1,94 +1,94 @@
 {
-  "date": "2026-10-11",
-  "generated_at": "2026-10-11T18:13:56.140429+00:00",
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T21:40:25.886226+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 87,
+  "totalItemsConsidered": 67,
   "items": [
     {
-      "title": "Rust heap profiler with span attribution",
+      "title": "WiFi router becomes wideband SDR",
       "urls": [
-        "https://github.com/rupert648/culpert"
+        "https://github.com/h0m3us3r/w1700k-sdr"
       ],
-      "oneliner": "Rust heap profiler exports pprof traces and catches allocation regressions in CI with low-overhead span-aware sampling."
+      "oneliner": "Custom firmware turns a WiFi 7 router into a 320 Msps SDR with live spectrum and waterfall streaming."
     },
     {
-      "title": "Offline Mac dictation you can inspect",
+      "title": "PS2 games run in browsers",
       "urls": [
-        "https://betterwispr.com/"
+        "https://github.com/snuri00/ps2-web-recomp"
       ],
-      "oneliner": "Open-source macOS dictation app runs locally, supports 25 plus languages, and adds cleanup commands for usable transcripts."
+      "oneliner": "Static recompilation scripts convert PS2 disc images into WebAssembly builds that run in browsers at playable frame rates."
     },
     {
-      "title": "Full SQLite access from Python",
+      "title": "Linux GPU driver runs on iPad",
       "urls": [
-        "https://github.com/rogerbinns/apsw"
+        "https://github.com/Geramy/LemonSeed-Studio"
       ],
-      "oneliner": "Python SQLite wrapper exposes the full C API, including virtual tables, FTS, sessions, and async-friendly workflows."
+      "oneliner": "Open source iPad app embeds the unmodified Linux amdgpu driver for local LLM inference and live GPU telemetry."
     },
     {
-      "title": "Raspberry Pi inside a PSP",
+      "title": "Encrypted backups with restic and B2",
       "urls": [
-        "https://github.com/othermod/PSPi-Version-6"
+        "https://chuck.is/paranoid/"
       ],
-      "oneliner": "Open hardware project replaces a PSP 1000 mainboard with Raspberry Pi support for RetroPie, Ubuntu, audio, and power management."
+      "oneliner": "Practical 3-2-1 backup walkthrough shows restic plus Backblaze B2 with encryption, automation, and recovery-ready setup."
     },
     {
-      "title": "A practical README testing method",
+      "title": "Faster Python JSON parsing today",
       "urls": [
-        "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/"
+        "https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/"
       ],
-      "oneliner": "Concrete walkthrough shows how paying users to follow your README uncovers broken links, jargon, and install blockers fast."
+      "oneliner": "Benchmark-driven Python example parses 7.6 GB of GitHub events using fastsimdjson and multithreading for huge throughput gains."
     },
     {
-      "title": "Build a constrained decision model",
+      "title": "Google Flask cookie RCE writeup",
       "urls": [
-        "https://nishtahir.com/build-your-own-decision-model/"
+        "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce"
       ],
-      "oneliner": "Hands-on tutorial builds a small Qwen-based classifier with structured outputs and calibrated probabilities for real decision flows."
+      "oneliner": "Detailed exploit walkthrough shows how signed Flask session cookies exposed secrets and enabled remote code execution."
     },
     {
-      "title": "Arena allocators explained in C",
+      "title": "IBM i checksum repair in Python",
       "urls": [
-        "https://eliasebner.com/blog/guides/arena-allocators-in-c/"
+        "https://blog.silentsignal.eu/2026/10/06/512-bytes-at-a-time-reconstructing-IBM-i-save-file-checksums/"
       ],
-      "oneliner": "Implementation guide shows how arena allocators reduce malloc churn, simplify cleanup, and improve C program performance."
+      "oneliner": "Reverse engineering notes and Python tooling show how to recalculate IBM i save-file checksums after binary modifications."
     },
     {
-      "title": "Reverse engineering a smart doorbell",
+      "title": "Type-safe Zig HTML templates",
       "urls": [
-        "https://adepts.of0x.cc/Eufy-DoorBell-hacking/"
+        "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html"
       ],
-      "oneliner": "Detailed hardware hacking writeup covers jamming, protocol reversing, and credential extraction on Eufy doorbell devices."
+      "oneliner": "Compile-time Zig templating approach generates typed HTML safely, avoiding runtime string bugs common in web views."
     },
     {
-      "title": "Deep link into exact media moments",
+      "title": "Modern web app built in C",
       "urls": [
-        "https://www.autodidacts.io/how-to-deeplink-to-specific-part-of-text-audio-video-pdf-image/"
+        "https://prophitt.me/writing/a-modern-web-app-in-c"
       ],
-      "oneliner": "Useful reference shows exact URL syntax for linking to text, audio, video, PDFs, and image regions."
+      "oneliner": "Hands-on architecture shows accounts, payments, search, and email running on OpenBSD, C, CGI, and SQLite."
     },
     {
-      "title": "NumPy searchsorted got much faster",
+      "title": "ZX Spectrum intro in assembly",
       "urls": [
-        "https://blog.scientific-python.org/numpy/searchsorted/"
+        "https://www.markround.com/blog/2026/zx-spectrum-intro"
       ],
-      "oneliner": "Benchmark-driven deep dive explains the vectorization tricks behind up to 25x faster np.searchsorted in NumPy 2.5."
+      "oneliner": "Retro coding walkthrough builds a full ZX Spectrum demoscene intro with scrolltext, sound, and Z80 assembly."
     }
   ],
   "keywords": [
     "shipped",
     "blazing",
+    "instant",
     "offline",
     "open",
     "local",
-    "instant",
     "unlocked"
   ],
   "tokenUsage": {
-    "promptTokens": 18546,
-    "completionTokens": 659,
-    "totalTokens": 19205,
-    "costUsd": 0.05625
+    "promptTokens": 14302,
+    "completionTokens": 664,
+    "totalTokens": 14966,
+    "costUsd": 0.045715000000000006
   }
 }

@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T21:40:25.886226+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 67,
+  "items": [
+    {
+      "title": "WiFi router becomes wideband SDR",
+      "urls": [
+        "https://github.com/h0m3us3r/w1700k-sdr"
+      ],
+      "oneliner": "Custom firmware turns a WiFi 7 router into a 320 Msps SDR with live spectrum and waterfall streaming."
+    },
+    {
+      "title": "PS2 games run in browsers",
+      "urls": [
+        "https://github.com/snuri00/ps2-web-recomp"
+      ],
+      "oneliner": "Static recompilation scripts convert PS2 disc images into WebAssembly builds that run in browsers at playable frame rates."
+    },
+    {
+      "title": "Linux GPU driver runs on iPad",
+      "urls": [
+        "https://github.com/Geramy/LemonSeed-Studio"
+      ],
+      "oneliner": "Open source iPad app embeds the unmodified Linux amdgpu driver for local LLM inference and live GPU telemetry."
+    },
+    {
+      "title": "Encrypted backups with restic and B2",
+      "urls": [
+        "https://chuck.is/paranoid/"
+      ],
+      "oneliner": "Practical 3-2-1 backup walkthrough shows restic plus Backblaze B2 with encryption, automation, and recovery-ready setup."
+    },
+    {
+      "title": "Faster Python JSON parsing today",
+      "urls": [
+        "https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/"
+      ],
+      "oneliner": "Benchmark-driven Python example parses 7.6 GB of GitHub events using fastsimdjson and multithreading for huge throughput gains."
+    },
+    {
+      "title": "Google Flask cookie RCE writeup",
+      "urls": [
+        "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce"
+      ],
+      "oneliner": "Detailed exploit walkthrough shows how signed Flask session cookies exposed secrets and enabled remote code execution."
+    },
+    {
+      "title": "IBM i checksum repair in Python",
+      "urls": [
+        "https://blog.silentsignal.eu/2026/10/06/512-bytes-at-a-time-reconstructing-IBM-i-save-file-checksums/"
+      ],
+      "oneliner": "Reverse engineering notes and Python tooling show how to recalculate IBM i save-file checksums after binary modifications."
+    },
+    {
+      "title": "Type-safe Zig HTML templates",
+      "urls": [
+        "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html"
+      ],
+      "oneliner": "Compile-time Zig templating approach generates typed HTML safely, avoiding runtime string bugs common in web views."
+    },
+    {
+      "title": "Modern web app built in C",
+      "urls": [
+        "https://prophitt.me/writing/a-modern-web-app-in-c"
+      ],
+      "oneliner": "Hands-on architecture shows accounts, payments, search, and email running on OpenBSD, C, CGI, and SQLite."
+    },
+    {
+      "title": "ZX Spectrum intro in assembly",
+      "urls": [
+        "https://www.markround.com/blog/2026/zx-spectrum-intro"
+      ],
+      "oneliner": "Retro coding walkthrough builds a full ZX Spectrum demoscene intro with scrolltext, sound, and Z80 assembly."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "instant",
+    "offline",
+    "open",
+    "local",
+    "unlocked"
+  ],
+  "tokenUsage": {
+    "promptTokens": 14302,
+    "completionTokens": 664,
+    "totalTokens": 14966,
+    "costUsd": 0.045715000000000006
+  }
+}
