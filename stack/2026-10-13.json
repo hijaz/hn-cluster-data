@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T19:43:07.281625+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 49,
+  "items": [
+    {
+      "title": "Cross-framework native page transitions",
+      "urls": [
+        "https://ssgoi.dev/"
+      ],
+      "oneliner": "Router-agnostic transitions bring native-feeling navigation to React, Vue, Svelte, Solid, Angular, and Qwik today."
+    },
+    {
+      "title": "Lint rules for AI TypeScript",
+      "urls": [
+        "https://github.com/maharshi365/deslop"
+      ],
+      "oneliner": "Oxlint plugin flags 20 common AI-generated TypeScript mistakes before they land in production code."
+    },
+    {
+      "title": "Game development AI harness tutorial",
+      "urls": [
+        "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code"
+      ],
+      "oneliner": "Practical walkthrough shows how to structure game projects so Claude can inspect, test, and iterate reliably."
+    },
+    {
+      "title": "Bot traffic postmortem with fixes",
+      "urls": [
+        "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic"
+      ],
+      "oneliner": "Detailed incident writeup shows how AI crawlers overwhelmed a site and what to instrument next time."
+    },
+    {
+      "title": "Coq-verified Busy Beaver proof",
+      "urls": [
+        "https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md"
+      ],
+      "oneliner": "This repo packages a machine and proof artifacts for a Busy Beaver result beyond Graham's Number."
+    },
+    {
+      "title": "PDF to audiobook workflow",
+      "urls": [
+        "https://pdftomp3.com/connect-ai/"
+      ],
+      "oneliner": "Hands-on guide turns PDFs into audiobooks using your OpenAI setup instead of a separate paid service."
+    },
+    {
+      "title": "Interactive randomness prediction demo",
+      "urls": [
+        "https://lab.specr.net/rigged-draw/"
+      ],
+      "oneliner": "Open this experiment to see how quickly a model predicts your supposedly random number choices."
+    },
+    {
+      "title": "Browser-based music notation workspace",
+      "urls": [
+        "https://music.xy.dev/"
+      ],
+      "oneliner": "Web app lets you view scores, export PDFs, and adjust MIDI playback speed without installing desktop software."
+    },
+    {
+      "title": "Rust borrow checker bug report",
+      "urls": [
+        "https://github.com/rust-lang/rust/issues/164250"
+      ],
+      "oneliner": "Security-minded Rust engineers should read this reproducible unsoundness issue and track the eventual compiler fix."
+    },
+    {
+      "title": "Why to avoid uv-build",
+      "urls": [
+        "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/"
+      ],
+      "oneliner": "Concrete packaging critique compares uv-build against lighter Python backends like flit-core and hatchling."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "offline",
+    "open",
+    "local",
+    "instant",
+    "replaced"
+  ],
+  "tokenUsage": {
+    "promptTokens": 10288,
+    "completionTokens": 621,
+    "totalTokens": 10909,
+    "costUsd": 0.035035
+  }
+}

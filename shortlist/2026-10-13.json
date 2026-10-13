@@ -1,0 +1,109 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T19:42:58.078454+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 49,
+  "items": [
+    {
+      "title": "Gemini 4 Argon expands into robotics",
+      "urls": [
+        "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+        "https://deepmind.google/models/gemini/"
+      ],
+      "oneliner": "Google says Gemini 4 Argon hit 87% on Embodied Reasoning, pushing frontier models from chat into physical action.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "Meta enters the frontier model race",
+      "urls": [
+        "https://venturebeat.com/technology/metas-new-muse-wonder-and-muse-wonder-full-models-achieve-frontier-performance-but-only-the-weaker-one-is-available-via-api",
+        "https://www.youtube.com/watch?v=Be0fUeLhYYY",
+        "https://www.youtube.com/watch?v=qXl3zuEGngs",
+        "https://www.theneurondaily.com/p/meta-s-muse-wonder-is-here-priced-like-opus-ee30"
+      ],
+      "oneliner": "Meta's Muse Wonder reached frontier-tier benchmarks, but pricing near Opus means distribution, not cost, is its real weapon.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "EmbeddingGemma becomes fast local speech recognition",
+      "urls": [
+        "https://eg2.haku.sh/"
+      ],
+      "oneliner": "An open EmbeddingGemma 2 hack transcribes one hour in 13 seconds on MacBook Air, making private on-device ASR practical.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "AI helped build a Chrome full chain",
+      "urls": [
+        "https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain"
+      ],
+      "oneliner": "XBOW built a Chrome full-chain exploit in six days and earned $250,000, compressing offensive security timelines dramatically.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "Rust's borrow checker hid an old flaw",
+      "urls": [
+        "https://github.com/rust-lang/rust/issues/164250"
+      ],
+      "oneliner": "An 11-year-old Rust soundness bug shows memory-safety guarantees still depend on edge cases nobody thought were reachable.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "AI crawlers are becoming an infrastructure problem",
+      "urls": [
+        "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic"
+      ],
+      "oneliner": "One Hacker News post turned into bot traffic hell, with nearly half the load tied to AI summarization crawlers.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Anthropic rebuilt source control for AI coding",
+      "urls": [
+        "https://www.anthropic.com/engineering/redesigning-source-control"
+      ],
+      "oneliner": "Anthropic replaced Git workflows after daily merges jumped from 2,500 to 30,000, a preview of AI-generated code at scale.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "AWS makes web apps fit Lambda",
+      "urls": [
+        "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/"
+      ],
+      "oneliner": "Lambda Web Functions let Express and Next.js run mostly unchanged, signaling serverless is finally adapting to normal web stacks.",
+      "emoji": "💻"
+    },
+    {
+      "title": "Apple turns idle Macs into a GPU cloud",
+      "urls": [
+        "https://machinelearning.apple.com/research/distributed-gpu-cloud"
+      ],
+      "oneliner": "Apple's Minions paper shows idle Apple Silicon devices can serve inference, hinting at a cheaper distributed GPU playbook.",
+      "emoji": "🏭"
+    },
+    {
+      "title": "Character.AI enters bankruptcy and asset sale",
+      "urls": [
+        "https://www.reuters.com/legal/litigation/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million-2026-10-13/",
+        "https://blog.character.ai/an-update-on-character-ai/"
+      ],
+      "oneliner": "Character.AI filed Chapter 11 and agreed to sell assets for $20 million, a sharp reset for consumer AI valuations.",
+      "emoji": "💰"
+    }
+  ],
+  "keywords": [
+    "cracked",
+    "racing",
+    "weaponized",
+    "autonomy",
+    "scarcity",
+    "surpassed",
+    "consolidation"
+  ],
+  "tokenUsage": {
+    "promptTokens": 10463,
+    "completionTokens": 804,
+    "totalTokens": 11267,
+    "costUsd": 0.0382175
+  }
+}

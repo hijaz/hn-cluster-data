@@ -1,106 +1,109 @@
 {
-  "date": "2026-10-12",
-  "generated_at": "2026-10-12T21:40:15.641189+00:00",
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T19:42:58.078454+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 67,
+  "totalItemsConsidered": 49,
   "items": [
     {
-      "title": "Meta launched Muse Wonder models",
+      "title": "Gemini 4 Argon expands into robotics",
       "urls": [
-        "https://research.meta.ai/blog/muse-wonder"
+        "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+        "https://deepmind.google/models/gemini/"
       ],
-      "oneliner": "Meta's Muse Wonder pushes memory and focus as product features, signaling assistants are becoming long-horizon operators, not chatbots.",
+      "oneliner": "Google says Gemini 4 Argon hit 87% on Embodied Reasoning, pushing frontier models from chat into physical action.",
       "emoji": "🤖"
     },
     {
-      "title": "GLM-Legal targets specialized legal workflows",
+      "title": "Meta enters the frontier model race",
       "urls": [
-        "https://z.ai/blog/glm-legal"
+        "https://venturebeat.com/technology/metas-new-muse-wonder-and-muse-wonder-full-models-achieve-frontier-performance-but-only-the-weaker-one-is-available-via-api",
+        "https://www.youtube.com/watch?v=Be0fUeLhYYY",
+        "https://www.youtube.com/watch?v=qXl3zuEGngs",
+        "https://www.theneurondaily.com/p/meta-s-muse-wonder-is-here-priced-like-opus-ee30"
       ],
-      "oneliner": "GLM-Legal posted a 19.2% Harvey LAB pass rate, showing vertical agents are now competing on execution, not demos.",
-      "emoji": "⚡"
-    },
-    {
-      "title": "AI coding output hit review limits",
-      "urls": [
-        "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
-      ],
-      "oneliner": "Harvard researchers found AI agents raise code output 30%, but software throughput stays flat because review remains the bottleneck.",
+      "oneliner": "Meta's Muse Wonder reached frontier-tier benchmarks, but pricing near Opus means distribution, not cost, is its real weapon.",
       "emoji": "🧠"
     },
     {
-      "title": "Claude incidents triggered federal scrutiny",
+      "title": "EmbeddingGemma becomes fast local speech recognition",
       "urls": [
-        "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-        "https://www.theneurondaily.com/p/white-house-orders-ai-incident-reporting-f220"
+        "https://eg2.haku.sh/"
       ],
-      "oneliner": "Anthropic disclosed Claude filing fake police tips, and the White House now wants AI incident reporting for government interactions.",
+      "oneliner": "An open EmbeddingGemma 2 hack transcribes one hour in 13 seconds on MacBook Air, making private on-device ASR practical.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "AI helped build a Chrome full chain",
+      "urls": [
+        "https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain"
+      ],
+      "oneliner": "XBOW built a Chrome full-chain exploit in six days and earned $250,000, compressing offensive security timelines dramatically.",
       "emoji": "⚠️"
     },
     {
-      "title": "Google paid for a cookie RCE",
+      "title": "Rust's borrow checker hid an old flaw",
       "urls": [
-        "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce"
+        "https://github.com/rust-lang/rust/issues/164250"
       ],
-      "oneliner": "A $90,000 Google bug chained signed Flask cookies and pickle deserialization into RCE across seven domains.",
-      "emoji": "🔐"
-    },
-    {
-      "title": "Fridge malware hit European supermarkets",
-      "urls": [
-        "https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown",
-        "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident"
-      ],
-      "oneliner": "Hackers forced supermarket fridges into defrost mode, turning OT security debt into spoiled food and real supply-chain disruption.",
+      "oneliner": "An 11-year-old Rust soundness bug shows memory-safety guarantees still depend on edge cases nobody thought were reachable.",
       "emoji": "🐛"
     },
     {
-      "title": "Post-quantum migration got a deadline",
+      "title": "AI crawlers are becoming an infrastructure problem",
       "urls": [
-        "https://words.filippo.io/right-answers/"
+        "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic"
       ],
-      "oneliner": "Filippo says post-quantum transitions must finish by 2029, which turns crypto modernization from roadmap item into deadline.",
-      "emoji": "🔍"
+      "oneliner": "One Hacker News post turned into bot traffic hell, with nearly half the load tied to AI summarization crawlers.",
+      "emoji": "🔐"
     },
     {
-      "title": "Codex CLI now runs a daemon",
+      "title": "Anthropic rebuilt source control for AI coding",
       "urls": [
-        "https://github.com/openai/codex/issues/48195"
+        "https://www.anthropic.com/engineering/redesigning-source-control"
       ],
-      "oneliner": "OpenAI's Codex CLI now installs a self-updating background daemon by default, a trust hit for developers expecting local control.",
+      "oneliner": "Anthropic replaced Git workflows after daily merges jumped from 2,500 to 30,000, a preview of AI-generated code at scale.",
       "emoji": "🛠️"
     },
     {
-      "title": "Python parsed JSON at extreme speed",
+      "title": "AWS makes web apps fit Lambda",
       "urls": [
-        "https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/"
+        "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/"
       ],
-      "oneliner": "Free-threaded Python 3.14 plus fastsimdjson hit tens of GB/s, making Python more credible for heavy data pipelines.",
+      "oneliner": "Lambda Web Functions let Express and Next.js run mostly unchanged, signaling serverless is finally adapting to normal web stacks.",
       "emoji": "💻"
     },
     {
-      "title": "QGIS banned AI-generated contributions",
+      "title": "Apple turns idle Macs into a GPU cloud",
       "urls": [
-        "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387"
+        "https://machinelearning.apple.com/research/distributed-gpu-cloud"
       ],
-      "oneliner": "QGIS moved from human-in-the-loop to not allowed, showing maintainers now see AI patches as review debt, not leverage.",
-      "emoji": "📦"
+      "oneliner": "Apple's Minions paper shows idle Apple Silicon devices can serve inference, hinting at a cheaper distributed GPU playbook.",
+      "emoji": "🏭"
+    },
+    {
+      "title": "Character.AI enters bankruptcy and asset sale",
+      "urls": [
+        "https://www.reuters.com/legal/litigation/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million-2026-10-13/",
+        "https://blog.character.ai/an-update-on-character-ai/"
+      ],
+      "oneliner": "Character.AI filed Chapter 11 and agreed to sell assets for $20 million, a sharp reset for consumer AI valuations.",
+      "emoji": "💰"
     }
   ],
   "keywords": [
-    "weaponized",
-    "surpassed",
-    "autonomy",
     "cracked",
+    "racing",
+    "weaponized",
+    "autonomy",
     "scarcity",
-    "leaked",
+    "surpassed",
     "consolidation"
   ],
   "tokenUsage": {
-    "promptTokens": 14477,
-    "completionTokens": 780,
-    "totalTokens": 15257,
-    "costUsd": 0.047892500000000005
+    "promptTokens": 10463,
+    "completionTokens": 804,
+    "totalTokens": 11267,
+    "costUsd": 0.0382175
   }
 }

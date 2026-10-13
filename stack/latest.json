@@ -1,94 +1,94 @@
 {
-  "date": "2026-10-12",
-  "generated_at": "2026-10-12T21:40:25.886226+00:00",
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T19:43:07.281625+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 67,
+  "totalItemsConsidered": 49,
   "items": [
     {
-      "title": "WiFi router becomes wideband SDR",
+      "title": "Cross-framework native page transitions",
       "urls": [
-        "https://github.com/h0m3us3r/w1700k-sdr"
+        "https://ssgoi.dev/"
       ],
-      "oneliner": "Custom firmware turns a WiFi 7 router into a 320 Msps SDR with live spectrum and waterfall streaming."
+      "oneliner": "Router-agnostic transitions bring native-feeling navigation to React, Vue, Svelte, Solid, Angular, and Qwik today."
     },
     {
-      "title": "PS2 games run in browsers",
+      "title": "Lint rules for AI TypeScript",
       "urls": [
-        "https://github.com/snuri00/ps2-web-recomp"
+        "https://github.com/maharshi365/deslop"
       ],
-      "oneliner": "Static recompilation scripts convert PS2 disc images into WebAssembly builds that run in browsers at playable frame rates."
+      "oneliner": "Oxlint plugin flags 20 common AI-generated TypeScript mistakes before they land in production code."
     },
     {
-      "title": "Linux GPU driver runs on iPad",
+      "title": "Game development AI harness tutorial",
       "urls": [
-        "https://github.com/Geramy/LemonSeed-Studio"
+        "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code"
       ],
-      "oneliner": "Open source iPad app embeds the unmodified Linux amdgpu driver for local LLM inference and live GPU telemetry."
+      "oneliner": "Practical walkthrough shows how to structure game projects so Claude can inspect, test, and iterate reliably."
     },
     {
-      "title": "Encrypted backups with restic and B2",
+      "title": "Bot traffic postmortem with fixes",
       "urls": [
-        "https://chuck.is/paranoid/"
+        "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic"
       ],
-      "oneliner": "Practical 3-2-1 backup walkthrough shows restic plus Backblaze B2 with encryption, automation, and recovery-ready setup."
+      "oneliner": "Detailed incident writeup shows how AI crawlers overwhelmed a site and what to instrument next time."
     },
     {
-      "title": "Faster Python JSON parsing today",
+      "title": "Coq-verified Busy Beaver proof",
       "urls": [
-        "https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/"
+        "https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md"
       ],
-      "oneliner": "Benchmark-driven Python example parses 7.6 GB of GitHub events using fastsimdjson and multithreading for huge throughput gains."
+      "oneliner": "This repo packages a machine and proof artifacts for a Busy Beaver result beyond Graham's Number."
     },
     {
-      "title": "Google Flask cookie RCE writeup",
+      "title": "PDF to audiobook workflow",
       "urls": [
-        "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce"
+        "https://pdftomp3.com/connect-ai/"
       ],
-      "oneliner": "Detailed exploit walkthrough shows how signed Flask session cookies exposed secrets and enabled remote code execution."
+      "oneliner": "Hands-on guide turns PDFs into audiobooks using your OpenAI setup instead of a separate paid service."
     },
     {
-      "title": "IBM i checksum repair in Python",
+      "title": "Interactive randomness prediction demo",
       "urls": [
-        "https://blog.silentsignal.eu/2026/10/06/512-bytes-at-a-time-reconstructing-IBM-i-save-file-checksums/"
+        "https://lab.specr.net/rigged-draw/"
       ],
-      "oneliner": "Reverse engineering notes and Python tooling show how to recalculate IBM i save-file checksums after binary modifications."
+      "oneliner": "Open this experiment to see how quickly a model predicts your supposedly random number choices."
     },
     {
-      "title": "Type-safe Zig HTML templates",
+      "title": "Browser-based music notation workspace",
       "urls": [
-        "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html"
+        "https://music.xy.dev/"
       ],
-      "oneliner": "Compile-time Zig templating approach generates typed HTML safely, avoiding runtime string bugs common in web views."
+      "oneliner": "Web app lets you view scores, export PDFs, and adjust MIDI playback speed without installing desktop software."
     },
     {
-      "title": "Modern web app built in C",
+      "title": "Rust borrow checker bug report",
       "urls": [
-        "https://prophitt.me/writing/a-modern-web-app-in-c"
+        "https://github.com/rust-lang/rust/issues/164250"
       ],
-      "oneliner": "Hands-on architecture shows accounts, payments, search, and email running on OpenBSD, C, CGI, and SQLite."
+      "oneliner": "Security-minded Rust engineers should read this reproducible unsoundness issue and track the eventual compiler fix."
     },
     {
-      "title": "ZX Spectrum intro in assembly",
+      "title": "Why to avoid uv-build",
       "urls": [
-        "https://www.markround.com/blog/2026/zx-spectrum-intro"
+        "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/"
       ],
-      "oneliner": "Retro coding walkthrough builds a full ZX Spectrum demoscene intro with scrolltext, sound, and Z80 assembly."
+      "oneliner": "Concrete packaging critique compares uv-build against lighter Python backends like flit-core and hatchling."
     }
   ],
   "keywords": [
     "shipped",
     "blazing",
-    "instant",
     "offline",
     "open",
     "local",
-    "unlocked"
+    "instant",
+    "replaced"
   ],
   "tokenUsage": {
-    "promptTokens": 14302,
-    "completionTokens": 664,
-    "totalTokens": 14966,
-    "costUsd": 0.045715000000000006
+    "promptTokens": 10288,
+    "completionTokens": 621,
+    "totalTokens": 10909,
+    "costUsd": 0.035035
   }
 }
