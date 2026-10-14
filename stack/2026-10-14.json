@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T17:35:30.777925+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 97,
+  "items": [
+    {
+      "title": "Postgres gets a faster vector index",
+      "urls": [
+        "https://github.com/timescale/pg_vectorsearch"
+      ],
+      "oneliner": "Alpha Postgres extension claims faster ANN search than pgvector IVFFlat and HNSW, with SIMD distance kernels and dynamic updates."
+    },
+    {
+      "title": "Coding agents get repo memory",
+      "urls": [
+        "https://github.com/graphicle-ai/graphicle"
+      ],
+      "oneliner": "Rust tool maps repositories into a queryable graph so Claude Code or Codex can recall docs, decisions, and structure locally."
+    },
+    {
+      "title": "Compression tuned for ultra-fast decode",
+      "urls": [
+        "https://libzxc.org/"
+      ],
+      "oneliner": "BSD-licensed compression library prioritizes multi-GB/s decompression for firmware and game assets, with bindings and benchmarked tradeoffs."
+    },
+    {
+      "title": "Debug alt text with one click",
+      "urls": [
+        "https://hamatti.org/posts/double-check-your-websites-alt-texts-with-a-bookmarklet/"
+      ],
+      "oneliner": "Bookmarklet highlights missing, empty, and present image alt text directly on any page for fast accessibility QA."
+    },
+    {
+      "title": "Build linearizable logs on Postgres",
+      "urls": [
+        "https://materialize.com/blog/building-a-linearizable-log-on-read-committed/"
+      ],
+      "oneliner": "Deep implementation walkthrough shows how READ COMMITTED replaced SERIALIZABLE and tripled write throughput in a metadata log."
+    },
+    {
+      "title": "Run Windows app tests from Linux",
+      "urls": [
+        "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation"
+      ],
+      "oneliner": "Practical architecture guide shows disposable Windows VMs on Kubernetes for desktop automation with Appium and WebdriverIO."
+    },
+    {
+      "title": "Study a real curl RCE fix",
+      "urls": [
+        "https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/"
+      ],
+      "oneliner": "Detailed postmortem explains a libcurl HTTP/2 use-after-free, the exploit path, and includes a Docker image for hands-on analysis."
+    },
+    {
+      "title": "Android NDK bug with repro",
+      "urls": [
+        "https://github.com/android/ndk/issues/2260"
+      ],
+      "oneliner": "Well-documented NDK issue includes code, affected builds, and disassembly for debugging broken wide-character functions on Android 17."
+    },
+    {
+      "title": "Send SMS from your browser",
+      "urls": [
+        "https://sverre.me/projects/bru/"
+      ],
+      "oneliner": "Open-source browser app bridges to your Android phone so you can read and send SMS without Google Messages."
+    },
+    {
+      "title": "Interactive guide to how sound works",
+      "urls": [
+        "https://ciechanow.ski/sound/"
+      ],
+      "oneliner": "Exceptionally clear interactive tutorial visualizes air pressure, particle motion, and wave propagation for anyone building audio intuition."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "instant",
+    "replaced",
+    "local",
+    "open",
+    "embedded"
+  ],
+  "tokenUsage": {
+    "promptTokens": 19559,
+    "completionTokens": 672,
+    "totalTokens": 20231,
+    "costUsd": 0.058977499999999995
+  }
+}

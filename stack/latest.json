@@ -1,94 +1,94 @@
 {
-  "date": "2026-10-13",
-  "generated_at": "2026-10-13T19:43:07.281625+00:00",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T17:35:30.777925+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 49,
+  "totalItemsConsidered": 97,
   "items": [
     {
-      "title": "Cross-framework native page transitions",
+      "title": "Postgres gets a faster vector index",
       "urls": [
-        "https://ssgoi.dev/"
+        "https://github.com/timescale/pg_vectorsearch"
       ],
-      "oneliner": "Router-agnostic transitions bring native-feeling navigation to React, Vue, Svelte, Solid, Angular, and Qwik today."
+      "oneliner": "Alpha Postgres extension claims faster ANN search than pgvector IVFFlat and HNSW, with SIMD distance kernels and dynamic updates."
     },
     {
-      "title": "Lint rules for AI TypeScript",
+      "title": "Coding agents get repo memory",
       "urls": [
-        "https://github.com/maharshi365/deslop"
+        "https://github.com/graphicle-ai/graphicle"
       ],
-      "oneliner": "Oxlint plugin flags 20 common AI-generated TypeScript mistakes before they land in production code."
+      "oneliner": "Rust tool maps repositories into a queryable graph so Claude Code or Codex can recall docs, decisions, and structure locally."
     },
     {
-      "title": "Game development AI harness tutorial",
+      "title": "Compression tuned for ultra-fast decode",
       "urls": [
-        "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code"
+        "https://libzxc.org/"
       ],
-      "oneliner": "Practical walkthrough shows how to structure game projects so Claude can inspect, test, and iterate reliably."
+      "oneliner": "BSD-licensed compression library prioritizes multi-GB/s decompression for firmware and game assets, with bindings and benchmarked tradeoffs."
     },
     {
-      "title": "Bot traffic postmortem with fixes",
+      "title": "Debug alt text with one click",
       "urls": [
-        "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic"
+        "https://hamatti.org/posts/double-check-your-websites-alt-texts-with-a-bookmarklet/"
       ],
-      "oneliner": "Detailed incident writeup shows how AI crawlers overwhelmed a site and what to instrument next time."
+      "oneliner": "Bookmarklet highlights missing, empty, and present image alt text directly on any page for fast accessibility QA."
     },
     {
-      "title": "Coq-verified Busy Beaver proof",
+      "title": "Build linearizable logs on Postgres",
       "urls": [
-        "https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md"
+        "https://materialize.com/blog/building-a-linearizable-log-on-read-committed/"
       ],
-      "oneliner": "This repo packages a machine and proof artifacts for a Busy Beaver result beyond Graham's Number."
+      "oneliner": "Deep implementation walkthrough shows how READ COMMITTED replaced SERIALIZABLE and tripled write throughput in a metadata log."
     },
     {
-      "title": "PDF to audiobook workflow",
+      "title": "Run Windows app tests from Linux",
       "urls": [
-        "https://pdftomp3.com/connect-ai/"
+        "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation"
       ],
-      "oneliner": "Hands-on guide turns PDFs into audiobooks using your OpenAI setup instead of a separate paid service."
+      "oneliner": "Practical architecture guide shows disposable Windows VMs on Kubernetes for desktop automation with Appium and WebdriverIO."
     },
     {
-      "title": "Interactive randomness prediction demo",
+      "title": "Study a real curl RCE fix",
       "urls": [
-        "https://lab.specr.net/rigged-draw/"
+        "https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/"
       ],
-      "oneliner": "Open this experiment to see how quickly a model predicts your supposedly random number choices."
+      "oneliner": "Detailed postmortem explains a libcurl HTTP/2 use-after-free, the exploit path, and includes a Docker image for hands-on analysis."
     },
     {
-      "title": "Browser-based music notation workspace",
+      "title": "Android NDK bug with repro",
       "urls": [
-        "https://music.xy.dev/"
+        "https://github.com/android/ndk/issues/2260"
       ],
-      "oneliner": "Web app lets you view scores, export PDFs, and adjust MIDI playback speed without installing desktop software."
+      "oneliner": "Well-documented NDK issue includes code, affected builds, and disassembly for debugging broken wide-character functions on Android 17."
     },
     {
-      "title": "Rust borrow checker bug report",
+      "title": "Send SMS from your browser",
       "urls": [
-        "https://github.com/rust-lang/rust/issues/164250"
+        "https://sverre.me/projects/bru/"
       ],
-      "oneliner": "Security-minded Rust engineers should read this reproducible unsoundness issue and track the eventual compiler fix."
+      "oneliner": "Open-source browser app bridges to your Android phone so you can read and send SMS without Google Messages."
     },
     {
-      "title": "Why to avoid uv-build",
+      "title": "Interactive guide to how sound works",
       "urls": [
-        "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/"
+        "https://ciechanow.ski/sound/"
       ],
-      "oneliner": "Concrete packaging critique compares uv-build against lighter Python backends like flit-core and hatchling."
+      "oneliner": "Exceptionally clear interactive tutorial visualizes air pressure, particle motion, and wave propagation for anyone building audio intuition."
     }
   ],
   "keywords": [
     "shipped",
     "blazing",
-    "offline",
-    "open",
-    "local",
     "instant",
-    "replaced"
+    "replaced",
+    "local",
+    "open",
+    "embedded"
   ],
   "tokenUsage": {
-    "promptTokens": 10288,
-    "completionTokens": 621,
-    "totalTokens": 10909,
-    "costUsd": 0.035035
+    "promptTokens": 19559,
+    "completionTokens": 672,
+    "totalTokens": 20231,
+    "costUsd": 0.058977499999999995
   }
 }
