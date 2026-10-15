@@ -1,94 +1,94 @@
 {
-  "date": "2026-10-14",
-  "generated_at": "2026-10-14T17:35:30.777925+00:00",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T17:29:01.737636+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 97,
+  "totalItemsConsidered": 74,
   "items": [
     {
-      "title": "Postgres gets a faster vector index",
+      "title": "Grid snapping for macOS windows",
       "urls": [
-        "https://github.com/timescale/pg_vectorsearch"
+        "https://github.com/konieczkow/gridsnap"
       ],
-      "oneliner": "Alpha Postgres extension claims faster ANN search than pgvector IVFFlat and HNSW, with SIMD distance kernels and dynamic updates."
+      "oneliner": "Open-source macOS window snapper with presets, multi-display support, and Homebrew install for Divvy-style tiling."
     },
     {
-      "title": "Coding agents get repo memory",
+      "title": "A skeuomorphic Linux desktop environment",
       "urls": [
-        "https://github.com/graphicle-ai/graphicle"
+        "https://github.com/fyzugx/DEsk"
       ],
-      "oneliner": "Rust tool maps repositories into a queryable graph so Claude Code or Codex can recall docs, decisions, and structure locally."
+      "oneliner": "Wayland desktop with a Fedora installer, paper-like windows, and working beta code you can run today."
     },
     {
-      "title": "Compression tuned for ultra-fast decode",
+      "title": "A fast Rust SSR framework",
       "urls": [
-        "https://libzxc.org/"
+        "https://proa.so/"
       ],
-      "oneliner": "BSD-licensed compression library prioritizes multi-GB/s decompression for firmware and game assets, with bindings and benchmarked tradeoffs."
+      "oneliner": "Rust web framework for multi-target rendering that claims 237x faster SSR than React in published benchmarks."
     },
     {
-      "title": "Debug alt text with one click",
+      "title": "Libreboot adds broad UEFI support",
       "urls": [
-        "https://hamatti.org/posts/double-check-your-websites-alt-texts-with-a-bookmarklet/"
+        "https://libreboot.org/news/libreboot2610.html"
       ],
-      "oneliner": "Bookmarklet highlights missing, empty, and present image alt text directly on any page for fast accessibility QA."
+      "oneliner": "Source-available firmware release adds UEFI and support for 233 more Chromebook models via MrChromebox integration."
     },
     {
-      "title": "Build linearizable logs on Postgres",
+      "title": "A practical guide to C++26 contracts",
       "urls": [
-        "https://materialize.com/blog/building-a-linearizable-log-on-read-committed/"
+        "https://www.cppstories.com/2026/cpp26_contracts/"
       ],
-      "oneliner": "Deep implementation walkthrough shows how READ COMMITTED replaced SERIALIZABLE and tripled write throughput in a metadata log."
+      "oneliner": "Hands-on tutorial shows preconditions and postconditions in C++26 with syntax, semantics, and migration from asserts."
     },
     {
-      "title": "Run Windows app tests from Linux",
+      "title": "Using AI to reverse engineer hardware",
       "urls": [
-        "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation"
+        "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/"
       ],
-      "oneliner": "Practical architecture guide shows disposable Windows VMs on Kubernetes for desktop automation with Appium and WebdriverIO."
+      "oneliner": "Detailed walkthrough shows how AI helped build a Linux SANE driver and scanner app from captured hardware traces."
     },
     {
-      "title": "Study a real curl RCE fix",
+      "title": "Prompt injection in HTTP headers",
       "urls": [
-        "https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/"
+        "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/"
       ],
-      "oneliner": "Detailed postmortem explains a libcurl HTTP/2 use-after-free, the exploit path, and includes a Docker image for hands-on analysis."
+      "oneliner": "Large-scale study of 217 million responses shows how HTTP headers already influence AI agents and prompt injection risk."
     },
     {
-      "title": "Android NDK bug with repro",
+      "title": "A kernel exploit from bad Wi-Fi",
       "urls": [
-        "https://github.com/android/ndk/issues/2260"
+        "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/"
       ],
-      "oneliner": "Well-documented NDK issue includes code, affected builds, and disassembly for debugging broken wide-character functions on Android 17."
+      "oneliner": "Deep technical writeup traces corrupted downloads to router behavior, then walks through building a working kernel exploit."
     },
     {
-      "title": "Send SMS from your browser",
+      "title": "OpenCode moves to client server",
       "urls": [
-        "https://sverre.me/projects/bru/"
+        "https://anoma.ly/notes/opencode-2-0/"
       ],
-      "oneliner": "Open-source browser app bridges to your Android phone so you can read and send SMS without Google Messages."
+      "oneliner": "Developer tool update adds autodiscovered local services, scriptable clients, and hot-reloading plugins for automation workflows."
     },
     {
-      "title": "Interactive guide to how sound works",
+      "title": "Anthropic explains adversarial code review",
       "urls": [
-        "https://ciechanow.ski/sound/"
+        "https://www.anthropic.com/engineering/redesigning-source-control"
       ],
-      "oneliner": "Exceptionally clear interactive tutorial visualizes air pressure, particle motion, and wave propagation for anyone building audio intuition."
+      "oneliner": "Engineering post details AI-against-AI code review patterns behind Anthropic's source control redesign for safer coding workflows."
     }
   ],
   "keywords": [
     "shipped",
+    "local",
     "blazing",
+    "open",
     "instant",
     "replaced",
-    "local",
-    "open",
-    "embedded"
+    "unlocked"
   ],
   "tokenUsage": {
-    "promptTokens": 19559,
-    "completionTokens": 672,
-    "totalTokens": 20231,
-    "costUsd": 0.058977499999999995
+    "promptTokens": 15707,
+    "completionTokens": 654,
+    "totalTokens": 16361,
+    "costUsd": 0.049077499999999996
   }
 }

@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T17:29:01.737636+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 74,
+  "items": [
+    {
+      "title": "Grid snapping for macOS windows",
+      "urls": [
+        "https://github.com/konieczkow/gridsnap"
+      ],
+      "oneliner": "Open-source macOS window snapper with presets, multi-display support, and Homebrew install for Divvy-style tiling."
+    },
+    {
+      "title": "A skeuomorphic Linux desktop environment",
+      "urls": [
+        "https://github.com/fyzugx/DEsk"
+      ],
+      "oneliner": "Wayland desktop with a Fedora installer, paper-like windows, and working beta code you can run today."
+    },
+    {
+      "title": "A fast Rust SSR framework",
+      "urls": [
+        "https://proa.so/"
+      ],
+      "oneliner": "Rust web framework for multi-target rendering that claims 237x faster SSR than React in published benchmarks."
+    },
+    {
+      "title": "Libreboot adds broad UEFI support",
+      "urls": [
+        "https://libreboot.org/news/libreboot2610.html"
+      ],
+      "oneliner": "Source-available firmware release adds UEFI and support for 233 more Chromebook models via MrChromebox integration."
+    },
+    {
+      "title": "A practical guide to C++26 contracts",
+      "urls": [
+        "https://www.cppstories.com/2026/cpp26_contracts/"
+      ],
+      "oneliner": "Hands-on tutorial shows preconditions and postconditions in C++26 with syntax, semantics, and migration from asserts."
+    },
+    {
+      "title": "Using AI to reverse engineer hardware",
+      "urls": [
+        "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/"
+      ],
+      "oneliner": "Detailed walkthrough shows how AI helped build a Linux SANE driver and scanner app from captured hardware traces."
+    },
+    {
+      "title": "Prompt injection in HTTP headers",
+      "urls": [
+        "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/"
+      ],
+      "oneliner": "Large-scale study of 217 million responses shows how HTTP headers already influence AI agents and prompt injection risk."
+    },
+    {
+      "title": "A kernel exploit from bad Wi-Fi",
+      "urls": [
+        "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/"
+      ],
+      "oneliner": "Deep technical writeup traces corrupted downloads to router behavior, then walks through building a working kernel exploit."
+    },
+    {
+      "title": "OpenCode moves to client server",
+      "urls": [
+        "https://anoma.ly/notes/opencode-2-0/"
+      ],
+      "oneliner": "Developer tool update adds autodiscovered local services, scriptable clients, and hot-reloading plugins for automation workflows."
+    },
+    {
+      "title": "Anthropic explains adversarial code review",
+      "urls": [
+        "https://www.anthropic.com/engineering/redesigning-source-control"
+      ],
+      "oneliner": "Engineering post details AI-against-AI code review patterns behind Anthropic's source control redesign for safer coding workflows."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "local",
+    "blazing",
+    "open",
+    "instant",
+    "replaced",
+    "unlocked"
+  ],
+  "tokenUsage": {
+    "promptTokens": 15707,
+    "completionTokens": 654,
+    "totalTokens": 16361,
+    "costUsd": 0.049077499999999996
+  }
+}
