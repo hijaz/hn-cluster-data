@@ -1,105 +1,107 @@
 {
-  "date": "2026-10-15",
-  "generated_at": "2026-10-15T17:28:53.773469+00:00",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T17:03:54.627509+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 74,
+  "totalItemsConsidered": 107,
   "items": [
     {
-      "title": "Google shipped Gemini scam text screening",
+      "title": "Meta shipped an 816B open model",
       "urls": [
-        "https://blog.google/security/new-android-scam-protections/",
-        "https://www.theneurondaily.com/p/gemini-now-screens-scam-texts"
+        "https://research.meta.ai/blog/muse-spark-open",
+        "https://machinelearning.apple.com/research/mlx-distributed-inference"
       ],
-      "oneliner": "Google is putting Gemini into Android Messages for scam detection, which makes on-device trust and false positives product-critical.",
+      "oneliner": "Meta's 816B Muse Spark Open runs on two Mac Studios, making frontier-scale local inference suddenly less absurd.",
       "emoji": "🤖"
     },
     {
-      "title": "Krea pushed image editing speed down",
+      "title": "Google launched Deep Review",
       "urls": [
-        "https://www.krea.ai/krea-3"
+        "https://www.research.google/blog/analyzing-technical-documents-with-deep-review/"
       ],
-      "oneliner": "Krea 3 claims 4x faster image editing at $0.135 per image, pushing creative tooling toward real-time iteration.",
+      "oneliner": "Google's Deep Review gives two free technical document reviews weekly, pushing automated paper and spec critique into normal workflows.",
       "emoji": "🧠"
     },
     {
-      "title": "Interpretability got a serious counterargument",
+      "title": "AI coding sped output but slowed review",
       "urls": [
-        "https://already-clean.goodfire.com/"
+        "https://fion.ac/jellyfish.pdf"
       ],
-      "oneliner": "Goodfire argues neural nets are cleaner than we thought, which could reset how teams approach mechanistic interpretability.",
+      "oneliner": "Harvard found coding agents raised output 30%, but review time jumped 49%, so velocity gains still hit human bottlenecks.",
       "emoji": "⚡"
     },
     {
-      "title": "Targeted ads became a spyware pipeline",
+      "title": "OpenBSD carried a 37-year-old root bug",
       "urls": [
-        "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/"
+        "https://calif.io/research/big-fish"
       ],
-      "oneliner": "Citizen Lab found zero-click spyware delivered through targeted ads across nearly 200,000 sites and apps.",
+      "oneliner": "Researchers turned a 37-year-old OpenBSD integer overflow into root access, proving old kernel assumptions still break modern defenses.",
       "emoji": "⚠️"
     },
     {
-      "title": "HTTP headers became an injection surface",
+      "title": "Epic's Linux anti-cheat looks bypassable",
       "urls": [
-        "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/"
+        "https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/"
       ],
-      "oneliner": "A scan of 217 million responses found AI-targeted headers on 7,959 sites, including prompt injection attempts.",
+      "oneliner": "Epic's new Linux anti-cheat leans on TPM attestation, but researchers say runtime resets can still fake trusted boots.",
       "emoji": "🔐"
     },
     {
-      "title": "States sued OpenAI over child safety",
+      "title": "Prompt traces can leak company secrets",
       "urls": [
-        "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-announces-lawsuit-against-openai-for-deceiving-iowa-parents-and-iowans"
+        "https://www.originhq.com/research/how-much-alpha-lives-in-your-ai-traces"
       ],
-      "oneliner": "Eight states sued OpenAI over alleged harms to children, raising real product liability pressure for consumer AI.",
-      "emoji": "🐛"
+      "oneliner": "Origin says models can recover private company rules from prompt traces, turning everyday AI logs into an exfiltration surface.",
+      "emoji": "🔍"
     },
     {
-      "title": "ASML warned chip demand will outrun supply",
+      "title": "ChatGPT ads can target prompt context",
       "urls": [
-        "https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026"
+        "https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email/",
+        "https://www.theneurondaily.com/p/october-16-friday-1362"
       ],
-      "oneliner": "ASML says AI chip demand may exceed its 2027 and 2028 plans, so compute scarcity is still the default assumption.",
-      "emoji": "🏭"
+      "oneliner": "404 Media showed ChatGPT ads can target by prompts, email, and phone-linked identity, collapsing the privacy fiction around chats.",
+      "emoji": "📊"
     },
     {
-      "title": "Libreboot added broad UEFI support",
+      "title": "Accenture capped Claude spending",
       "urls": [
-        "https://libreboot.org/news/libreboot2610.html"
+        "https://www.404media.co/accenture-tells-employees-they-can-now-spend-only-29-on-claude-per-month/"
       ],
-      "oneliner": "Libreboot 26.10 switched to EDK2 and added 233 Chromebook models, making open firmware less niche overnight.",
-      "emoji": "💻"
+      "oneliner": "Accenture now limits centrally paid Claude access to $29 per employee monthly, a clear sign AI usage bills are getting real.",
+      "emoji": "💰"
     },
     {
-      "title": "OpenCode moved to a background server",
+      "title": "Scraping pressure is forcing defensive internet economics",
       "urls": [
-        "https://anoma.ly/notes/opencode-2-0/"
+        "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+        "https://lars.ingebrigtsen.no/2026/10/16/are-ai-web-scrapers-patient-or-do-they-cheat/"
       ],
-      "oneliner": "OpenCode 2.0 adopted a client-server architecture with plugin hot reload, which makes automation and scheduled workflows much easier.",
-      "emoji": "🛠️"
-    },
-    {
-      "title": "UTC changes are becoming an engineering problem",
-      "urls": [
-        "https://www.bipm.org/en/cgpm-2026/resolution-5"
-      ],
-      "oneliner": "Standards bodies are preparing UTC changes by 2035, and every distributed system team should treat time as fragile infrastructure.",
+      "oneliner": "Meta's new terms and smarter scrapers are pushing publishers toward paywalls, because open web traffic is becoming impossible to trust.",
       "emoji": "📦"
+    },
+    {
+      "title": "Iroh reached 1.0 after leaving IPFS",
+      "urls": [
+        "https://www.iroh.computer/blog/the-road-to-iroh-1-0"
+      ],
+      "oneliner": "Iroh hit 1.0 by dropping strict IPFS compatibility, a pragmatic reminder that shipping often beats protocol purity.",
+      "emoji": "💻"
     }
   ],
   "keywords": [
-    "breached",
-    "surpassed",
-    "scarcity",
     "weaponized",
+    "surpassed",
+    "leaked",
     "autonomy",
+    "scraping",
     "consolidation",
-    "unchecked"
+    "reckoning"
   ],
   "tokenUsage": {
-    "promptTokens": 15882,
-    "completionTokens": 768,
-    "totalTokens": 16650,
-    "costUsd": 0.05122500000000001
+    "promptTokens": 22228,
+    "completionTokens": 784,
+    "totalTokens": 23012,
+    "costUsd": 0.06733
   }
 }

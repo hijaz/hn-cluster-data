@@ -1,94 +1,95 @@
 {
-  "date": "2026-10-15",
-  "generated_at": "2026-10-15T17:29:01.737636+00:00",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T17:04:02.342208+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 74,
+  "totalItemsConsidered": 107,
   "items": [
     {
-      "title": "Grid snapping for macOS windows",
+      "title": "AI plugin for KiCad PCB design",
       "urls": [
-        "https://github.com/konieczkow/gridsnap"
+        "https://github.com/mixelpixx/Konnect"
       ],
-      "oneliner": "Open-source macOS window snapper with presets, multi-display support, and Homebrew install for Divvy-style tiling."
+      "oneliner": "KiCad 10 plugin exposes 228 PCB design tools and live parts research for AI-assisted layout, routing, and review."
     },
     {
-      "title": "A skeuomorphic Linux desktop environment",
+      "title": "StarCraft benchmark for coding agents",
       "urls": [
-        "https://github.com/fyzugx/DEsk"
+        "https://starskirmish.com/bench/v0-2/"
       ],
-      "oneliner": "Wayland desktop with a Fedora installer, paper-like windows, and working beta code you can run today."
+      "oneliner": "Benchmark pits LLMs against StarCraft bot tasks, with win rates and cost data that help compare coding agents."
     },
     {
-      "title": "A fast Rust SSR framework",
+      "title": "Accessible web components you can ship",
       "urls": [
-        "https://proa.so/"
+        "https://tetralogical.com/blog/2026/10/14/accessible-components-library/"
       ],
-      "oneliner": "Rust web framework for multi-target rendering that claims 237x faster SSR than React in published benchmarks."
+      "oneliner": "Open component library ships accessible HTML, CSS, and JS patterns with WCAG 2.2 guidance and testable scenarios."
     },
     {
-      "title": "Libreboot adds broad UEFI support",
+      "title": "VS Code wiki with language server",
       "urls": [
-        "https://libreboot.org/news/libreboot2610.html"
+        "https://github.com/stepchowfun/mull"
       ],
-      "oneliner": "Source-available firmware release adds UEFI and support for 233 more Chromebook models via MrChromebox integration."
+      "oneliner": "Plain-text personal wiki for VS Code adds previews, formatting, syntax support, and backlink-style navigation."
     },
     {
-      "title": "A practical guide to C++26 contracts",
+      "title": "Physical piano synth in C++",
       "urls": [
-        "https://www.cppstories.com/2026/cpp26_contracts/"
+        "https://github.com/peterc/coopiano"
       ],
-      "oneliner": "Hands-on tutorial shows preconditions and postconditions in C++26 with syntax, semantics, and migration from asserts."
+      "oneliner": "C++17 piano synthesizer renders MIDI to stereo WAV using physical modeling instead of samples or external libraries."
     },
     {
-      "title": "Using AI to reverse engineer hardware",
+      "title": "Practical JPEG XL versus AVIF guide",
       "urls": [
-        "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/"
+        "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+        "https://giannirosato.com/blog/post/case-against-jxl/"
       ],
-      "oneliner": "Detailed walkthrough shows how AI helped build a Linux SANE driver and scanner app from captured hardware traces."
+      "oneliner": "Hands-on codec comparison shows AVIF usually wins on file size, speed, and memory for real web image workloads."
     },
     {
-      "title": "Prompt injection in HTTP headers",
+      "title": "Iroh reaches practical peer-to-peer file transfer",
       "urls": [
-        "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/"
+        "https://www.iroh.computer/blog/the-road-to-iroh-1-0"
       ],
-      "oneliner": "Large-scale study of 217 million responses shows how HTTP headers already influence AI agents and prompt injection risk."
+      "oneliner": "Deep engineering write-up explains how Iroh 1.0 uses QUIC and BLAKE3 to move large files across devices."
     },
     {
-      "title": "A kernel exploit from bad Wi-Fi",
+      "title": "JavaScript function calls without parentheses",
       "urls": [
-        "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/"
+        "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/"
       ],
-      "oneliner": "Deep technical writeup traces corrupted downloads to router behavior, then walks through building a working kernel exploit."
+      "oneliner": "Browser-console walkthrough shows a real technique for invoking JavaScript functions without parentheses using stack trace hooks."
     },
     {
-      "title": "OpenCode moves to client server",
+      "title": "ImageMagick tutorial for 88x31 buttons",
       "urls": [
-        "https://anoma.ly/notes/opencode-2-0/"
+        "https://k.sosnierz.me/08-11-24/"
       ],
-      "oneliner": "Developer tool update adds autodiscovered local services, scriptable clients, and hot-reloading plugins for automation workflows."
+      "oneliner": "Step-by-step ImageMagick guide turns text into animated 88x31 web buttons using POSIX tools and tiny bitmap fonts."
     },
     {
-      "title": "Anthropic explains adversarial code review",
+      "title": "IPv4 routing over IPv6 next hops",
       "urls": [
-        "https://www.anthropic.com/engineering/redesigning-source-control"
+        "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/"
       ],
-      "oneliner": "Engineering post details AI-against-AI code review patterns behind Anthropic's source control redesign for safer coding workflows."
+      "oneliner": "Clear RFC8950 lab guide shows how to announce IPv4 routes with IPv6 next hops in dual-stack networks."
     }
   ],
   "keywords": [
     "shipped",
-    "local",
     "blazing",
+    "offline",
     "open",
+    "local",
     "instant",
-    "replaced",
-    "unlocked"
+    "replaced"
   ],
   "tokenUsage": {
-    "promptTokens": 15707,
-    "completionTokens": 654,
-    "totalTokens": 16361,
-    "costUsd": 0.049077499999999996
+    "promptTokens": 22053,
+    "completionTokens": 677,
+    "totalTokens": 22730,
+    "costUsd": 0.0652875
   }
 }

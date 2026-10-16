@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T17:04:02.342208+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 107,
+  "items": [
+    {
+      "title": "AI plugin for KiCad PCB design",
+      "urls": [
+        "https://github.com/mixelpixx/Konnect"
+      ],
+      "oneliner": "KiCad 10 plugin exposes 228 PCB design tools and live parts research for AI-assisted layout, routing, and review."
+    },
+    {
+      "title": "StarCraft benchmark for coding agents",
+      "urls": [
+        "https://starskirmish.com/bench/v0-2/"
+      ],
+      "oneliner": "Benchmark pits LLMs against StarCraft bot tasks, with win rates and cost data that help compare coding agents."
+    },
+    {
+      "title": "Accessible web components you can ship",
+      "urls": [
+        "https://tetralogical.com/blog/2026/10/14/accessible-components-library/"
+      ],
+      "oneliner": "Open component library ships accessible HTML, CSS, and JS patterns with WCAG 2.2 guidance and testable scenarios."
+    },
+    {
+      "title": "VS Code wiki with language server",
+      "urls": [
+        "https://github.com/stepchowfun/mull"
+      ],
+      "oneliner": "Plain-text personal wiki for VS Code adds previews, formatting, syntax support, and backlink-style navigation."
+    },
+    {
+      "title": "Physical piano synth in C++",
+      "urls": [
+        "https://github.com/peterc/coopiano"
+      ],
+      "oneliner": "C++17 piano synthesizer renders MIDI to stereo WAV using physical modeling instead of samples or external libraries."
+    },
+    {
+      "title": "Practical JPEG XL versus AVIF guide",
+      "urls": [
+        "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+        "https://giannirosato.com/blog/post/case-against-jxl/"
+      ],
+      "oneliner": "Hands-on codec comparison shows AVIF usually wins on file size, speed, and memory for real web image workloads."
+    },
+    {
+      "title": "Iroh reaches practical peer-to-peer file transfer",
+      "urls": [
+        "https://www.iroh.computer/blog/the-road-to-iroh-1-0"
+      ],
+      "oneliner": "Deep engineering write-up explains how Iroh 1.0 uses QUIC and BLAKE3 to move large files across devices."
+    },
+    {
+      "title": "JavaScript function calls without parentheses",
+      "urls": [
+        "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/"
+      ],
+      "oneliner": "Browser-console walkthrough shows a real technique for invoking JavaScript functions without parentheses using stack trace hooks."
+    },
+    {
+      "title": "ImageMagick tutorial for 88x31 buttons",
+      "urls": [
+        "https://k.sosnierz.me/08-11-24/"
+      ],
+      "oneliner": "Step-by-step ImageMagick guide turns text into animated 88x31 web buttons using POSIX tools and tiny bitmap fonts."
+    },
+    {
+      "title": "IPv4 routing over IPv6 next hops",
+      "urls": [
+        "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/"
+      ],
+      "oneliner": "Clear RFC8950 lab guide shows how to announce IPv4 routes with IPv6 next hops in dual-stack networks."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "offline",
+    "open",
+    "local",
+    "instant",
+    "replaced"
+  ],
+  "tokenUsage": {
+    "promptTokens": 22053,
+    "completionTokens": 677,
+    "totalTokens": 22730,
+    "costUsd": 0.0652875
+  }
+}
