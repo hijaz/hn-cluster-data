@@ -1,80 +1,80 @@
 {
-  "date": "2026-10-16",
-  "generated_at": "2026-10-16T17:04:02.342208+00:00",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T15:40:49.020049+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 107,
+  "totalItemsConsidered": 37,
   "items": [
     {
-      "title": "AI plugin for KiCad PCB design",
+      "title": "ESP32 firmware runs in your browser",
       "urls": [
-        "https://github.com/mixelpixx/Konnect"
+        "https://github.com/mikroverk/esp32sim"
       ],
-      "oneliner": "KiCad 10 plugin exposes 228 PCB design tools and live parts research for AI-assisted layout, routing, and review."
+      "oneliner": "Browser emulator boots real ESP32 images with ROM and bootloader support, so you can test firmware without hardware."
     },
     {
-      "title": "StarCraft benchmark for coding agents",
+      "title": "Run GGUF models on PS5",
       "urls": [
-        "https://starskirmish.com/bench/v0-2/"
+        "https://github.com/cobanov/PS5LM"
       ],
-      "oneliner": "Benchmark pits LLMs against StarCraft bot tasks, with win rates and cost data that help compare coding agents."
+      "oneliner": "Jailbroken PS5 app runs llama.cpp models locally with Vulkan, OpenAI-compatible APIs, and 11.4 GB shared memory."
     },
     {
-      "title": "Accessible web components you can ship",
+      "title": "Distill a reasoning model yourself",
       "urls": [
-        "https://tetralogical.com/blog/2026/10/14/accessible-components-library/"
+        "https://www.youtube.com/watch?v=msp69FR5NZs"
       ],
-      "oneliner": "Open component library ships accessible HTML, CSS, and JS patterns with WCAG 2.2 guidance and testable scenarios."
+      "oneliner": "Hands-on video walks through teacher-student distillation, dataset prep, loss setup, and training loops for smaller reasoning models."
     },
     {
-      "title": "VS Code wiki with language server",
+      "title": "Understand PyTorch memory budget optimization",
       "urls": [
-        "https://github.com/stepchowfun/mull"
+        "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg"
       ],
-      "oneliner": "Plain-text personal wiki for VS Code adds previews, formatting, syntax support, and backlink-style navigation."
+      "oneliner": "Deep dive explains PyTorch's new knapsack-based memory planner that cuts peak RAM by up to 20x."
     },
     {
-      "title": "Physical piano synth in C++",
+      "title": "Use OpenRewrite recipes correctly",
       "urls": [
-        "https://github.com/peterc/coopiano"
+        "https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module"
       ],
-      "oneliner": "C++17 piano synthesizer renders MIDI to stereo WAV using physical modeling instead of samples or external libraries."
+      "oneliner": "Reference page maps current OpenRewrite modules, BOM usage, and recipe coordinates for large-scale automated code migrations."
     },
     {
-      "title": "Practical JPEG XL versus AVIF guide",
+      "title": "Build deterministic concurrent systems",
       "urls": [
-        "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-        "https://giannirosato.com/blog/post/case-against-jxl/"
+        "https://www.lf-lang.org/"
       ],
-      "oneliner": "Hands-on codec comparison shows AVIF usually wins on file size, speed, and memory for real web image workloads."
+      "oneliner": "Open source reactor framework targets C, Python, Rust, and TypeScript for race-free concurrent and distributed applications."
     },
     {
-      "title": "Iroh reaches practical peer-to-peer file transfer",
+      "title": "Deploy DeepSeek Flash multimodal weights",
       "urls": [
-        "https://www.iroh.computer/blog/the-road-to-iroh-1-0"
+        "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
       ],
-      "oneliner": "Deep engineering write-up explains how Iroh 1.0 uses QUIC and BLAKE3 to move large files across devices."
+      "oneliner": "Downloadable Hugging Face model includes Transformers, Colab, and Docker paths for running the latest DeepSeek Flash."
     },
     {
-      "title": "JavaScript function calls without parentheses",
+      "title": "Compare local LLM hardware speed",
       "urls": [
-        "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/"
+        "https://llmspeed.dev/"
       ],
-      "oneliner": "Browser-console walkthrough shows a real technique for invoking JavaScript functions without parentheses using stack trace hooks."
+      "oneliner": "Interactive benchmark explorer estimates tokens per second across CPUs, GPUs, and models before you buy local inference hardware."
     },
     {
-      "title": "ImageMagick tutorial for 88x31 buttons",
+      "title": "Map benchmarks to real work",
       "urls": [
-        "https://k.sosnierz.me/08-11-24/"
+        "https://www.mercor.com/research/labor-index/benchmark-map/"
       ],
-      "oneliner": "Step-by-step ImageMagick guide turns text into animated 88x31 web buttons using POSIX tools and tiny bitmap fonts."
+      "oneliner": "Benchmark map shows which occupations current AI evals actually cover, helping teams choose metrics closer to production tasks."
     },
     {
-      "title": "IPv4 routing over IPv6 next hops",
+      "title": "Learn Monte Carlo by coding",
       "urls": [
-        "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/"
+        "https://eli.thegreenplace.net/2026/monte-carlo-simulations/"
       ],
-      "oneliner": "Clear RFC8950 lab guide shows how to announce IPv4 routes with IPv6 next hops in dual-stack networks."
+      "oneliner": "Clear tutorial builds Monte Carlo estimators for pi, integration, and combinatorics with implementation details you can reuse."
     }
   ],
   "keywords": [
@@ -82,14 +82,14 @@
     "blazing",
     "offline",
     "open",
-    "local",
     "instant",
-    "replaced"
+    "embedded",
+    "unlocked"
   ],
   "tokenUsage": {
-    "promptTokens": 22053,
-    "completionTokens": 677,
-    "totalTokens": 22730,
-    "costUsd": 0.0652875
+    "promptTokens": 8388,
+    "completionTokens": 660,
+    "totalTokens": 9048,
+    "costUsd": 0.030869999999999998
   }
 }

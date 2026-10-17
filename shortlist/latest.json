@@ -1,107 +1,105 @@
 {
-  "date": "2026-10-16",
-  "generated_at": "2026-10-16T17:03:54.627509+00:00",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T15:40:41.815957+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 107,
+  "totalItemsConsidered": 37,
   "items": [
     {
-      "title": "Meta shipped an 816B open model",
+      "title": "DeepSeek shipped a faster multimodal Flash model",
       "urls": [
-        "https://research.meta.ai/blog/muse-spark-open",
-        "https://machinelearning.apple.com/research/mlx-distributed-inference"
+        "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
       ],
-      "oneliner": "Meta's 816B Muse Spark Open runs on two Mac Studios, making frontier-scale local inference suddenly less absurd.",
+      "oneliner": "DeepSeek's V4.1 Flash 1017 cuts KV cache to one quarter and claims stronger coding, reasoning, and vision at lower cost.",
       "emoji": "🤖"
     },
     {
-      "title": "Google launched Deep Review",
+      "title": "Black Forest Labs shrank image generation to laptops",
       "urls": [
-        "https://www.research.google/blog/analyzing-technical-documents-with-deep-review/"
+        "https://bfl.ai/blog/flux-3-image-klein"
       ],
-      "oneliner": "Google's Deep Review gives two free technical document reviews weekly, pushing automated paper and spec critique into normal workflows.",
+      "oneliner": "FLUX 3 Image Klein packs 5.6B parameters, 4K editing, and 4 second renders onto consumer GPUs.",
       "emoji": "🧠"
     },
     {
-      "title": "AI coding sped output but slowed review",
+      "title": "Ultramarine is pushing enterprise AI pricing down",
       "urls": [
-        "https://fion.ac/jellyfish.pdf"
+        "https://www.paperinstruments.com/ultramarine"
       ],
-      "oneliner": "Harvard found coding agents raised output 30%, but review time jumped 49%, so velocity gains still hit human bottlenecks.",
+      "oneliner": "Ultramarine 1 Flash claims $0.13 per task and 6.5% fewer tokens, turning efficiency into a direct pricing weapon.",
       "emoji": "⚡"
     },
     {
-      "title": "OpenBSD carried a 37-year-old root bug",
+      "title": "Claude found better quantum circuits",
       "urls": [
-        "https://calif.io/research/big-fish"
+        "https://www.anthropic.com/research/designing-efficient-quantum-circuits"
       ],
-      "oneliner": "Researchers turned a 37-year-old OpenBSD integer overflow into root access, proving old kernel assumptions still break modern defenses.",
-      "emoji": "⚠️"
-    },
-    {
-      "title": "Epic's Linux anti-cheat looks bypassable",
-      "urls": [
-        "https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/"
-      ],
-      "oneliner": "Epic's new Linux anti-cheat leans on TPM attestation, but researchers say runtime resets can still fake trusted boots.",
+      "oneliner": "Anthropic says Claude beat published quantum circuit designs, which matters because algorithmic gains can arrive before better hardware.",
       "emoji": "🔐"
     },
     {
-      "title": "Prompt traces can leak company secrets",
+      "title": "Ad tech was used to deliver spyware",
       "urls": [
-        "https://www.originhq.com/research/how-much-alpha-lives-in-your-ai-traces"
+        "https://pluralistic.net/2026/10/17/mercenary-spyware/#discover-tech"
       ],
-      "oneliner": "Origin says models can recover private company rules from prompt traces, turning everyday AI logs into an exfiltration surface.",
+      "oneliner": "Citizen Lab says mercenary spyware rode ad-tech pipes, a reminder that your ad stack can become an exploit chain.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "Claude solved a long-running crypto mystery",
+      "urls": [
+        "https://www.anthropic.com/research/ecdsa-curve-origins"
+      ],
+      "oneliner": "Claude traced NIST ECDSA curve seeds to lrand48 and Unix timestamps, closing a decades-old trust question in public cryptography.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "MapQuest exposed neighborhood surveillance camera locations",
+      "urls": [
+        "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/"
+      ],
+      "oneliner": "MapQuest now maps Flock and other street cameras, making local surveillance infrastructure visible instead of quietly ambient.",
       "emoji": "🔍"
     },
     {
-      "title": "ChatGPT ads can target prompt context",
+      "title": "PyTorch got a much leaner memory planner",
       "urls": [
-        "https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email/",
-        "https://www.theneurondaily.com/p/october-16-friday-1362"
+        "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg"
       ],
-      "oneliner": "404 Media showed ChatGPT ads can target by prompts, email, and phone-linked identity, collapsing the privacy fiction around chats.",
-      "emoji": "📊"
-    },
-    {
-      "title": "Accenture capped Claude spending",
-      "urls": [
-        "https://www.404media.co/accenture-tells-employees-they-can-now-spend-only-29-on-claude-per-month/"
-      ],
-      "oneliner": "Accenture now limits centrally paid Claude access to $29 per employee monthly, a clear sign AI usage bills are getting real.",
-      "emoji": "💰"
-    },
-    {
-      "title": "Scraping pressure is forcing defensive internet economics",
-      "urls": [
-        "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-        "https://lars.ingebrigtsen.no/2026/10/16/are-ai-web-scrapers-patient-or-do-they-cheat/"
-      ],
-      "oneliner": "Meta's new terms and smarter scrapers are pushing publishers toward paywalls, because open web traffic is becoming impossible to trust.",
-      "emoji": "📦"
-    },
-    {
-      "title": "Iroh reached 1.0 after leaving IPFS",
-      "urls": [
-        "https://www.iroh.computer/blog/the-road-to-iroh-1-0"
-      ],
-      "oneliner": "Iroh hit 1.0 by dropping strict IPFS compatibility, a pragmatic reminder that shipping often beats protocol purity.",
+      "oneliner": "A new PyTorch knapsack solver cuts peak RAM by up to 20x, which directly expands what fits on existing hardware.",
       "emoji": "💻"
+    },
+    {
+      "title": "ESP32 firmware now runs in the browser",
+      "urls": [
+        "https://github.com/mikroverk/esp32sim"
+      ],
+      "oneliner": "Esp32sim emulates real ESP32 firmware in-browser, which could collapse embedded debugging and demo loops from hours to minutes.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "AI benchmarks still miss most real work",
+      "urls": [
+        "https://www.mercor.com/research/labor-index/benchmark-map/"
+      ],
+      "oneliner": "Mercor says 90% of US working hours map poorly to AI benchmarks, so leaderboard wins still overstate business readiness.",
+      "emoji": "📊"
     }
   ],
   "keywords": [
     "weaponized",
     "surpassed",
+    "racing",
     "leaked",
     "autonomy",
-    "scraping",
-    "consolidation",
-    "reckoning"
+    "scarcity",
+    "consolidation"
   ],
   "tokenUsage": {
-    "promptTokens": 22228,
-    "completionTokens": 784,
-    "totalTokens": 23012,
-    "costUsd": 0.06733
+    "promptTokens": 8563,
+    "completionTokens": 799,
+    "totalTokens": 9362,
+    "costUsd": 0.0333925
   }
 }

@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T15:40:49.020049+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 37,
+  "items": [
+    {
+      "title": "ESP32 firmware runs in your browser",
+      "urls": [
+        "https://github.com/mikroverk/esp32sim"
+      ],
+      "oneliner": "Browser emulator boots real ESP32 images with ROM and bootloader support, so you can test firmware without hardware."
+    },
+    {
+      "title": "Run GGUF models on PS5",
+      "urls": [
+        "https://github.com/cobanov/PS5LM"
+      ],
+      "oneliner": "Jailbroken PS5 app runs llama.cpp models locally with Vulkan, OpenAI-compatible APIs, and 11.4 GB shared memory."
+    },
+    {
+      "title": "Distill a reasoning model yourself",
+      "urls": [
+        "https://www.youtube.com/watch?v=msp69FR5NZs"
+      ],
+      "oneliner": "Hands-on video walks through teacher-student distillation, dataset prep, loss setup, and training loops for smaller reasoning models."
+    },
+    {
+      "title": "Understand PyTorch memory budget optimization",
+      "urls": [
+        "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg"
+      ],
+      "oneliner": "Deep dive explains PyTorch's new knapsack-based memory planner that cuts peak RAM by up to 20x."
+    },
+    {
+      "title": "Use OpenRewrite recipes correctly",
+      "urls": [
+        "https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module"
+      ],
+      "oneliner": "Reference page maps current OpenRewrite modules, BOM usage, and recipe coordinates for large-scale automated code migrations."
+    },
+    {
+      "title": "Build deterministic concurrent systems",
+      "urls": [
+        "https://www.lf-lang.org/"
+      ],
+      "oneliner": "Open source reactor framework targets C, Python, Rust, and TypeScript for race-free concurrent and distributed applications."
+    },
+    {
+      "title": "Deploy DeepSeek Flash multimodal weights",
+      "urls": [
+        "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
+      ],
+      "oneliner": "Downloadable Hugging Face model includes Transformers, Colab, and Docker paths for running the latest DeepSeek Flash."
+    },
+    {
+      "title": "Compare local LLM hardware speed",
+      "urls": [
+        "https://llmspeed.dev/"
+      ],
+      "oneliner": "Interactive benchmark explorer estimates tokens per second across CPUs, GPUs, and models before you buy local inference hardware."
+    },
+    {
+      "title": "Map benchmarks to real work",
+      "urls": [
+        "https://www.mercor.com/research/labor-index/benchmark-map/"
+      ],
+      "oneliner": "Benchmark map shows which occupations current AI evals actually cover, helping teams choose metrics closer to production tasks."
+    },
+    {
+      "title": "Learn Monte Carlo by coding",
+      "urls": [
+        "https://eli.thegreenplace.net/2026/monte-carlo-simulations/"
+      ],
+      "oneliner": "Clear tutorial builds Monte Carlo estimators for pi, integration, and combinatorics with implementation details you can reuse."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "offline",
+    "open",
+    "instant",
+    "embedded",
+    "unlocked"
+  ],
+  "tokenUsage": {
+    "promptTokens": 8388,
+    "completionTokens": 660,
+    "totalTokens": 9048,
+    "costUsd": 0.030869999999999998
+  }
+}
