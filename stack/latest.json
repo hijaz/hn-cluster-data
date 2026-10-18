@@ -1,95 +1,94 @@
 {
-  "date": "2026-10-17",
-  "generated_at": "2026-10-17T15:40:49.020049+00:00",
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T16:14:22.507549+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 37,
+  "totalItemsConsidered": 66,
   "items": [
     {
-      "title": "ESP32 firmware runs in your browser",
+      "title": "Interactive refactors land in gopls",
       "urls": [
-        "https://github.com/mikroverk/esp32sim"
+        "https://go.dev/blog/interactive-refactoring"
       ],
-      "oneliner": "Browser emulator boots real ESP32 images with ROM and bootloader support, so you can test firmware without hardware."
+      "oneliner": "gopls now supports multi-step refactors in editors, making complex Go code transformations practical inside VS Code today."
     },
     {
-      "title": "Run GGUF models on PS5",
+      "title": "Themeable Mermaid rendering gets fast",
       "urls": [
-        "https://github.com/cobanov/PS5LM"
+        "https://pele.run/"
       ],
-      "oneliner": "Jailbroken PS5 app runs llama.cpp models locally with Vulkan, OpenAI-compatible APIs, and 11.4 GB shared memory."
+      "oneliner": "This library renders Mermaid diagrams as SVG up to 500 times faster, with CSS theming and no heavy runtime."
     },
     {
-      "title": "Distill a reasoning model yourself",
+      "title": "Cheap web search and fetch APIs",
       "urls": [
-        "https://www.youtube.com/watch?v=msp69FR5NZs"
+        "https://api-docs.deepseek.com/guides/search/"
       ],
-      "oneliner": "Hands-on video walks through teacher-student distillation, dataset prep, loss setup, and training loops for smaller reasoning models."
+      "oneliner": "DeepSeek exposes installable search and fetch APIs that return live results and Markdown pages for $0.75 per 1000 requests."
     },
     {
-      "title": "Understand PyTorch memory budget optimization",
+      "title": "Regex behavior becomes visually debuggable",
       "urls": [
-        "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg"
+        "https://www.regexmarblerun.com/"
       ],
-      "oneliner": "Deep dive explains PyTorch's new knapsack-based memory planner that cuts peak RAM by up to 20x."
+      "oneliner": "Interactive 3D regex visualizer shows backtracking, greedy loops, and match flow so you can debug patterns faster."
     },
     {
-      "title": "Use OpenRewrite recipes correctly",
+      "title": "Open micromanipulator reaches nanometer motion",
       "urls": [
-        "https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module"
+        "https://github.com/0x23/MicroManipulatorStepper"
       ],
-      "oneliner": "Reference page maps current OpenRewrite modules, BOM usage, and recipe coordinates for large-scale automated code migrations."
+      "oneliner": "Open-source 3D motion platform delivers roughly 50 nm steps with USB G-code control for optics, probing, and microscopy."
     },
     {
-      "title": "Build deterministic concurrent systems",
+      "title": "Lua gets practical static typing",
       "urls": [
-        "https://www.lf-lang.org/"
+        "https://teal-language.org/"
       ],
-      "oneliner": "Open source reactor framework targets C, Python, Rust, and TypeScript for race-free concurrent and distributed applications."
+      "oneliner": "Teal adds TypeScript-style type checking to Lua and compiles back to plain Lua for safer existing codebases."
     },
     {
-      "title": "Deploy DeepSeek Flash multimodal weights",
+      "title": "C++ condition variables explained correctly",
       "urls": [
-        "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
+        "https://sheep.horse/2026/10/c%2B%2B_condition_variables_-_the_basics.html"
       ],
-      "oneliner": "Downloadable Hugging Face model includes Transformers, Colab, and Docker paths for running the latest DeepSeek Flash."
+      "oneliner": "Hands-on guide shows why notify-before-wait breaks, and how predicate waits prevent subtle C++ threading deadlocks."
     },
     {
-      "title": "Compare local LLM hardware speed",
+      "title": "Parser combinators from first principles",
       "urls": [
-        "https://llmspeed.dev/"
+        "https://t3.at/blog/2026-10-17-parser-combinators/"
       ],
-      "oneliner": "Interactive benchmark explorer estimates tokens per second across CPUs, GPUs, and models before you buy local inference hardware."
+      "oneliner": "Concrete tutorial builds reusable parsers step by step, covering sequencing, mapping, whitespace, and error handling."
     },
     {
-      "title": "Map benchmarks to real work",
+      "title": "ARP troubleshooting becomes approachable",
       "urls": [
-        "https://www.mercor.com/research/labor-index/benchmark-map/"
+        "https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/"
       ],
-      "oneliner": "Benchmark map shows which occupations current AI evals actually cover, helping teams choose metrics closer to production tasks."
+      "oneliner": "Practical networking walkthrough explains ARP with arp-scan examples, spoofing pitfalls, and packet-level intuition for debugging LAN issues."
     },
     {
-      "title": "Learn Monte Carlo by coding",
+      "title": "Debugging DNS propagation systematically",
       "urls": [
-        "https://eli.thegreenplace.net/2026/monte-carlo-simulations/"
+        "https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/"
       ],
-      "oneliner": "Clear tutorial builds Monte Carlo estimators for pi, integration, and combinatorics with implementation details you can reuse."
+      "oneliner": "Detailed post shows how to instrument DNS propagation failures with real debugger output, state inspection, and failure-mode analysis."
     }
   ],
   "keywords": [
     "shipped",
     "blazing",
-    "offline",
-    "open",
     "instant",
+    "local",
+    "open",
     "embedded",
-    "unlocked"
+    "replaced"
   ],
   "tokenUsage": {
-    "promptTokens": 8388,
-    "completionTokens": 660,
-    "totalTokens": 9048,
-    "costUsd": 0.030869999999999998
+    "promptTokens": 15407,
+    "completionTokens": 670,
+    "totalTokens": 16077,
+    "costUsd": 0.0485675
   }
 }

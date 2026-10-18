@@ -1,105 +1,106 @@
 {
-  "date": "2026-10-17",
-  "generated_at": "2026-10-17T15:40:41.815957+00:00",
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T16:14:14.419308+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 37,
+  "totalItemsConsidered": 66,
   "items": [
     {
-      "title": "DeepSeek shipped a faster multimodal Flash model",
+      "title": "DeepSeek undercuts web search pricing",
       "urls": [
-        "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
+        "https://api-docs.deepseek.com/guides/search/",
+        "https://www.youtube.com/watch?v=hfLJq7XF_M0",
+        "https://www.youtube.com/watch?v=mhtOoTI6MM4"
       ],
-      "oneliner": "DeepSeek's V4.1 Flash 1017 cuts KV cache to one quarter and claims stronger coding, reasoning, and vision at lower cost.",
+      "oneliner": "DeepSeek priced live search and fetch at $0.75 per 1,000 requests, pushing retrieval costs toward commodity territory.",
       "emoji": "🤖"
     },
     {
-      "title": "Black Forest Labs shrank image generation to laptops",
+      "title": "Lean now ships verified kernels",
       "urls": [
-        "https://bfl.ai/blog/flux-3-image-klein"
+        "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/"
       ],
-      "oneliner": "FLUX 3 Image Klein packs 5.6B parameters, 4K editing, and 4 second renders onto consumer GPUs.",
+      "oneliner": "Lean 4.35.0 ships verified kernels, bringing formal guarantees closer to production tooling instead of research demos.",
       "emoji": "🧠"
     },
     {
-      "title": "Ultramarine is pushing enterprise AI pricing down",
+      "title": "Tao warns of a math split",
       "urls": [
-        "https://www.paperinstruments.com/ultramarine"
+        "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/"
       ],
-      "oneliner": "Ultramarine 1 Flash claims $0.13 per task and 6.5% fewer tokens, turning efficiency into a direct pricing weapon.",
+      "oneliner": "Terry Tao says LLMs could trigger a scientific golden age or a black-box dark age, depending on human oversight.",
       "emoji": "⚡"
     },
     {
-      "title": "Claude found better quantum circuits",
+      "title": "Researchers disclosed a KVM guest escape",
       "urls": [
-        "https://www.anthropic.com/research/designing-efficient-quantum-circuits"
+        "https://pwn.ai/blog/pwnescape"
       ],
-      "oneliner": "Anthropic says Claude beat published quantum circuit designs, which matters because algorithmic gains can arrive before better hardware.",
-      "emoji": "🔐"
-    },
-    {
-      "title": "Ad tech was used to deliver spyware",
-      "urls": [
-        "https://pluralistic.net/2026/10/17/mercenary-spyware/#discover-tech"
-      ],
-      "oneliner": "Citizen Lab says mercenary spyware rode ad-tech pipes, a reminder that your ad stack can become an exploit chain.",
+      "oneliner": "PwnEscape shows a guest-to-host KVM escape in Linux networking, a reminder that sandboxing still inherits kernel risk.",
       "emoji": "⚠️"
     },
     {
-      "title": "Claude solved a long-running crypto mystery",
+      "title": "Targeted ads delivered mercenary spyware",
       "urls": [
-        "https://www.anthropic.com/research/ecdsa-curve-origins"
+        "https://pxlnv.com/linklog/citizen-lab-adfection/"
       ],
-      "oneliner": "Claude traced NIST ECDSA curve seeds to lrand48 and Unix timestamps, closing a decades-old trust question in public cryptography.",
+      "oneliner": "Citizen Lab linked targeted ads to zero-click Candiru spyware on 45 Al Jazeera devices, making adtech a security boundary.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Trusted execution still has trust gaps",
+      "urls": [
+        "https://alinush.github.io//tee"
+      ],
+      "oneliner": "A fresh TEE critique argues attestation bugs and physical attacks keep SGX and SEV far shakier than vendors imply.",
       "emoji": "🐛"
     },
     {
-      "title": "MapQuest exposed neighborhood surveillance camera locations",
+      "title": "The NIST curve seed mystery ended",
       "urls": [
-        "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/"
+        "https://words.filippo.io/seeds-solved/"
       ],
-      "oneliner": "MapQuest now maps Flock and other street cameras, making local surveillance infrastructure visible instead of quietly ambient.",
+      "oneliner": "Researchers traced NIST elliptic curve seeds to drand48 plus Unix timestamps, removing one long-running cryptography suspicion.",
       "emoji": "🔍"
     },
     {
-      "title": "PyTorch got a much leaner memory planner",
+      "title": "Websites are blocking AI agents",
       "urls": [
-        "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg"
+        "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
       ],
-      "oneliner": "A new PyTorch knapsack solver cuts peak RAM by up to 20x, which directly expands what fits on existing hardware.",
-      "emoji": "💻"
+      "oneliner": "Sites are increasingly blocking AI agents, which means agentic products now need fallback plans for a hostile web.",
+      "emoji": "🌐"
     },
     {
-      "title": "ESP32 firmware now runs in the browser",
+      "title": "Go shipped interactive refactoring support",
       "urls": [
-        "https://github.com/mikroverk/esp32sim"
+        "https://go.dev/blog/interactive-refactoring"
       ],
-      "oneliner": "Esp32sim emulates real ESP32 firmware in-browser, which could collapse embedded debugging and demo loops from hours to minutes.",
+      "oneliner": "gopls added interactive refactoring and proposed an LSP pattern other languages can copy for safer large-scale edits.",
       "emoji": "🛠️"
     },
     {
-      "title": "AI benchmarks still miss most real work",
+      "title": "GNOME is turning its OS serious",
       "urls": [
-        "https://www.mercor.com/research/labor-index/benchmark-map/"
+        "https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/"
       ],
-      "oneliner": "Mercor says 90% of US working hours map poorly to AI benchmarks, so leaderboard wins still overstate business readiness.",
-      "emoji": "📊"
+      "oneliner": "GNOME OS Preview graduates from nightly experiment to stable preview, signaling a real push toward an end-user Linux platform.",
+      "emoji": "💻"
     }
   ],
   "keywords": [
     "weaponized",
     "surpassed",
-    "racing",
-    "leaked",
+    "cracked",
     "autonomy",
     "scarcity",
+    "blocked",
     "consolidation"
   ],
   "tokenUsage": {
-    "promptTokens": 8563,
-    "completionTokens": 799,
-    "totalTokens": 9362,
-    "costUsd": 0.0333925
+    "promptTokens": 15582,
+    "completionTokens": 770,
+    "totalTokens": 16352,
+    "costUsd": 0.050505
   }
 }

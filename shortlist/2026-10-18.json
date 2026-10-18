@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T16:14:14.419308+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 66,
+  "items": [
+    {
+      "title": "DeepSeek undercuts web search pricing",
+      "urls": [
+        "https://api-docs.deepseek.com/guides/search/",
+        "https://www.youtube.com/watch?v=hfLJq7XF_M0",
+        "https://www.youtube.com/watch?v=mhtOoTI6MM4"
+      ],
+      "oneliner": "DeepSeek priced live search and fetch at $0.75 per 1,000 requests, pushing retrieval costs toward commodity territory.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "Lean now ships verified kernels",
+      "urls": [
+        "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/"
+      ],
+      "oneliner": "Lean 4.35.0 ships verified kernels, bringing formal guarantees closer to production tooling instead of research demos.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "Tao warns of a math split",
+      "urls": [
+        "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/"
+      ],
+      "oneliner": "Terry Tao says LLMs could trigger a scientific golden age or a black-box dark age, depending on human oversight.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "Researchers disclosed a KVM guest escape",
+      "urls": [
+        "https://pwn.ai/blog/pwnescape"
+      ],
+      "oneliner": "PwnEscape shows a guest-to-host KVM escape in Linux networking, a reminder that sandboxing still inherits kernel risk.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "Targeted ads delivered mercenary spyware",
+      "urls": [
+        "https://pxlnv.com/linklog/citizen-lab-adfection/"
+      ],
+      "oneliner": "Citizen Lab linked targeted ads to zero-click Candiru spyware on 45 Al Jazeera devices, making adtech a security boundary.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Trusted execution still has trust gaps",
+      "urls": [
+        "https://alinush.github.io//tee"
+      ],
+      "oneliner": "A fresh TEE critique argues attestation bugs and physical attacks keep SGX and SEV far shakier than vendors imply.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "The NIST curve seed mystery ended",
+      "urls": [
+        "https://words.filippo.io/seeds-solved/"
+      ],
+      "oneliner": "Researchers traced NIST elliptic curve seeds to drand48 plus Unix timestamps, removing one long-running cryptography suspicion.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "Websites are blocking AI agents",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
+      ],
+      "oneliner": "Sites are increasingly blocking AI agents, which means agentic products now need fallback plans for a hostile web.",
+      "emoji": "🌐"
+    },
+    {
+      "title": "Go shipped interactive refactoring support",
+      "urls": [
+        "https://go.dev/blog/interactive-refactoring"
+      ],
+      "oneliner": "gopls added interactive refactoring and proposed an LSP pattern other languages can copy for safer large-scale edits.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "GNOME is turning its OS serious",
+      "urls": [
+        "https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/"
+      ],
+      "oneliner": "GNOME OS Preview graduates from nightly experiment to stable preview, signaling a real push toward an end-user Linux platform.",
+      "emoji": "💻"
+    }
+  ],
+  "keywords": [
+    "weaponized",
+    "surpassed",
+    "cracked",
+    "autonomy",
+    "scarcity",
+    "blocked",
+    "consolidation"
+  ],
+  "tokenUsage": {
+    "promptTokens": 15582,
+    "completionTokens": 770,
+    "totalTokens": 16352,
+    "costUsd": 0.050505
+  }
+}
