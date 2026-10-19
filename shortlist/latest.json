@@ -1,91 +1,90 @@
 {
-  "date": "2026-10-18",
-  "generated_at": "2026-10-18T16:14:14.419308+00:00",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T19:06:06.746750+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 66,
+  "totalItemsConsidered": 86,
   "items": [
     {
-      "title": "DeepSeek undercuts web search pricing",
+      "title": "Mercury 3 makes diffusion models credible",
       "urls": [
-        "https://api-docs.deepseek.com/guides/search/",
-        "https://www.youtube.com/watch?v=hfLJq7XF_M0",
-        "https://www.youtube.com/watch?v=mhtOoTI6MM4"
+        "https://www.inceptionlabs.ai/blog/introducing-mercury-3"
       ],
-      "oneliner": "DeepSeek priced live search and fetch at $0.75 per 1,000 requests, pushing retrieval costs toward commodity territory.",
+      "oneliner": "Mercury 3 claims 1,068 tokens per second and 1M context. Diffusion LLMs just became a real serving option.",
       "emoji": "🤖"
     },
     {
-      "title": "Lean now ships verified kernels",
+      "title": "Mistral ships a compact forecasting model",
       "urls": [
-        "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/"
+        "https://mistral.ai/news/timestral/"
       ],
-      "oneliner": "Lean 4.35.0 ships verified kernels, bringing formal guarantees closer to production tooling instead of research demos.",
+      "oneliner": "Mistral's 209M-parameter Timestral beats larger time-series models on public benchmarks. Specialized foundation models are getting brutally efficient.",
       "emoji": "🧠"
     },
     {
-      "title": "Tao warns of a math split",
+      "title": "MiniMax cuts agent costs sharply",
       "urls": [
-        "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/"
+        "https://www.minimax.io/blog/minimax-m31f"
       ],
-      "oneliner": "Terry Tao says LLMs could trigger a scientific golden age or a black-box dark age, depending on human oversight.",
+      "oneliner": "MiniMax says M3.1 Flash is 3x faster and 70% cheaper. Agent economics are starting to matter more than demos.",
       "emoji": "⚡"
     },
     {
-      "title": "Researchers disclosed a KVM guest escape",
+      "title": "DeepSeek pushes agent pricing lower",
       "urls": [
-        "https://pwn.ai/blog/pwnescape"
+        "https://api-docs.deepseek.com/guides/search/",
+        "https://www.theneurondaily.com/p/deepseek-s-free-model-edged-opus-5-at-coding"
       ],
-      "oneliner": "PwnEscape shows a guest-to-host KVM escape in Linux networking, a reminder that sandboxing still inherits kernel risk.",
+      "oneliner": "DeepSeek opened Search and Fetch at $0.75 per 1,000 requests. Cheap retrieval is becoming table stakes for agents.",
+      "emoji": "📊"
+    },
+    {
+      "title": "Plex bugs are already being exploited",
+      "urls": [
+        "http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html"
+      ],
+      "oneliner": "Attackers are chaining recent Plex flaws to drop cryptominers. Unpatched media servers are now easy initial access points.",
       "emoji": "⚠️"
     },
     {
-      "title": "Targeted ads delivered mercenary spyware",
+      "title": "Cairn exposes AI cyber operations",
       "urls": [
-        "https://pxlnv.com/linklog/citizen-lab-adfection/"
+        "https://norforge.com/blog/inside_cairn"
       ],
-      "oneliner": "Citizen Lab linked targeted ads to zero-click Candiru spyware on 45 Al Jazeera devices, making adtech a security boundary.",
+      "oneliner": "Researchers found 20-plus exposed Cairn panels automating targeting, exploitation, and persistence. Offensive AI ops are already operationally messy and real.",
       "emoji": "🔐"
     },
     {
-      "title": "Trusted execution still has trust gaps",
+      "title": "Let's Encrypt adds more validation viewpoints",
       "urls": [
-        "https://alinush.github.io//tee"
+        "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166"
       ],
-      "oneliner": "A fresh TEE critique argues attestation bugs and physical attacks keep SGX and SEV far shakier than vendors imply.",
-      "emoji": "🐛"
-    },
-    {
-      "title": "The NIST curve seed mystery ended",
-      "urls": [
-        "https://words.filippo.io/seeds-solved/"
-      ],
-      "oneliner": "Researchers traced NIST elliptic curve seeds to drand48 plus Unix timestamps, removing one long-running cryptography suspicion.",
+      "oneliner": "Let's Encrypt is moving to seven validation requests across remote perspectives. BGP hijacks just got harder to turn into bad certificates.",
       "emoji": "🔍"
     },
     {
-      "title": "Websites are blocking AI agents",
+      "title": "GitHub Actions had a rough day",
       "urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
+        "https://www.githubstatus.com/incidents/8tzbpcnl75jp"
       ],
-      "oneliner": "Sites are increasingly blocking AI agents, which means agentic products now need fallback plans for a hostile web.",
-      "emoji": "🌐"
+      "oneliner": "GitHub degraded Actions, Pages, and Webhooks with delayed workflows and builds. Your CI dependency chain is still a single point of pain.",
+      "emoji": "🐛"
     },
     {
-      "title": "Go shipped interactive refactoring support",
+      "title": "KiviDB targets Redis with vector search",
       "urls": [
-        "https://go.dev/blog/interactive-refactoring"
+        "https://github.com/kividbio/kividb"
       ],
-      "oneliner": "gopls added interactive refactoring and proposed an LSP pattern other languages can copy for safer large-scale edits.",
-      "emoji": "🛠️"
-    },
-    {
-      "title": "GNOME is turning its OS serious",
-      "urls": [
-        "https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/"
-      ],
-      "oneliner": "GNOME OS Preview graduates from nightly experiment to stable preview, signaling a real push toward an end-user Linux platform.",
+      "oneliner": "KiviDB claims 21 million pipelined GETs per second with Redis compatibility. The memory database layer is fragmenting fast.",
       "emoji": "💻"
+    },
+    {
+      "title": "A new profiler explains build bottlenecks",
+      "urls": [
+        "https://lalitm.com/post/buildprof/"
+      ],
+      "oneliner": "Buildprof traced Bun compile times and showed LTO choices mattered more than language. Tooling still beats intuition on performance.",
+      "emoji": "🛠️"
     }
   ],
   "keywords": [
@@ -94,13 +93,13 @@
     "cracked",
     "autonomy",
     "scarcity",
-    "blocked",
+    "leaked",
     "consolidation"
   ],
   "tokenUsage": {
-    "promptTokens": 15582,
-    "completionTokens": 770,
-    "totalTokens": 16352,
-    "costUsd": 0.050505
+    "promptTokens": 18690,
+    "completionTokens": 804,
+    "totalTokens": 19494,
+    "costUsd": 0.058785
   }
 }

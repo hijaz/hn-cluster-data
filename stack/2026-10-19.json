@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T19:06:13.866791+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 86,
+  "items": [
+    {
+      "title": "Redis-compatible vector database in Rust",
+      "urls": [
+        "https://github.com/kividbio/kividb"
+      ],
+      "oneliner": "Rust in-memory database hits 21M pipelined GETs per second and adds built-in vector and full-text search."
+    },
+    {
+      "title": "Android apps run natively on Macs",
+      "urls": [
+        "https://github.com/kksimp/Mac.apk"
+      ],
+      "oneliner": "Open-source runtime launches Android apps as native macOS processes on Apple Silicon, without emulators or virtual machines."
+    },
+    {
+      "title": "Linux build profiler for compile bottlenecks",
+      "urls": [
+        "https://lalitm.com/post/buildprof/"
+      ],
+      "oneliner": "Trace Linux builds to find wasted parallelism, redundant work, and the exact steps slowing Rust or C++ compiles."
+    },
+    {
+      "title": "Search and fetch tools for agents",
+      "urls": [
+        "https://api-docs.deepseek.com/guides/search/"
+      ],
+      "oneliner": "Public APIs let agents search the web and fetch pages as Markdown for tool-using workflows today."
+    },
+    {
+      "title": "Open-source phonics reading app",
+      "urls": [
+        "https://github.com/finereli/yarareads"
+      ],
+      "oneliner": "Parent-built reading app gives tap-to-sound phonics help and customizable stories for early readers."
+    },
+    {
+      "title": "Kindle 4 jailbreak walkthrough",
+      "urls": [
+        "https://dvdkon.ggu.cz/articles/jailbreaking-kindle-4/"
+      ],
+      "oneliner": "Step-by-step guide shows how to jailbreak a Kindle 4 and install custom software like KOReader."
+    },
+    {
+      "title": "BEAM binary optimization patterns",
+      "urls": [
+        "https://blog.dnsimple.com/2026/10/making-dns-erlang-fast/"
+      ],
+      "oneliner": "Real Erlang optimization case study shows binary parsing changes that cut CPU 12 percent and raise throughput 14 percent."
+    },
+    {
+      "title": "S3 routing benchmark with sticky hashing",
+      "urls": [
+        "https://tanso.net/posts/ces-s3-sticky-routing-analysis.html"
+      ],
+      "oneliner": "Bucket-sticky routing lifted PUT throughput 1.31x and cut average latency from 41 ms to 31 ms."
+    },
+    {
+      "title": "Inline rendering with currentScript",
+      "urls": [
+        "https://leanrada.com/notes/inline-rendering-currentscript/"
+      ],
+      "oneliner": "Lightweight browser technique injects dynamic HTML inline without a framework, using standard document.currentScript."
+    },
+    {
+      "title": "Open-source NetNewsWire editorial theme",
+      "urls": [
+        "https://ember.marquard.org/"
+      ],
+      "oneliner": "Installable NetNewsWire theme adds magazine-style typography, footnote popups, and polished light and dark reading modes."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "offline",
+    "open",
+    "local",
+    "instant",
+    "unlocked"
+  ],
+  "tokenUsage": {
+    "promptTokens": 18515,
+    "completionTokens": 653,
+    "totalTokens": 19168,
+    "costUsd": 0.0560825
+  }
+}

@@ -1,94 +1,94 @@
 {
-  "date": "2026-10-18",
-  "generated_at": "2026-10-18T16:14:22.507549+00:00",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T19:06:13.866791+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 66,
+  "totalItemsConsidered": 86,
   "items": [
     {
-      "title": "Interactive refactors land in gopls",
+      "title": "Redis-compatible vector database in Rust",
       "urls": [
-        "https://go.dev/blog/interactive-refactoring"
+        "https://github.com/kividbio/kividb"
       ],
-      "oneliner": "gopls now supports multi-step refactors in editors, making complex Go code transformations practical inside VS Code today."
+      "oneliner": "Rust in-memory database hits 21M pipelined GETs per second and adds built-in vector and full-text search."
     },
     {
-      "title": "Themeable Mermaid rendering gets fast",
+      "title": "Android apps run natively on Macs",
       "urls": [
-        "https://pele.run/"
+        "https://github.com/kksimp/Mac.apk"
       ],
-      "oneliner": "This library renders Mermaid diagrams as SVG up to 500 times faster, with CSS theming and no heavy runtime."
+      "oneliner": "Open-source runtime launches Android apps as native macOS processes on Apple Silicon, without emulators or virtual machines."
     },
     {
-      "title": "Cheap web search and fetch APIs",
+      "title": "Linux build profiler for compile bottlenecks",
+      "urls": [
+        "https://lalitm.com/post/buildprof/"
+      ],
+      "oneliner": "Trace Linux builds to find wasted parallelism, redundant work, and the exact steps slowing Rust or C++ compiles."
+    },
+    {
+      "title": "Search and fetch tools for agents",
       "urls": [
         "https://api-docs.deepseek.com/guides/search/"
       ],
-      "oneliner": "DeepSeek exposes installable search and fetch APIs that return live results and Markdown pages for $0.75 per 1000 requests."
+      "oneliner": "Public APIs let agents search the web and fetch pages as Markdown for tool-using workflows today."
     },
     {
-      "title": "Regex behavior becomes visually debuggable",
+      "title": "Open-source phonics reading app",
       "urls": [
-        "https://www.regexmarblerun.com/"
+        "https://github.com/finereli/yarareads"
       ],
-      "oneliner": "Interactive 3D regex visualizer shows backtracking, greedy loops, and match flow so you can debug patterns faster."
+      "oneliner": "Parent-built reading app gives tap-to-sound phonics help and customizable stories for early readers."
     },
     {
-      "title": "Open micromanipulator reaches nanometer motion",
+      "title": "Kindle 4 jailbreak walkthrough",
       "urls": [
-        "https://github.com/0x23/MicroManipulatorStepper"
+        "https://dvdkon.ggu.cz/articles/jailbreaking-kindle-4/"
       ],
-      "oneliner": "Open-source 3D motion platform delivers roughly 50 nm steps with USB G-code control for optics, probing, and microscopy."
+      "oneliner": "Step-by-step guide shows how to jailbreak a Kindle 4 and install custom software like KOReader."
     },
     {
-      "title": "Lua gets practical static typing",
+      "title": "BEAM binary optimization patterns",
       "urls": [
-        "https://teal-language.org/"
+        "https://blog.dnsimple.com/2026/10/making-dns-erlang-fast/"
       ],
-      "oneliner": "Teal adds TypeScript-style type checking to Lua and compiles back to plain Lua for safer existing codebases."
+      "oneliner": "Real Erlang optimization case study shows binary parsing changes that cut CPU 12 percent and raise throughput 14 percent."
     },
     {
-      "title": "C++ condition variables explained correctly",
+      "title": "S3 routing benchmark with sticky hashing",
       "urls": [
-        "https://sheep.horse/2026/10/c%2B%2B_condition_variables_-_the_basics.html"
+        "https://tanso.net/posts/ces-s3-sticky-routing-analysis.html"
       ],
-      "oneliner": "Hands-on guide shows why notify-before-wait breaks, and how predicate waits prevent subtle C++ threading deadlocks."
+      "oneliner": "Bucket-sticky routing lifted PUT throughput 1.31x and cut average latency from 41 ms to 31 ms."
     },
     {
-      "title": "Parser combinators from first principles",
+      "title": "Inline rendering with currentScript",
       "urls": [
-        "https://t3.at/blog/2026-10-17-parser-combinators/"
+        "https://leanrada.com/notes/inline-rendering-currentscript/"
       ],
-      "oneliner": "Concrete tutorial builds reusable parsers step by step, covering sequencing, mapping, whitespace, and error handling."
+      "oneliner": "Lightweight browser technique injects dynamic HTML inline without a framework, using standard document.currentScript."
     },
     {
-      "title": "ARP troubleshooting becomes approachable",
+      "title": "Open-source NetNewsWire editorial theme",
       "urls": [
-        "https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/"
+        "https://ember.marquard.org/"
       ],
-      "oneliner": "Practical networking walkthrough explains ARP with arp-scan examples, spoofing pitfalls, and packet-level intuition for debugging LAN issues."
-    },
-    {
-      "title": "Debugging DNS propagation systematically",
-      "urls": [
-        "https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/"
-      ],
-      "oneliner": "Detailed post shows how to instrument DNS propagation failures with real debugger output, state inspection, and failure-mode analysis."
+      "oneliner": "Installable NetNewsWire theme adds magazine-style typography, footnote popups, and polished light and dark reading modes."
     }
   ],
   "keywords": [
     "shipped",
     "blazing",
-    "instant",
-    "local",
+    "offline",
     "open",
-    "embedded",
-    "replaced"
+    "local",
+    "instant",
+    "unlocked"
   ],
   "tokenUsage": {
-    "promptTokens": 15407,
-    "completionTokens": 670,
-    "totalTokens": 16077,
-    "costUsd": 0.0485675
+    "promptTokens": 18515,
+    "completionTokens": 653,
+    "totalTokens": 19168,
+    "costUsd": 0.0560825
   }
 }

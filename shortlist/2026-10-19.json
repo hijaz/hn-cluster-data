@@ -1,0 +1,105 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T19:06:06.746750+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 86,
+  "items": [
+    {
+      "title": "Mercury 3 makes diffusion models credible",
+      "urls": [
+        "https://www.inceptionlabs.ai/blog/introducing-mercury-3"
+      ],
+      "oneliner": "Mercury 3 claims 1,068 tokens per second and 1M context. Diffusion LLMs just became a real serving option.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "Mistral ships a compact forecasting model",
+      "urls": [
+        "https://mistral.ai/news/timestral/"
+      ],
+      "oneliner": "Mistral's 209M-parameter Timestral beats larger time-series models on public benchmarks. Specialized foundation models are getting brutally efficient.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "MiniMax cuts agent costs sharply",
+      "urls": [
+        "https://www.minimax.io/blog/minimax-m31f"
+      ],
+      "oneliner": "MiniMax says M3.1 Flash is 3x faster and 70% cheaper. Agent economics are starting to matter more than demos.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "DeepSeek pushes agent pricing lower",
+      "urls": [
+        "https://api-docs.deepseek.com/guides/search/",
+        "https://www.theneurondaily.com/p/deepseek-s-free-model-edged-opus-5-at-coding"
+      ],
+      "oneliner": "DeepSeek opened Search and Fetch at $0.75 per 1,000 requests. Cheap retrieval is becoming table stakes for agents.",
+      "emoji": "📊"
+    },
+    {
+      "title": "Plex bugs are already being exploited",
+      "urls": [
+        "http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html"
+      ],
+      "oneliner": "Attackers are chaining recent Plex flaws to drop cryptominers. Unpatched media servers are now easy initial access points.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "Cairn exposes AI cyber operations",
+      "urls": [
+        "https://norforge.com/blog/inside_cairn"
+      ],
+      "oneliner": "Researchers found 20-plus exposed Cairn panels automating targeting, exploitation, and persistence. Offensive AI ops are already operationally messy and real.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Let's Encrypt adds more validation viewpoints",
+      "urls": [
+        "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166"
+      ],
+      "oneliner": "Let's Encrypt is moving to seven validation requests across remote perspectives. BGP hijacks just got harder to turn into bad certificates.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "GitHub Actions had a rough day",
+      "urls": [
+        "https://www.githubstatus.com/incidents/8tzbpcnl75jp"
+      ],
+      "oneliner": "GitHub degraded Actions, Pages, and Webhooks with delayed workflows and builds. Your CI dependency chain is still a single point of pain.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "KiviDB targets Redis with vector search",
+      "urls": [
+        "https://github.com/kividbio/kividb"
+      ],
+      "oneliner": "KiviDB claims 21 million pipelined GETs per second with Redis compatibility. The memory database layer is fragmenting fast.",
+      "emoji": "💻"
+    },
+    {
+      "title": "A new profiler explains build bottlenecks",
+      "urls": [
+        "https://lalitm.com/post/buildprof/"
+      ],
+      "oneliner": "Buildprof traced Bun compile times and showed LTO choices mattered more than language. Tooling still beats intuition on performance.",
+      "emoji": "🛠️"
+    }
+  ],
+  "keywords": [
+    "weaponized",
+    "surpassed",
+    "cracked",
+    "autonomy",
+    "scarcity",
+    "leaked",
+    "consolidation"
+  ],
+  "tokenUsage": {
+    "promptTokens": 18690,
+    "completionTokens": 804,
+    "totalTokens": 19494,
+    "costUsd": 0.058785
+  }
+}
