@@ -1,94 +1,94 @@
 {
-  "date": "2026-10-19",
-  "generated_at": "2026-10-19T19:06:13.866791+00:00",
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T17:03:22.671777+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 86,
+  "totalItemsConsidered": 47,
   "items": [
     {
-      "title": "Redis-compatible vector database in Rust",
+      "title": "PyTorch runs natively on TPUs",
       "urls": [
-        "https://github.com/kividbio/kividb"
+        "https://github.com/google-pytorch/torch_tpu"
       ],
-      "oneliner": "Rust in-memory database hits 21M pipelined GETs per second and adds built-in vector and full-text search."
+      "oneliner": "Native PyTorch TPU backend with custom kernels and compile caching for distributed training without XLA glue code."
     },
     {
-      "title": "Android apps run natively on Macs",
+      "title": "DeepSeek released a production inference engine",
       "urls": [
-        "https://github.com/kksimp/Mac.apk"
+        "https://github.com/deepseek-ai/DeepInfer"
       ],
-      "oneliner": "Open-source runtime launches Android apps as native macOS processes on Apple Silicon, without emulators or virtual machines."
+      "oneliner": "Open inference engine for NVIDIA and Ascend with parallel scheduling and batch-invariant serving tuned for large offline deployments."
     },
     {
-      "title": "Linux build profiler for compile bottlenecks",
+      "title": "MCP tools get memory-only isolation",
       "urls": [
-        "https://lalitm.com/post/buildprof/"
+        "https://github.com/rohan-protocol/sdk"
       ],
-      "oneliner": "Trace Linux builds to find wasted parallelism, redundant work, and the exact steps slowing Rust or C++ compiles."
+      "oneliner": "Open SDK keeps MCP tool inputs out of model context windows using in-memory isolation and zeroization."
     },
     {
-      "title": "Search and fetch tools for agents",
+      "title": "Dark web OSINT becomes graph-first",
       "urls": [
-        "https://api-docs.deepseek.com/guides/search/"
+        "https://github.com/KatrielMoses/voidaccess"
       ],
-      "oneliner": "Public APIs let agents search the web and fetch pages as Markdown for tool-using workflows today."
+      "oneliner": "Open-source OSINT tool turns dark web queries into crawlable graphs for investigators who need structured leads fast."
     },
     {
-      "title": "Open-source phonics reading app",
+      "title": "Handwritten math gets live AI feedback",
       "urls": [
-        "https://github.com/finereli/yarareads"
+        "https://github.com/AbdullahAlhariri/penmentor"
       ],
-      "oneliner": "Parent-built reading app gives tap-to-sound phonics help and customizable stories for early readers."
+      "oneliner": "Xournal++ plugin marks up handwritten math with hints, error circles, and animations using Claude or Codex."
     },
     {
-      "title": "Kindle 4 jailbreak walkthrough",
+      "title": "Brand assets plug into MCP clients",
       "urls": [
-        "https://dvdkon.ggu.cz/articles/jailbreaking-kindle-4/"
+        "https://www.logo.dev/docs/mcp/introduction"
       ],
-      "oneliner": "Step-by-step guide shows how to jailbreak a Kindle 4 and install custom software like KOReader."
+      "oneliner": "MCP server for Claude, Cursor, VS Code, and Codex fetches logos and brand data inside your workflow."
     },
     {
-      "title": "BEAM binary optimization patterns",
+      "title": "Android apps run without Play Services",
       "urls": [
-        "https://blog.dnsimple.com/2026/10/making-dns-erlang-fast/"
+        "https://github.com/microg/GmsCore/wiki"
       ],
-      "oneliner": "Real Erlang optimization case study shows binary parsing changes that cut CPU 12 percent and raise throughput 14 percent."
+      "oneliner": "Free Play Services replacement lets AOSP and LineageOS devices run Google-dependent apps with less tracking and bloat."
     },
     {
-      "title": "S3 routing benchmark with sticky hashing",
+      "title": "A coder font you can regenerate",
       "urls": [
-        "https://tanso.net/posts/ces-s3-sticky-routing-analysis.html"
+        "https://github.com/tywr/Nordwand-Mono"
       ],
-      "oneliner": "Bucket-sticky routing lifted PUT throughput 1.31x and cut average latency from 41 ms to 31 ms."
+      "oneliner": "Open monospace font includes alternates, ligatures, and Python-based generation so developers can build their own variant."
     },
     {
-      "title": "Inline rendering with currentScript",
+      "title": "OpenBSD 8.0 is ready to install",
       "urls": [
-        "https://leanrada.com/notes/inline-rendering-currentscript/"
+        "https://www.openbsd.org/80.html"
       ],
-      "oneliner": "Lightweight browser technique injects dynamic HTML inline without a framework, using standard document.currentScript."
+      "oneliner": "Fresh OpenBSD release adds arm64 hibernate, larger amd64 address space, and faster AES swap encryption."
     },
     {
-      "title": "Open-source NetNewsWire editorial theme",
+      "title": "Vision model quiz ships with code",
       "urls": [
-        "https://ember.marquard.org/"
+        "https://jevcards.com"
       ],
-      "oneliner": "Installable NetNewsWire theme adds magazine-style typography, footnote popups, and polished light and dark reading modes."
+      "oneliner": "Playable image quiz pits humans against a vision model, and the linked code shows how the classifier works."
     }
   ],
   "keywords": [
     "shipped",
     "blazing",
     "offline",
-    "open",
     "local",
+    "open",
     "instant",
     "unlocked"
   ],
   "tokenUsage": {
-    "promptTokens": 18515,
-    "completionTokens": 653,
-    "totalTokens": 19168,
-    "costUsd": 0.0560825
+    "promptTokens": 9370,
+    "completionTokens": 656,
+    "totalTokens": 10026,
+    "costUsd": 0.033265
   }
 }

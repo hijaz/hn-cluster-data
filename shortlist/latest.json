@@ -1,105 +1,105 @@
 {
-  "date": "2026-10-19",
-  "generated_at": "2026-10-19T19:06:06.746750+00:00",
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T17:03:13.794066+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 86,
+  "totalItemsConsidered": 47,
   "items": [
     {
-      "title": "Mercury 3 makes diffusion models credible",
+      "title": "Mistral shipped a real-time voice stack",
       "urls": [
-        "https://www.inceptionlabs.ai/blog/introducing-mercury-3"
+        "https://mistral.ai/news/voxtral-3/"
       ],
-      "oneliner": "Mercury 3 claims 1,068 tokens per second and 1M context. Diffusion LLMs just became a real serving option.",
+      "oneliner": "Mistral's Voxtral 3 adds multilingual real-time voice agents, pushing speech from demo feature to production interface.",
       "emoji": "🤖"
     },
     {
-      "title": "Mistral ships a compact forecasting model",
+      "title": "Google opened PyTorch access to TPUs",
       "urls": [
-        "https://mistral.ai/news/timestral/"
+        "https://github.com/google-pytorch/torch_tpu"
       ],
-      "oneliner": "Mistral's 209M-parameter Timestral beats larger time-series models on public benchmarks. Specialized foundation models are getting brutally efficient.",
+      "oneliner": "Google open-sourced TorchTPU, making native PyTorch on TPUs less painful and TPU capacity more usable outside JAX shops.",
       "emoji": "🧠"
     },
     {
-      "title": "MiniMax cuts agent costs sharply",
+      "title": "OpenAI added COBOL to its models",
       "urls": [
-        "https://www.minimax.io/blog/minimax-m31f"
+        "https://x.com/OpenAI/status/2112310345863930168"
       ],
-      "oneliner": "MiniMax says M3.1 Flash is 3x faster and 70% cheaper. Agent economics are starting to matter more than demos.",
+      "oneliner": "OpenAI adding COBOL support is a quiet enterprise play for mainframe modernization, not a nostalgia feature.",
       "emoji": "⚡"
     },
     {
-      "title": "DeepSeek pushes agent pricing lower",
+      "title": "WhatsApp hid instructions from its chatbot",
       "urls": [
-        "https://api-docs.deepseek.com/guides/search/",
-        "https://www.theneurondaily.com/p/deepseek-s-free-model-edged-opus-5-at-coding"
+        "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"
       ],
-      "oneliner": "DeepSeek opened Search and Fetch at $0.75 per 1,000 requests. Cheap retrieval is becoming table stakes for agents.",
-      "emoji": "📊"
-    },
-    {
-      "title": "Plex bugs are already being exploited",
-      "urls": [
-        "http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html"
-      ],
-      "oneliner": "Attackers are chaining recent Plex flaws to drop cryptominers. Unpatched media servers are now easy initial access points.",
+      "oneliner": "WhatsApp embedded hidden prompts telling its bot not to suggest regulators, which is exactly why prompt transparency matters.",
       "emoji": "⚠️"
     },
     {
-      "title": "Cairn exposes AI cyber operations",
+      "title": "Fake statistics spread through LLM citations",
       "urls": [
-        "https://norforge.com/blog/inside_cairn"
+        "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web"
       ],
-      "oneliner": "Researchers found 20-plus exposed Cairn panels automating targeting, exploitation, and persistence. Offensive AI ops are already operationally messy and real.",
-      "emoji": "🔐"
-    },
-    {
-      "title": "Let's Encrypt adds more validation viewpoints",
-      "urls": [
-        "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166"
-      ],
-      "oneliner": "Let's Encrypt is moving to seven validation requests across remote perspectives. BGP hijacks just got harder to turn into bad certificates.",
+      "oneliner": "One site published 50,000 fake stats and got cited widely, exposing how easily LLM answer engines launder nonsense.",
       "emoji": "🔍"
     },
     {
-      "title": "GitHub Actions had a rough day",
+      "title": "A certificate authority lost intermediate keys",
       "urls": [
-        "https://www.githubstatus.com/incidents/8tzbpcnl75jp"
+        "https://emudhra.we-have-a-problem.com/"
       ],
-      "oneliner": "GitHub degraded Actions, Pages, and Webhooks with delayed workflows and builds. Your CI dependency chain is still a single point of pain.",
+      "oneliner": "Eight eMudhra intermediate CA keys were compromised, a reminder that trust chains still fail at terrifying scale.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Tor removed hundreds of hostile exit nodes",
+      "urls": [
+        "https://kaba.cx/posts/20261020_Tor/"
+      ],
+      "oneliner": "333 Tor exit nodes were pulled after Ebury-backed MITM activity, showing old SSH hygiene failures still cascade.",
       "emoji": "🐛"
     },
     {
-      "title": "KiviDB targets Redis with vector search",
+      "title": "Federal agencies must remove DeepSeek",
       "urls": [
-        "https://github.com/kividbio/kividb"
+        "https://public-inspection.federalregister.gov/2026-21447.pdf",
+        "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/"
       ],
-      "oneliner": "KiviDB claims 21 million pipelined GETs per second with Redis compatibility. The memory database layer is fragmenting fast.",
-      "emoji": "💻"
+      "oneliner": "DHS ordered civilian agencies to remove DeepSeek products, turning geopolitical AI risk into an immediate procurement constraint.",
+      "emoji": "📊"
     },
     {
-      "title": "A new profiler explains build bottlenecks",
+      "title": "DeepSeek open-sourced its inference engine",
       "urls": [
-        "https://lalitm.com/post/buildprof/"
+        "https://github.com/deepseek-ai/DeepInfer"
       ],
-      "oneliner": "Buildprof traced Bun compile times and showed LTO choices mattered more than language. Tooling still beats intuition on performance.",
+      "oneliner": "DeepSeek released DeepInfer under Apache 2.0, giving teams another production inference stack tuned beyond Nvidia-only assumptions.",
       "emoji": "🛠️"
+    },
+    {
+      "title": "TypeScript got a serious Rust rewrite",
+      "urls": [
+        "https://blog.cloudflare.com/typescript-rust-port/"
+      ],
+      "oneliner": "Cloudflare and partners say tsrs is up to 8x faster with 70% less memory, raising expectations for dev tooling.",
+      "emoji": "💻"
     }
   ],
   "keywords": [
     "weaponized",
     "surpassed",
-    "cracked",
+    "banned",
+    "leaked",
     "autonomy",
     "scarcity",
-    "leaked",
     "consolidation"
   ],
   "tokenUsage": {
-    "promptTokens": 18690,
-    "completionTokens": 804,
-    "totalTokens": 19494,
-    "costUsd": 0.058785
+    "promptTokens": 9545,
+    "completionTokens": 768,
+    "totalTokens": 10313,
+    "costUsd": 0.0353825
   }
 }

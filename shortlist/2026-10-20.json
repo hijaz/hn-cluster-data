@@ -1,0 +1,105 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T17:03:13.794066+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 47,
+  "items": [
+    {
+      "title": "Mistral shipped a real-time voice stack",
+      "urls": [
+        "https://mistral.ai/news/voxtral-3/"
+      ],
+      "oneliner": "Mistral's Voxtral 3 adds multilingual real-time voice agents, pushing speech from demo feature to production interface.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "Google opened PyTorch access to TPUs",
+      "urls": [
+        "https://github.com/google-pytorch/torch_tpu"
+      ],
+      "oneliner": "Google open-sourced TorchTPU, making native PyTorch on TPUs less painful and TPU capacity more usable outside JAX shops.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "OpenAI added COBOL to its models",
+      "urls": [
+        "https://x.com/OpenAI/status/2112310345863930168"
+      ],
+      "oneliner": "OpenAI adding COBOL support is a quiet enterprise play for mainframe modernization, not a nostalgia feature.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "WhatsApp hid instructions from its chatbot",
+      "urls": [
+        "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"
+      ],
+      "oneliner": "WhatsApp embedded hidden prompts telling its bot not to suggest regulators, which is exactly why prompt transparency matters.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "Fake statistics spread through LLM citations",
+      "urls": [
+        "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web"
+      ],
+      "oneliner": "One site published 50,000 fake stats and got cited widely, exposing how easily LLM answer engines launder nonsense.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "A certificate authority lost intermediate keys",
+      "urls": [
+        "https://emudhra.we-have-a-problem.com/"
+      ],
+      "oneliner": "Eight eMudhra intermediate CA keys were compromised, a reminder that trust chains still fail at terrifying scale.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Tor removed hundreds of hostile exit nodes",
+      "urls": [
+        "https://kaba.cx/posts/20261020_Tor/"
+      ],
+      "oneliner": "333 Tor exit nodes were pulled after Ebury-backed MITM activity, showing old SSH hygiene failures still cascade.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "Federal agencies must remove DeepSeek",
+      "urls": [
+        "https://public-inspection.federalregister.gov/2026-21447.pdf",
+        "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/"
+      ],
+      "oneliner": "DHS ordered civilian agencies to remove DeepSeek products, turning geopolitical AI risk into an immediate procurement constraint.",
+      "emoji": "📊"
+    },
+    {
+      "title": "DeepSeek open-sourced its inference engine",
+      "urls": [
+        "https://github.com/deepseek-ai/DeepInfer"
+      ],
+      "oneliner": "DeepSeek released DeepInfer under Apache 2.0, giving teams another production inference stack tuned beyond Nvidia-only assumptions.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "TypeScript got a serious Rust rewrite",
+      "urls": [
+        "https://blog.cloudflare.com/typescript-rust-port/"
+      ],
+      "oneliner": "Cloudflare and partners say tsrs is up to 8x faster with 70% less memory, raising expectations for dev tooling.",
+      "emoji": "💻"
+    }
+  ],
+  "keywords": [
+    "weaponized",
+    "surpassed",
+    "banned",
+    "leaked",
+    "autonomy",
+    "scarcity",
+    "consolidation"
+  ],
+  "tokenUsage": {
+    "promptTokens": 9545,
+    "completionTokens": 768,
+    "totalTokens": 10313,
+    "costUsd": 0.0353825
+  }
+}

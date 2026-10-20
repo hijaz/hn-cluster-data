@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T17:03:22.671777+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 47,
+  "items": [
+    {
+      "title": "PyTorch runs natively on TPUs",
+      "urls": [
+        "https://github.com/google-pytorch/torch_tpu"
+      ],
+      "oneliner": "Native PyTorch TPU backend with custom kernels and compile caching for distributed training without XLA glue code."
+    },
+    {
+      "title": "DeepSeek released a production inference engine",
+      "urls": [
+        "https://github.com/deepseek-ai/DeepInfer"
+      ],
+      "oneliner": "Open inference engine for NVIDIA and Ascend with parallel scheduling and batch-invariant serving tuned for large offline deployments."
+    },
+    {
+      "title": "MCP tools get memory-only isolation",
+      "urls": [
+        "https://github.com/rohan-protocol/sdk"
+      ],
+      "oneliner": "Open SDK keeps MCP tool inputs out of model context windows using in-memory isolation and zeroization."
+    },
+    {
+      "title": "Dark web OSINT becomes graph-first",
+      "urls": [
+        "https://github.com/KatrielMoses/voidaccess"
+      ],
+      "oneliner": "Open-source OSINT tool turns dark web queries into crawlable graphs for investigators who need structured leads fast."
+    },
+    {
+      "title": "Handwritten math gets live AI feedback",
+      "urls": [
+        "https://github.com/AbdullahAlhariri/penmentor"
+      ],
+      "oneliner": "Xournal++ plugin marks up handwritten math with hints, error circles, and animations using Claude or Codex."
+    },
+    {
+      "title": "Brand assets plug into MCP clients",
+      "urls": [
+        "https://www.logo.dev/docs/mcp/introduction"
+      ],
+      "oneliner": "MCP server for Claude, Cursor, VS Code, and Codex fetches logos and brand data inside your workflow."
+    },
+    {
+      "title": "Android apps run without Play Services",
+      "urls": [
+        "https://github.com/microg/GmsCore/wiki"
+      ],
+      "oneliner": "Free Play Services replacement lets AOSP and LineageOS devices run Google-dependent apps with less tracking and bloat."
+    },
+    {
+      "title": "A coder font you can regenerate",
+      "urls": [
+        "https://github.com/tywr/Nordwand-Mono"
+      ],
+      "oneliner": "Open monospace font includes alternates, ligatures, and Python-based generation so developers can build their own variant."
+    },
+    {
+      "title": "OpenBSD 8.0 is ready to install",
+      "urls": [
+        "https://www.openbsd.org/80.html"
+      ],
+      "oneliner": "Fresh OpenBSD release adds arm64 hibernate, larger amd64 address space, and faster AES swap encryption."
+    },
+    {
+      "title": "Vision model quiz ships with code",
+      "urls": [
+        "https://jevcards.com"
+      ],
+      "oneliner": "Playable image quiz pits humans against a vision model, and the linked code shows how the classifier works."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "offline",
+    "local",
+    "open",
+    "instant",
+    "unlocked"
+  ],
+  "tokenUsage": {
+    "promptTokens": 9370,
+    "completionTokens": 656,
+    "totalTokens": 10026,
+    "costUsd": 0.033265
+  }
+}
