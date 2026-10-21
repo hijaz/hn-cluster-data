@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T17:43:07.992264+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 94,
+  "items": [
+    {
+      "title": "PHP ships emergency RCE patches",
+      "urls": [
+        "https://www.php.net/archive/2026.php#2026-10-20-1",
+        "https://www.wiz.io/blog/php2shell-php-rce",
+        "https://github.com/php/php-src/releases/tag/php-8.2.35",
+        "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+        "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+        "https://www.jeffgeerling.com/blog/2026/php-vulnerability-php2shell/",
+        "https://www.lireo.com/critical-php-security-release-affecting-websites/"
+      ],
+      "oneliner": "PHP patched two unauthenticated RCEs across 8.2 to 8.5. If you run mod_php, patch before your app boots.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "OpenAI models land on Google Cloud",
+      "urls": [
+        "https://openai.com/index/openai-models-google-cloud/"
+      ],
+      "oneliner": "OpenAI models are coming to Google Cloud, turning frontier models into a multi-cloud procurement decision, not a platform lock-in.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "OpenAI pushes harder into biology",
+      "urls": [
+        "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+        "https://openai.com/index/openai-to-acquire-orchestra-bio/"
+      ],
+      "oneliner": "OpenAI says thousands of agents analyzed millions of mouse brain cells in 32 minutes, compressing months of biological reasoning.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "Anthropic pushes a federal AI bill",
+      "urls": [
+        "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
+      ],
+      "oneliner": "Anthropic wants federal rules that could block model releases if misuse might kill 50 people. Safety policy is getting operational.",
+      "emoji": "📊"
+    },
+    {
+      "title": "Mozilla moved fast on eMudhra compromise",
+      "urls": [
+        "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
+        "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+        "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/"
+      ],
+      "oneliner": "Mozilla blocked eight compromised eMudhra intermediates within hours. Browser trust still hinges on a few brittle certificate authorities.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Meta Muse leaked shared chats",
+      "urls": [
+        "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+        "https://www.theneurondaily.com/p/meta-s-muse-made-shared-chats-searchable"
+      ],
+      "oneliner": "Meta paused Muse chat sharing after researchers found exposed links and 6,800 share addresses. AI UX keeps creating privacy incidents.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "LiteLLM package was backdoored on PyPI",
+      "urls": [
+        "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/"
+      ],
+      "oneliner": "LiteLLM 1.107.0 on PyPI shipped a credential stealer and backdoor. Your AI stack is only as safe as pip install.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "PingCAP disclosed a cloud data breach",
+      "urls": [
+        "https://www.pingcap.com/trust-hub/security/security-update-october-2026/"
+      ],
+      "oneliner": "PingCAP says stolen service credentials exposed source code and customer data for nearly a month. Secrets management failed first.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "DuckDB 2.0 becomes the LTS line",
+      "urls": [
+        "https://duckdb.org/2026/10/21/announcing-duckdb-200"
+      ],
+      "oneliner": "DuckDB 2.0 LTS adds async I/O, VARIANT, triggers, and agent mode. Embedded analytics keeps absorbing warehouse workloads.",
+      "emoji": "📦"
+    },
+    {
+      "title": "Trail of Bits ships agent patching tools",
+      "urls": [
+        "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/"
+      ],
+      "oneliner": "Trail of Bits released plugins for agent-written patches and regression hunts. The real bottleneck is now verification, not code generation.",
+      "emoji": "🛠️"
+    }
+  ],
+  "keywords": [
+    "cracked",
+    "racing",
+    "leaked",
+    "autonomy",
+    "scarcity",
+    "weaponized",
+    "consolidation"
+  ],
+  "tokenUsage": {
+    "promptTokens": 20002,
+    "completionTokens": 826,
+    "totalTokens": 20828,
+    "costUsd": 0.06239499999999999
+  }
+}

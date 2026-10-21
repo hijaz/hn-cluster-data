@@ -1,94 +1,94 @@
 {
-  "date": "2026-10-20",
-  "generated_at": "2026-10-20T17:03:22.671777+00:00",
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T17:43:15.580525+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 47,
+  "totalItemsConsidered": 94,
   "items": [
     {
-      "title": "PyTorch runs natively on TPUs",
+      "title": "Trail of Bits agent patch plugins",
       "urls": [
-        "https://github.com/google-pytorch/torch_tpu"
+        "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/"
       ],
-      "oneliner": "Native PyTorch TPU backend with custom kernels and compile caching for distributed training without XLA glue code."
+      "oneliner": "Two plugins let agents reproduce bugs, generate patches, and run regression checks before you review the diff."
     },
     {
-      "title": "DeepSeek released a production inference engine",
+      "title": "Firefox serves local files over HTTPS",
       "urls": [
-        "https://github.com/deepseek-ai/DeepInfer"
+        "https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html"
       ],
-      "oneliner": "Open inference engine for NVIDIA and Ascend with parallel scheduling and batch-invariant serving tuned for large offline deployments."
+      "oneliner": "Map local folders to custom HTTPS origins, so secure-context APIs work without spinning up a dev server."
     },
     {
-      "title": "MCP tools get memory-only isolation",
+      "title": "Touch ID backed SSH keys",
       "urls": [
-        "https://github.com/rohan-protocol/sdk"
+        "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/"
       ],
-      "oneliner": "Open SDK keeps MCP tool inputs out of model context windows using in-memory isolation and zeroization."
+      "oneliner": "Three commands create Secure Enclave SSH keys on macOS, replacing file-based keys with Touch ID prompts."
     },
     {
-      "title": "Dark web OSINT becomes graph-first",
+      "title": "A tiny classless CSS framework",
       "urls": [
-        "https://github.com/KatrielMoses/voidaccess"
+        "https://github.com/vladocar/Sumi.css"
       ],
-      "oneliner": "Open-source OSINT tool turns dark web queries into crawlable graphs for investigators who need structured leads fast."
+      "oneliner": "A 6.7 KB CSS framework styles semantic HTML directly, with dark mode, focus rings, and easy variable overrides."
     },
     {
-      "title": "Handwritten math gets live AI feedback",
+      "title": "BirdNET on Raspberry Pi",
       "urls": [
-        "https://github.com/AbdullahAlhariri/penmentor"
+        "https://www.jamesleighton.com/2026/10/setting-up-a-remote-birdnet-microphone-raspberry-pi/"
       ],
-      "oneliner": "Xournal++ plugin marks up handwritten math with hints, error circles, and animations using Claude or Codex."
+      "oneliner": "Step-by-step Raspberry Pi guide turns a cheap microphone into a remote BirdNET bird-call monitor you can deploy today."
     },
     {
-      "title": "Brand assets plug into MCP clients",
+      "title": "Jepsen tests Orkes Conductor",
       "urls": [
-        "https://www.logo.dev/docs/mcp/introduction"
+        "https://jepsen.io/analyses/orkes-conductor-5.3.2"
       ],
-      "oneliner": "MCP server for Claude, Cursor, VS Code, and Codex fetches logos and brand data inside your workflow."
+      "oneliner": "Deep failure analysis shows how Conductor 5.3.2 behaves under partitions, helping teams judge workflow reliability before adoption."
     },
     {
-      "title": "Android apps run without Play Services",
+      "title": "Toolcraft ships a design app starter",
       "urls": [
-        "https://github.com/microg/GmsCore/wiki"
+        "https://toolcraft.sh/"
       ],
-      "oneliner": "Free Play Services replacement lets AOSP and LineageOS devices run Google-dependent apps with less tracking and bloat."
+      "oneliner": "Open-source starter kit and UI library for building AI-powered design tools instead of wiring canvas editors from scratch."
     },
     {
-      "title": "A coder font you can regenerate",
+      "title": "Concurrent ML for Go developers",
       "urls": [
-        "https://github.com/tywr/Nordwand-Mono"
+        "https://nikhilism.com/post/2026/golang-racket-concurrency/"
       ],
-      "oneliner": "Open monospace font includes alternates, ligatures, and Python-based generation so developers can build their own variant."
+      "oneliner": "Practical Racket walkthrough shows composable concurrency patterns that fix goroutine leak problems common in Go."
     },
     {
-      "title": "OpenBSD 8.0 is ready to install",
+      "title": "Lil draws vector graphics programmatically",
       "urls": [
-        "https://www.openbsd.org/80.html"
+        "https://beyondloom.com/blog/vectorgraphics.html"
       ],
-      "oneliner": "Fresh OpenBSD release adds arm64 hibernate, larger amd64 address space, and faster AES swap encryption."
+      "oneliner": "Hands-on guide shows how Lil represents paths, strokes, and text layouts for programmable 2D vector graphics."
     },
     {
-      "title": "Vision model quiz ships with code",
+      "title": "A practical AstroNvim setup story",
       "urls": [
-        "https://jevcards.com"
+        "https://www.closingtags.com/blog/astronvim"
       ],
-      "oneliner": "Playable image quiz pits humans against a vision model, and the linked code shows how the classifier works."
+      "oneliner": "Personal walkthrough explains how AstroNvim lowers Neovim setup friction while keeping fast keyboard-driven editing."
     }
   ],
   "keywords": [
     "shipped",
     "blazing",
     "offline",
-    "local",
     "open",
-    "instant",
-    "unlocked"
+    "native",
+    "unlocked",
+    "instant"
   ],
   "tokenUsage": {
-    "promptTokens": 9370,
-    "completionTokens": 656,
-    "totalTokens": 10026,
-    "costUsd": 0.033265
+    "promptTokens": 19827,
+    "completionTokens": 648,
+    "totalTokens": 20475,
+    "costUsd": 0.0592875
   }
 }

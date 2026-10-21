@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T17:43:15.580525+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 94,
+  "items": [
+    {
+      "title": "Trail of Bits agent patch plugins",
+      "urls": [
+        "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/"
+      ],
+      "oneliner": "Two plugins let agents reproduce bugs, generate patches, and run regression checks before you review the diff."
+    },
+    {
+      "title": "Firefox serves local files over HTTPS",
+      "urls": [
+        "https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html"
+      ],
+      "oneliner": "Map local folders to custom HTTPS origins, so secure-context APIs work without spinning up a dev server."
+    },
+    {
+      "title": "Touch ID backed SSH keys",
+      "urls": [
+        "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/"
+      ],
+      "oneliner": "Three commands create Secure Enclave SSH keys on macOS, replacing file-based keys with Touch ID prompts."
+    },
+    {
+      "title": "A tiny classless CSS framework",
+      "urls": [
+        "https://github.com/vladocar/Sumi.css"
+      ],
+      "oneliner": "A 6.7 KB CSS framework styles semantic HTML directly, with dark mode, focus rings, and easy variable overrides."
+    },
+    {
+      "title": "BirdNET on Raspberry Pi",
+      "urls": [
+        "https://www.jamesleighton.com/2026/10/setting-up-a-remote-birdnet-microphone-raspberry-pi/"
+      ],
+      "oneliner": "Step-by-step Raspberry Pi guide turns a cheap microphone into a remote BirdNET bird-call monitor you can deploy today."
+    },
+    {
+      "title": "Jepsen tests Orkes Conductor",
+      "urls": [
+        "https://jepsen.io/analyses/orkes-conductor-5.3.2"
+      ],
+      "oneliner": "Deep failure analysis shows how Conductor 5.3.2 behaves under partitions, helping teams judge workflow reliability before adoption."
+    },
+    {
+      "title": "Toolcraft ships a design app starter",
+      "urls": [
+        "https://toolcraft.sh/"
+      ],
+      "oneliner": "Open-source starter kit and UI library for building AI-powered design tools instead of wiring canvas editors from scratch."
+    },
+    {
+      "title": "Concurrent ML for Go developers",
+      "urls": [
+        "https://nikhilism.com/post/2026/golang-racket-concurrency/"
+      ],
+      "oneliner": "Practical Racket walkthrough shows composable concurrency patterns that fix goroutine leak problems common in Go."
+    },
+    {
+      "title": "Lil draws vector graphics programmatically",
+      "urls": [
+        "https://beyondloom.com/blog/vectorgraphics.html"
+      ],
+      "oneliner": "Hands-on guide shows how Lil represents paths, strokes, and text layouts for programmable 2D vector graphics."
+    },
+    {
+      "title": "A practical AstroNvim setup story",
+      "urls": [
+        "https://www.closingtags.com/blog/astronvim"
+      ],
+      "oneliner": "Personal walkthrough explains how AstroNvim lowers Neovim setup friction while keeping fast keyboard-driven editing."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "offline",
+    "open",
+    "native",
+    "unlocked",
+    "instant"
+  ],
+  "tokenUsage": {
+    "promptTokens": 19827,
+    "completionTokens": 648,
+    "totalTokens": 20475,
+    "costUsd": 0.0592875
+  }
+}
