@@ -1,94 +1,94 @@
 {
-  "date": "2026-10-21",
-  "generated_at": "2026-10-21T17:43:15.580525+00:00",
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T17:28:27.433337+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 94,
+  "totalItemsConsidered": 33,
   "items": [
     {
-      "title": "Trail of Bits agent patch plugins",
+      "title": "Run iOS on Android hardware",
       "urls": [
-        "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/"
+        "https://github.com/oosexgang/hackios-xnu-kernel"
       ],
-      "oneliner": "Two plugins let agents reproduce bugs, generate patches, and run regression checks before you review the diff."
+      "oneliner": "Open-source XNU boot stack runs iOS 16.5 on Android phones and QEMU with working home screen, settings, and apps."
     },
     {
-      "title": "Firefox serves local files over HTTPS",
+      "title": "Triangulate map polygons much faster",
       "urls": [
-        "https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html"
+        "https://globus.software/blog/2026/10/16/cutting-map-polygons/"
       ],
-      "oneliner": "Map local folders to custom HTTPS origins, so secure-context APIs work without spinning up a dev server."
+      "oneliner": "ISC-licensed C++ and WebAssembly triangulator processes 3.7 million polygons in 489 ms and beats earcut in browsers."
     },
     {
-      "title": "Touch ID backed SSH keys",
+      "title": "Fix mouse input in NT 3.x",
       "urls": [
-        "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/"
+        "https://github.com/rhargreaves/vmmouse-nt3"
       ],
-      "oneliner": "Three commands create Secure Enclave SSH keys on macOS, replacing file-based keys with Touch ID prompts."
+      "oneliner": "MIT-licensed driver adds seamless QEMU and VMware mouse integration for Windows NT 3.x with ISO-based install."
     },
     {
-      "title": "A tiny classless CSS framework",
+      "title": "Learn ZFS internals interactively",
       "urls": [
-        "https://github.com/vladocar/Sumi.css"
+        "https://uberblok.storagebits.workers.dev/"
       ],
-      "oneliner": "A 6.7 KB CSS framework styles semantic HTML directly, with dark mode, focus rings, and easy variable overrides."
+      "oneliner": "Interactive ZFS walkthrough maps animations to OpenZFS source lines so you can understand uberblocks, txgs, and recovery."
     },
     {
-      "title": "BirdNET on Raspberry Pi",
+      "title": "Jailbreak the Switch 2",
       "urls": [
-        "https://www.jamesleighton.com/2026/10/setting-up-a-remote-birdnet-microphone-raspberry-pi/"
+        "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/"
       ],
-      "oneliner": "Step-by-step Raspberry Pi guide turns a cheap microphone into a remote BirdNET bird-call monitor you can deploy today."
+      "oneliner": "Software-only tethered Switch 2 jailbreak on firmware 23.0.1 enables homebrew, save management, and game modding today."
     },
     {
-      "title": "Jepsen tests Orkes Conductor",
+      "title": "Try a terminal world model",
       "urls": [
-        "https://jepsen.io/analyses/orkes-conductor-5.3.2"
+        "https://simedw.com/2026/10/21/world-model-terminal/"
       ],
-      "oneliner": "Deep failure analysis shows how Conductor 5.3.2 behaves under partitions, helping teams judge workflow reliability before adoption."
+      "oneliner": "A 360M model predicts terminal screen state changes, letting you test vim, tmux, and shell workflows in-browser."
     },
     {
-      "title": "Toolcraft ships a design app starter",
+      "title": "Study a simpler block device",
       "urls": [
-        "https://toolcraft.sh/"
+        "https://fly.io/blog/sprites-block-device/"
       ],
-      "oneliner": "Open-source starter kit and UI library for building AI-powered design tools instead of wiring canvas editors from scratch."
+      "oneliner": "Hands-on engineering writeup explains a production block device over object storage, with concrete tradeoffs and implementation details."
     },
     {
-      "title": "Concurrent ML for Go developers",
+      "title": "Recreate NetHack cave generation",
       "urls": [
-        "https://nikhilism.com/post/2026/golang-racket-concurrency/"
+        "https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/"
       ],
-      "oneliner": "Practical Racket walkthrough shows composable concurrency patterns that fix goroutine leak problems common in Go."
+      "oneliner": "Detailed dungeon generation walkthrough shows the exact cellular automata passes behind NetHack's Gnomish Mines caves."
     },
     {
-      "title": "Lil draws vector graphics programmatically",
+      "title": "Upgrade to Crystal 1.22",
       "urls": [
-        "https://beyondloom.com/blog/vectorgraphics.html"
+        "https://crystal-lang.org/2026/10/12/1.22.0-released/"
       ],
-      "oneliner": "Hands-on guide shows how Lil represents paths, strokes, and text layouts for programmable 2D vector graphics."
+      "oneliner": "Crystal 1.22 ships 251 changes, including Tier 1 aarch64 Linux support and lower-memory DWARF parsing improvements."
     },
     {
-      "title": "A practical AstroNvim setup story",
+      "title": "Stop using LLM confidence scores",
       "urls": [
-        "https://www.closingtags.com/blog/astronvim"
+        "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html"
       ],
-      "oneliner": "Personal walkthrough explains how AstroNvim lowers Neovim setup friction while keeping fast keyboard-driven editing."
+      "oneliner": "Practical critique explains why LLM-generated confidence scores fail without historical calibration data and proper probability modeling."
     }
   ],
   "keywords": [
     "shipped",
     "blazing",
+    "instant",
     "offline",
     "open",
-    "native",
-    "unlocked",
-    "instant"
+    "local",
+    "unlocked"
   ],
   "tokenUsage": {
-    "promptTokens": 19827,
-    "completionTokens": 648,
-    "totalTokens": 20475,
-    "costUsd": 0.0592875
+    "promptTokens": 7298,
+    "completionTokens": 684,
+    "totalTokens": 7982,
+    "costUsd": 0.028505000000000003
   }
 }

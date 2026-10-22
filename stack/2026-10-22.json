@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T17:28:27.433337+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 33,
+  "items": [
+    {
+      "title": "Run iOS on Android hardware",
+      "urls": [
+        "https://github.com/oosexgang/hackios-xnu-kernel"
+      ],
+      "oneliner": "Open-source XNU boot stack runs iOS 16.5 on Android phones and QEMU with working home screen, settings, and apps."
+    },
+    {
+      "title": "Triangulate map polygons much faster",
+      "urls": [
+        "https://globus.software/blog/2026/10/16/cutting-map-polygons/"
+      ],
+      "oneliner": "ISC-licensed C++ and WebAssembly triangulator processes 3.7 million polygons in 489 ms and beats earcut in browsers."
+    },
+    {
+      "title": "Fix mouse input in NT 3.x",
+      "urls": [
+        "https://github.com/rhargreaves/vmmouse-nt3"
+      ],
+      "oneliner": "MIT-licensed driver adds seamless QEMU and VMware mouse integration for Windows NT 3.x with ISO-based install."
+    },
+    {
+      "title": "Learn ZFS internals interactively",
+      "urls": [
+        "https://uberblok.storagebits.workers.dev/"
+      ],
+      "oneliner": "Interactive ZFS walkthrough maps animations to OpenZFS source lines so you can understand uberblocks, txgs, and recovery."
+    },
+    {
+      "title": "Jailbreak the Switch 2",
+      "urls": [
+        "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/"
+      ],
+      "oneliner": "Software-only tethered Switch 2 jailbreak on firmware 23.0.1 enables homebrew, save management, and game modding today."
+    },
+    {
+      "title": "Try a terminal world model",
+      "urls": [
+        "https://simedw.com/2026/10/21/world-model-terminal/"
+      ],
+      "oneliner": "A 360M model predicts terminal screen state changes, letting you test vim, tmux, and shell workflows in-browser."
+    },
+    {
+      "title": "Study a simpler block device",
+      "urls": [
+        "https://fly.io/blog/sprites-block-device/"
+      ],
+      "oneliner": "Hands-on engineering writeup explains a production block device over object storage, with concrete tradeoffs and implementation details."
+    },
+    {
+      "title": "Recreate NetHack cave generation",
+      "urls": [
+        "https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/"
+      ],
+      "oneliner": "Detailed dungeon generation walkthrough shows the exact cellular automata passes behind NetHack's Gnomish Mines caves."
+    },
+    {
+      "title": "Upgrade to Crystal 1.22",
+      "urls": [
+        "https://crystal-lang.org/2026/10/12/1.22.0-released/"
+      ],
+      "oneliner": "Crystal 1.22 ships 251 changes, including Tier 1 aarch64 Linux support and lower-memory DWARF parsing improvements."
+    },
+    {
+      "title": "Stop using LLM confidence scores",
+      "urls": [
+        "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html"
+      ],
+      "oneliner": "Practical critique explains why LLM-generated confidence scores fail without historical calibration data and proper probability modeling."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "instant",
+    "offline",
+    "open",
+    "local",
+    "unlocked"
+  ],
+  "tokenUsage": {
+    "promptTokens": 7298,
+    "completionTokens": 684,
+    "totalTokens": 7982,
+    "costUsd": 0.028505000000000003
+  }
+}

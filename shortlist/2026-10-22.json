@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T17:28:20.774848+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 33,
+  "items": [
+    {
+      "title": "Claude Duet turns Anthropic into an agent platform",
+      "urls": [
+        "https://claude.com/product/claude-duet",
+        "https://claude.com/resources/articles/claude-duet"
+      ],
+      "oneliner": "Claude Duet adds 6,000 connectors and asynchronous work. Copilots are becoming delegated operators, not chat windows.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "A 360M model learned terminal state transitions",
+      "urls": [
+        "https://simedw.com/2026/10/21/world-model-terminal/"
+      ],
+      "oneliner": "WorldTUI predicts terminal screens, not just text. That is a credible path toward learned software environments.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "A poisoned LiteLLM release stole credentials",
+      "urls": [
+        "https://docs.litellm.ai/blog/security-incident-oct-21-2026"
+      ],
+      "oneliner": "A tampered LiteLLM package was live for two hours. Your AI stack now needs software supply chain discipline.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "Railway paused deployments after a secrets incident",
+      "urls": [
+        "https://blog.railway.com/p/security-disclosure-wednesday-october-21st"
+      ],
+      "oneliner": "Railway says encrypted environment variables may have been accessed. Every hosted inference workflow should rotate credentials now.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "PHP2Shell was exploited before public disclosure",
+      "urls": [
+        "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/"
+      ],
+      "oneliner": "AWS saw PHP2Shell exploitation four days before disclosure. The patch-to-exploit window is now effectively zero.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "Linux kernel bugs leaked onto the public list",
+      "urls": [
+        "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+        "https://pwn.watch/"
+      ],
+      "oneliner": "Several Linux kernel flaws, including CVSS 9.0 issues, hit the public mailing list before fixes were ready.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "The Switch 2 got a software jailbreak",
+      "urls": [
+        "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/"
+      ],
+      "oneliner": "ns2jb breaks Switch 2 firmware 23.0.1 without hardware mods. Consumer device hardening still fails under sustained scrutiny.",
+      "emoji": "📦"
+    },
+    {
+      "title": "Fly built a simpler block device over object storage",
+      "urls": [
+        "https://fly.io/blog/sprites-block-device/"
+      ],
+      "oneliner": "Fly replaced filesystem complexity with a custom block device. Infrastructure teams are relearning that boring abstractions scale better.",
+      "emoji": "💻"
+    },
+    {
+      "title": "Quad9 is leaving France over DNS blocking",
+      "urls": [
+        "https://quad9.net/news/blog/au-revoir-france/"
+      ],
+      "oneliner": "Quad9 will exit France rather than censor DNS. Infrastructure neutrality is now colliding directly with national courts.",
+      "emoji": "🌐"
+    },
+    {
+      "title": "eMudhra is exiting the global certificate market",
+      "urls": [
+        "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business"
+      ],
+      "oneliner": "eMudhra is leaving the SSL and TLS certificate business. Trust infrastructure keeps consolidating around fewer operators.",
+      "emoji": "💰"
+    }
+  ],
+  "keywords": [
+    "weaponized",
+    "surpassed",
+    "breached",
+    "autonomy",
+    "scarcity",
+    "racing",
+    "consolidation"
+  ],
+  "tokenUsage": {
+    "promptTokens": 7473,
+    "completionTokens": 775,
+    "totalTokens": 8248,
+    "costUsd": 0.030307499999999998
+  }
+}

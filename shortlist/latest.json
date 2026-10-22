@@ -1,114 +1,106 @@
 {
-  "date": "2026-10-21",
-  "generated_at": "2026-10-21T17:43:07.992264+00:00",
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T17:28:20.774848+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 94,
+  "totalItemsConsidered": 33,
   "items": [
     {
-      "title": "PHP ships emergency RCE patches",
+      "title": "Claude Duet turns Anthropic into an agent platform",
       "urls": [
-        "https://www.php.net/archive/2026.php#2026-10-20-1",
-        "https://www.wiz.io/blog/php2shell-php-rce",
-        "https://github.com/php/php-src/releases/tag/php-8.2.35",
-        "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-        "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
-        "https://www.jeffgeerling.com/blog/2026/php-vulnerability-php2shell/",
-        "https://www.lireo.com/critical-php-security-release-affecting-websites/"
+        "https://claude.com/product/claude-duet",
+        "https://claude.com/resources/articles/claude-duet"
       ],
-      "oneliner": "PHP patched two unauthenticated RCEs across 8.2 to 8.5. If you run mod_php, patch before your app boots.",
-      "emoji": "⚡"
-    },
-    {
-      "title": "OpenAI models land on Google Cloud",
-      "urls": [
-        "https://openai.com/index/openai-models-google-cloud/"
-      ],
-      "oneliner": "OpenAI models are coming to Google Cloud, turning frontier models into a multi-cloud procurement decision, not a platform lock-in.",
+      "oneliner": "Claude Duet adds 6,000 connectors and asynchronous work. Copilots are becoming delegated operators, not chat windows.",
       "emoji": "🤖"
     },
     {
-      "title": "OpenAI pushes harder into biology",
+      "title": "A 360M model learned terminal state transitions",
       "urls": [
-        "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-        "https://openai.com/index/openai-to-acquire-orchestra-bio/"
+        "https://simedw.com/2026/10/21/world-model-terminal/"
       ],
-      "oneliner": "OpenAI says thousands of agents analyzed millions of mouse brain cells in 32 minutes, compressing months of biological reasoning.",
+      "oneliner": "WorldTUI predicts terminal screens, not just text. That is a credible path toward learned software environments.",
       "emoji": "🧠"
     },
     {
-      "title": "Anthropic pushes a federal AI bill",
+      "title": "A poisoned LiteLLM release stole credentials",
       "urls": [
-        "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
+        "https://docs.litellm.ai/blog/security-incident-oct-21-2026"
       ],
-      "oneliner": "Anthropic wants federal rules that could block model releases if misuse might kill 50 people. Safety policy is getting operational.",
-      "emoji": "📊"
-    },
-    {
-      "title": "Mozilla moved fast on eMudhra compromise",
-      "urls": [
-        "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
-        "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-        "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/"
-      ],
-      "oneliner": "Mozilla blocked eight compromised eMudhra intermediates within hours. Browser trust still hinges on a few brittle certificate authorities.",
-      "emoji": "🔐"
-    },
-    {
-      "title": "Meta Muse leaked shared chats",
-      "urls": [
-        "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-        "https://www.theneurondaily.com/p/meta-s-muse-made-shared-chats-searchable"
-      ],
-      "oneliner": "Meta paused Muse chat sharing after researchers found exposed links and 6,800 share addresses. AI UX keeps creating privacy incidents.",
-      "emoji": "🔍"
-    },
-    {
-      "title": "LiteLLM package was backdoored on PyPI",
-      "urls": [
-        "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/"
-      ],
-      "oneliner": "LiteLLM 1.107.0 on PyPI shipped a credential stealer and backdoor. Your AI stack is only as safe as pip install.",
-      "emoji": "🐛"
-    },
-    {
-      "title": "PingCAP disclosed a cloud data breach",
-      "urls": [
-        "https://www.pingcap.com/trust-hub/security/security-update-october-2026/"
-      ],
-      "oneliner": "PingCAP says stolen service credentials exposed source code and customer data for nearly a month. Secrets management failed first.",
+      "oneliner": "A tampered LiteLLM package was live for two hours. Your AI stack now needs software supply chain discipline.",
       "emoji": "⚠️"
     },
     {
-      "title": "DuckDB 2.0 becomes the LTS line",
+      "title": "Railway paused deployments after a secrets incident",
       "urls": [
-        "https://duckdb.org/2026/10/21/announcing-duckdb-200"
+        "https://blog.railway.com/p/security-disclosure-wednesday-october-21st"
       ],
-      "oneliner": "DuckDB 2.0 LTS adds async I/O, VARIANT, triggers, and agent mode. Embedded analytics keeps absorbing warehouse workloads.",
+      "oneliner": "Railway says encrypted environment variables may have been accessed. Every hosted inference workflow should rotate credentials now.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "PHP2Shell was exploited before public disclosure",
+      "urls": [
+        "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/"
+      ],
+      "oneliner": "AWS saw PHP2Shell exploitation four days before disclosure. The patch-to-exploit window is now effectively zero.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "Linux kernel bugs leaked onto the public list",
+      "urls": [
+        "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+        "https://pwn.watch/"
+      ],
+      "oneliner": "Several Linux kernel flaws, including CVSS 9.0 issues, hit the public mailing list before fixes were ready.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "The Switch 2 got a software jailbreak",
+      "urls": [
+        "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/"
+      ],
+      "oneliner": "ns2jb breaks Switch 2 firmware 23.0.1 without hardware mods. Consumer device hardening still fails under sustained scrutiny.",
       "emoji": "📦"
     },
     {
-      "title": "Trail of Bits ships agent patching tools",
+      "title": "Fly built a simpler block device over object storage",
       "urls": [
-        "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/"
+        "https://fly.io/blog/sprites-block-device/"
       ],
-      "oneliner": "Trail of Bits released plugins for agent-written patches and regression hunts. The real bottleneck is now verification, not code generation.",
-      "emoji": "🛠️"
+      "oneliner": "Fly replaced filesystem complexity with a custom block device. Infrastructure teams are relearning that boring abstractions scale better.",
+      "emoji": "💻"
+    },
+    {
+      "title": "Quad9 is leaving France over DNS blocking",
+      "urls": [
+        "https://quad9.net/news/blog/au-revoir-france/"
+      ],
+      "oneliner": "Quad9 will exit France rather than censor DNS. Infrastructure neutrality is now colliding directly with national courts.",
+      "emoji": "🌐"
+    },
+    {
+      "title": "eMudhra is exiting the global certificate market",
+      "urls": [
+        "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business"
+      ],
+      "oneliner": "eMudhra is leaving the SSL and TLS certificate business. Trust infrastructure keeps consolidating around fewer operators.",
+      "emoji": "💰"
     }
   ],
   "keywords": [
-    "cracked",
-    "racing",
-    "leaked",
+    "weaponized",
+    "surpassed",
+    "breached",
     "autonomy",
     "scarcity",
-    "weaponized",
+    "racing",
     "consolidation"
   ],
   "tokenUsage": {
-    "promptTokens": 20002,
-    "completionTokens": 826,
-    "totalTokens": 20828,
-    "costUsd": 0.06239499999999999
+    "promptTokens": 7473,
+    "completionTokens": 775,
+    "totalTokens": 8248,
+    "costUsd": 0.030307499999999998
   }
 }
