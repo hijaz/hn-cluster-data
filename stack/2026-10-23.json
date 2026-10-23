@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T17:20:29.028965+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 87,
+  "items": [
+    {
+      "title": "Run autonomous agents on Kubernetes",
+      "urls": [
+        "https://github.com/NVIDIA/OpenShell"
+      ],
+      "oneliner": "Open runtime for managing autonomous AI agent fleets with Kubernetes-native deployment, isolation, and security controls."
+    },
+    {
+      "title": "Train your pitch in real time",
+      "urls": [
+        "https://github.com/dsmurrell/onkey"
+      ],
+      "oneliner": "Mac app that learns a song's melody and shows exactly where your singing goes off-key."
+    },
+    {
+      "title": "Expose only valid share links",
+      "urls": [
+        "https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html"
+      ],
+      "oneliner": "Caddy forward-auth setup that publishes private app share links without exposing the full service or requiring VPN access."
+    },
+    {
+      "title": "Unify folding across Emacs modes",
+      "urls": [
+        "https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/"
+      ],
+      "oneliner": "Kirigami gives Emacs one folding interface across Tree-sitter, Org, XML, and hide-show with consistent keybindings."
+    },
+    {
+      "title": "Speed up Org to HTML parsing",
+      "urls": [
+        "https://jointhefreeworld.org/blog/articles/lisps/orgwebalchemy-benchmarking-profiling-and-org-support/"
+      ],
+      "oneliner": "OrgWebAlchemy cuts Org parsing from 32.2 ms to 5.1 ms and memory from 30.3 MB to 3.9 MB."
+    },
+    {
+      "title": "Package Python scripts with Nix",
+      "urls": [
+        "https://entropicthoughts.com/python-dependencies-with-nix"
+      ],
+      "oneliner": "Hands-on guide for shipping Python scripts with reproducible dependencies, rollbacks, and cross-distro execution using Nix flakes."
+    },
+    {
+      "title": "Scan and name network devices",
+      "urls": [
+        "https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html"
+      ],
+      "oneliner": "Practical arp-scan walkthrough for finding active IPv4 devices fast and building saner naming across home or lab networks."
+    },
+    {
+      "title": "Benchmark pure FP against C",
+      "urls": [
+        "https://rtfeldman.com/fp-vs-c"
+      ],
+      "oneliner": "Compression benchmarks show Roc within 10% of libdeflate and Lean 4 beating Rust's miniz_oxide."
+    },
+    {
+      "title": "Learn from a benchmark disqualification",
+      "urls": [
+        "https://github.com/ClickHouse/ClickBench/pull/2165"
+      ],
+      "oneliner": "ClickBench pull request details how cached results and per-query kernels invalidated a database benchmark entry."
+    },
+    {
+      "title": "Study a garbage collector in Rust",
+      "urls": [
+        "https://claytonwramsey.com/blog/dumpster/"
+      ],
+      "oneliner": "Deep implementation writeup and public code for a Rust garbage collector that handles cyclic shared ownership."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "offline",
+    "open",
+    "local",
+    "unlocked",
+    "instant"
+  ],
+  "tokenUsage": {
+    "promptTokens": 18277,
+    "completionTokens": 654,
+    "totalTokens": 18931,
+    "costUsd": 0.0555025
+  }
+}

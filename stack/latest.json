@@ -1,94 +1,94 @@
 {
-  "date": "2026-10-22",
-  "generated_at": "2026-10-22T17:28:27.433337+00:00",
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T17:20:29.028965+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 33,
+  "totalItemsConsidered": 87,
   "items": [
     {
-      "title": "Run iOS on Android hardware",
+      "title": "Run autonomous agents on Kubernetes",
       "urls": [
-        "https://github.com/oosexgang/hackios-xnu-kernel"
+        "https://github.com/NVIDIA/OpenShell"
       ],
-      "oneliner": "Open-source XNU boot stack runs iOS 16.5 on Android phones and QEMU with working home screen, settings, and apps."
+      "oneliner": "Open runtime for managing autonomous AI agent fleets with Kubernetes-native deployment, isolation, and security controls."
     },
     {
-      "title": "Triangulate map polygons much faster",
+      "title": "Train your pitch in real time",
       "urls": [
-        "https://globus.software/blog/2026/10/16/cutting-map-polygons/"
+        "https://github.com/dsmurrell/onkey"
       ],
-      "oneliner": "ISC-licensed C++ and WebAssembly triangulator processes 3.7 million polygons in 489 ms and beats earcut in browsers."
+      "oneliner": "Mac app that learns a song's melody and shows exactly where your singing goes off-key."
     },
     {
-      "title": "Fix mouse input in NT 3.x",
+      "title": "Expose only valid share links",
       "urls": [
-        "https://github.com/rhargreaves/vmmouse-nt3"
+        "https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html"
       ],
-      "oneliner": "MIT-licensed driver adds seamless QEMU and VMware mouse integration for Windows NT 3.x with ISO-based install."
+      "oneliner": "Caddy forward-auth setup that publishes private app share links without exposing the full service or requiring VPN access."
     },
     {
-      "title": "Learn ZFS internals interactively",
+      "title": "Unify folding across Emacs modes",
       "urls": [
-        "https://uberblok.storagebits.workers.dev/"
+        "https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/"
       ],
-      "oneliner": "Interactive ZFS walkthrough maps animations to OpenZFS source lines so you can understand uberblocks, txgs, and recovery."
+      "oneliner": "Kirigami gives Emacs one folding interface across Tree-sitter, Org, XML, and hide-show with consistent keybindings."
     },
     {
-      "title": "Jailbreak the Switch 2",
+      "title": "Speed up Org to HTML parsing",
       "urls": [
-        "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/"
+        "https://jointhefreeworld.org/blog/articles/lisps/orgwebalchemy-benchmarking-profiling-and-org-support/"
       ],
-      "oneliner": "Software-only tethered Switch 2 jailbreak on firmware 23.0.1 enables homebrew, save management, and game modding today."
+      "oneliner": "OrgWebAlchemy cuts Org parsing from 32.2 ms to 5.1 ms and memory from 30.3 MB to 3.9 MB."
     },
     {
-      "title": "Try a terminal world model",
+      "title": "Package Python scripts with Nix",
       "urls": [
-        "https://simedw.com/2026/10/21/world-model-terminal/"
+        "https://entropicthoughts.com/python-dependencies-with-nix"
       ],
-      "oneliner": "A 360M model predicts terminal screen state changes, letting you test vim, tmux, and shell workflows in-browser."
+      "oneliner": "Hands-on guide for shipping Python scripts with reproducible dependencies, rollbacks, and cross-distro execution using Nix flakes."
     },
     {
-      "title": "Study a simpler block device",
+      "title": "Scan and name network devices",
       "urls": [
-        "https://fly.io/blog/sprites-block-device/"
+        "https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html"
       ],
-      "oneliner": "Hands-on engineering writeup explains a production block device over object storage, with concrete tradeoffs and implementation details."
+      "oneliner": "Practical arp-scan walkthrough for finding active IPv4 devices fast and building saner naming across home or lab networks."
     },
     {
-      "title": "Recreate NetHack cave generation",
+      "title": "Benchmark pure FP against C",
       "urls": [
-        "https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/"
+        "https://rtfeldman.com/fp-vs-c"
       ],
-      "oneliner": "Detailed dungeon generation walkthrough shows the exact cellular automata passes behind NetHack's Gnomish Mines caves."
+      "oneliner": "Compression benchmarks show Roc within 10% of libdeflate and Lean 4 beating Rust's miniz_oxide."
     },
     {
-      "title": "Upgrade to Crystal 1.22",
+      "title": "Learn from a benchmark disqualification",
       "urls": [
-        "https://crystal-lang.org/2026/10/12/1.22.0-released/"
+        "https://github.com/ClickHouse/ClickBench/pull/2165"
       ],
-      "oneliner": "Crystal 1.22 ships 251 changes, including Tier 1 aarch64 Linux support and lower-memory DWARF parsing improvements."
+      "oneliner": "ClickBench pull request details how cached results and per-query kernels invalidated a database benchmark entry."
     },
     {
-      "title": "Stop using LLM confidence scores",
+      "title": "Study a garbage collector in Rust",
       "urls": [
-        "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html"
+        "https://claytonwramsey.com/blog/dumpster/"
       ],
-      "oneliner": "Practical critique explains why LLM-generated confidence scores fail without historical calibration data and proper probability modeling."
+      "oneliner": "Deep implementation writeup and public code for a Rust garbage collector that handles cyclic shared ownership."
     }
   ],
   "keywords": [
     "shipped",
     "blazing",
-    "instant",
     "offline",
     "open",
     "local",
-    "unlocked"
+    "unlocked",
+    "instant"
   ],
   "tokenUsage": {
-    "promptTokens": 7298,
-    "completionTokens": 684,
-    "totalTokens": 7982,
-    "costUsd": 0.028505000000000003
+    "promptTokens": 18277,
+    "completionTokens": 654,
+    "totalTokens": 18931,
+    "costUsd": 0.0555025
   }
 }
