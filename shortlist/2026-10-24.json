@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T16:12:38.832442+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 41,
+  "items": [
+    {
+      "title": "Kimi pushed open weights into frontier territory",
+      "urls": [
+        "https://www.kimi.ai/blog/kimi-k3-1-pro",
+        "https://www.youtube.com/watch?v=XwTNOdTcWHA",
+        "https://www.youtube.com/watch?v=9bgM_nJfxZM"
+      ],
+      "oneliner": "Kimi K3.1 Pro brings 1M context and top coding scores, making open-weight models newly credible for serious production work.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "Block unveiled a speech-only conversation model",
+      "urls": [
+        "https://block.xyz/dessa"
+      ],
+      "oneliner": "Block's speech-trained Dessa suggests voice agents may stop inheriting text-first biases and start sounding native to audio.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "HTTP2Shell widened a critical Brotli attack",
+      "urls": [
+        "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497"
+      ],
+      "oneliner": "A 9.2 CVSS Brotli flaw now hits multiple HTTP stacks, so disable decoding fast if your patch chain lags.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "AI citations failed inside a published paper",
+      "urls": [
+        "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/"
+      ],
+      "oneliner": "An AI-assisted Z-Library paper cited a nonexistent TorrentFreak story, which is exactly why automated research needs verification gates.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "Apple reopened iPhone security research access",
+      "urls": [
+        "https://security.apple.com/research-device/"
+      ],
+      "oneliner": "Apple is again lending research iPhones, a practical signal that serious mobile security still depends on outside hackers.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Banking apps are slowly accepting GrapheneOS",
+      "urls": [
+        "https://grapheneos.social/@GrapheneOS/117492375462459244"
+      ],
+      "oneliner": "Around a dozen banking apps now allow GrapheneOS, showing mobile trust checks can loosen without collapsing fraud controls.",
+      "emoji": "📊"
+    },
+    {
+      "title": "A kernel hack unlocked RTX 3000 throughput",
+      "urls": [
+        "https://github.com/Zagitta/gpu-unlock"
+      ],
+      "oneliner": "GPU-unlock reportedly doubles FP and BF16 issue rates on RTX 3000 cards, which could reshape low-budget local training economics.",
+      "emoji": "💻"
+    },
+    {
+      "title": "Astral merged environment and type workflows",
+      "urls": [
+        "https://astral.sh/blog/uv-ty-integration"
+      ],
+      "oneliner": "Astral's uv plus ty integration turns Python setup and checking into one path, which is exactly what fragmented tooling needed.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "Java gained a cleaner path to GPUs",
+      "urls": [
+        "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/"
+      ],
+      "oneliner": "TornadoVM 7.3 moves Java GPU acceleration beyond JNI, making heterogeneous compute less painful for existing enterprise stacks.",
+      "emoji": "📦"
+    },
+    {
+      "title": "Google's data center expansion hit environmental limits",
+      "urls": [
+        "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/"
+      ],
+      "oneliner": "Finnish authorities halted parts of Google's data center build after 250,000 trees were cut, reminding AI infrastructure has physical costs.",
+      "emoji": "🏭"
+    }
+  ],
+  "keywords": [
+    "weaponized",
+    "surpassed",
+    "leaked",
+    "autonomy",
+    "scarcity",
+    "colliding",
+    "patched"
+  ],
+  "tokenUsage": {
+    "promptTokens": 10074,
+    "completionTokens": 787,
+    "totalTokens": 10861,
+    "costUsd": 0.03699
+  }
+}
