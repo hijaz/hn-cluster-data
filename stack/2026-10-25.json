@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T16:29:20.821414+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 69,
+  "items": [
+    {
+      "title": "Risk maps for pull requests",
+      "urls": [
+        "https://github.com/winnin/farol"
+      ],
+      "oneliner": "GitHub review tool highlights risky diffs first, helping approvers focus on dangerous changes before merging."
+    },
+    {
+      "title": "A faster Rust linker release",
+      "urls": [
+        "https://github.com/wild-linker/wild/releases/tag/0.11.0"
+      ],
+      "oneliner": "Rust linker adds default Wasm support and Linux kernel module linking, with more linker script coverage."
+    },
+    {
+      "title": "A rebuilt Heroes II engine",
+      "urls": [
+        "https://github.com/ihhub/fheroes2"
+      ],
+      "oneliner": "Open-source Heroes II engine adds smarter AI, high-resolution graphics, and modern platform support."
+    },
+    {
+      "title": "Neovim notes with Obsidian compatibility",
+      "urls": [
+        "https://thetangent.space/2026/obsidian"
+      ],
+      "oneliner": "Hands-on walkthrough shows how to use obsidian.nvim for fast Markdown notes while staying compatible with Obsidian."
+    },
+    {
+      "title": "SIMD vision on cheap microcontrollers",
+      "urls": [
+        "https://shraiwi.com/blog/simd-fast-esp32s3/"
+      ],
+      "oneliner": "Detailed implementation shows a FAST detector hitting 6 ms QVGA frames on a 2 dollar ESP32-S3."
+    },
+    {
+      "title": "Experimental SIMD in Go",
+      "urls": [
+        "https://internals-for-interns.com/posts/go-simd/"
+      ],
+      "oneliner": "Practical guide explains Go's new SIMD packages and where vectorized code can outperform scalar loops."
+    },
+    {
+      "title": "Computing polar triangles in Python",
+      "urls": [
+        "https://www.johndcook.com/blog/2026/10/24/computing-polar-triangles/"
+      ],
+      "oneliner": "Worked Python example computes spherical polar triangles with matrix inversion and verifies the geometry numerically."
+    },
+    {
+      "title": "An open I O coprocessor",
+      "urls": [
+        "https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor"
+      ],
+      "oneliner": "Deep technical guide shows how BIO offloads deterministic I O tasks with assembly and C examples."
+    },
+    {
+      "title": "A bookmarklet for web archaeology",
+      "urls": [
+        "https://cogdogblog.com/2026/10/back-to-the-past/"
+      ],
+      "oneliner": "Simple URL trick and bookmarklet jump straight to a site's earliest Internet Archive snapshot."
+    },
+    {
+      "title": "A capable open scientific calculator",
+      "urls": [
+        "https://www.speedcrunch.org/"
+      ],
+      "oneliner": "Cross-platform calculator offers 50-digit precision, matrices, vectors, and 140 plus functions for daily engineering work."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "instant",
+    "unlocked",
+    "local",
+    "open",
+    "practical"
+  ],
+  "tokenUsage": {
+    "promptTokens": 15817,
+    "completionTokens": 626,
+    "totalTokens": 16443,
+    "costUsd": 0.048932500000000004
+  }
+}

@@ -1,106 +1,105 @@
 {
-  "date": "2026-10-24",
-  "generated_at": "2026-10-24T16:12:38.832442+00:00",
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T16:29:13.963334+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 41,
+  "totalItemsConsidered": 69,
   "items": [
     {
-      "title": "Kimi pushed open weights into frontier territory",
+      "title": "Cerebras is serving trillion-parameter models",
       "urls": [
-        "https://www.kimi.ai/blog/kimi-k3-1-pro",
-        "https://www.youtube.com/watch?v=XwTNOdTcWHA",
-        "https://www.youtube.com/watch?v=9bgM_nJfxZM"
+        "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
       ],
-      "oneliner": "Kimi K3.1 Pro brings 1M context and top coding scores, making open-weight models newly credible for serious production work.",
+      "oneliner": "Cerebras says Kimi K3 runs on 59 wafers. Trillion-parameter inference is becoming an infrastructure problem, not a research fantasy.",
       "emoji": "🤖"
     },
     {
-      "title": "Block unveiled a speech-only conversation model",
+      "title": "Block is betting on speech-to-speech AI",
       "urls": [
-        "https://block.xyz/dessa"
+        "https://www.youtube.com/watch?v=qcz1XQGHlfA"
       ],
-      "oneliner": "Block's speech-trained Dessa suggests voice agents may stop inheriting text-first biases and start sounding native to audio.",
+      "oneliner": "Block's Dessa skips text and talks full duplex. Voice agents are moving from transcription pipelines to native conversation.",
       "emoji": "🧠"
     },
     {
-      "title": "HTTP2Shell widened a critical Brotli attack",
+      "title": "EPFL built a closed-loop neural chip",
       "urls": [
-        "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497"
+        "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/"
       ],
-      "oneliner": "A 9.2 CVSS Brotli flaw now hits multiple HTTP stacks, so disable decoding fast if your patch chain lags.",
+      "oneliner": "EPFL's LogSync decodes cross-brain signals in real time. Adaptive neurostimulation is getting closer to software-defined psychiatry.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "Brotli decoding became an RCE surface",
+      "urls": [
+        "https://broccoli2shell.com/"
+      ],
+      "oneliner": "Broccoli2Shell turns malformed Brotli into RCE across Node.js, Python, and more. Compression libraries just joined your threat model.",
       "emoji": "⚠️"
     },
     {
-      "title": "AI citations failed inside a published paper",
+      "title": "The php2shell bug reached live targets",
       "urls": [
-        "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/"
+        "https://blog.luitjes.it/posts/i-want-my-wednesday-back/"
       ],
-      "oneliner": "An AI-assisted Z-Library paper cited a nonexistent TorrentFreak story, which is exactly why automated research needs verification gates.",
-      "emoji": "🔍"
-    },
-    {
-      "title": "Apple reopened iPhone security research access",
-      "urls": [
-        "https://security.apple.com/research-device/"
-      ],
-      "oneliner": "Apple is again lending research iPhones, a practical signal that serious mobile security still depends on outside hackers.",
+      "oneliner": "Public exploitation of php2shell appeared three days after patches landed. Patch windows for internet-facing stacks are effectively gone.",
       "emoji": "🔐"
     },
     {
-      "title": "Banking apps are slowly accepting GrapheneOS",
+      "title": "Revoked certificates stayed live on government sites",
       "urls": [
-        "https://grapheneos.social/@GrapheneOS/117492375462459244"
+        "https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/"
       ],
-      "oneliner": "Around a dozen banking apps now allow GrapheneOS, showing mobile trust checks can loosen without collapsing fraud controls.",
+      "oneliner": "Indian government sites kept serving revoked eMudhra certificates days later. PKI failures are still operational failures, not paperwork.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "POSIX wordexp remains a command injection trap",
+      "urls": [
+        "https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/"
+      ],
+      "oneliner": "wordexp(3) can still execute commands on untrusted input, even with safeguards. Legacy convenience APIs keep aging into liabilities.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "Samsung device telemetry raised surveillance concerns",
+      "urls": [
+        "https://twitter.com/freddier/status/2114042326758867453",
+        "https://twitter.com/mike64_t/status/2114150399406202896"
+      ],
+      "oneliner": "Reports say Samsung devices scan nearby Bluetooth microphones and run on-device tracking models. Smart TV privacy is now an ML story.",
       "emoji": "📊"
     },
     {
-      "title": "A kernel hack unlocked RTX 3000 throughput",
+      "title": "A two-dollar chip ran real-time vision",
       "urls": [
-        "https://github.com/Zagitta/gpu-unlock"
+        "https://shraiwi.com/blog/simd-fast-esp32s3/"
       ],
-      "oneliner": "GPU-unlock reportedly doubles FP and BF16 issue rates on RTX 3000 cards, which could reshape low-budget local training economics.",
-      "emoji": "💻"
-    },
-    {
-      "title": "Astral merged environment and type workflows",
-      "urls": [
-        "https://astral.sh/blog/uv-ty-integration"
-      ],
-      "oneliner": "Astral's uv plus ty integration turns Python setup and checking into one path, which is exactly what fragmented tooling needed.",
+      "oneliner": "An ESP32-S3 ran SIMD-accelerated FAST detection in 6 ms at QVGA. Edge vision keeps getting cheaper than your cloud bill.",
       "emoji": "🛠️"
     },
     {
-      "title": "Java gained a cleaner path to GPUs",
+      "title": "Farol scores pull request risk",
       "urls": [
-        "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/"
+        "https://github.com/winnin/farol"
       ],
-      "oneliner": "TornadoVM 7.3 moves Java GPU acceleration beyond JNI, making heterogeneous compute less painful for existing enterprise stacks.",
+      "oneliner": "Farol maps pull request risk for reviewers instead of summarizing diffs. AI code review is finally inching toward triage.",
       "emoji": "📦"
-    },
-    {
-      "title": "Google's data center expansion hit environmental limits",
-      "urls": [
-        "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/"
-      ],
-      "oneliner": "Finnish authorities halted parts of Google's data center build after 250,000 trees were cut, reminding AI infrastructure has physical costs.",
-      "emoji": "🏭"
     }
   ],
   "keywords": [
+    "cracked",
+    "racing",
     "weaponized",
     "surpassed",
-    "leaked",
-    "autonomy",
     "scarcity",
-    "colliding",
-    "patched"
+    "autonomy",
+    "leaked"
   ],
   "tokenUsage": {
-    "promptTokens": 10074,
-    "completionTokens": 787,
-    "totalTokens": 10861,
-    "costUsd": 0.03699
+    "promptTokens": 15992,
+    "completionTokens": 803,
+    "totalTokens": 16795,
+    "costUsd": 0.052025
   }
 }

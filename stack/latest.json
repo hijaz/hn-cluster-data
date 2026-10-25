@@ -1,94 +1,94 @@
 {
-  "date": "2026-10-24",
-  "generated_at": "2026-10-24T16:12:46.815935+00:00",
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T16:29:20.821414+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 41,
+  "totalItemsConsidered": 69,
   "items": [
     {
-      "title": "Unlock RTX 3000 BF16 throughput",
+      "title": "Risk maps for pull requests",
       "urls": [
-        "https://github.com/Zagitta/gpu-unlock"
+        "https://github.com/winnin/farol"
       ],
-      "oneliner": "Linux kernel module doubles FP16 and BF16 issue rate on many RTX 3000 cards for faster local training."
+      "oneliner": "GitHub review tool highlights risky diffs first, helping approvers focus on dangerous changes before merging."
     },
     {
-      "title": "Unify Python environments and type checks",
+      "title": "A faster Rust linker release",
       "urls": [
-        "https://astral.sh/blog/uv-ty-integration"
+        "https://github.com/wild-linker/wild/releases/tag/0.11.0"
       ],
-      "oneliner": "Experimental uv plus ty integration adds uv check, inline script dependencies, and first-class type-aware Python tooling."
+      "oneliner": "Rust linker adds default Wasm support and Linux kernel module linking, with more linker script coverage."
     },
     {
-      "title": "OBS Studio 33 is ready",
+      "title": "A rebuilt Heroes II engine",
       "urls": [
-        "https://github.com/obsproject/obs-studio/releases/tag/33.0.0"
+        "https://github.com/ihhub/fheroes2"
       ],
-      "oneliner": "Production-ready OBS release adds practical capture and encoding fixes, including better NVENC support on Arm64 systems."
+      "oneliner": "Open-source Heroes II engine adds smarter AI, high-resolution graphics, and modern platform support."
     },
     {
-      "title": "Build seamless GPU tiling noise",
+      "title": "Neovim notes with Obsidian compatibility",
       "urls": [
-        "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/"
+        "https://thetangent.space/2026/obsidian"
       ],
-      "oneliner": "Hands-on Godot shader tutorial shows how to generate toroidal tiling noise without seams across repeated textures."
+      "oneliner": "Hands-on walkthrough shows how to use obsidian.nvim for fast Markdown notes while staying compatible with Obsidian."
     },
     {
-      "title": "Benchmark C against Native AOT C#",
+      "title": "SIMD vision on cheap microcontrollers",
       "urls": [
-        "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/"
+        "https://shraiwi.com/blog/simd-fast-esp32s3/"
       ],
-      "oneliner": "Detailed Gaussian blur port shows Native AOT C# lands within 8 percent of optimized C in VLC."
+      "oneliner": "Detailed implementation shows a FAST detector hitting 6 ms QVGA frames on a 2 dollar ESP32-S3."
     },
     {
-      "title": "Start with distributed SQLite patterns",
+      "title": "Experimental SIMD in Go",
       "urls": [
-        "https://philipotoole.com/twelve-years-of-distributed-sqlite/"
+        "https://internals-for-interns.com/posts/go-simd/"
       ],
-      "oneliner": "Practical retrospective maps the distributed SQLite design space, from rqlite and dqlite to newer replication approaches."
+      "oneliner": "Practical guide explains Go's new SIMD packages and where vectorized code can outperform scalar loops."
     },
     {
-      "title": "Use AI image generation better",
+      "title": "Computing polar triangles in Python",
       "urls": [
-        "https://danielball.com/notes/ai_image_generation.html"
+        "https://www.johndcook.com/blog/2026/10/24/computing-polar-triangles/"
       ],
-      "oneliner": "Practical guide compares diffusion, multimodal prompting, costs, and agent workflows for shipping image features in products."
+      "oneliner": "Worked Python example computes spherical polar triangles with matrix inversion and verifies the geometry numerically."
     },
     {
-      "title": "Track CVEs with raw exports",
+      "title": "An open I O coprocessor",
       "urls": [
-        "https://cve.0xosprey.com/"
+        "https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor"
       ],
-      "oneliner": "Searchable CVE tracker offers trend views and raw downloads for building internal vuln dashboards and alerting pipelines."
+      "oneliner": "Deep technical guide shows how BIO offloads deterministic I O tasks with assembly and C examples."
     },
     {
-      "title": "Root a specific TCL Android TV",
+      "title": "A bookmarklet for web archaeology",
       "urls": [
-        "https://gitlab.com/c4psu13/mali-pagecache-root"
+        "https://cogdogblog.com/2026/10/back-to-the-past/"
       ],
-      "oneliner": "Exploit toolkit automates root on supported TCL Android TV firmware, then scripts debloating, ad blocking, and hardening."
+      "oneliner": "Simple URL trick and bookmarklet jump straight to a site's earliest Internet Archive snapshot."
     },
     {
-      "title": "Build a local VS Code copilot",
+      "title": "A capable open scientific calculator",
       "urls": [
-        "https://www.youtube.com/watch?v=clJCDHml2cA"
+        "https://www.speedcrunch.org/"
       ],
-      "oneliner": "Step-by-step video walks through a VS Code extension that runs DeepSeek R1 locally instead of paid cloud coding tools."
+      "oneliner": "Cross-platform calculator offers 50-digit precision, matrices, vectors, and 140 plus functions for daily engineering work."
     }
   ],
   "keywords": [
     "shipped",
     "blazing",
-    "offline",
-    "open",
-    "local",
+    "instant",
     "unlocked",
-    "instant"
+    "local",
+    "open",
+    "practical"
   ],
   "tokenUsage": {
-    "promptTokens": 9899,
-    "completionTokens": 656,
-    "totalTokens": 10555,
-    "costUsd": 0.0345875
+    "promptTokens": 15817,
+    "completionTokens": 626,
+    "totalTokens": 16443,
+    "costUsd": 0.048932500000000004
   }
 }

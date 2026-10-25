@@ -1,0 +1,105 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T16:29:13.963334+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 69,
+  "items": [
+    {
+      "title": "Cerebras is serving trillion-parameter models",
+      "urls": [
+        "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
+      ],
+      "oneliner": "Cerebras says Kimi K3 runs on 59 wafers. Trillion-parameter inference is becoming an infrastructure problem, not a research fantasy.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "Block is betting on speech-to-speech AI",
+      "urls": [
+        "https://www.youtube.com/watch?v=qcz1XQGHlfA"
+      ],
+      "oneliner": "Block's Dessa skips text and talks full duplex. Voice agents are moving from transcription pipelines to native conversation.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "EPFL built a closed-loop neural chip",
+      "urls": [
+        "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/"
+      ],
+      "oneliner": "EPFL's LogSync decodes cross-brain signals in real time. Adaptive neurostimulation is getting closer to software-defined psychiatry.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "Brotli decoding became an RCE surface",
+      "urls": [
+        "https://broccoli2shell.com/"
+      ],
+      "oneliner": "Broccoli2Shell turns malformed Brotli into RCE across Node.js, Python, and more. Compression libraries just joined your threat model.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "The php2shell bug reached live targets",
+      "urls": [
+        "https://blog.luitjes.it/posts/i-want-my-wednesday-back/"
+      ],
+      "oneliner": "Public exploitation of php2shell appeared three days after patches landed. Patch windows for internet-facing stacks are effectively gone.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Revoked certificates stayed live on government sites",
+      "urls": [
+        "https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/"
+      ],
+      "oneliner": "Indian government sites kept serving revoked eMudhra certificates days later. PKI failures are still operational failures, not paperwork.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "POSIX wordexp remains a command injection trap",
+      "urls": [
+        "https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/"
+      ],
+      "oneliner": "wordexp(3) can still execute commands on untrusted input, even with safeguards. Legacy convenience APIs keep aging into liabilities.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "Samsung device telemetry raised surveillance concerns",
+      "urls": [
+        "https://twitter.com/freddier/status/2114042326758867453",
+        "https://twitter.com/mike64_t/status/2114150399406202896"
+      ],
+      "oneliner": "Reports say Samsung devices scan nearby Bluetooth microphones and run on-device tracking models. Smart TV privacy is now an ML story.",
+      "emoji": "📊"
+    },
+    {
+      "title": "A two-dollar chip ran real-time vision",
+      "urls": [
+        "https://shraiwi.com/blog/simd-fast-esp32s3/"
+      ],
+      "oneliner": "An ESP32-S3 ran SIMD-accelerated FAST detection in 6 ms at QVGA. Edge vision keeps getting cheaper than your cloud bill.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "Farol scores pull request risk",
+      "urls": [
+        "https://github.com/winnin/farol"
+      ],
+      "oneliner": "Farol maps pull request risk for reviewers instead of summarizing diffs. AI code review is finally inching toward triage.",
+      "emoji": "📦"
+    }
+  ],
+  "keywords": [
+    "cracked",
+    "racing",
+    "weaponized",
+    "surpassed",
+    "scarcity",
+    "autonomy",
+    "leaked"
+  ],
+  "tokenUsage": {
+    "promptTokens": 15992,
+    "completionTokens": 803,
+    "totalTokens": 16795,
+    "costUsd": 0.052025
+  }
+}
