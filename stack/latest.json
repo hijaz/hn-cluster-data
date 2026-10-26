@@ -1,94 +1,94 @@
 {
-  "date": "2026-10-25",
-  "generated_at": "2026-10-25T16:29:20.821414+00:00",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T19:10:18.818513+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 69,
+  "totalItemsConsidered": 79,
   "items": [
     {
-      "title": "Risk maps for pull requests",
+      "title": "Encrypted voice chat for Reticulum",
       "urls": [
-        "https://github.com/winnin/farol"
+        "https://github.com/RFnexus/partyline"
       ],
-      "oneliner": "GitHub review tool highlights risky diffs first, helping approvers focus on dangerous changes before merging."
+      "oneliner": "Self-hosted group voice app with GUI and CLI that brings encrypted low-bandwidth calling to Reticulum networks."
     },
     {
-      "title": "A faster Rust linker release",
+      "title": "vLLM tool calling fix guide",
       "urls": [
-        "https://github.com/wild-linker/wild/releases/tag/0.11.0"
+        "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm"
       ],
-      "oneliner": "Rust linker adds default Wasm support and Linux kernel module linking, with more linker script coverage."
+      "oneliner": "Hands-on vLLM walkthrough shows constrained decoding that lifts tool-call reliability beyond a 92 percent baseline."
     },
     {
-      "title": "A rebuilt Heroes II engine",
+      "title": "Python type analysis over JSON-RPC",
       "urls": [
-        "https://github.com/ihhub/fheroes2"
+        "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md"
       ],
-      "oneliner": "Open-source Heroes II engine adds smarter AI, high-resolution graphics, and modern platform support."
+      "oneliner": "Protocol spec extends LSP so editors can query Python type state directly from a dedicated type server."
     },
     {
-      "title": "Neovim notes with Obsidian compatibility",
+      "title": "Minimal firmware with 300 assembly lines",
       "urls": [
-        "https://thetangent.space/2026/obsidian"
+        "https://tinfoil.sh/blog/2026-10-25-less-is-more"
       ],
-      "oneliner": "Hands-on walkthrough shows how to use obsidian.nvim for fast Markdown notes while staying compatible with Obsidian."
+      "oneliner": "A practical teardown of OVMF shows how shrinking firmware from 1M lines improves auditability and attack surface."
     },
     {
-      "title": "SIMD vision on cheap microcontrollers",
+      "title": "Simple NetBSD webserver tutorial",
       "urls": [
-        "https://shraiwi.com/blog/simd-fast-esp32s3/"
+        "https://bsandro.tech/posts/simple-netbsd-webserver/"
       ],
-      "oneliner": "Detailed implementation shows a FAST detector hitting 6 ms QVGA frames on a 2 dollar ESP32-S3."
+      "oneliner": "Step-by-step bozohttpd guide gets a NetBSD 11 site online with HTTPS using acme-client and Let's Encrypt."
     },
     {
-      "title": "Experimental SIMD in Go",
+      "title": "Build reasoning models from scratch",
       "urls": [
-        "https://internals-for-interns.com/posts/go-simd/"
+        "https://magazine.sebastianraschka.com/p/building-reasoning-models"
       ],
-      "oneliner": "Practical guide explains Go's new SIMD packages and where vectorized code can outperform scalar loops."
+      "oneliner": "An 11-hour PyTorch course walks through evals, distillation, reinforcement learning, and inference-time scaling implementation."
     },
     {
-      "title": "Computing polar triangles in Python",
+      "title": "Run Java inside Common Lisp",
       "urls": [
-        "https://www.johndcook.com/blog/2026/10/24/computing-polar-triangles/"
+        "https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/"
       ],
-      "oneliner": "Worked Python example computes spherical polar triangles with matrix inversion and verifies the geometry numerically."
+      "oneliner": "Experimental JIT runtime loads Java bytecode into SBCL so Java libraries and Lisp objects share one process."
     },
     {
-      "title": "An open I O coprocessor",
+      "title": "Debugger that teaches by questioning",
       "urls": [
-        "https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor"
+        "https://github.com/DilawarShafiq/nietzschian-debugger"
       ],
-      "oneliner": "Deep technical guide shows how BIO offloads deterministic I O tasks with assembly and C examples."
+      "oneliner": "Python tool turns debugging into guided interrogation, pushing developers to reason through failures instead of accepting AI fixes."
     },
     {
-      "title": "A bookmarklet for web archaeology",
+      "title": "Pratt parsing explained with code",
       "urls": [
-        "https://cogdogblog.com/2026/10/back-to-the-past/"
+        "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html"
       ],
-      "oneliner": "Simple URL trick and bookmarklet jump straight to a site's earliest Internet Archive snapshot."
+      "oneliner": "Concrete parser tutorial connects shunting yard to Pratt parsing with C examples for expression grammars."
     },
     {
-      "title": "A capable open scientific calculator",
+      "title": "Sudoku solver in AArch64 assembly",
       "urls": [
-        "https://www.speedcrunch.org/"
+        "https://blog.veitheller.de/Simple_Sudoku_Solvers_SIII%2C_EII%3A_Assembly.html"
       ],
-      "oneliner": "Cross-platform calculator offers 50-digit precision, matrices, vectors, and 140 plus functions for daily engineering work."
+      "oneliner": "A worked assembly implementation shows register-level backtracking logic for a complete Sudoku solver on AArch64."
     }
   ],
   "keywords": [
     "shipped",
     "blazing",
-    "instant",
-    "unlocked",
-    "local",
+    "offline",
     "open",
-    "practical"
+    "local",
+    "instant",
+    "unlocked"
   ],
   "tokenUsage": {
-    "promptTokens": 15817,
-    "completionTokens": 626,
-    "totalTokens": 16443,
-    "costUsd": 0.048932500000000004
+    "promptTokens": 16720,
+    "completionTokens": 646,
+    "totalTokens": 17366,
+    "costUsd": 0.051489999999999994
   }
 }
