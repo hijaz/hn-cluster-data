@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T18:57:23.759534+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 111,
+  "items": [
+    {
+      "title": "SVG sanitizer bypass research",
+      "urls": [
+        "https://portswigger.net/research/scalable-vector-grief"
+      ],
+      "oneliner": "Hands-on SVG exploit writeup shows bypasses in 6 of 8 sanitizers with payloads developers can test immediately."
+    },
+    {
+      "title": "Fuzzers versus LLM bug hunting",
+      "urls": [
+        "https://projectzero.google/2026/10/fuzzing-v-AI.html"
+      ],
+      "oneliner": "Six-month V8 study compares Fuzzilli and BigSleep, showing 45 versus 37 bugs and why teams should run both."
+    },
+    {
+      "title": "Faster Rust tar parser",
+      "urls": [
+        "https://astral.sh/blog/tar-codec"
+      ],
+      "oneliner": "Rust tar parser for uv is about 2x faster than its predecessor and built to reduce archive parsing risk."
+    },
+    {
+      "title": "Ghostty adds Kitty graphics",
+      "urls": [
+        "https://ghostty.org/docs/install/release-notes/1-4-0"
+      ],
+      "oneliner": "Terminal release adds full Kitty graphics with animation plus major memory and performance improvements you can install now."
+    },
+    {
+      "title": "Scheme to WebAssembly compiler",
+      "urls": [
+        "https://spritely.institute/news/hoot-0-10-0-released.html"
+      ],
+      "oneliner": "Scheme compiler targets WebAssembly, adds better errors and runtime features, and includes a game jam starter template."
+    },
+    {
+      "title": "Syl compiler explores dependent types",
+      "urls": [
+        "https://thenumb.at/Syl-Intro/"
+      ],
+      "oneliner": "Experimental language and compiler let systems programmers try compile-time dependent types with code available on GitHub."
+    },
+    {
+      "title": "Perfect hashing for C++ lookups",
+      "urls": [
+        "https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/"
+      ],
+      "oneliner": "Practical C++ walkthrough shows how perfect hashing beats unordered_map and reaches billion-query-per-second string lookups."
+    },
+    {
+      "title": "Portable SIMD across vector widths",
+      "urls": [
+        "https://streamhpc.com/blog/2026-10-28/making-simd-code-scale-to-any-vector-width/"
+      ],
+      "oneliner": "Concrete SIMD guide explains compile-time and runtime strategies for writing vector code that scales across hardware widths."
+    },
+    {
+      "title": "Game decompilation with Ghidra",
+      "urls": [
+        "https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world"
+      ],
+      "oneliner": "Deep reverse-engineering walkthrough maps rendering and memory structures in Fast Food Tycoon 2 using Ghidra."
+    },
+    {
+      "title": "Free graph theory textbook",
+      "urls": [
+        "https://vertex.degree/"
+      ],
+      "oneliner": "Free CC-licensed graph theory book teaches proofs and problem solving from first principles with examples you can use today."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "offline",
+    "open",
+    "local",
+    "instant",
+    "unlocked"
+  ],
+  "tokenUsage": {
+    "promptTokens": 23481,
+    "completionTokens": 644,
+    "totalTokens": 24125,
+    "costUsd": 0.06836249999999999
+  }
+}

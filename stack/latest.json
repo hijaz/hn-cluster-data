@@ -1,79 +1,79 @@
 {
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T19:10:18.818513+00:00",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T18:57:23.759534+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 79,
+  "totalItemsConsidered": 111,
   "items": [
     {
-      "title": "Encrypted voice chat for Reticulum",
+      "title": "SVG sanitizer bypass research",
       "urls": [
-        "https://github.com/RFnexus/partyline"
+        "https://portswigger.net/research/scalable-vector-grief"
       ],
-      "oneliner": "Self-hosted group voice app with GUI and CLI that brings encrypted low-bandwidth calling to Reticulum networks."
+      "oneliner": "Hands-on SVG exploit writeup shows bypasses in 6 of 8 sanitizers with payloads developers can test immediately."
     },
     {
-      "title": "vLLM tool calling fix guide",
+      "title": "Fuzzers versus LLM bug hunting",
       "urls": [
-        "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm"
+        "https://projectzero.google/2026/10/fuzzing-v-AI.html"
       ],
-      "oneliner": "Hands-on vLLM walkthrough shows constrained decoding that lifts tool-call reliability beyond a 92 percent baseline."
+      "oneliner": "Six-month V8 study compares Fuzzilli and BigSleep, showing 45 versus 37 bugs and why teams should run both."
     },
     {
-      "title": "Python type analysis over JSON-RPC",
+      "title": "Faster Rust tar parser",
       "urls": [
-        "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md"
+        "https://astral.sh/blog/tar-codec"
       ],
-      "oneliner": "Protocol spec extends LSP so editors can query Python type state directly from a dedicated type server."
+      "oneliner": "Rust tar parser for uv is about 2x faster than its predecessor and built to reduce archive parsing risk."
     },
     {
-      "title": "Minimal firmware with 300 assembly lines",
+      "title": "Ghostty adds Kitty graphics",
       "urls": [
-        "https://tinfoil.sh/blog/2026-10-25-less-is-more"
+        "https://ghostty.org/docs/install/release-notes/1-4-0"
       ],
-      "oneliner": "A practical teardown of OVMF shows how shrinking firmware from 1M lines improves auditability and attack surface."
+      "oneliner": "Terminal release adds full Kitty graphics with animation plus major memory and performance improvements you can install now."
     },
     {
-      "title": "Simple NetBSD webserver tutorial",
+      "title": "Scheme to WebAssembly compiler",
       "urls": [
-        "https://bsandro.tech/posts/simple-netbsd-webserver/"
+        "https://spritely.institute/news/hoot-0-10-0-released.html"
       ],
-      "oneliner": "Step-by-step bozohttpd guide gets a NetBSD 11 site online with HTTPS using acme-client and Let's Encrypt."
+      "oneliner": "Scheme compiler targets WebAssembly, adds better errors and runtime features, and includes a game jam starter template."
     },
     {
-      "title": "Build reasoning models from scratch",
+      "title": "Syl compiler explores dependent types",
       "urls": [
-        "https://magazine.sebastianraschka.com/p/building-reasoning-models"
+        "https://thenumb.at/Syl-Intro/"
       ],
-      "oneliner": "An 11-hour PyTorch course walks through evals, distillation, reinforcement learning, and inference-time scaling implementation."
+      "oneliner": "Experimental language and compiler let systems programmers try compile-time dependent types with code available on GitHub."
     },
     {
-      "title": "Run Java inside Common Lisp",
+      "title": "Perfect hashing for C++ lookups",
       "urls": [
-        "https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/"
+        "https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/"
       ],
-      "oneliner": "Experimental JIT runtime loads Java bytecode into SBCL so Java libraries and Lisp objects share one process."
+      "oneliner": "Practical C++ walkthrough shows how perfect hashing beats unordered_map and reaches billion-query-per-second string lookups."
     },
     {
-      "title": "Debugger that teaches by questioning",
+      "title": "Portable SIMD across vector widths",
       "urls": [
-        "https://github.com/DilawarShafiq/nietzschian-debugger"
+        "https://streamhpc.com/blog/2026-10-28/making-simd-code-scale-to-any-vector-width/"
       ],
-      "oneliner": "Python tool turns debugging into guided interrogation, pushing developers to reason through failures instead of accepting AI fixes."
+      "oneliner": "Concrete SIMD guide explains compile-time and runtime strategies for writing vector code that scales across hardware widths."
     },
     {
-      "title": "Pratt parsing explained with code",
+      "title": "Game decompilation with Ghidra",
       "urls": [
-        "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html"
+        "https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world"
       ],
-      "oneliner": "Concrete parser tutorial connects shunting yard to Pratt parsing with C examples for expression grammars."
+      "oneliner": "Deep reverse-engineering walkthrough maps rendering and memory structures in Fast Food Tycoon 2 using Ghidra."
     },
     {
-      "title": "Sudoku solver in AArch64 assembly",
+      "title": "Free graph theory textbook",
       "urls": [
-        "https://blog.veitheller.de/Simple_Sudoku_Solvers_SIII%2C_EII%3A_Assembly.html"
+        "https://vertex.degree/"
       ],
-      "oneliner": "A worked assembly implementation shows register-level backtracking logic for a complete Sudoku solver on AArch64."
+      "oneliner": "Free CC-licensed graph theory book teaches proofs and problem solving from first principles with examples you can use today."
     }
   ],
   "keywords": [
@@ -86,9 +86,9 @@
     "unlocked"
   ],
   "tokenUsage": {
-    "promptTokens": 16720,
-    "completionTokens": 646,
-    "totalTokens": 17366,
-    "costUsd": 0.051489999999999994
+    "promptTokens": 23481,
+    "completionTokens": 644,
+    "totalTokens": 24125,
+    "costUsd": 0.06836249999999999
   }
 }

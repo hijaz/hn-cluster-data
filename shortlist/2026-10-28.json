@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T18:57:15.825843+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 111,
+  "items": [
+    {
+      "title": "Google introduced Gemini 4 Carbon",
+      "urls": [
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+      ],
+      "oneliner": "Google says Gemini 4 Carbon tops Artificial Analysis. Security-first coding models are becoming the default enterprise buy.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "Nvidia released an open multilingual ASR model",
+      "urls": [
+        "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
+      ],
+      "oneliner": "Nvidia shipped open ASR for 40 languages with speaker attribution. Voice stacks just got cheaper to own.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "Tax agents failed real professional work",
+      "urls": [
+        "https://surgehq.ai/blog/dayjob-tax"
+      ],
+      "oneliner": "On 50 tax assignments, top agents passed under 11%. Domain automation is still nowhere near staff replacement.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "A UEFI flaw threatens most servers",
+      "urls": [
+        "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
+      ],
+      "oneliner": "A CVSS 9.5 bug in TianoCore EDK II hits pre-boot trust. Firmware remains the industry's ugliest patching problem.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "Tailscale is patching SSH privilege escalation",
+      "urls": [
+        "https://tailscale.com/ssh-investigation-update"
+      ],
+      "oneliner": "Tailscale confirmed SSH privilege escalation issues and urged policy tightening now. Zero-trust products still fail at privilege boundaries.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Apple still trusts compromised certificates",
+      "urls": [
+        "https://emudhra.we-have-a-problem.com/apple.html"
+      ],
+      "oneliner": "Apple's git, curl, and python3 still trust compromised eMudhra certs. Supply-chain risk now ships with the developer workstation.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "Most SVG sanitizers were bypassed",
+      "urls": [
+        "https://portswigger.net/research/scalable-vector-grief"
+      ],
+      "oneliner": "PortSwigger bypassed six of eight SVG sanitizers. If your app accepts SVG uploads, assume your filter is theater.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "LLM bug hunting beat classic fuzzing",
+      "urls": [
+        "https://projectzero.google/2026/10/fuzzing-v-AI.html"
+      ],
+      "oneliner": "Google found 45 V8 bugs with BigSleep versus 37 with Fuzzilli. AI security tooling is now additive, not optional.",
+      "emoji": "📊"
+    },
+    {
+      "title": "A robot PCB factory went live",
+      "urls": [
+        "https://www.circuithub.com/post/unveiling-the-grid"
+      ],
+      "oneliner": "CircuitHub's Grid promises four-day custom PCB builds without manual changeovers. Hardware iteration is starting to look like software.",
+      "emoji": "🏭"
+    },
+    {
+      "title": "Oracle will bring Google TPUs to OCI",
+      "urls": [
+        "https://www.oracle.com/news/announcement/ai-world-oracle-brings-google-tpus-to-oracle-cloud-infrastructure-2026-10-27/"
+      ],
+      "oneliner": "Oracle will add Google TPUs to OCI in 2027. Cloud AI infrastructure is consolidating around whoever can secure chips.",
+      "emoji": "💻"
+    }
+  ],
+  "keywords": [
+    "cracked",
+    "weaponized",
+    "surpassed",
+    "autonomy",
+    "scarcity",
+    "leaked",
+    "consolidation"
+  ],
+  "tokenUsage": {
+    "promptTokens": 23656,
+    "completionTokens": 778,
+    "totalTokens": 24434,
+    "costUsd": 0.07081
+  }
+}
