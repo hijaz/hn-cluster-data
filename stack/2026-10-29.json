@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T18:47:38.561023+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 53,
+  "items": [
+    {
+      "title": "Go heap allocations become enforceable",
+      "urls": [
+        "https://github.com/theconsensuslabs/noalloc"
+      ],
+      "oneliner": "Go analyzer flags hidden heap allocations across a function call tree and ships fixed-size data structures for zero-alloc paths."
+    },
+    {
+      "title": "Symbolic regression runs in seconds",
+      "urls": [
+        "https://github.com/owls-on-wires/keplearn"
+      ],
+      "oneliner": "Single-binary symbolic regression tool extracts equations from CSV data and returns deterministic formulas with r2 scores."
+    },
+    {
+      "title": "A free cross-platform DAW is emerging",
+      "urls": [
+        "https://github.com/Ka1-S/LYNX-SHARE"
+      ],
+      "oneliner": "Open-source FL Studio-inspired DAW already includes piano roll, playlist, mixer, and built-in plugins on Windows, macOS, and Linux."
+    },
+    {
+      "title": "A RISC-V CPU lives inside Qwen",
+      "urls": [
+        "https://divagr.com/blog/qwenputer"
+      ],
+      "oneliner": "This repo demonstrates a deterministic RISC-V CPU embedded in Qwen weights that can execute C and MicroPython."
+    },
+    {
+      "title": "GNU Guix for embedded reproducibility",
+      "urls": [
+        "https://mit.teil.space/embedded-procedural-sound-with-guix.html"
+      ],
+      "oneliner": "Hands-on walkthrough shows how Guix makes embedded builds reproducible while shipping a procedural sound application."
+    },
+    {
+      "title": "C CPU feature detection gets practical",
+      "urls": [
+        "https://terroir.systems/compile-time-cpu-feature-detection-in-c/"
+      ],
+      "oneliner": "Concrete guide maps compiler macros for Arm and x86 so you can ship optimized C code with safe fallbacks."
+    },
+    {
+      "title": "Go interfaces and heap costs explained",
+      "urls": [
+        "https://www.youtube.com/watch?v=_BxdvkLLnDc"
+      ],
+      "oneliner": "This video shows when empty interfaces trigger heap allocations and how escape analysis changes Go performance."
+    },
+    {
+      "title": "If-then-else gets a sharp history",
+      "urls": [
+        "https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md"
+      ],
+      "oneliner": "A compact markdown essay traces how conditional logic evolved from ENIAC wiring to modern programming syntax."
+    },
+    {
+      "title": "H.264 compression becomes intuitive",
+      "urls": [
+        "https://sidbala.com/h-264-is-magic/"
+      ],
+      "oneliner": "Clear technical explainer shows why H.264 makes video thousands of times smaller while preserving useful visual detail."
+    },
+    {
+      "title": "Permutation parity finally clicks",
+      "urls": [
+        "https://www.youtube.com/watch?v=rUiulWItECQ"
+      ],
+      "oneliner": "This math video connects puzzle solvability, Rubik's Cube moves, and determinants through permutation parity."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "offline",
+    "open",
+    "local",
+    "unlocked",
+    "instant"
+  ],
+  "tokenUsage": {
+    "promptTokens": 11650,
+    "completionTokens": 649,
+    "totalTokens": 12299,
+    "costUsd": 0.03886
+  }
+}

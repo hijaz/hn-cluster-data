@@ -1,79 +1,79 @@
 {
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T18:57:23.759534+00:00",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T18:47:38.561023+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 111,
+  "totalItemsConsidered": 53,
   "items": [
     {
-      "title": "SVG sanitizer bypass research",
+      "title": "Go heap allocations become enforceable",
       "urls": [
-        "https://portswigger.net/research/scalable-vector-grief"
+        "https://github.com/theconsensuslabs/noalloc"
       ],
-      "oneliner": "Hands-on SVG exploit writeup shows bypasses in 6 of 8 sanitizers with payloads developers can test immediately."
+      "oneliner": "Go analyzer flags hidden heap allocations across a function call tree and ships fixed-size data structures for zero-alloc paths."
     },
     {
-      "title": "Fuzzers versus LLM bug hunting",
+      "title": "Symbolic regression runs in seconds",
       "urls": [
-        "https://projectzero.google/2026/10/fuzzing-v-AI.html"
+        "https://github.com/owls-on-wires/keplearn"
       ],
-      "oneliner": "Six-month V8 study compares Fuzzilli and BigSleep, showing 45 versus 37 bugs and why teams should run both."
+      "oneliner": "Single-binary symbolic regression tool extracts equations from CSV data and returns deterministic formulas with r2 scores."
     },
     {
-      "title": "Faster Rust tar parser",
+      "title": "A free cross-platform DAW is emerging",
       "urls": [
-        "https://astral.sh/blog/tar-codec"
+        "https://github.com/Ka1-S/LYNX-SHARE"
       ],
-      "oneliner": "Rust tar parser for uv is about 2x faster than its predecessor and built to reduce archive parsing risk."
+      "oneliner": "Open-source FL Studio-inspired DAW already includes piano roll, playlist, mixer, and built-in plugins on Windows, macOS, and Linux."
     },
     {
-      "title": "Ghostty adds Kitty graphics",
+      "title": "A RISC-V CPU lives inside Qwen",
       "urls": [
-        "https://ghostty.org/docs/install/release-notes/1-4-0"
+        "https://divagr.com/blog/qwenputer"
       ],
-      "oneliner": "Terminal release adds full Kitty graphics with animation plus major memory and performance improvements you can install now."
+      "oneliner": "This repo demonstrates a deterministic RISC-V CPU embedded in Qwen weights that can execute C and MicroPython."
     },
     {
-      "title": "Scheme to WebAssembly compiler",
+      "title": "GNU Guix for embedded reproducibility",
       "urls": [
-        "https://spritely.institute/news/hoot-0-10-0-released.html"
+        "https://mit.teil.space/embedded-procedural-sound-with-guix.html"
       ],
-      "oneliner": "Scheme compiler targets WebAssembly, adds better errors and runtime features, and includes a game jam starter template."
+      "oneliner": "Hands-on walkthrough shows how Guix makes embedded builds reproducible while shipping a procedural sound application."
     },
     {
-      "title": "Syl compiler explores dependent types",
+      "title": "C CPU feature detection gets practical",
       "urls": [
-        "https://thenumb.at/Syl-Intro/"
+        "https://terroir.systems/compile-time-cpu-feature-detection-in-c/"
       ],
-      "oneliner": "Experimental language and compiler let systems programmers try compile-time dependent types with code available on GitHub."
+      "oneliner": "Concrete guide maps compiler macros for Arm and x86 so you can ship optimized C code with safe fallbacks."
     },
     {
-      "title": "Perfect hashing for C++ lookups",
+      "title": "Go interfaces and heap costs explained",
       "urls": [
-        "https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/"
+        "https://www.youtube.com/watch?v=_BxdvkLLnDc"
       ],
-      "oneliner": "Practical C++ walkthrough shows how perfect hashing beats unordered_map and reaches billion-query-per-second string lookups."
+      "oneliner": "This video shows when empty interfaces trigger heap allocations and how escape analysis changes Go performance."
     },
     {
-      "title": "Portable SIMD across vector widths",
+      "title": "If-then-else gets a sharp history",
       "urls": [
-        "https://streamhpc.com/blog/2026-10-28/making-simd-code-scale-to-any-vector-width/"
+        "https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md"
       ],
-      "oneliner": "Concrete SIMD guide explains compile-time and runtime strategies for writing vector code that scales across hardware widths."
+      "oneliner": "A compact markdown essay traces how conditional logic evolved from ENIAC wiring to modern programming syntax."
     },
     {
-      "title": "Game decompilation with Ghidra",
+      "title": "H.264 compression becomes intuitive",
       "urls": [
-        "https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world"
+        "https://sidbala.com/h-264-is-magic/"
       ],
-      "oneliner": "Deep reverse-engineering walkthrough maps rendering and memory structures in Fast Food Tycoon 2 using Ghidra."
+      "oneliner": "Clear technical explainer shows why H.264 makes video thousands of times smaller while preserving useful visual detail."
     },
     {
-      "title": "Free graph theory textbook",
+      "title": "Permutation parity finally clicks",
       "urls": [
-        "https://vertex.degree/"
+        "https://www.youtube.com/watch?v=rUiulWItECQ"
       ],
-      "oneliner": "Free CC-licensed graph theory book teaches proofs and problem solving from first principles with examples you can use today."
+      "oneliner": "This math video connects puzzle solvability, Rubik's Cube moves, and determinants through permutation parity."
     }
   ],
   "keywords": [
@@ -82,13 +82,13 @@
     "offline",
     "open",
     "local",
-    "instant",
-    "unlocked"
+    "unlocked",
+    "instant"
   ],
   "tokenUsage": {
-    "promptTokens": 23481,
-    "completionTokens": 644,
-    "totalTokens": 24125,
-    "costUsd": 0.06836249999999999
+    "promptTokens": 11650,
+    "completionTokens": 649,
+    "totalTokens": 12299,
+    "costUsd": 0.03886
   }
 }

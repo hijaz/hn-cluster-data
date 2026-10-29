@@ -1,104 +1,106 @@
 {
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T18:57:15.825843+00:00",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T18:47:30.578040+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 111,
+  "totalItemsConsidered": 53,
   "items": [
     {
-      "title": "Google introduced Gemini 4 Carbon",
+      "title": "Mistral open-sourced its trillion-parameter flagship",
       "urls": [
-        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+        "https://mistral.ai/news/mistral-large-4-oss/"
       ],
-      "oneliner": "Google says Gemini 4 Carbon tops Artificial Analysis. Security-first coding models are becoming the default enterprise buy.",
+      "oneliner": "Mistral released Large 4 weights at 1T parameters. Open multimodal models just got much harder to dismiss.",
       "emoji": "🤖"
     },
     {
-      "title": "Nvidia released an open multilingual ASR model",
+      "title": "Qwen now hides a CPU in weights",
       "urls": [
-        "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
+        "https://divagr.com/blog/qwenputer"
       ],
-      "oneliner": "Nvidia shipped open ASR for 40 languages with speaker attribution. Voice stacks just got cheaper to own.",
+      "oneliner": "Qwenputer embeds a deterministic RISC-V CPU inside Qwen 3.5. Model weights are starting to look like runtime.",
       "emoji": "🧠"
     },
     {
-      "title": "Tax agents failed real professional work",
+      "title": "New York restricted AI chatbots for minors",
       "urls": [
-        "https://surgehq.ai/blog/dayjob-tax"
+        "https://www.governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-protect-kids-ai-chatbots-and-ensure-baby",
+        "https://www.theneurondaily.com/p/new-york-curbs-ai-chatbots-for-kids",
+        "https://news.bloomberglaw.com/health-law-and-business/ai-chatbots-for-minors-to-face-new-restrictions-under-ny-bill"
       ],
-      "oneliner": "On 50 tax assignments, top agents passed under 11%. Domain automation is still nowhere near staff replacement.",
+      "oneliner": "New York banned child-facing chatbots from impersonation, secret-keeping, and self-harm prompts. Product safety rules now have teeth.",
       "emoji": "⚡"
     },
     {
-      "title": "A UEFI flaw threatens most servers",
+      "title": "Azure cross-tenant compromise exposed cloud trust",
       "urls": [
-        "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
+        "https://www.binarysecurity.no/posts/2026/10/one-root-case"
       ],
-      "oneliner": "A CVSS 9.5 bug in TianoCore EDK II hits pre-boot trust. Firmware remains the industry's ugliest patching problem.",
+      "oneliner": "Researchers detail five Azure cross-tenant compromises via Logic Apps. Shared cloud control planes remain a catastrophic blast radius.",
       "emoji": "⚠️"
     },
     {
-      "title": "Tailscale is patching SSH privilege escalation",
+      "title": "A single SMS can crash Android phones",
       "urls": [
-        "https://tailscale.com/ssh-investigation-update"
+        "https://smsofdeath.com/"
       ],
-      "oneliner": "Tailscale confirmed SSH privilege escalation issues and urged policy tightening now. Zero-trust products still fail at privilege boundaries.",
+      "oneliner": "A malformed WAP Push SMS can silently crash Android telephony and drop calls. Zero-click mobile DoS is still here.",
       "emoji": "🔐"
     },
     {
-      "title": "Apple still trusts compromised certificates",
+      "title": "PAN-OS exploit chain rooted government servers",
       "urls": [
-        "https://emudhra.we-have-a-problem.com/apple.html"
+        "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers"
       ],
-      "oneliner": "Apple's git, curl, and python3 still trust compromised eMudhra certs. Supply-chain risk now ships with the developer workstation.",
+      "oneliner": "A chained PAN-OS exploit reportedly rooted 25 servers, including US government systems. Exposed management planes remain indefensible.",
       "emoji": "🐛"
     },
     {
-      "title": "Most SVG sanitizers were bypassed",
+      "title": "Grace Blackwell needs rack-aware scheduling",
       "urls": [
-        "https://portswigger.net/research/scalable-vector-grief"
+        "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler"
       ],
-      "oneliner": "PortSwigger bypassed six of eight SVG sanitizers. If your app accepts SVG uploads, assume your filter is theater.",
-      "emoji": "🔍"
-    },
-    {
-      "title": "LLM bug hunting beat classic fuzzing",
-      "urls": [
-        "https://projectzero.google/2026/10/fuzzing-v-AI.html"
-      ],
-      "oneliner": "Google found 45 V8 bugs with BigSleep versus 37 with Fuzzilli. AI security tooling is now additive, not optional.",
-      "emoji": "📊"
-    },
-    {
-      "title": "A robot PCB factory went live",
-      "urls": [
-        "https://www.circuithub.com/post/unveiling-the-grid"
-      ],
-      "oneliner": "CircuitHub's Grid promises four-day custom PCB builds without manual changeovers. Hardware iteration is starting to look like software.",
+      "oneliner": "SkyPilot says rack-aware scheduling unlocks 27% more usable GPUs on NVL72. Cluster software is now a hardware multiplier.",
       "emoji": "🏭"
     },
     {
-      "title": "Oracle will bring Google TPUs to OCI",
+      "title": "Go gets a zero-allocation enforcement tool",
       "urls": [
-        "https://www.oracle.com/news/announcement/ai-world-oracle-brings-google-tpus-to-oracle-cloud-infrastructure-2026-10-27/"
+        "https://github.com/theconsensuslabs/noalloc"
       ],
-      "oneliner": "Oracle will add Google TPUs to OCI in 2027. Cloud AI infrastructure is consolidating around whoever can secure chips.",
-      "emoji": "💻"
+      "oneliner": "noalloc checks whole Go call trees for heap allocations. Performance-sensitive teams can finally gate memory regressions in CI.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "Stack Overflow usage keeps collapsing",
+      "urls": [
+        "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1"
+      ],
+      "oneliner": "Stack Overflow fell below 1,000 monthly questions. Developer help has decisively shifted from forums to assistants.",
+      "emoji": "📊"
+    },
+    {
+      "title": "DoorDash moved to buy Instacart",
+      "urls": [
+        "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart"
+      ],
+      "oneliner": "DoorDash plans to buy Instacart for about $17 billion. Delivery platforms are consolidating around logistics and retail data.",
+      "emoji": "💰"
     }
   ],
   "keywords": [
     "cracked",
-    "weaponized",
     "surpassed",
+    "weaponized",
     "autonomy",
     "scarcity",
     "leaked",
     "consolidation"
   ],
   "tokenUsage": {
-    "promptTokens": 23656,
-    "completionTokens": 778,
-    "totalTokens": 24434,
-    "costUsd": 0.07081
+    "promptTokens": 11825,
+    "completionTokens": 792,
+    "totalTokens": 12617,
+    "costUsd": 0.0414425
   }
 }
