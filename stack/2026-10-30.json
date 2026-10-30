@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T18:23:09.025887+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 48,
+  "items": [
+    {
+      "title": "A playable NES inside Qwen weights",
+      "urls": [
+        "https://github.com/dbreunig/nesformer"
+      ],
+      "oneliner": "Clone a 1GB repo that compiles a 6502 emulator into Qwen and runs NES games in your terminal."
+    },
+    {
+      "title": "An inference server for bulk decisions",
+      "urls": [
+        "https://github.com/spinfinc/spinf-serve"
+      ],
+      "oneliner": "OpenAI-compatible server scores many labels from one read, built for high-throughput classification on a single 24GB GPU."
+    },
+    {
+      "title": "A native workspace app for agents",
+      "urls": [
+        "https://github.com/herdrdev/herdr-app"
+      ],
+      "oneliner": "Desktop app organizes terminals and coding agents into panes and workspaces, with installers for macOS, Linux, and Windows."
+    },
+    {
+      "title": "A Rust panic path analyzer",
+      "urls": [
+        "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/"
+      ],
+      "oneliner": "This call graph tool extracts MIR to surface which Rust functions can panic before they hit production."
+    },
+    {
+      "title": "Procedural flowers generated in LaTeX",
+      "urls": [
+        "https://github.com/kevinraymond/florilegium"
+      ],
+      "oneliner": "Lua-powered LaTeX package draws randomized floral margins directly in PDFs, with no external images or vector assets."
+    },
+    {
+      "title": "An SVG figure pack for interfaces",
+      "urls": [
+        "https://hairline.lucasmarkes.com/"
+      ],
+      "oneliner": "Dependency-free library ships 33 isometric SVG line figures you can drop into React or any frontend stack."
+    },
+    {
+      "title": "Open weights for a trillion-parameter model",
+      "urls": [
+        "https://www.theneurondaily.com/p/mistral-released-a-1t-parameter-open-model"
+      ],
+      "oneliner": "Downloadable Mistral weights let teams run a trillion-parameter model on their own infrastructure instead of an API."
+    },
+    {
+      "title": "A practical Windows batch file fix",
+      "urls": [
+        "https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797%2F"
+      ],
+      "oneliner": "Short walkthrough explains why apps fail from batch files and shows the pushd fix for current-directory bugs."
+    },
+    {
+      "title": "An open source text-to-CAD tool",
+      "urls": [
+        "https://www.texttocad.dev/"
+      ],
+      "oneliner": "Free platform connects coding agents like Codex and Claude Code to generate physical product designs from text."
+    },
+    {
+      "title": "A compact local speech recognition model",
+      "urls": [
+        "https://www.youtube.com/watch?v=XMhQNWXm1FM"
+      ],
+      "oneliner": "This 164MB speech model runs locally on CPU and posts 5.21% WER on English transcription tests."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "instant",
+    "blazing",
+    "unlocked",
+    "local",
+    "open",
+    "native"
+  ],
+  "tokenUsage": {
+    "promptTokens": 10378,
+    "completionTokens": 657,
+    "totalTokens": 11035,
+    "costUsd": 0.0358
+  }
+}

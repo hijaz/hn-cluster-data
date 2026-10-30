@@ -1,106 +1,106 @@
 {
-  "date": "2026-10-29",
-  "generated_at": "2026-10-29T18:47:30.578040+00:00",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T18:22:59.655406+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 53,
+  "totalItemsConsidered": 48,
   "items": [
     {
-      "title": "Mistral open-sourced its trillion-parameter flagship",
+      "title": "Mistral opened its trillion-parameter model",
       "urls": [
-        "https://mistral.ai/news/mistral-large-4-oss/"
+        "https://www.theneurondaily.com/p/mistral-released-a-1t-parameter-open-model"
       ],
-      "oneliner": "Mistral released Large 4 weights at 1T parameters. Open multimodal models just got much harder to dismiss.",
+      "oneliner": "Mistral released 1T open weights for Large 4, making private deployment of frontier-scale models newly practical.",
       "emoji": "🤖"
     },
     {
-      "title": "Qwen now hides a CPU in weights",
+      "title": "A Nintendo runs inside Qwen weights",
       "urls": [
-        "https://divagr.com/blog/qwenputer"
+        "https://github.com/dbreunig/nesformer"
       ],
-      "oneliner": "Qwenputer embeds a deterministic RISC-V CPU inside Qwen 3.5. Model weights are starting to look like runtime.",
+      "oneliner": "Nesformer packs a working NES into about 1GB of Qwen weights, blurring emulator engineering and model design.",
       "emoji": "🧠"
     },
     {
-      "title": "New York restricted AI chatbots for minors",
+      "title": "Claude Code extension shipped a backdoor",
       "urls": [
-        "https://www.governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-protect-kids-ai-chatbots-and-ensure-baby",
-        "https://www.theneurondaily.com/p/new-york-curbs-ai-chatbots-for-kids",
-        "https://news.bloomberglaw.com/health-law-and-business/ai-chatbots-for-minors-to-face-new-restrictions-under-ny-bill"
+        "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
       ],
-      "oneliner": "New York banned child-facing chatbots from impersonation, secret-keeping, and self-harm prompts. Product safety rules now have teeth.",
-      "emoji": "⚡"
-    },
-    {
-      "title": "Azure cross-tenant compromise exposed cloud trust",
-      "urls": [
-        "https://www.binarysecurity.no/posts/2026/10/one-root-case"
-      ],
-      "oneliner": "Researchers detail five Azure cross-tenant compromises via Logic Apps. Shared cloud control planes remain a catastrophic blast radius.",
+      "oneliner": "The Claude Code VS Code extension version 2.1.313 carried an SSH backdoor, turning your IDE into an attack path.",
       "emoji": "⚠️"
     },
     {
-      "title": "A single SMS can crash Android phones",
+      "title": "Binance lost billions in minutes",
       "urls": [
-        "https://smsofdeath.com/"
+        "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+        "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance"
       ],
-      "oneliner": "A malformed WAP Push SMS can silently crash Android telephony and drop calls. Zero-click mobile DoS is still here.",
+      "oneliner": "Hackers stole $6.3B from Binance in 20 minutes, proving crypto security still fails at nation-state speed.",
       "emoji": "🔐"
     },
     {
-      "title": "PAN-OS exploit chain rooted government servers",
+      "title": "Northflank users were told to rotate secrets",
       "urls": [
-        "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers"
+        "https://status.northflank.com"
       ],
-      "oneliner": "A chained PAN-OS exploit reportedly rooted 25 servers, including US government systems. Exposed management planes remain indefensible.",
+      "oneliner": "Northflank disclosed a breach and warned users to rotate AI keys immediately, a nightmare scenario for hosted workloads.",
       "emoji": "🐛"
     },
     {
-      "title": "Grace Blackwell needs rack-aware scheduling",
+      "title": "Polymarket halted after vendor compromise",
       "urls": [
-        "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler"
+        "https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405"
       ],
-      "oneliner": "SkyPilot says rack-aware scheduling unlocks 27% more usable GPUs on NVL72. Cluster software is now a hardware multiplier.",
-      "emoji": "🏭"
-    },
-    {
-      "title": "Go gets a zero-allocation enforcement tool",
-      "urls": [
-        "https://github.com/theconsensuslabs/noalloc"
-      ],
-      "oneliner": "noalloc checks whole Go call trees for heap allocations. Performance-sensitive teams can finally gate memory regressions in CI.",
-      "emoji": "🛠️"
-    },
-    {
-      "title": "Stack Overflow usage keeps collapsing",
-      "urls": [
-        "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1"
-      ],
-      "oneliner": "Stack Overflow fell below 1,000 monthly questions. Developer help has decisively shifted from forums to assistants.",
+      "oneliner": "Polymarket paused trading for nearly an hour after a third-party compromise reportedly drained about $2.65M from wallets.",
       "emoji": "📊"
     },
     {
-      "title": "DoorDash moved to buy Instacart",
+      "title": "Amazon's AI bill hit cash flow",
       "urls": [
-        "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart"
+        "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/default.aspx",
+        "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo"
       ],
-      "oneliner": "DoorDash plans to buy Instacart for about $17 billion. Delivery platforms are consolidating around logistics and retail data.",
+      "oneliner": "Amazon posted $46.0B in sales, but AI spending helped swing free cash flow to a $42.4B outflow.",
       "emoji": "💰"
+    },
+    {
+      "title": "Deepgram bought Daily for voice infrastructure",
+      "urls": [
+        "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/"
+      ],
+      "oneliner": "Deepgram is buying Daily to own more of the voice stack, while keeping Pipecat open source for developers.",
+      "emoji": "📦"
+    },
+    {
+      "title": "A bulk inference server targets decisions",
+      "urls": [
+        "https://github.com/spinfinc/spinf-serve"
+      ],
+      "oneliner": "Spinf-serve uses one 24GB GPU to score many questions from one read, which is exactly how inference costs get tamed.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "Rust panic paths got a new analyzer",
+      "urls": [
+        "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/"
+      ],
+      "oneliner": "Call Graph Analyzer traces panic paths from monomorphized MIR, giving Rust teams a sharper way to audit failure modes.",
+      "emoji": "💻"
     }
   ],
   "keywords": [
-    "cracked",
+    "breached",
     "surpassed",
-    "weaponized",
-    "autonomy",
-    "scarcity",
+    "racing",
     "leaked",
-    "consolidation"
+    "scarcity",
+    "autonomy",
+    "repriced"
   ],
   "tokenUsage": {
-    "promptTokens": 11825,
-    "completionTokens": 792,
-    "totalTokens": 12617,
-    "costUsd": 0.0414425
+    "promptTokens": 10553,
+    "completionTokens": 787,
+    "totalTokens": 11340,
+    "costUsd": 0.0381875
   }
 }

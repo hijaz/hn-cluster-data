@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T18:22:59.655406+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 48,
+  "items": [
+    {
+      "title": "Mistral opened its trillion-parameter model",
+      "urls": [
+        "https://www.theneurondaily.com/p/mistral-released-a-1t-parameter-open-model"
+      ],
+      "oneliner": "Mistral released 1T open weights for Large 4, making private deployment of frontier-scale models newly practical.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "A Nintendo runs inside Qwen weights",
+      "urls": [
+        "https://github.com/dbreunig/nesformer"
+      ],
+      "oneliner": "Nesformer packs a working NES into about 1GB of Qwen weights, blurring emulator engineering and model design.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "Claude Code extension shipped a backdoor",
+      "urls": [
+        "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
+      ],
+      "oneliner": "The Claude Code VS Code extension version 2.1.313 carried an SSH backdoor, turning your IDE into an attack path.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "Binance lost billions in minutes",
+      "urls": [
+        "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+        "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance"
+      ],
+      "oneliner": "Hackers stole $6.3B from Binance in 20 minutes, proving crypto security still fails at nation-state speed.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Northflank users were told to rotate secrets",
+      "urls": [
+        "https://status.northflank.com"
+      ],
+      "oneliner": "Northflank disclosed a breach and warned users to rotate AI keys immediately, a nightmare scenario for hosted workloads.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "Polymarket halted after vendor compromise",
+      "urls": [
+        "https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405"
+      ],
+      "oneliner": "Polymarket paused trading for nearly an hour after a third-party compromise reportedly drained about $2.65M from wallets.",
+      "emoji": "📊"
+    },
+    {
+      "title": "Amazon's AI bill hit cash flow",
+      "urls": [
+        "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/default.aspx",
+        "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo"
+      ],
+      "oneliner": "Amazon posted $46.0B in sales, but AI spending helped swing free cash flow to a $42.4B outflow.",
+      "emoji": "💰"
+    },
+    {
+      "title": "Deepgram bought Daily for voice infrastructure",
+      "urls": [
+        "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/"
+      ],
+      "oneliner": "Deepgram is buying Daily to own more of the voice stack, while keeping Pipecat open source for developers.",
+      "emoji": "📦"
+    },
+    {
+      "title": "A bulk inference server targets decisions",
+      "urls": [
+        "https://github.com/spinfinc/spinf-serve"
+      ],
+      "oneliner": "Spinf-serve uses one 24GB GPU to score many questions from one read, which is exactly how inference costs get tamed.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "Rust panic paths got a new analyzer",
+      "urls": [
+        "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/"
+      ],
+      "oneliner": "Call Graph Analyzer traces panic paths from monomorphized MIR, giving Rust teams a sharper way to audit failure modes.",
+      "emoji": "💻"
+    }
+  ],
+  "keywords": [
+    "breached",
+    "surpassed",
+    "racing",
+    "leaked",
+    "scarcity",
+    "autonomy",
+    "repriced"
+  ],
+  "tokenUsage": {
+    "promptTokens": 10553,
+    "completionTokens": 787,
+    "totalTokens": 11340,
+    "costUsd": 0.0381875
+  }
+}

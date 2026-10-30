@@ -1,94 +1,94 @@
 {
-  "date": "2026-10-29",
-  "generated_at": "2026-10-29T18:47:38.561023+00:00",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T18:23:09.025887+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 53,
+  "totalItemsConsidered": 48,
   "items": [
     {
-      "title": "Go heap allocations become enforceable",
+      "title": "A playable NES inside Qwen weights",
       "urls": [
-        "https://github.com/theconsensuslabs/noalloc"
+        "https://github.com/dbreunig/nesformer"
       ],
-      "oneliner": "Go analyzer flags hidden heap allocations across a function call tree and ships fixed-size data structures for zero-alloc paths."
+      "oneliner": "Clone a 1GB repo that compiles a 6502 emulator into Qwen and runs NES games in your terminal."
     },
     {
-      "title": "Symbolic regression runs in seconds",
+      "title": "An inference server for bulk decisions",
       "urls": [
-        "https://github.com/owls-on-wires/keplearn"
+        "https://github.com/spinfinc/spinf-serve"
       ],
-      "oneliner": "Single-binary symbolic regression tool extracts equations from CSV data and returns deterministic formulas with r2 scores."
+      "oneliner": "OpenAI-compatible server scores many labels from one read, built for high-throughput classification on a single 24GB GPU."
     },
     {
-      "title": "A free cross-platform DAW is emerging",
+      "title": "A native workspace app for agents",
       "urls": [
-        "https://github.com/Ka1-S/LYNX-SHARE"
+        "https://github.com/herdrdev/herdr-app"
       ],
-      "oneliner": "Open-source FL Studio-inspired DAW already includes piano roll, playlist, mixer, and built-in plugins on Windows, macOS, and Linux."
+      "oneliner": "Desktop app organizes terminals and coding agents into panes and workspaces, with installers for macOS, Linux, and Windows."
     },
     {
-      "title": "A RISC-V CPU lives inside Qwen",
+      "title": "A Rust panic path analyzer",
       "urls": [
-        "https://divagr.com/blog/qwenputer"
+        "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/"
       ],
-      "oneliner": "This repo demonstrates a deterministic RISC-V CPU embedded in Qwen weights that can execute C and MicroPython."
+      "oneliner": "This call graph tool extracts MIR to surface which Rust functions can panic before they hit production."
     },
     {
-      "title": "GNU Guix for embedded reproducibility",
+      "title": "Procedural flowers generated in LaTeX",
       "urls": [
-        "https://mit.teil.space/embedded-procedural-sound-with-guix.html"
+        "https://github.com/kevinraymond/florilegium"
       ],
-      "oneliner": "Hands-on walkthrough shows how Guix makes embedded builds reproducible while shipping a procedural sound application."
+      "oneliner": "Lua-powered LaTeX package draws randomized floral margins directly in PDFs, with no external images or vector assets."
     },
     {
-      "title": "C CPU feature detection gets practical",
+      "title": "An SVG figure pack for interfaces",
       "urls": [
-        "https://terroir.systems/compile-time-cpu-feature-detection-in-c/"
+        "https://hairline.lucasmarkes.com/"
       ],
-      "oneliner": "Concrete guide maps compiler macros for Arm and x86 so you can ship optimized C code with safe fallbacks."
+      "oneliner": "Dependency-free library ships 33 isometric SVG line figures you can drop into React or any frontend stack."
     },
     {
-      "title": "Go interfaces and heap costs explained",
+      "title": "Open weights for a trillion-parameter model",
       "urls": [
-        "https://www.youtube.com/watch?v=_BxdvkLLnDc"
+        "https://www.theneurondaily.com/p/mistral-released-a-1t-parameter-open-model"
       ],
-      "oneliner": "This video shows when empty interfaces trigger heap allocations and how escape analysis changes Go performance."
+      "oneliner": "Downloadable Mistral weights let teams run a trillion-parameter model on their own infrastructure instead of an API."
     },
     {
-      "title": "If-then-else gets a sharp history",
+      "title": "A practical Windows batch file fix",
       "urls": [
-        "https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md"
+        "https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797%2F"
       ],
-      "oneliner": "A compact markdown essay traces how conditional logic evolved from ENIAC wiring to modern programming syntax."
+      "oneliner": "Short walkthrough explains why apps fail from batch files and shows the pushd fix for current-directory bugs."
     },
     {
-      "title": "H.264 compression becomes intuitive",
+      "title": "An open source text-to-CAD tool",
       "urls": [
-        "https://sidbala.com/h-264-is-magic/"
+        "https://www.texttocad.dev/"
       ],
-      "oneliner": "Clear technical explainer shows why H.264 makes video thousands of times smaller while preserving useful visual detail."
+      "oneliner": "Free platform connects coding agents like Codex and Claude Code to generate physical product designs from text."
     },
     {
-      "title": "Permutation parity finally clicks",
+      "title": "A compact local speech recognition model",
       "urls": [
-        "https://www.youtube.com/watch?v=rUiulWItECQ"
+        "https://www.youtube.com/watch?v=XMhQNWXm1FM"
       ],
-      "oneliner": "This math video connects puzzle solvability, Rubik's Cube moves, and determinants through permutation parity."
+      "oneliner": "This 164MB speech model runs locally on CPU and posts 5.21% WER on English transcription tests."
     }
   ],
   "keywords": [
     "shipped",
+    "instant",
     "blazing",
-    "offline",
-    "open",
-    "local",
     "unlocked",
-    "instant"
+    "local",
+    "open",
+    "native"
   ],
   "tokenUsage": {
-    "promptTokens": 11650,
-    "completionTokens": 649,
-    "totalTokens": 12299,
-    "costUsd": 0.03886
+    "promptTokens": 10378,
+    "completionTokens": 657,
+    "totalTokens": 11035,
+    "costUsd": 0.0358
   }
 }
