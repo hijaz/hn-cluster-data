@@ -1,94 +1,94 @@
 {
-  "date": "2026-10-30",
-  "generated_at": "2026-10-30T18:23:09.025887+00:00",
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T17:36:45.811998+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 48,
+  "totalItemsConsidered": 75,
   "items": [
     {
-      "title": "A playable NES inside Qwen weights",
+      "title": "Keyboard-first API client for local workflows",
       "urls": [
-        "https://github.com/dbreunig/nesformer"
+        "https://github.com/4yk5/Ghostman"
       ],
-      "oneliner": "Clone a 1GB repo that compiles a 6502 emulator into Qwen and runs NES games in your terminal."
+      "oneliner": "Terminal API client with webhook inspection, YAML collections, and sub-200ms startup for Postman-free local debugging."
     },
     {
-      "title": "An inference server for bulk decisions",
+      "title": "Local coding harness for model workflows",
       "urls": [
-        "https://github.com/spinfinc/spinf-serve"
+        "https://nullprogram.com/blog/2026/10/31/"
       ],
-      "oneliner": "OpenAI-compatible server scores many labels from one read, built for high-throughput classification on a single 24GB GPU."
+      "oneliner": "Resource-light coding harness that runs over SSH, spawns subagents, and plugs into llama.cpp or OpenAI APIs."
     },
     {
-      "title": "A native workspace app for agents",
+      "title": "Rust library for Turnstile challenge solving",
       "urls": [
-        "https://github.com/herdrdev/herdr-app"
+        "https://github.com/chris124567/cfsolve"
       ],
-      "oneliner": "Desktop app organizes terminals and coding agents into panes and workspaces, with installers for macOS, Linux, and Windows."
+      "oneliner": "Rust CLI and library that solves Cloudflare Turnstile and returns tokens or clearance cookies without headless browsers."
     },
     {
-      "title": "A Rust panic path analyzer",
+      "title": "Pooled multi-machine local LLM serving",
       "urls": [
-        "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/"
+        "https://www.youtube.com/watch?v=HIjG0mT_k4U"
       ],
-      "oneliner": "This call graph tool extracts MIR to surface which Rust functions can panic before they hit production."
+      "oneliner": "Tutorial shows how to pool GPUs across machines into one OpenAI-compatible local API for larger model serving."
     },
     {
-      "title": "Procedural flowers generated in LaTeX",
+      "title": "Open-source ESP32 story box build",
       "urls": [
-        "https://github.com/kevinraymond/florilegium"
+        "https://zebra.rodeo/en/blog/marelleo/"
       ],
-      "oneliner": "Lua-powered LaTeX package draws randomized floral margins directly in PDFs, with no external images or vector assets."
+      "oneliner": "Hands-on ESP32 project for building an RFID-triggered story box that replaces subscription toy audio players."
     },
     {
-      "title": "An SVG figure pack for interfaces",
+      "title": "NixOS guide for tiny RAM budgets",
       "urls": [
-        "https://hairline.lucasmarkes.com/"
+        "https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum"
       ],
-      "oneliner": "Dependency-free library ships 33 isometric SVG line figures you can drop into React or any frontend stack."
+      "oneliner": "Practical NixOS tuning guide cuts memory needs from 1024MB to 96MB on low-end VPS setups."
     },
     {
-      "title": "Open weights for a trillion-parameter model",
+      "title": "Jepsen analysis of ParticleDB behavior",
       "urls": [
-        "https://www.theneurondaily.com/p/mistral-released-a-1t-parameter-open-model"
+        "https://jepsen.io/analyses/particledb-1.1.4"
       ],
-      "oneliner": "Downloadable Mistral weights let teams run a trillion-parameter model on their own infrastructure instead of an API."
+      "oneliner": "Jepsen evaluation surfaces transaction and durability gaps, helping engineers judge ParticleDB safety claims before adoption."
     },
     {
-      "title": "A practical Windows batch file fix",
+      "title": "LC-3 disassembler built in Haskell",
       "urls": [
-        "https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797%2F"
+        "https://abhinavsarkar.net/posts/lc3-disassembler/"
       ],
-      "oneliner": "Short walkthrough explains why apps fail from batch files and shows the pushd fix for current-directory bugs."
+      "oneliner": "Step-by-step Haskell walkthrough builds an LC-3 disassembler while teaching instruction decoding and low-level tooling."
     },
     {
-      "title": "An open source text-to-CAD tool",
+      "title": "Deep dive into GCC switch lowering",
       "urls": [
-        "https://www.texttocad.dev/"
+        "https://xoranth.net/gcc-switch/"
       ],
-      "oneliner": "Free platform connects coding agents like Codex and Claude Code to generate physical product designs from text."
+      "oneliner": "Compiler analysis explains when GCC emits jump tables and why sparse switch cases miss fast paths."
     },
     {
-      "title": "A compact local speech recognition model",
+      "title": "Curl configuration became Turing-complete",
       "urls": [
-        "https://www.youtube.com/watch?v=XMhQNWXm1FM"
+        "https://seriot.ch/computation/curl.html"
       ],
-      "oneliner": "This 164MB speech model runs locally on CPU and posts 5.21% WER on English transcription tests."
+      "oneliner": "Sharp technical write-up shows how curl configs simulated computation, with runnable examples and version-specific constraints."
     }
   ],
   "keywords": [
     "shipped",
     "instant",
+    "offline",
     "blazing",
-    "unlocked",
-    "local",
     "open",
-    "native"
+    "local",
+    "unlocked"
   ],
   "tokenUsage": {
-    "promptTokens": 10378,
-    "completionTokens": 657,
-    "totalTokens": 11035,
-    "costUsd": 0.0358
+    "promptTokens": 16839,
+    "completionTokens": 656,
+    "totalTokens": 17495,
+    "costUsd": 0.0519375
   }
 }

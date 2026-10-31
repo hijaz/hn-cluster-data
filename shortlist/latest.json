@@ -1,106 +1,104 @@
 {
-  "date": "2026-10-30",
-  "generated_at": "2026-10-30T18:22:59.655406+00:00",
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T17:36:39.091915+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 48,
+  "totalItemsConsidered": 75,
   "items": [
     {
-      "title": "Mistral opened its trillion-parameter model",
+      "title": "ChatGPT shared links enabled account takeover",
       "urls": [
-        "https://www.theneurondaily.com/p/mistral-released-a-1t-parameter-open-model"
+        "https://www.parameter.ai/labs/we-found-a-gap-at-openai"
       ],
-      "oneliner": "Mistral released 1T open weights for Large 4, making private deployment of frontier-scale models newly practical.",
-      "emoji": "🤖"
-    },
-    {
-      "title": "A Nintendo runs inside Qwen weights",
-      "urls": [
-        "https://github.com/dbreunig/nesformer"
-      ],
-      "oneliner": "Nesformer packs a working NES into about 1GB of Qwen weights, blurring emulator engineering and model design.",
-      "emoji": "🧠"
-    },
-    {
-      "title": "Claude Code extension shipped a backdoor",
-      "urls": [
-        "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
-      ],
-      "oneliner": "The Claude Code VS Code extension version 2.1.313 carried an SSH backdoor, turning your IDE into an attack path.",
-      "emoji": "⚠️"
-    },
-    {
-      "title": "Binance lost billions in minutes",
-      "urls": [
-        "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-        "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance"
-      ],
-      "oneliner": "Hackers stole $6.3B from Binance in 20 minutes, proving crypto security still fails at nation-state speed.",
+      "oneliner": "Researchers say one shared ChatGPT link could hijack an authenticated session. AI app security debt is now user-facing.",
       "emoji": "🔐"
     },
     {
-      "title": "Northflank users were told to rotate secrets",
+      "title": "VOLTA malware uses LLMs for triage",
       "urls": [
-        "https://status.northflank.com"
+        "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/"
       ],
-      "oneliner": "Northflank disclosed a breach and warned users to rotate AI keys immediately, a nightmare scenario for hosted workloads.",
+      "oneliner": "Cisco found infostealer malware using LLMs to rank victims by value. Attackers are automating post-exploitation economics.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "Firefox is shrinking the patch gap",
+      "urls": [
+        "https://blog.mozilla.org/en/firefox/privacy-security/defending-patch-gap/"
+      ],
+      "oneliner": "Mozilla says AI now finds bugs at researcher speed, so Firefox moved to weekly updates to outrun automated exploiters.",
       "emoji": "🐛"
     },
     {
-      "title": "Polymarket halted after vendor compromise",
+      "title": "Linux MPTCP bug risks remote code execution",
       "urls": [
-        "https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405"
+        "https://groups.google.com/g/golang-announce/c/PCoQcdxoScw"
       ],
-      "oneliner": "Polymarket paused trading for nearly an hour after a third-party compromise reportedly drained about $2.65M from wallets.",
+      "oneliner": "Go's security team warned CVE-2026-98432 can expose MPTCP servers to RCE. Kernel patching just became more urgent.",
+      "emoji": "🛡️"
+    },
+    {
+      "title": "Turnstile now has a browserless solver",
+      "urls": [
+        "https://github.com/chris124567/cfsolve"
+      ],
+      "oneliner": "A Rust library solves Cloudflare Turnstile without headless browsers. Bot defenses are becoming cheaper to bypass.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "AT Protocol data is more public",
+      "urls": [
+        "https://melaniekat.com/blog/public-on-pds/"
+      ],
+      "oneliner": "Bluesky-style PDS data can expose feeds, app activity, and messages. Decentralization is not the same as privacy.",
       "emoji": "📊"
     },
     {
-      "title": "Amazon's AI bill hit cash flow",
+      "title": "Meta's Books3 torrenting claim got sharper",
       "urls": [
-        "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/default.aspx",
-        "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo"
+        "https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/"
       ],
-      "oneliner": "Amazon posted $46.0B in sales, but AI spending helped swing free cash flow to a $42.4B outflow.",
-      "emoji": "💰"
+      "oneliner": "A former Meta researcher testified he torrented Books3 at work. AI training data provenance is heading for court.",
+      "emoji": "📰"
     },
     {
-      "title": "Deepgram bought Daily for voice infrastructure",
+      "title": "Prospero targets lean local coding agents",
       "urls": [
-        "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/"
+        "https://nullprogram.com/blog/2026/10/31/"
       ],
-      "oneliner": "Deepgram is buying Daily to own more of the voice stack, while keeping Pipecat open source for developers.",
-      "emoji": "📦"
-    },
-    {
-      "title": "A bulk inference server targets decisions",
-      "urls": [
-        "https://github.com/spinfinc/spinf-serve"
-      ],
-      "oneliner": "Spinf-serve uses one 24GB GPU to score many questions from one read, which is exactly how inference costs get tamed.",
+      "oneliner": "Prospero ships as a lightweight coding harness for local models and subagents. Agent tooling is moving off the browser.",
       "emoji": "🛠️"
     },
     {
-      "title": "Rust panic paths got a new analyzer",
+      "title": "Ghostman offers a local-first Postman alternative",
       "urls": [
-        "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/"
+        "https://github.com/4yk5/Ghostman"
       ],
-      "oneliner": "Call Graph Analyzer traces panic paths from monomorphized MIR, giving Rust teams a sharper way to audit failure modes.",
-      "emoji": "💻"
+      "oneliner": "Ghostman launches as a keyboard-first API client with YAML storage and webhook inspection. Dev tools are getting lighter.",
+      "emoji": "📦"
+    },
+    {
+      "title": "Cisco is funding an AI rewrite push",
+      "urls": [
+        "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/"
+      ],
+      "oneliner": "Cisco gave one engineer unlimited AI tokens to rewrite 98 percent of legacy code in two years. Cost controls are loosening.",
+      "emoji": "💰"
     }
   ],
   "keywords": [
-    "breached",
+    "weaponized",
+    "patched",
     "surpassed",
-    "racing",
-    "leaked",
     "scarcity",
     "autonomy",
-    "repriced"
+    "leaked",
+    "consolidation"
   ],
   "tokenUsage": {
-    "promptTokens": 10553,
-    "completionTokens": 787,
-    "totalTokens": 11340,
-    "costUsd": 0.0381875
+    "promptTokens": 17014,
+    "completionTokens": 782,
+    "totalTokens": 17796,
+    "costUsd": 0.05426500000000001
   }
 }

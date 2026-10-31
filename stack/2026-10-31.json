@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T17:36:45.811998+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 75,
+  "items": [
+    {
+      "title": "Keyboard-first API client for local workflows",
+      "urls": [
+        "https://github.com/4yk5/Ghostman"
+      ],
+      "oneliner": "Terminal API client with webhook inspection, YAML collections, and sub-200ms startup for Postman-free local debugging."
+    },
+    {
+      "title": "Local coding harness for model workflows",
+      "urls": [
+        "https://nullprogram.com/blog/2026/10/31/"
+      ],
+      "oneliner": "Resource-light coding harness that runs over SSH, spawns subagents, and plugs into llama.cpp or OpenAI APIs."
+    },
+    {
+      "title": "Rust library for Turnstile challenge solving",
+      "urls": [
+        "https://github.com/chris124567/cfsolve"
+      ],
+      "oneliner": "Rust CLI and library that solves Cloudflare Turnstile and returns tokens or clearance cookies without headless browsers."
+    },
+    {
+      "title": "Pooled multi-machine local LLM serving",
+      "urls": [
+        "https://www.youtube.com/watch?v=HIjG0mT_k4U"
+      ],
+      "oneliner": "Tutorial shows how to pool GPUs across machines into one OpenAI-compatible local API for larger model serving."
+    },
+    {
+      "title": "Open-source ESP32 story box build",
+      "urls": [
+        "https://zebra.rodeo/en/blog/marelleo/"
+      ],
+      "oneliner": "Hands-on ESP32 project for building an RFID-triggered story box that replaces subscription toy audio players."
+    },
+    {
+      "title": "NixOS guide for tiny RAM budgets",
+      "urls": [
+        "https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum"
+      ],
+      "oneliner": "Practical NixOS tuning guide cuts memory needs from 1024MB to 96MB on low-end VPS setups."
+    },
+    {
+      "title": "Jepsen analysis of ParticleDB behavior",
+      "urls": [
+        "https://jepsen.io/analyses/particledb-1.1.4"
+      ],
+      "oneliner": "Jepsen evaluation surfaces transaction and durability gaps, helping engineers judge ParticleDB safety claims before adoption."
+    },
+    {
+      "title": "LC-3 disassembler built in Haskell",
+      "urls": [
+        "https://abhinavsarkar.net/posts/lc3-disassembler/"
+      ],
+      "oneliner": "Step-by-step Haskell walkthrough builds an LC-3 disassembler while teaching instruction decoding and low-level tooling."
+    },
+    {
+      "title": "Deep dive into GCC switch lowering",
+      "urls": [
+        "https://xoranth.net/gcc-switch/"
+      ],
+      "oneliner": "Compiler analysis explains when GCC emits jump tables and why sparse switch cases miss fast paths."
+    },
+    {
+      "title": "Curl configuration became Turing-complete",
+      "urls": [
+        "https://seriot.ch/computation/curl.html"
+      ],
+      "oneliner": "Sharp technical write-up shows how curl configs simulated computation, with runnable examples and version-specific constraints."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "instant",
+    "offline",
+    "blazing",
+    "open",
+    "local",
+    "unlocked"
+  ],
+  "tokenUsage": {
+    "promptTokens": 16839,
+    "completionTokens": 656,
+    "totalTokens": 17495,
+    "costUsd": 0.0519375
+  }
+}

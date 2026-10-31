@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T17:36:39.091915+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 75,
+  "items": [
+    {
+      "title": "ChatGPT shared links enabled account takeover",
+      "urls": [
+        "https://www.parameter.ai/labs/we-found-a-gap-at-openai"
+      ],
+      "oneliner": "Researchers say one shared ChatGPT link could hijack an authenticated session. AI app security debt is now user-facing.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "VOLTA malware uses LLMs for triage",
+      "urls": [
+        "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/"
+      ],
+      "oneliner": "Cisco found infostealer malware using LLMs to rank victims by value. Attackers are automating post-exploitation economics.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "Firefox is shrinking the patch gap",
+      "urls": [
+        "https://blog.mozilla.org/en/firefox/privacy-security/defending-patch-gap/"
+      ],
+      "oneliner": "Mozilla says AI now finds bugs at researcher speed, so Firefox moved to weekly updates to outrun automated exploiters.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "Linux MPTCP bug risks remote code execution",
+      "urls": [
+        "https://groups.google.com/g/golang-announce/c/PCoQcdxoScw"
+      ],
+      "oneliner": "Go's security team warned CVE-2026-98432 can expose MPTCP servers to RCE. Kernel patching just became more urgent.",
+      "emoji": "🛡️"
+    },
+    {
+      "title": "Turnstile now has a browserless solver",
+      "urls": [
+        "https://github.com/chris124567/cfsolve"
+      ],
+      "oneliner": "A Rust library solves Cloudflare Turnstile without headless browsers. Bot defenses are becoming cheaper to bypass.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "AT Protocol data is more public",
+      "urls": [
+        "https://melaniekat.com/blog/public-on-pds/"
+      ],
+      "oneliner": "Bluesky-style PDS data can expose feeds, app activity, and messages. Decentralization is not the same as privacy.",
+      "emoji": "📊"
+    },
+    {
+      "title": "Meta's Books3 torrenting claim got sharper",
+      "urls": [
+        "https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/"
+      ],
+      "oneliner": "A former Meta researcher testified he torrented Books3 at work. AI training data provenance is heading for court.",
+      "emoji": "📰"
+    },
+    {
+      "title": "Prospero targets lean local coding agents",
+      "urls": [
+        "https://nullprogram.com/blog/2026/10/31/"
+      ],
+      "oneliner": "Prospero ships as a lightweight coding harness for local models and subagents. Agent tooling is moving off the browser.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "Ghostman offers a local-first Postman alternative",
+      "urls": [
+        "https://github.com/4yk5/Ghostman"
+      ],
+      "oneliner": "Ghostman launches as a keyboard-first API client with YAML storage and webhook inspection. Dev tools are getting lighter.",
+      "emoji": "📦"
+    },
+    {
+      "title": "Cisco is funding an AI rewrite push",
+      "urls": [
+        "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/"
+      ],
+      "oneliner": "Cisco gave one engineer unlimited AI tokens to rewrite 98 percent of legacy code in two years. Cost controls are loosening.",
+      "emoji": "💰"
+    }
+  ],
+  "keywords": [
+    "weaponized",
+    "patched",
+    "surpassed",
+    "scarcity",
+    "autonomy",
+    "leaked",
+    "consolidation"
+  ],
+  "tokenUsage": {
+    "promptTokens": 17014,
+    "completionTokens": 782,
+    "totalTokens": 17796,
+    "costUsd": 0.05426500000000001
+  }
+}
