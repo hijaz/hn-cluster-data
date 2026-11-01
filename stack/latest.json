@@ -1,94 +1,94 @@
 {
-  "date": "2026-10-31",
-  "generated_at": "2026-10-31T17:36:45.811998+00:00",
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T18:20:32.367874+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 75,
+  "totalItemsConsidered": 65,
   "items": [
     {
-      "title": "Keyboard-first API client for local workflows",
+      "title": "Rust diff tool for mixed files",
       "urls": [
-        "https://github.com/4yk5/Ghostman"
+        "https://github.com/ivankovic/omnidiff"
       ],
-      "oneliner": "Terminal API client with webhook inspection, YAML collections, and sub-200ms startup for Postman-free local debugging."
+      "oneliner": "Git difftool in Rust compares code, images, and documents in under 100ms with content-aware matching."
     },
     {
-      "title": "Local coding harness for model workflows",
+      "title": "Multi-agent coding workflow with evals",
       "urls": [
-        "https://nullprogram.com/blog/2026/10/31/"
+        "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve"
       ],
-      "oneliner": "Resource-light coding harness that runs over SSH, spawns subagents, and plugs into llama.cpp or OpenAI APIs."
+      "oneliner": "Example workflow shows five Qwen3.8-27B agents solving LiveCodeBench Hard tasks better than a stronger single model."
     },
     {
-      "title": "Rust library for Turnstile challenge solving",
+      "title": "Benchmark for AI coding across frameworks",
       "urls": [
-        "https://github.com/chris124567/cfsolve"
+        "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/"
       ],
-      "oneliner": "Rust CLI and library that solves Cloudflare Turnstile and returns tokens or clearance cookies without headless browsers."
+      "oneliner": "Hands-on comparison measures token cost, build time, performance, and accessibility across JavaScript frameworks on one app."
     },
     {
-      "title": "Pooled multi-machine local LLM serving",
+      "title": "QEMU network lab without disk images",
       "urls": [
-        "https://www.youtube.com/watch?v=HIjG0mT_k4U"
+        "https://vincent.bernat.ch/en/blog/2012-network-lab-qemu"
       ],
-      "oneliner": "Tutorial shows how to pool GPUs across machines into one OpenAI-compatible local API for larger model serving."
+      "oneliner": "Practical walkthrough builds a lightweight network lab with QEMU, 9P filesystem sharing, and a simple shell script."
     },
     {
-      "title": "Open-source ESP32 story box build",
+      "title": "Small WebGL 2 rendering library",
       "urls": [
-        "https://zebra.rodeo/en/blog/marelleo/"
+        "https://kevs3d.co.uk/phoria2/"
       ],
-      "oneliner": "Hands-on ESP32 project for building an RFID-triggered story box that replaces subscription toy audio players."
+      "oneliner": "Dependency-free WebGL 2 library adds PBR materials, particles, instancing, and charting with an API learnable in hours."
     },
     {
-      "title": "NixOS guide for tiny RAM budgets",
+      "title": "Zig tutorial for advancing beginners",
       "urls": [
-        "https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum"
+        "https://www.youtube.com/watch?v=jWCQXBVIyrY"
       ],
-      "oneliner": "Practical NixOS tuning guide cuts memory needs from 1024MB to 96MB on low-end VPS setups."
+      "oneliner": "Forty-nine minute Zig tutorial uses practical code examples to move beyond basics into functions and data-oriented design."
     },
     {
-      "title": "Jepsen analysis of ParticleDB behavior",
+      "title": "Build Linux file tools in C",
       "urls": [
-        "https://jepsen.io/analyses/particledb-1.1.4"
+        "https://www.youtube.com/watch?v=gQRmSlcTq9c"
       ],
-      "oneliner": "Jepsen evaluation surfaces transaction and durability gaps, helping engineers judge ParticleDB safety claims before adoption."
+      "oneliner": "Fifty-two minute coding session recreates touch, cat, mkdir, mv, rm, and find to teach Unix internals by hand."
     },
     {
-      "title": "LC-3 disassembler built in Haskell",
+      "title": "Cleaner public API design guidance",
       "urls": [
-        "https://abhinavsarkar.net/posts/lc3-disassembler/"
+        "https://matklad.github.io/2026/10/29/pub-calls-pub.html"
       ],
-      "oneliner": "Step-by-step Haskell walkthrough builds an LC-3 disassembler while teaching instruction decoding and low-level tooling."
+      "oneliner": "Concise software design note shows why public functions should share private helpers instead of calling each other."
     },
     {
-      "title": "Deep dive into GCC switch lowering",
+      "title": "Faster signed division than compilers",
       "urls": [
-        "https://xoranth.net/gcc-switch/"
+        "https://lemire.me/blog/2026/10/31/beating-the-compiler-at-signed-32-bit-division/"
       ],
-      "oneliner": "Compiler analysis explains when GCC emits jump tables and why sparse switch cases miss fast paths."
+      "oneliner": "Deep optimization writeup shows how 33-bit multipliers can beat GCC and LLVM for signed 32-bit division."
     },
     {
-      "title": "Curl configuration became Turing-complete",
+      "title": "Pratt parsing without the mystique",
       "urls": [
-        "https://seriot.ch/computation/curl.html"
+        "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/"
       ],
-      "oneliner": "Sharp technical write-up shows how curl configs simulated computation, with runnable examples and version-specific constraints."
+      "oneliner": "Clear parser tutorial explains the mindset behind Pratt parsing so you can implement expression parsers from scratch."
     }
   ],
   "keywords": [
     "shipped",
-    "instant",
-    "offline",
     "blazing",
+    "offline",
     "open",
     "local",
-    "unlocked"
+    "instant",
+    "replaced"
   ],
   "tokenUsage": {
-    "promptTokens": 16839,
-    "completionTokens": 656,
-    "totalTokens": 17495,
-    "costUsd": 0.0519375
+    "promptTokens": 15027,
+    "completionTokens": 667,
+    "totalTokens": 15694,
+    "costUsd": 0.047572500000000004
   }
 }

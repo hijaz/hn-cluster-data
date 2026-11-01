@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T18:20:25.199230+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 65,
+  "items": [
+    {
+      "title": "JEPA challenges next-token scaling",
+      "urls": [
+        "https://arxiv.org/abs/2610.39302"
+      ],
+      "oneliner": "LeCun's JEPA paper claims aligned views beat next-token prediction, a direct shot at how multimodal foundation models get built.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "Small model teams beat flagship coding models",
+      "urls": [
+        "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve"
+      ],
+      "oneliner": "Five Qwen3.8-27B agents reportedly beat Fable 5 on LiveCodeBench Hard, suggesting orchestration can outrun brute model size.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "Framework choice now has token costs",
+      "urls": [
+        "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/"
+      ],
+      "oneliner": "JavaScript frameworks now carry measurable AI tax in tokens, time, and accessibility debt, so DX vibes are no longer enough.",
+      "emoji": "📊"
+    },
+    {
+      "title": "Critical Linux TCP bug needs patching",
+      "urls": [
+        "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf"
+      ],
+      "oneliner": "A Linux IPv4 TCP use-after-free scored 9.8 CVSS, giving remote attackers a serious path into unpatched servers.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "A court punished prompt injection",
+      "urls": [
+        "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/"
+      ],
+      "oneliner": "A Brazilian court fined lawyers about $16,000 for hidden prompt injection, turning AI misuse in filings into enforceable precedent.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Air-gapped machines can leak via RAM",
+      "urls": [
+        "https://arxiv.org/abs/2409.02292"
+      ],
+      "oneliner": "Researchers exfiltrated data from air-gapped computers through RAM-generated radio signals at 1000 bits per second.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "Cities are physically unplugging AI surveillance",
+      "urls": [
+        "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies"
+      ],
+      "oneliner": "A police chief unplugged Flock cameras after contract cancellation stalled, showing AI surveillance backlash is moving from debate to action.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "KDE launched a GPU terminal",
+      "urls": [
+        "https://blogs.kde.org/2026/11/01/introducing-kwi/"
+      ],
+      "oneliner": "KDE's new Kwi terminal claims 3x to 35x gains over Konsole, making GPU-accelerated terminals look practical.",
+      "emoji": "💻"
+    },
+    {
+      "title": "Battery fleets are perturbing power grids",
+      "urls": [
+        "https://www.nature.com/articles/s41560-026-02144-0",
+        "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved"
+      ],
+      "oneliner": "Researchers traced one-minute grid frequency dips to synchronized battery state checks, a new coordination problem for electrified infrastructure.",
+      "emoji": "🏭"
+    },
+    {
+      "title": "A Rust difftool targets multimodal repos",
+      "urls": [
+        "https://github.com/ivankovic/omnidiff"
+      ],
+      "oneliner": "OmniDiff promises sub-100ms, content-aware diffs across code, images, and documents, which fits how modern repos actually look.",
+      "emoji": "🛠️"
+    }
+  ],
+  "keywords": [
+    "weaponized",
+    "surpassed",
+    "patched",
+    "autonomy",
+    "scarcity",
+    "leaked",
+    "consolidation"
+  ],
+  "tokenUsage": {
+    "promptTokens": 15202,
+    "completionTokens": 793,
+    "totalTokens": 15995,
+    "costUsd": 0.0499
+  }
+}

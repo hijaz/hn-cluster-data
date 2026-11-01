@@ -1,104 +1,105 @@
 {
-  "date": "2026-10-31",
-  "generated_at": "2026-10-31T17:36:39.091915+00:00",
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T18:20:25.199230+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 75,
+  "totalItemsConsidered": 65,
   "items": [
     {
-      "title": "ChatGPT shared links enabled account takeover",
+      "title": "JEPA challenges next-token scaling",
       "urls": [
-        "https://www.parameter.ai/labs/we-found-a-gap-at-openai"
+        "https://arxiv.org/abs/2610.39302"
       ],
-      "oneliner": "Researchers say one shared ChatGPT link could hijack an authenticated session. AI app security debt is now user-facing.",
-      "emoji": "🔐"
+      "oneliner": "LeCun's JEPA paper claims aligned views beat next-token prediction, a direct shot at how multimodal foundation models get built.",
+      "emoji": "🧠"
     },
     {
-      "title": "VOLTA malware uses LLMs for triage",
+      "title": "Small model teams beat flagship coding models",
       "urls": [
-        "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/"
+        "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve"
       ],
-      "oneliner": "Cisco found infostealer malware using LLMs to rank victims by value. Attackers are automating post-exploitation economics.",
-      "emoji": "⚠️"
+      "oneliner": "Five Qwen3.8-27B agents reportedly beat Fable 5 on LiveCodeBench Hard, suggesting orchestration can outrun brute model size.",
+      "emoji": "⚡"
     },
     {
-      "title": "Firefox is shrinking the patch gap",
+      "title": "Framework choice now has token costs",
       "urls": [
-        "https://blog.mozilla.org/en/firefox/privacy-security/defending-patch-gap/"
+        "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/"
       ],
-      "oneliner": "Mozilla says AI now finds bugs at researcher speed, so Firefox moved to weekly updates to outrun automated exploiters.",
-      "emoji": "🐛"
-    },
-    {
-      "title": "Linux MPTCP bug risks remote code execution",
-      "urls": [
-        "https://groups.google.com/g/golang-announce/c/PCoQcdxoScw"
-      ],
-      "oneliner": "Go's security team warned CVE-2026-98432 can expose MPTCP servers to RCE. Kernel patching just became more urgent.",
-      "emoji": "🛡️"
-    },
-    {
-      "title": "Turnstile now has a browserless solver",
-      "urls": [
-        "https://github.com/chris124567/cfsolve"
-      ],
-      "oneliner": "A Rust library solves Cloudflare Turnstile without headless browsers. Bot defenses are becoming cheaper to bypass.",
-      "emoji": "🔍"
-    },
-    {
-      "title": "AT Protocol data is more public",
-      "urls": [
-        "https://melaniekat.com/blog/public-on-pds/"
-      ],
-      "oneliner": "Bluesky-style PDS data can expose feeds, app activity, and messages. Decentralization is not the same as privacy.",
+      "oneliner": "JavaScript frameworks now carry measurable AI tax in tokens, time, and accessibility debt, so DX vibes are no longer enough.",
       "emoji": "📊"
     },
     {
-      "title": "Meta's Books3 torrenting claim got sharper",
+      "title": "Critical Linux TCP bug needs patching",
       "urls": [
-        "https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/"
+        "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf"
       ],
-      "oneliner": "A former Meta researcher testified he torrented Books3 at work. AI training data provenance is heading for court.",
-      "emoji": "📰"
+      "oneliner": "A Linux IPv4 TCP use-after-free scored 9.8 CVSS, giving remote attackers a serious path into unpatched servers.",
+      "emoji": "⚠️"
     },
     {
-      "title": "Prospero targets lean local coding agents",
+      "title": "A court punished prompt injection",
       "urls": [
-        "https://nullprogram.com/blog/2026/10/31/"
+        "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/"
       ],
-      "oneliner": "Prospero ships as a lightweight coding harness for local models and subagents. Agent tooling is moving off the browser.",
+      "oneliner": "A Brazilian court fined lawyers about $16,000 for hidden prompt injection, turning AI misuse in filings into enforceable precedent.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Air-gapped machines can leak via RAM",
+      "urls": [
+        "https://arxiv.org/abs/2409.02292"
+      ],
+      "oneliner": "Researchers exfiltrated data from air-gapped computers through RAM-generated radio signals at 1000 bits per second.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "Cities are physically unplugging AI surveillance",
+      "urls": [
+        "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies"
+      ],
+      "oneliner": "A police chief unplugged Flock cameras after contract cancellation stalled, showing AI surveillance backlash is moving from debate to action.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "KDE launched a GPU terminal",
+      "urls": [
+        "https://blogs.kde.org/2026/11/01/introducing-kwi/"
+      ],
+      "oneliner": "KDE's new Kwi terminal claims 3x to 35x gains over Konsole, making GPU-accelerated terminals look practical.",
+      "emoji": "💻"
+    },
+    {
+      "title": "Battery fleets are perturbing power grids",
+      "urls": [
+        "https://www.nature.com/articles/s41560-026-02144-0",
+        "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved"
+      ],
+      "oneliner": "Researchers traced one-minute grid frequency dips to synchronized battery state checks, a new coordination problem for electrified infrastructure.",
+      "emoji": "🏭"
+    },
+    {
+      "title": "A Rust difftool targets multimodal repos",
+      "urls": [
+        "https://github.com/ivankovic/omnidiff"
+      ],
+      "oneliner": "OmniDiff promises sub-100ms, content-aware diffs across code, images, and documents, which fits how modern repos actually look.",
       "emoji": "🛠️"
-    },
-    {
-      "title": "Ghostman offers a local-first Postman alternative",
-      "urls": [
-        "https://github.com/4yk5/Ghostman"
-      ],
-      "oneliner": "Ghostman launches as a keyboard-first API client with YAML storage and webhook inspection. Dev tools are getting lighter.",
-      "emoji": "📦"
-    },
-    {
-      "title": "Cisco is funding an AI rewrite push",
-      "urls": [
-        "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/"
-      ],
-      "oneliner": "Cisco gave one engineer unlimited AI tokens to rewrite 98 percent of legacy code in two years. Cost controls are loosening.",
-      "emoji": "💰"
     }
   ],
   "keywords": [
     "weaponized",
-    "patched",
     "surpassed",
-    "scarcity",
+    "patched",
     "autonomy",
+    "scarcity",
     "leaked",
     "consolidation"
   ],
   "tokenUsage": {
-    "promptTokens": 17014,
-    "completionTokens": 782,
-    "totalTokens": 17796,
-    "costUsd": 0.05426500000000001
+    "promptTokens": 15202,
+    "completionTokens": 793,
+    "totalTokens": 15995,
+    "costUsd": 0.0499
   }
 }
