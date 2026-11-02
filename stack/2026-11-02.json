@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T22:15:41.814794+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 86,
+  "items": [
+    {
+      "title": "Go analyzer for resource bugs",
+      "urls": [
+        "https://gohawk.dev"
+      ],
+      "oneliner": "Static analyzer for Go that catches resource leaks and concurrency bugs missed by go vet in Docker-scale codebases."
+    },
+    {
+      "title": "Open workflow for product videos",
+      "urls": [
+        "https://github.com/aaitor/skill-video-studio"
+      ],
+      "oneliner": "GitHub workflow that combines Playwright, FFmpeg, and narration tooling to generate polished product demo videos from real app flows."
+    },
+    {
+      "title": "Linux syscall tables and API",
+      "urls": [
+        "https://syscall.sh/"
+      ],
+      "oneliner": "Searchable Linux syscall reference with JSON exports across 27 architectures, useful for tracers, sandboxes, and low-level tooling."
+    },
+    {
+      "title": "Human-readable config format",
+      "urls": [
+        "https://github.com/soml-lang/soml"
+      ],
+      "oneliner": "Config language that removes YAML ambiguity while keeping comments, typed values, and cleaner syntax than JSON."
+    },
+    {
+      "title": "Tor Browser 16 is available",
+      "urls": [
+        "https://blog.torproject.org/new-release-tor-browser-160/"
+      ],
+      "oneliner": "Stable Tor Browser release with redesigned settings, Firefox ESR 153 base, and more than 270 privacy and security fixes."
+    },
+    {
+      "title": "Tracker firmware source is open",
+      "urls": [
+        "https://polyend.com/whats-up/tracker-the-biggest-update-yet/",
+        "https://backstage.polyend.com/t/tracker-the-biggest-update-yet/25120"
+      ],
+      "oneliner": "Firmware source and SDK for Polyend Tracker devices let developers build custom plugins, synths, themes, and instrument mods."
+    },
+    {
+      "title": "Interactive voxel city map",
+      "urls": [
+        "https://p.migdal.pl/warsaw-vibe-voxel/"
+      ],
+      "oneliner": "Open interactive 3D voxel map of Warsaw that shows how to build browser-based spatial visualizations with real city data."
+    },
+    {
+      "title": "C64 dungeon crawler tutorial",
+      "urls": [
+        "https://retrogamecoders.com/c64-basic-dungeon-part11/"
+      ],
+      "oneliner": "Hands-on BASIC tutorial adds levels, stairs, and character progression to a Commodore 64 dungeon crawler you can modify online."
+    },
+    {
+      "title": "Pure Blog customization walkthrough",
+      "urls": [
+        "https://kevquirk.com/how-i-customised-pure-blog-for-this-site"
+      ],
+      "oneliner": "Step-by-step guide to extending Pure Blog with custom post types, hooks, and spam-resistant tweaks without forking the CMS."
+    },
+    {
+      "title": "Reverse engineering a car clock",
+      "urls": [
+        "https://blog.nns.ee/2026/11/02/renault-hack/"
+      ],
+      "oneliner": "Detailed firmware hacking walkthrough for a Renault navigation unit, useful for learning embedded reverse engineering from a real bug."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "instant",
+    "unlocked",
+    "local",
+    "open",
+    "practical"
+  ],
+  "tokenUsage": {
+    "promptTokens": 18160,
+    "completionTokens": 656,
+    "totalTokens": 18816,
+    "costUsd": 0.05524
+  }
+}

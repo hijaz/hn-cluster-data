@@ -1,94 +1,95 @@
 {
-  "date": "2026-11-01",
-  "generated_at": "2026-11-01T18:20:32.367874+00:00",
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T22:15:41.814794+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 65,
+  "totalItemsConsidered": 86,
   "items": [
     {
-      "title": "Rust diff tool for mixed files",
+      "title": "Go analyzer for resource bugs",
       "urls": [
-        "https://github.com/ivankovic/omnidiff"
+        "https://gohawk.dev"
       ],
-      "oneliner": "Git difftool in Rust compares code, images, and documents in under 100ms with content-aware matching."
+      "oneliner": "Static analyzer for Go that catches resource leaks and concurrency bugs missed by go vet in Docker-scale codebases."
     },
     {
-      "title": "Multi-agent coding workflow with evals",
+      "title": "Open workflow for product videos",
       "urls": [
-        "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve"
+        "https://github.com/aaitor/skill-video-studio"
       ],
-      "oneliner": "Example workflow shows five Qwen3.8-27B agents solving LiveCodeBench Hard tasks better than a stronger single model."
+      "oneliner": "GitHub workflow that combines Playwright, FFmpeg, and narration tooling to generate polished product demo videos from real app flows."
     },
     {
-      "title": "Benchmark for AI coding across frameworks",
+      "title": "Linux syscall tables and API",
       "urls": [
-        "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/"
+        "https://syscall.sh/"
       ],
-      "oneliner": "Hands-on comparison measures token cost, build time, performance, and accessibility across JavaScript frameworks on one app."
+      "oneliner": "Searchable Linux syscall reference with JSON exports across 27 architectures, useful for tracers, sandboxes, and low-level tooling."
     },
     {
-      "title": "QEMU network lab without disk images",
+      "title": "Human-readable config format",
       "urls": [
-        "https://vincent.bernat.ch/en/blog/2012-network-lab-qemu"
+        "https://github.com/soml-lang/soml"
       ],
-      "oneliner": "Practical walkthrough builds a lightweight network lab with QEMU, 9P filesystem sharing, and a simple shell script."
+      "oneliner": "Config language that removes YAML ambiguity while keeping comments, typed values, and cleaner syntax than JSON."
     },
     {
-      "title": "Small WebGL 2 rendering library",
+      "title": "Tor Browser 16 is available",
       "urls": [
-        "https://kevs3d.co.uk/phoria2/"
+        "https://blog.torproject.org/new-release-tor-browser-160/"
       ],
-      "oneliner": "Dependency-free WebGL 2 library adds PBR materials, particles, instancing, and charting with an API learnable in hours."
+      "oneliner": "Stable Tor Browser release with redesigned settings, Firefox ESR 153 base, and more than 270 privacy and security fixes."
     },
     {
-      "title": "Zig tutorial for advancing beginners",
+      "title": "Tracker firmware source is open",
       "urls": [
-        "https://www.youtube.com/watch?v=jWCQXBVIyrY"
+        "https://polyend.com/whats-up/tracker-the-biggest-update-yet/",
+        "https://backstage.polyend.com/t/tracker-the-biggest-update-yet/25120"
       ],
-      "oneliner": "Forty-nine minute Zig tutorial uses practical code examples to move beyond basics into functions and data-oriented design."
+      "oneliner": "Firmware source and SDK for Polyend Tracker devices let developers build custom plugins, synths, themes, and instrument mods."
     },
     {
-      "title": "Build Linux file tools in C",
+      "title": "Interactive voxel city map",
       "urls": [
-        "https://www.youtube.com/watch?v=gQRmSlcTq9c"
+        "https://p.migdal.pl/warsaw-vibe-voxel/"
       ],
-      "oneliner": "Fifty-two minute coding session recreates touch, cat, mkdir, mv, rm, and find to teach Unix internals by hand."
+      "oneliner": "Open interactive 3D voxel map of Warsaw that shows how to build browser-based spatial visualizations with real city data."
     },
     {
-      "title": "Cleaner public API design guidance",
+      "title": "C64 dungeon crawler tutorial",
       "urls": [
-        "https://matklad.github.io/2026/10/29/pub-calls-pub.html"
+        "https://retrogamecoders.com/c64-basic-dungeon-part11/"
       ],
-      "oneliner": "Concise software design note shows why public functions should share private helpers instead of calling each other."
+      "oneliner": "Hands-on BASIC tutorial adds levels, stairs, and character progression to a Commodore 64 dungeon crawler you can modify online."
     },
     {
-      "title": "Faster signed division than compilers",
+      "title": "Pure Blog customization walkthrough",
       "urls": [
-        "https://lemire.me/blog/2026/10/31/beating-the-compiler-at-signed-32-bit-division/"
+        "https://kevquirk.com/how-i-customised-pure-blog-for-this-site"
       ],
-      "oneliner": "Deep optimization writeup shows how 33-bit multipliers can beat GCC and LLVM for signed 32-bit division."
+      "oneliner": "Step-by-step guide to extending Pure Blog with custom post types, hooks, and spam-resistant tweaks without forking the CMS."
     },
     {
-      "title": "Pratt parsing without the mystique",
+      "title": "Reverse engineering a car clock",
       "urls": [
-        "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/"
+        "https://blog.nns.ee/2026/11/02/renault-hack/"
       ],
-      "oneliner": "Clear parser tutorial explains the mindset behind Pratt parsing so you can implement expression parsers from scratch."
+      "oneliner": "Detailed firmware hacking walkthrough for a Renault navigation unit, useful for learning embedded reverse engineering from a real bug."
     }
   ],
   "keywords": [
     "shipped",
     "blazing",
-    "offline",
-    "open",
-    "local",
     "instant",
-    "replaced"
+    "unlocked",
+    "local",
+    "open",
+    "practical"
   ],
   "tokenUsage": {
-    "promptTokens": 15027,
-    "completionTokens": 667,
-    "totalTokens": 15694,
-    "costUsd": 0.047572500000000004
+    "promptTokens": 18160,
+    "completionTokens": 656,
+    "totalTokens": 18816,
+    "costUsd": 0.05524
   }
 }
