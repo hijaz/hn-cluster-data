@@ -1,95 +1,94 @@
 {
-  "date": "2026-11-02",
-  "generated_at": "2026-11-02T22:15:41.814794+00:00",
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T19:55:16.301555+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 86,
+  "totalItemsConsidered": 58,
   "items": [
     {
-      "title": "Go analyzer for resource bugs",
+      "title": "Local-first Figma alternative in Rust",
       "urls": [
-        "https://gohawk.dev"
+        "https://github.com/deepfounder-ai/desigma"
       ],
-      "oneliner": "Static analyzer for Go that catches resource leaks and concurrency bugs missed by go vet in Docker-scale codebases."
+      "oneliner": "Open-source design editor in Rust that stores files locally and replaces subscription design tools for offline workflows."
     },
     {
-      "title": "Open workflow for product videos",
+      "title": "Tiny BASIC runs on Arduino",
       "urls": [
-        "https://github.com/aaitor/skill-video-studio"
+        "https://dilshan.github.io/tiny-basic/"
       ],
-      "oneliner": "GitHub workflow that combines Playwright, FFmpeg, and narration tooling to generate polished product demo videos from real app flows."
+      "oneliner": "Lightweight BASIC interpreter lets you edit and run programs directly on Arduino without a desktop IDE."
     },
     {
-      "title": "Linux syscall tables and API",
+      "title": "Open-source Toit reaches version 2",
       "urls": [
-        "https://syscall.sh/"
+        "https://toit.io/blog/toit-v2-0-0/"
       ],
-      "oneliner": "Searchable Linux syscall reference with JSON exports across 27 architectures, useful for tracers, sandboxes, and low-level tooling."
+      "oneliner": "IoT scripting language adds stable v2 APIs, broader Arm support, and a rewritten package manager for embedded development."
     },
     {
-      "title": "Human-readable config format",
+      "title": "Interactive notes for core LLM concepts",
       "urls": [
-        "https://github.com/soml-lang/soml"
+        "https://concepts.laxmena.com/"
       ],
-      "oneliner": "Config language that removes YAML ambiguity while keeping comments, typed values, and cleaner syntax than JSON."
+      "oneliner": "Hands-on notes explain RLHF, attention, LoRA, and evals with concrete examples engineers can study and reuse."
     },
     {
-      "title": "Tor Browser 16 is available",
+      "title": "Dependency-free tactile web components library",
       "urls": [
-        "https://blog.torproject.org/new-release-tor-browser-160/"
+        "https://jelly-ui.com/"
       ],
-      "oneliner": "Stable Tor Browser release with redesigned settings, Firefox ESR 153 base, and more than 270 privacy and security fixes."
+      "oneliner": "Web Components kit adds soft-body physics, accessible form controls, dark mode, and RTL support without framework dependencies."
     },
     {
-      "title": "Tracker firmware source is open",
+      "title": "Affordable open-source room-scale gripper robot",
       "urls": [
-        "https://polyend.com/whats-up/tracker-the-biggest-update-yet/",
-        "https://backstage.polyend.com/t/tracker-the-biggest-update-yet/25120"
+        "https://neufangled.com/"
       ],
-      "oneliner": "Firmware source and SDK for Polyend Tracker devices let developers build custom plugins, synths, themes, and instrument mods."
+      "oneliner": "Open robot design costs about $800 and includes build guidance for room-scale manipulation experiments and custom automation."
     },
     {
-      "title": "Interactive voxel city map",
+      "title": "Museum collection turned into playable game",
       "urls": [
-        "https://p.migdal.pl/warsaw-vibe-voxel/"
+        "https://katamari.vaguespac.es/"
       ],
-      "oneliner": "Open interactive 3D voxel map of Warsaw that shows how to build browser-based spatial visualizations with real city data."
+      "oneliner": "Playable browser game remixes The Met's open collection into a Katamari-style interface worth studying for creative web interactions."
     },
     {
-      "title": "C64 dungeon crawler tutorial",
+      "title": "ByteDance storage paper with useful benchmarks",
       "urls": [
-        "https://retrogamecoders.com/c64-basic-dungeon-part11/"
+        "https://arxiv.org/abs/2611.02618"
       ],
-      "oneliner": "Hands-on BASIC tutorial adds levels, stairs, and character progression to a Commodore 64 dungeon crawler you can modify online."
+      "oneliner": "Recommender storage paper reports 85.8% lower write latency and 42.1% lower costs, useful for systems design tradeoffs."
     },
     {
-      "title": "Pure Blog customization walkthrough",
+      "title": "Datacenter Macs for iOS build farms",
       "urls": [
-        "https://kevquirk.com/how-i-customised-pure-blog-for-this-site"
+        "https://namespace.so/blog/mac-at-any-scale"
       ],
-      "oneliner": "Step-by-step guide to extending Pure Blog with custom post types, hooks, and spam-resistant tweaks without forking the CMS."
+      "oneliner": "Detailed infrastructure walkthrough shows how to rack, cool, and remotely manage MacBooks for large-scale macOS workloads."
     },
     {
-      "title": "Reverse engineering a car clock",
+      "title": "Modern chess engine on 1996 hardware",
       "urls": [
-        "https://blog.nns.ee/2026/11/02/renault-hack/"
+        "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html"
       ],
-      "oneliner": "Detailed firmware hacking walkthrough for a Renault navigation unit, useful for learning embedded reverse engineering from a real bug."
+      "oneliner": "Reproducible experiment shows algorithmic gains matter more than custom hardware by running a modern engine on a Pentium Pro."
     }
   ],
   "keywords": [
     "shipped",
-    "blazing",
     "instant",
+    "blazing",
     "unlocked",
     "local",
     "open",
     "practical"
   ],
   "tokenUsage": {
-    "promptTokens": 18160,
-    "completionTokens": 656,
-    "totalTokens": 18816,
-    "costUsd": 0.05524
+    "promptTokens": 12311,
+    "completionTokens": 668,
+    "totalTokens": 12979,
+    "costUsd": 0.0407975
   }
 }

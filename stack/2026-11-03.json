@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T19:55:16.301555+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 58,
+  "items": [
+    {
+      "title": "Local-first Figma alternative in Rust",
+      "urls": [
+        "https://github.com/deepfounder-ai/desigma"
+      ],
+      "oneliner": "Open-source design editor in Rust that stores files locally and replaces subscription design tools for offline workflows."
+    },
+    {
+      "title": "Tiny BASIC runs on Arduino",
+      "urls": [
+        "https://dilshan.github.io/tiny-basic/"
+      ],
+      "oneliner": "Lightweight BASIC interpreter lets you edit and run programs directly on Arduino without a desktop IDE."
+    },
+    {
+      "title": "Open-source Toit reaches version 2",
+      "urls": [
+        "https://toit.io/blog/toit-v2-0-0/"
+      ],
+      "oneliner": "IoT scripting language adds stable v2 APIs, broader Arm support, and a rewritten package manager for embedded development."
+    },
+    {
+      "title": "Interactive notes for core LLM concepts",
+      "urls": [
+        "https://concepts.laxmena.com/"
+      ],
+      "oneliner": "Hands-on notes explain RLHF, attention, LoRA, and evals with concrete examples engineers can study and reuse."
+    },
+    {
+      "title": "Dependency-free tactile web components library",
+      "urls": [
+        "https://jelly-ui.com/"
+      ],
+      "oneliner": "Web Components kit adds soft-body physics, accessible form controls, dark mode, and RTL support without framework dependencies."
+    },
+    {
+      "title": "Affordable open-source room-scale gripper robot",
+      "urls": [
+        "https://neufangled.com/"
+      ],
+      "oneliner": "Open robot design costs about $800 and includes build guidance for room-scale manipulation experiments and custom automation."
+    },
+    {
+      "title": "Museum collection turned into playable game",
+      "urls": [
+        "https://katamari.vaguespac.es/"
+      ],
+      "oneliner": "Playable browser game remixes The Met's open collection into a Katamari-style interface worth studying for creative web interactions."
+    },
+    {
+      "title": "ByteDance storage paper with useful benchmarks",
+      "urls": [
+        "https://arxiv.org/abs/2611.02618"
+      ],
+      "oneliner": "Recommender storage paper reports 85.8% lower write latency and 42.1% lower costs, useful for systems design tradeoffs."
+    },
+    {
+      "title": "Datacenter Macs for iOS build farms",
+      "urls": [
+        "https://namespace.so/blog/mac-at-any-scale"
+      ],
+      "oneliner": "Detailed infrastructure walkthrough shows how to rack, cool, and remotely manage MacBooks for large-scale macOS workloads."
+    },
+    {
+      "title": "Modern chess engine on 1996 hardware",
+      "urls": [
+        "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html"
+      ],
+      "oneliner": "Reproducible experiment shows algorithmic gains matter more than custom hardware by running a modern engine on a Pentium Pro."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "instant",
+    "blazing",
+    "unlocked",
+    "local",
+    "open",
+    "practical"
+  ],
+  "tokenUsage": {
+    "promptTokens": 12311,
+    "completionTokens": 668,
+    "totalTokens": 12979,
+    "costUsd": 0.0407975
+  }
+}
