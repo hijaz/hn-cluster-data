@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T20:15:19.052794+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 94,
+  "items": [
+    {
+      "title": "Kimi released giant open multimodal weights",
+      "urls": [
+        "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+      ],
+      "oneliner": "Moonshot released Kimi K3.1 Pro with 2.8T parameters and 1M context, raising the floor for open multimodal agents.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "Ripple pushed open coding benchmarks higher",
+      "urls": [
+        "https://www.ricursive.com/ripple"
+      ],
+      "oneliner": "Ripple-65B claims 80.52 on agentic coding after 12T tokens and $32M, making open-weight coding models harder to dismiss.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "Anthropic made verifiable inference more practical",
+      "urls": [
+        "https://www.anthropic.com/research/provable-inference"
+      ],
+      "oneliner": "Anthropic says FlashProve can verify LLM inference at 110 tokens per second on one H100, turning trust into infrastructure.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "OpenAI faces an internal espionage scare",
+      "urls": [
+        "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/"
+      ],
+      "oneliner": "An OpenAI engineer was arrested after a hidden spy device was found onsite, reminding labs that frontier security is physical too.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "A fake interview enabled a massive crypto theft",
+      "urls": [
+        "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398"
+      ],
+      "oneliner": "North Korean operators allegedly used a fake job interview to help steal $6.3B from Binance, weaponizing hiring pipelines.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Debian patched a root-level apt flaw",
+      "urls": [
+        "https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer="
+      ],
+      "oneliner": "Debian fixed an apt redirect bug that let man-in-the-middle attackers potentially run malicious packages as root.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "MCP OAuth setups still invite phishing",
+      "urls": [
+        "https://streamvessel.com/blog/mcp-trusted-redirect-uris"
+      ],
+      "oneliner": "Many MCP servers still accept arbitrary redirect URIs, which means user-controlled clients can quietly become OAuth phishing holes.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "Linux loses badly on Nvidia AI laptops",
+      "urls": [
+        "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop"
+      ],
+      "oneliner": "Encrypted Nvidia firmware can cut Linux inference speed to 35% on RTX Spark laptops, making Windows the practical ML stack.",
+      "emoji": "💻"
+    },
+    {
+      "title": "Go finally replaced its aging JSON API",
+      "urls": [
+        "https://go.dev/blog/jsonv2"
+      ],
+      "oneliner": "Go 1.27 stabilizes encoding/json/v2 with stricter parsing and safer defaults, which should reduce silent bugs in production services.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "Apple opened Siri AI to developers",
+      "urls": [
+        "https://developer.apple.com/news/?id=gdk2umrf"
+      ],
+      "oneliner": "Apple opened Siri AI to all app developers, finally giving iOS builders a first-party path into voice-native agent workflows.",
+      "emoji": "📦"
+    }
+  ],
+  "keywords": [
+    "cracked",
+    "surpassed",
+    "weaponized",
+    "autonomy",
+    "scarcity",
+    "leaked",
+    "consolidation"
+  ],
+  "tokenUsage": {
+    "promptTokens": 19783,
+    "completionTokens": 791,
+    "totalTokens": 20574,
+    "costUsd": 0.061322499999999995
+  }
+}

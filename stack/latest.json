@@ -1,94 +1,94 @@
 {
-  "date": "2026-11-03",
-  "generated_at": "2026-11-03T19:55:16.301555+00:00",
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T20:15:31.852796+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 58,
+  "totalItemsConsidered": 94,
   "items": [
     {
-      "title": "Local-first Figma alternative in Rust",
+      "title": "Kimi K3.1 Pro weights are live",
       "urls": [
-        "https://github.com/deepfounder-ai/desigma"
+        "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
       ],
-      "oneliner": "Open-source design editor in Rust that stores files locally and replaces subscription design tools for offline workflows."
+      "oneliner": "Open multimodal model with 1M context and downloadable weights for local serving, evals, and agent experiments today."
     },
     {
-      "title": "Tiny BASIC runs on Arduino",
+      "title": "Codemap visualizes any Go repository",
       "urls": [
-        "https://dilshan.github.io/tiny-basic/"
+        "https://github.com/peterretief/codemap"
       ],
-      "oneliner": "Lightweight BASIC interpreter lets you edit and run programs directly on Arduino without a desktop IDE."
+      "oneliner": "Generate a single HTML map of packages, functions, and dependencies to understand unfamiliar Go codebases in minutes."
     },
     {
-      "title": "Open-source Toit reaches version 2",
+      "title": "Go ships a safer JSON API",
       "urls": [
-        "https://toit.io/blog/toit-v2-0-0/"
+        "https://go.dev/blog/jsonv2"
       ],
-      "oneliner": "IoT scripting language adds stable v2 APIs, broader Arm support, and a rewritten package manager for embedded development."
+      "oneliner": "New encoding/json/v2 fixes long-standing edge cases and gives Go teams stricter, more customizable JSON handling."
     },
     {
-      "title": "Interactive notes for core LLM concepts",
+      "title": "Benchstat workflow comes to Rust",
       "urls": [
-        "https://concepts.laxmena.com/"
+        "https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/"
       ],
-      "oneliner": "Hands-on notes explain RLHF, attention, LoRA, and evals with concrete examples engineers can study and reuse."
+      "oneliner": "This Rust benchmarking toolkit brings Go-style benchstat comparisons, heap tracking, and profiling to microbenchmark-heavy code."
     },
     {
-      "title": "Dependency-free tactile web components library",
+      "title": "PostgreSQL internals guide stays unmatched",
       "urls": [
-        "https://jelly-ui.com/"
+        "https://www.interdb.jp/pg/index.html"
       ],
-      "oneliner": "Web Components kit adds soft-body physics, accessible form controls, dark mode, and RTL support without framework dependencies."
+      "oneliner": "Deep, practical reference for query execution, MVCC, WAL, and replication when Postgres behavior stops matching intuition."
     },
     {
-      "title": "Affordable open-source room-scale gripper robot",
+      "title": "This Postgres TOAST deep dive matters",
       "urls": [
-        "https://neufangled.com/"
+        "https://www.pgedge.com/blog/burnt-toast"
       ],
-      "oneliner": "Open robot design costs about $800 and includes build guidance for room-scale manipulation experiments and custom automation."
+      "oneliner": "Concrete walkthrough of how oversized columns hurt performance, with lessons for debugging slow reads and writes."
     },
     {
-      "title": "Museum collection turned into playable game",
+      "title": "Electronic voting cryptography explained clearly",
       "urls": [
-        "https://katamari.vaguespac.es/"
+        "https://blog.trailofbits.com/2026/11/03/the-cryptography-behind-electronic-voting-and-why-paper-ballots-are-still-essential/"
       ],
-      "oneliner": "Playable browser game remixes The Met's open collection into a Katamari-style interface worth studying for creative web interactions."
+      "oneliner": "Useful security walkthrough of Helios, ElectionGuard, and why cryptography still does not replace paper ballots."
     },
     {
-      "title": "ByteDance storage paper with useful benchmarks",
+      "title": "A real DNS hijacking investigation",
       "urls": [
-        "https://arxiv.org/abs/2611.02618"
+        "https://karthihegde.dev/posts/dns_tampering"
       ],
-      "oneliner": "Recommender storage paper reports 85.8% lower write latency and 42.1% lower costs, useful for systems design tradeoffs."
+      "oneliner": "Hands-on writeup showing how to detect ISP DNS tampering and harden your setup with secure resolvers or VPNs."
     },
     {
-      "title": "Datacenter Macs for iOS build farms",
+      "title": "Rust compiler speedups are dissected",
       "urls": [
-        "https://namespace.so/blog/mac-at-any-scale"
+        "https://nnethercote.github.io/2026/11/04/how-to-speed-up-the-rust-compiler-in-november-2026.html"
       ],
-      "oneliner": "Detailed infrastructure walkthrough shows how to rack, cool, and remotely manage MacBooks for large-scale macOS workloads."
+      "oneliner": "Detailed optimization notes show how span compression and caching delivered measurable compiler wins, especially in incremental builds."
     },
     {
-      "title": "Modern chess engine on 1996 hardware",
+      "title": "Debian APT security fix is urgent",
       "urls": [
-        "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html"
+        "https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer="
       ],
-      "oneliner": "Reproducible experiment shows algorithmic gains matter more than custom hardware by running a modern engine on a Pentium Pro."
+      "oneliner": "Security advisory with actionable upgrade guidance for a man-in-the-middle APT flaw that could lead to root code execution."
     }
   ],
   "keywords": [
     "shipped",
-    "instant",
     "blazing",
+    "instant",
     "unlocked",
     "local",
     "open",
-    "practical"
+    "native"
   ],
   "tokenUsage": {
-    "promptTokens": 12311,
-    "completionTokens": 668,
-    "totalTokens": 12979,
-    "costUsd": 0.0407975
+    "promptTokens": 19608,
+    "completionTokens": 660,
+    "totalTokens": 20268,
+    "costUsd": 0.05892
   }
 }
