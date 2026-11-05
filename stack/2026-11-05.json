@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T20:32:07.546579+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 93,
+  "items": [
+    {
+      "title": "Rivet scales durable agent workloads",
+      "urls": [
+        "https://github.com/rivet-dev/rivet"
+      ],
+      "oneliner": "Actor runtime for agent apps with 4.99 ms cold starts, SQLite state, and S3-backed persistence."
+    },
+    {
+      "title": "Kimi K3.1 Pro weights are downloadable",
+      "urls": [
+        "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+      ],
+      "oneliner": "Open weights with 1M-token context and multimodal input you can download, fine-tune, and benchmark today."
+    },
+    {
+      "title": "Stroq audits coding agent sessions",
+      "urls": [
+        "https://github.com/AGGIB/Stroq"
+      ],
+      "oneliner": "Local audit tool that reconstructs what your coding agent ran, why it ran, and where commands came from."
+    },
+    {
+      "title": "Python profiling tools compared clearly",
+      "urls": [
+        "https://p403n1x87.github.io/the-state-of-python-profiling-in-2026.html"
+      ],
+      "oneliner": "Practical comparison of Tachyon, py-spy, Scalene, and Austin with tradeoffs that help pick the right profiler."
+    },
+    {
+      "title": "Apache image model trained cheaply",
+      "urls": [
+        "https://www.linum.ai/field-notes/pjit-21k"
+      ],
+      "oneliner": "Apache 2.0 text-to-image weights trained for about $20K, with notes useful for low-budget model builders."
+    },
+    {
+      "title": "Declarative dragging simplifies complex UIs",
+      "urls": [
+        "https://declarative-dragging.github.io/"
+      ],
+      "oneliner": "New drag interaction approach lets you specify end states instead of wiring brittle pointer logic by hand."
+    },
+    {
+      "title": "NetBSD upgrade walkthrough is reproducible",
+      "urls": [
+        "https://www.dwarmstrong.org/netbsd-upgrade/"
+      ],
+      "oneliner": "Step-by-step NetBSD 11.0 to 11.1 upgrade guide with commands, postinstall fixes, and package repo updates."
+    },
+    {
+      "title": "YouTube archiving stack you can copy",
+      "urls": [
+        "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/"
+      ],
+      "oneliner": "Hands-on setup using yt-dlp, ytdl-sub, Jellyfin, and NAS storage to preserve videos before they disappear."
+    },
+    {
+      "title": "Rust anagram indexing gets absurdly fast",
+      "urls": [
+        "https://wiredream.com/anagram-fun/"
+      ],
+      "oneliner": "Deep optimization walkthrough shows how a Rust anagram solver reached 11 nanoseconds per word."
+    },
+    {
+      "title": "N64 audio codec implementation details",
+      "urls": [
+        "https://phoboslab.org/log/2026/11/n64-ulc-codec"
+      ],
+      "oneliner": "Practical codec writeup for N64 developers covering ADPCM, Opus tradeoffs, and ROM-saving audio implementation choices."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "offline",
+    "local",
+    "open",
+    "native",
+    "unlocked"
+  ],
+  "tokenUsage": {
+    "promptTokens": 19015,
+    "completionTokens": 673,
+    "totalTokens": 19688,
+    "costUsd": 0.0576325
+  }
+}
