@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T19:41:54.029680+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 52,
+  "items": [
+    {
+      "title": "OpenAI shipped a restricted cyber model",
+      "urls": [
+        "https://openai.com/index/introducing-gpt-6-cyber/",
+        "https://www.theneurondaily.com/p/openai-released-gpt-6-cyber-a-hacking-ai"
+      ],
+      "oneliner": "GPT-6 Cyber hit 48.5% on ExploitGym. Security testing just got faster for defenders and more dangerous for everyone else.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "Google expanded native video generation",
+      "urls": [
+        "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+      ],
+      "oneliner": "Gemini Omni 1.2 Flash now makes 15-second videos natively, pushing multimodal prototyping closer to product workflows.",
+      "emoji": "🎬"
+    },
+    {
+      "title": "Memorilla gives frozen models reusable memory",
+      "urls": [
+        "https://arxiv.org/abs/2610.21375"
+      ],
+      "oneliner": "Memorilla reached 84.33% on FactKG, showing long-term memory may beat ever-larger context windows on cost and accuracy.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "Claude Code leaked user email addresses",
+      "urls": [
+        "https://github.com/anthropics/claude-code/issues/107757"
+      ],
+      "oneliner": "Claude Code reportedly sent users' email addresses to websites, a small bug that becomes a big trust problem fast.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Researchers found 15,579 infected websites",
+      "urls": [
+        "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/"
+      ],
+      "oneliner": "15,579 compromised sites expose 135 million monthly visitors, proving web malware discovery still outpaces responsible disclosure.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "Mozilla used frontier models to patch faster",
+      "urls": [
+        "https://blog.mozilla.org/en/firefox/privacy-security/defending-patch-gap/"
+      ],
+      "oneliner": "Mozilla says early frontier-model access helped ship over seven times more security fixes, which is the patch-gap story to watch.",
+      "emoji": "🦊"
+    },
+    {
+      "title": "AegisKernel targets agent runtime security",
+      "urls": [
+        "https://adikshatriyag-crypto.github.io/aegis-kernel/"
+      ],
+      "oneliner": "AegisKernel promises zero-trust POSIX isolation in under 0.016 milliseconds, reflecting a shift from guardrails to hard containment.",
+      "emoji": "🛡️"
+    },
+    {
+      "title": "Devvm isolates every project in a VM",
+      "urls": [
+        "https://devvm.dev/",
+        "https://www.youtube.com/watch?v=rMvj3HAlTvg"
+      ],
+      "oneliner": "Devvm gives each project its own sandboxed VM, turning supply-chain paranoia into a practical default for AI-assisted development.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "Microsoft is unwinding Oracle AI capacity",
+      "urls": [
+        "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/"
+      ],
+      "oneliner": "Microsoft winding down Oracle AI cloud rentals signals compute strategy is consolidating around owned capacity, not emergency overflow.",
+      "emoji": "🏭"
+    },
+    {
+      "title": "The FAA is finally replacing floppies",
+      "urls": [
+        "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/"
+      ],
+      "oneliner": "The FAA will phase out air-traffic-control floppy disks by 2028, a reminder that critical infrastructure modernization still moves glacially.",
+      "emoji": "💾"
+    }
+  ],
+  "keywords": [
+    "cracked",
+    "racing",
+    "weaponized",
+    "surpassed",
+    "scarcity",
+    "autonomy",
+    "exposed"
+  ],
+  "tokenUsage": {
+    "promptTokens": 10768,
+    "completionTokens": 794,
+    "totalTokens": 11562,
+    "costUsd": 0.03883
+  }
+}

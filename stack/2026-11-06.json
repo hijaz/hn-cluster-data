@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T19:42:04.170891+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 52,
+  "items": [
+    {
+      "title": "Per-project secure development VMs",
+      "urls": [
+        "https://devvm.dev/",
+        "https://www.youtube.com/watch?v=rMvj3HAlTvg"
+      ],
+      "oneliner": "Open source CLI spins up one isolated VM per project to protect secrets, cache toolchains, and run coding agents safely."
+    },
+    {
+      "title": "Zero-trust runtime for AI agents",
+      "urls": [
+        "https://adikshatriyag-crypto.github.io/aegis-kernel/"
+      ],
+      "oneliner": "POSIX sandbox for AI agents blocks tool hijacks with deterministic policies and claims sub-0.016 ms threat interception."
+    },
+    {
+      "title": "Rust UI framework with live editing",
+      "urls": [
+        "https://github.com/anomalyco/rune"
+      ],
+      "oneliner": "GPU-rendered Rust UI framework targets desktop and web, with headless rendering and state-preserving live view editing."
+    },
+    {
+      "title": "Blender UI outside Blender",
+      "urls": [
+        "https://github.com/ppmpreetham/BUI"
+      ],
+      "oneliner": "Library exposes Blender's fast UI runtime to Python, Rust, JavaScript, and C for lightweight native app interfaces."
+    },
+    {
+      "title": "Python exercises with built-in tests",
+      "urls": [
+        "https://github.com/thesayfulla/pylings"
+      ],
+      "oneliner": "Rustlings-style Python repo gives 55 exercises plus instant test feedback for interview prep and skill refreshers."
+    },
+    {
+      "title": "UEFI bare-metal programming walkthrough",
+      "urls": [
+        "https://kevinboone.me/efitest_index.html"
+      ],
+      "oneliner": "Hands-on series shows Linux developers how to compile, boot, and debug bare-metal UEFI apps from scratch."
+    },
+    {
+      "title": "Prompt regression testing CLI",
+      "urls": [
+        "https://github.com/gauge-sh/gauge-cli"
+      ],
+      "oneliner": "CLI test framework helps teams turn prompt checks into repeatable regression suites instead of manual spot testing."
+    },
+    {
+      "title": "WebVR framework with HTML primitives",
+      "urls": [
+        "https://aframe.io/"
+      ],
+      "oneliner": "Open source framework lets developers build browser VR scenes with HTML components across desktop, mobile, and major headsets."
+    },
+    {
+      "title": "Monospace font that reveals tokens",
+      "urls": [
+        "https://george.mand.is/2026/11/the-tokenizer-font/"
+      ],
+      "oneliner": "Experimental font uses OpenType rules to visualize LLM token boundaries as you type, without JavaScript."
+    },
+    {
+      "title": "Mac-native open globe explorer",
+      "urls": [
+        "https://apps.metaebene.me/en/kugelblitz"
+      ],
+      "oneliner": "macOS globe app uses OpenStreetMap data, offline caching, and smooth 3D navigation as a Google Earth alternative."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "instant",
+    "blazing",
+    "unlocked",
+    "local",
+    "open",
+    "sandboxed"
+  ],
+  "tokenUsage": {
+    "promptTokens": 10593,
+    "completionTokens": 655,
+    "totalTokens": 11248,
+    "costUsd": 0.0363075
+  }
+}

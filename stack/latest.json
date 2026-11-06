@@ -1,94 +1,95 @@
 {
-  "date": "2026-11-05",
-  "generated_at": "2026-11-05T20:32:07.546579+00:00",
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T19:42:04.170891+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 93,
+  "totalItemsConsidered": 52,
   "items": [
     {
-      "title": "Rivet scales durable agent workloads",
+      "title": "Per-project secure development VMs",
       "urls": [
-        "https://github.com/rivet-dev/rivet"
+        "https://devvm.dev/",
+        "https://www.youtube.com/watch?v=rMvj3HAlTvg"
       ],
-      "oneliner": "Actor runtime for agent apps with 4.99 ms cold starts, SQLite state, and S3-backed persistence."
+      "oneliner": "Open source CLI spins up one isolated VM per project to protect secrets, cache toolchains, and run coding agents safely."
     },
     {
-      "title": "Kimi K3.1 Pro weights are downloadable",
+      "title": "Zero-trust runtime for AI agents",
       "urls": [
-        "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+        "https://adikshatriyag-crypto.github.io/aegis-kernel/"
       ],
-      "oneliner": "Open weights with 1M-token context and multimodal input you can download, fine-tune, and benchmark today."
+      "oneliner": "POSIX sandbox for AI agents blocks tool hijacks with deterministic policies and claims sub-0.016 ms threat interception."
     },
     {
-      "title": "Stroq audits coding agent sessions",
+      "title": "Rust UI framework with live editing",
       "urls": [
-        "https://github.com/AGGIB/Stroq"
+        "https://github.com/anomalyco/rune"
       ],
-      "oneliner": "Local audit tool that reconstructs what your coding agent ran, why it ran, and where commands came from."
+      "oneliner": "GPU-rendered Rust UI framework targets desktop and web, with headless rendering and state-preserving live view editing."
     },
     {
-      "title": "Python profiling tools compared clearly",
+      "title": "Blender UI outside Blender",
       "urls": [
-        "https://p403n1x87.github.io/the-state-of-python-profiling-in-2026.html"
+        "https://github.com/ppmpreetham/BUI"
       ],
-      "oneliner": "Practical comparison of Tachyon, py-spy, Scalene, and Austin with tradeoffs that help pick the right profiler."
+      "oneliner": "Library exposes Blender's fast UI runtime to Python, Rust, JavaScript, and C for lightweight native app interfaces."
     },
     {
-      "title": "Apache image model trained cheaply",
+      "title": "Python exercises with built-in tests",
       "urls": [
-        "https://www.linum.ai/field-notes/pjit-21k"
+        "https://github.com/thesayfulla/pylings"
       ],
-      "oneliner": "Apache 2.0 text-to-image weights trained for about $20K, with notes useful for low-budget model builders."
+      "oneliner": "Rustlings-style Python repo gives 55 exercises plus instant test feedback for interview prep and skill refreshers."
     },
     {
-      "title": "Declarative dragging simplifies complex UIs",
+      "title": "UEFI bare-metal programming walkthrough",
       "urls": [
-        "https://declarative-dragging.github.io/"
+        "https://kevinboone.me/efitest_index.html"
       ],
-      "oneliner": "New drag interaction approach lets you specify end states instead of wiring brittle pointer logic by hand."
+      "oneliner": "Hands-on series shows Linux developers how to compile, boot, and debug bare-metal UEFI apps from scratch."
     },
     {
-      "title": "NetBSD upgrade walkthrough is reproducible",
+      "title": "Prompt regression testing CLI",
       "urls": [
-        "https://www.dwarmstrong.org/netbsd-upgrade/"
+        "https://github.com/gauge-sh/gauge-cli"
       ],
-      "oneliner": "Step-by-step NetBSD 11.0 to 11.1 upgrade guide with commands, postinstall fixes, and package repo updates."
+      "oneliner": "CLI test framework helps teams turn prompt checks into repeatable regression suites instead of manual spot testing."
     },
     {
-      "title": "YouTube archiving stack you can copy",
+      "title": "WebVR framework with HTML primitives",
       "urls": [
-        "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/"
+        "https://aframe.io/"
       ],
-      "oneliner": "Hands-on setup using yt-dlp, ytdl-sub, Jellyfin, and NAS storage to preserve videos before they disappear."
+      "oneliner": "Open source framework lets developers build browser VR scenes with HTML components across desktop, mobile, and major headsets."
     },
     {
-      "title": "Rust anagram indexing gets absurdly fast",
+      "title": "Monospace font that reveals tokens",
       "urls": [
-        "https://wiredream.com/anagram-fun/"
+        "https://george.mand.is/2026/11/the-tokenizer-font/"
       ],
-      "oneliner": "Deep optimization walkthrough shows how a Rust anagram solver reached 11 nanoseconds per word."
+      "oneliner": "Experimental font uses OpenType rules to visualize LLM token boundaries as you type, without JavaScript."
     },
     {
-      "title": "N64 audio codec implementation details",
+      "title": "Mac-native open globe explorer",
       "urls": [
-        "https://phoboslab.org/log/2026/11/n64-ulc-codec"
+        "https://apps.metaebene.me/en/kugelblitz"
       ],
-      "oneliner": "Practical codec writeup for N64 developers covering ADPCM, Opus tradeoffs, and ROM-saving audio implementation choices."
+      "oneliner": "macOS globe app uses OpenStreetMap data, offline caching, and smooth 3D navigation as a Google Earth alternative."
     }
   ],
   "keywords": [
     "shipped",
+    "instant",
     "blazing",
-    "offline",
+    "unlocked",
     "local",
     "open",
-    "native",
-    "unlocked"
+    "sandboxed"
   ],
   "tokenUsage": {
-    "promptTokens": 19015,
-    "completionTokens": 673,
-    "totalTokens": 19688,
-    "costUsd": 0.0576325
+    "promptTokens": 10593,
+    "completionTokens": 655,
+    "totalTokens": 11248,
+    "costUsd": 0.0363075
   }
 }
