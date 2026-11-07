@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T18:24:31.284021+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 80,
+  "items": [
+    {
+      "title": "Anthropic outlined memory for autonomous agents",
+      "urls": [
+        "https://www.anthropic.com/research/components-of-agent-memory"
+      ],
+      "oneliner": "Anthropic wants agents to tag, replay, and reorganize experience during idle time. Memory is becoming a product surface.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "A 31B video model got compressed",
+      "urls": [
+        "https://github.com/Video-Rebirth/hyperflow-h3-flash"
+      ],
+      "oneliner": "HyperFlow shrank a 31B video-audio model to 14B, 6 steps, INT8. Multimodal generation is getting cheaper fast.",
+      "emoji": "🎥"
+    },
+    {
+      "title": "A cheaper judge matched Opus accuracy",
+      "urls": [
+        "https://hightouch.com/blog/llm-judges-identity-resolution"
+      ],
+      "oneliner": "Hightouch says Jev plus selective Opus calls matches Opus accuracy at 4x lower cost. Cascades are winning.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "Researchers demonstrated a Firecracker VM escape",
+      "urls": [
+        "https://pwn.ai/blog/firecracker-escape"
+      ],
+      "oneliner": "A Firecracker escape reached host root from a microVM. Sandbox assumptions around untrusted code just got shakier.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "Meta smartglasses were hacked through firmware",
+      "urls": [
+        "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/"
+      ],
+      "oneliner": "A researcher pulled OTA firmware from Meta Ray-Bans and achieved arbitrary code execution. Wearables remain soft targets.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Web frameworks still overtrust forwarded headers",
+      "urls": [
+        "https://www.lkoskela.fi/blog/2026-11-05-forwarded-without-question/"
+      ],
+      "oneliner": "Rails and Spring stacks can trust spoofed Forwarded headers by default. Cache poisoning and fake client IPs follow.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "Reddit comments can steer AI search",
+      "urls": [
+        "https://www.404media.co/it-is-trivially-easy-to-use-reddit-to-manipulate-ai-search-research-suggests"
+      ],
+      "oneliner": "Cornell found a 13-word comment can sway AI answers. Retrieval pipelines are easier to game than teams admit.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "GitHub rebuilt Git storage for scale",
+      "urls": [
+        "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/"
+      ],
+      "oneliner": "GitHub says its new architecture handles 7,200 pushes per second and 5,000 agents. Developer infrastructure is being re-architected.",
+      "emoji": "💻"
+    },
+    {
+      "title": "Libghostty reached a stable 1.0 API",
+      "urls": [
+        "https://mitchellh.com/writing/libghostty-1-0"
+      ],
+      "oneliner": "Libghostty 1.0 ships ABI stability after landing in products reaching 12.5 million users. Terminal infrastructure is consolidating.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "Musl Linux got closer to NVIDIA support",
+      "urls": [
+        "https://chimera-linux.org/news/2026/11/musl-nvidia.html"
+      ],
+      "oneliner": "Chimera Linux is narrowing the gap between musl and proprietary NVIDIA drivers. Alternative distros still live under GPU constraints.",
+      "emoji": "🏭"
+    }
+  ],
+  "keywords": [
+    "weaponized",
+    "surpassed",
+    "leaked",
+    "autonomy",
+    "scarcity",
+    "cracked",
+    "consolidation"
+  ],
+  "tokenUsage": {
+    "promptTokens": 18521,
+    "completionTokens": 794,
+    "totalTokens": 19315,
+    "costUsd": 0.0582125
+  }
+}

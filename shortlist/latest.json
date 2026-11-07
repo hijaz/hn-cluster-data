@@ -1,106 +1,104 @@
 {
-  "date": "2026-11-06",
-  "generated_at": "2026-11-06T19:41:54.029680+00:00",
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T18:24:31.284021+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 52,
+  "totalItemsConsidered": 80,
   "items": [
     {
-      "title": "OpenAI shipped a restricted cyber model",
+      "title": "Anthropic outlined memory for autonomous agents",
       "urls": [
-        "https://openai.com/index/introducing-gpt-6-cyber/",
-        "https://www.theneurondaily.com/p/openai-released-gpt-6-cyber-a-hacking-ai"
+        "https://www.anthropic.com/research/components-of-agent-memory"
       ],
-      "oneliner": "GPT-6 Cyber hit 48.5% on ExploitGym. Security testing just got faster for defenders and more dangerous for everyone else.",
+      "oneliner": "Anthropic wants agents to tag, replay, and reorganize experience during idle time. Memory is becoming a product surface.",
       "emoji": "🤖"
     },
     {
-      "title": "Google expanded native video generation",
+      "title": "A 31B video model got compressed",
       "urls": [
-        "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+        "https://github.com/Video-Rebirth/hyperflow-h3-flash"
       ],
-      "oneliner": "Gemini Omni 1.2 Flash now makes 15-second videos natively, pushing multimodal prototyping closer to product workflows.",
-      "emoji": "🎬"
+      "oneliner": "HyperFlow shrank a 31B video-audio model to 14B, 6 steps, INT8. Multimodal generation is getting cheaper fast.",
+      "emoji": "🎥"
     },
     {
-      "title": "Memorilla gives frozen models reusable memory",
+      "title": "A cheaper judge matched Opus accuracy",
       "urls": [
-        "https://arxiv.org/abs/2610.21375"
+        "https://hightouch.com/blog/llm-judges-identity-resolution"
       ],
-      "oneliner": "Memorilla reached 84.33% on FactKG, showing long-term memory may beat ever-larger context windows on cost and accuracy.",
+      "oneliner": "Hightouch says Jev plus selective Opus calls matches Opus accuracy at 4x lower cost. Cascades are winning.",
       "emoji": "🧠"
     },
     {
-      "title": "Claude Code leaked user email addresses",
+      "title": "Researchers demonstrated a Firecracker VM escape",
       "urls": [
-        "https://github.com/anthropics/claude-code/issues/107757"
+        "https://pwn.ai/blog/firecracker-escape"
       ],
-      "oneliner": "Claude Code reportedly sent users' email addresses to websites, a small bug that becomes a big trust problem fast.",
-      "emoji": "🔐"
-    },
-    {
-      "title": "Researchers found 15,579 infected websites",
-      "urls": [
-        "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/"
-      ],
-      "oneliner": "15,579 compromised sites expose 135 million monthly visitors, proving web malware discovery still outpaces responsible disclosure.",
+      "oneliner": "A Firecracker escape reached host root from a microVM. Sandbox assumptions around untrusted code just got shakier.",
       "emoji": "⚠️"
     },
     {
-      "title": "Mozilla used frontier models to patch faster",
+      "title": "Meta smartglasses were hacked through firmware",
       "urls": [
-        "https://blog.mozilla.org/en/firefox/privacy-security/defending-patch-gap/"
+        "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/"
       ],
-      "oneliner": "Mozilla says early frontier-model access helped ship over seven times more security fixes, which is the patch-gap story to watch.",
-      "emoji": "🦊"
+      "oneliner": "A researcher pulled OTA firmware from Meta Ray-Bans and achieved arbitrary code execution. Wearables remain soft targets.",
+      "emoji": "🔐"
     },
     {
-      "title": "AegisKernel targets agent runtime security",
+      "title": "Web frameworks still overtrust forwarded headers",
       "urls": [
-        "https://adikshatriyag-crypto.github.io/aegis-kernel/"
+        "https://www.lkoskela.fi/blog/2026-11-05-forwarded-without-question/"
       ],
-      "oneliner": "AegisKernel promises zero-trust POSIX isolation in under 0.016 milliseconds, reflecting a shift from guardrails to hard containment.",
-      "emoji": "🛡️"
+      "oneliner": "Rails and Spring stacks can trust spoofed Forwarded headers by default. Cache poisoning and fake client IPs follow.",
+      "emoji": "🐛"
     },
     {
-      "title": "Devvm isolates every project in a VM",
+      "title": "Reddit comments can steer AI search",
       "urls": [
-        "https://devvm.dev/",
-        "https://www.youtube.com/watch?v=rMvj3HAlTvg"
+        "https://www.404media.co/it-is-trivially-easy-to-use-reddit-to-manipulate-ai-search-research-suggests"
       ],
-      "oneliner": "Devvm gives each project its own sandboxed VM, turning supply-chain paranoia into a practical default for AI-assisted development.",
+      "oneliner": "Cornell found a 13-word comment can sway AI answers. Retrieval pipelines are easier to game than teams admit.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "GitHub rebuilt Git storage for scale",
+      "urls": [
+        "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/"
+      ],
+      "oneliner": "GitHub says its new architecture handles 7,200 pushes per second and 5,000 agents. Developer infrastructure is being re-architected.",
+      "emoji": "💻"
+    },
+    {
+      "title": "Libghostty reached a stable 1.0 API",
+      "urls": [
+        "https://mitchellh.com/writing/libghostty-1-0"
+      ],
+      "oneliner": "Libghostty 1.0 ships ABI stability after landing in products reaching 12.5 million users. Terminal infrastructure is consolidating.",
       "emoji": "🛠️"
     },
     {
-      "title": "Microsoft is unwinding Oracle AI capacity",
+      "title": "Musl Linux got closer to NVIDIA support",
       "urls": [
-        "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/"
+        "https://chimera-linux.org/news/2026/11/musl-nvidia.html"
       ],
-      "oneliner": "Microsoft winding down Oracle AI cloud rentals signals compute strategy is consolidating around owned capacity, not emergency overflow.",
+      "oneliner": "Chimera Linux is narrowing the gap between musl and proprietary NVIDIA drivers. Alternative distros still live under GPU constraints.",
       "emoji": "🏭"
-    },
-    {
-      "title": "The FAA is finally replacing floppies",
-      "urls": [
-        "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/"
-      ],
-      "oneliner": "The FAA will phase out air-traffic-control floppy disks by 2028, a reminder that critical infrastructure modernization still moves glacially.",
-      "emoji": "💾"
     }
   ],
   "keywords": [
-    "cracked",
-    "racing",
     "weaponized",
     "surpassed",
-    "scarcity",
+    "leaked",
     "autonomy",
-    "exposed"
+    "scarcity",
+    "cracked",
+    "consolidation"
   ],
   "tokenUsage": {
-    "promptTokens": 10768,
+    "promptTokens": 18521,
     "completionTokens": 794,
-    "totalTokens": 11562,
-    "costUsd": 0.03883
+    "totalTokens": 19315,
+    "costUsd": 0.0582125
   }
 }
