@@ -1,79 +1,79 @@
 {
-  "date": "2026-11-07",
-  "generated_at": "2026-11-07T18:24:38.234946+00:00",
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T23:01:50.140139+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 80,
+  "totalItemsConsidered": 93,
   "items": [
     {
-      "title": "ToothPaste sends secure HID input",
+      "title": "A faster drop-in C++ sort",
       "urls": [
-        "https://brisk4t.github.io/blog/toothpaste/"
+        "https://tiki.li/blog/about_blqsort"
       ],
-      "oneliner": "Encrypted USB HID bridge lets you type passwords into air-gapped devices from a browser without installing software."
+      "oneliner": "MIT-licensed quicksort beats std::sort by about 2x on 50M doubles, with C and multithreaded implementations."
     },
     {
-      "title": "Postgres queue scaling benchmark",
+      "title": "Chromium as an embeddable library",
       "urls": [
-        "https://garbagecollected.io/posts/postgres-task-queue-where-it-breaks/"
+        "https://github.com/ikey4u/zebkit"
       ],
-      "oneliner": "Hands-on benchmark shows FOR UPDATE SKIP LOCKED queues hitting 650 jobs per second with 20 pooled connections."
+      "oneliner": "Embed Chromium into native apps without Electron, keeping your own UI loop while adding web views, PDF, and media."
     },
     {
-      "title": "Spindle brings type-safe OCaml web apps",
+      "title": "AI terminals inside spreadsheets",
       "urls": [
-        "https://github.com/hyphatech/spindle"
+        "https://github.com/sshah03/recalc"
       ],
-      "oneliner": "OCaml 5 web framework ships RFC-strict HTTP, Eio multicore support, OpenAPI docs, and type-safe JSON end to end."
+      "oneliner": "Experimental spreadsheet where each cell can run Claude Code or Codex, with adjacent cells for tests and validation."
     },
     {
-      "title": "Coldframe emulates fridge controllers",
+      "title": "A semantics-driven x86 emulator",
       "urls": [
-        "https://github.com/hedgerow-dev/coldframe"
+        "https://liblisa.nl/sem86/"
       ],
-      "oneliner": "Single-file Python honeypot mimics supermarket fridge controllers and logs passwords, exploits, and attacker behavior with no dependencies."
+      "oneliner": "Full-system x86 emulator loads instruction semantics at runtime, useful for malware analysis and undocumented CPU behavior."
     },
     {
-      "title": "Libghostty stabilizes terminal embedding",
+      "title": "Cross-platform native UI in C",
       "urls": [
-        "https://mitchellh.com/writing/libghostty-1-0"
+        "https://yappologistic.github.io/CUI/"
       ],
-      "oneliner": "Production-ready C terminal emulation library now guarantees ABI stability for embedding terminals in editors, IDEs, and custom apps."
+      "oneliner": "C99 UI toolkit ships 160 native components in about 250 KB, with zero dependencies across Windows, macOS, and Linux."
     },
     {
-      "title": "ZeBridge syncs Postgres over NATS",
+      "title": "Microsecond NTP on Raspberry Pi",
       "urls": [
-        "https://github.com/ndrean/ZeBridge"
+        "https://austinsnerdythings.com/2021/04/19/microsecond-accurate-ntp-with-a-raspberry-pi-and-pps-gps/"
       ],
-      "oneliner": "Zig-based tool replicates PostgreSQL to edge devices over NATS with quickstarts, telemetry, auth, and Docker deployment."
+      "oneliner": "Hands-on guide builds a GPS-backed Raspberry Pi NTP server with Chrony for microsecond-level clock sync."
     },
     {
-      "title": "Go tests with MustCreate",
+      "title": "Node 27 features with code",
       "urls": [
-        "https://mtlynch.io/notes/go-must-create-pattern/"
+        "https://nodejsdesignpatterns.com/blog/whats-new-in-nodejs-27/"
       ],
-      "oneliner": "Practical Go 1.18 pattern uses generics to remove repetitive test setup and error handling from helper functions."
+      "oneliner": "Practical walkthrough of Node.js 27 alpha covers V8 updates, iterator helpers, VFS, and networking API changes."
     },
     {
-      "title": "DTLS 1.3 in Pion",
+      "title": "GPU kernel optimization primer",
       "urls": [
-        "https://joturk.net/posts/dtls"
+        "https://www.nabo.dev/blogs/kernel-primer"
       ],
-      "oneliner": "Deep implementation writeup covers 400 commits of DTLS 1.3 work in Pion, including one-RTT handshakes and PQ key exchange."
+      "oneliner": "Clear tutorial explains GPU architecture, profiling, and kernel optimization for ML workloads with concrete JAX examples."
     },
     {
-      "title": "Text.js renders React in logs",
+      "title": "Linux route lookup benchmarks",
       "urls": [
-        "https://textjs.org/"
+        "https://vincent.bernat.ch/en/blog/2026-linux-performance-ipv4-ipv6-route-lookup"
       ],
-      "oneliner": "Full-stack React framework renders interactive UIs inside console.log with Suspense, keyboard input, tables, and charts."
+      "oneliner": "Deep benchmark traces IPv4 and IPv6 route lookup performance across Linux versions, including the 6.5 regression."
     },
     {
-      "title": "PostgreSQL internals reference PDF",
+      "title": "Forgejo runner for Docker builds",
       "urls": [
-        "https://edu.postgrespro.com/postgresql_internals-14_en.pdf"
+        "https://dataswamp.org/~solene/2026-11-09-forgejo-runner-docker-in-docker.html"
       ],
-      "oneliner": "Free 2023 PostgreSQL internals book explains MVCC, indexing, storage, planner behavior, and extension mechanics in depth."
+      "oneliner": "Step-by-step guide shows how to run Forgejo CI with Docker-in-Docker for self-hosted container image builds."
     }
   ],
   "keywords": [
@@ -81,14 +81,14 @@
     "blazing",
     "offline",
     "open",
-    "instant",
-    "embedded",
-    "replaced"
+    "local",
+    "benchmarked",
+    "practical"
   ],
   "tokenUsage": {
-    "promptTokens": 18346,
-    "completionTokens": 692,
-    "totalTokens": 19038,
-    "costUsd": 0.056245
+    "promptTokens": 18952,
+    "completionTokens": 663,
+    "totalTokens": 19615,
+    "costUsd": 0.057325
   }
 }

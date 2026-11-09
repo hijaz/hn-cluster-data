@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T23:01:50.140139+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 93,
+  "items": [
+    {
+      "title": "A faster drop-in C++ sort",
+      "urls": [
+        "https://tiki.li/blog/about_blqsort"
+      ],
+      "oneliner": "MIT-licensed quicksort beats std::sort by about 2x on 50M doubles, with C and multithreaded implementations."
+    },
+    {
+      "title": "Chromium as an embeddable library",
+      "urls": [
+        "https://github.com/ikey4u/zebkit"
+      ],
+      "oneliner": "Embed Chromium into native apps without Electron, keeping your own UI loop while adding web views, PDF, and media."
+    },
+    {
+      "title": "AI terminals inside spreadsheets",
+      "urls": [
+        "https://github.com/sshah03/recalc"
+      ],
+      "oneliner": "Experimental spreadsheet where each cell can run Claude Code or Codex, with adjacent cells for tests and validation."
+    },
+    {
+      "title": "A semantics-driven x86 emulator",
+      "urls": [
+        "https://liblisa.nl/sem86/"
+      ],
+      "oneliner": "Full-system x86 emulator loads instruction semantics at runtime, useful for malware analysis and undocumented CPU behavior."
+    },
+    {
+      "title": "Cross-platform native UI in C",
+      "urls": [
+        "https://yappologistic.github.io/CUI/"
+      ],
+      "oneliner": "C99 UI toolkit ships 160 native components in about 250 KB, with zero dependencies across Windows, macOS, and Linux."
+    },
+    {
+      "title": "Microsecond NTP on Raspberry Pi",
+      "urls": [
+        "https://austinsnerdythings.com/2021/04/19/microsecond-accurate-ntp-with-a-raspberry-pi-and-pps-gps/"
+      ],
+      "oneliner": "Hands-on guide builds a GPS-backed Raspberry Pi NTP server with Chrony for microsecond-level clock sync."
+    },
+    {
+      "title": "Node 27 features with code",
+      "urls": [
+        "https://nodejsdesignpatterns.com/blog/whats-new-in-nodejs-27/"
+      ],
+      "oneliner": "Practical walkthrough of Node.js 27 alpha covers V8 updates, iterator helpers, VFS, and networking API changes."
+    },
+    {
+      "title": "GPU kernel optimization primer",
+      "urls": [
+        "https://www.nabo.dev/blogs/kernel-primer"
+      ],
+      "oneliner": "Clear tutorial explains GPU architecture, profiling, and kernel optimization for ML workloads with concrete JAX examples."
+    },
+    {
+      "title": "Linux route lookup benchmarks",
+      "urls": [
+        "https://vincent.bernat.ch/en/blog/2026-linux-performance-ipv4-ipv6-route-lookup"
+      ],
+      "oneliner": "Deep benchmark traces IPv4 and IPv6 route lookup performance across Linux versions, including the 6.5 regression."
+    },
+    {
+      "title": "Forgejo runner for Docker builds",
+      "urls": [
+        "https://dataswamp.org/~solene/2026-11-09-forgejo-runner-docker-in-docker.html"
+      ],
+      "oneliner": "Step-by-step guide shows how to run Forgejo CI with Docker-in-Docker for self-hosted container image builds."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "offline",
+    "open",
+    "local",
+    "benchmarked",
+    "practical"
+  ],
+  "tokenUsage": {
+    "promptTokens": 18952,
+    "completionTokens": 663,
+    "totalTokens": 19615,
+    "costUsd": 0.057325
+  }
+}

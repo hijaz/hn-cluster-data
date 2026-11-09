@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T23:01:41.829039+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 93,
+  "items": [
+    {
+      "title": "Anthropic shipped faster Claude 5.2 models",
+      "urls": [
+        "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+        "https://artificialanalysis.ai/models/claude-fable-5-2"
+      ],
+      "oneliner": "Anthropic says Claude Fable and Mythos 5.2 are 30% faster and cheaper, pushing frontier performance toward production reality.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "Meta released its cheapest serious reasoning model",
+      "urls": [
+        "https://research.meta.ai/blog/muse-ember"
+      ],
+      "oneliner": "Meta's Muse Ember matches Claude Haiku-class scores at roughly one-third the cost, raising the floor for agent economics.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "An AI model helped crack a quantum conjecture",
+      "urls": [
+        "https://psi.inc/research/aaronson-ambainis/"
+      ],
+      "oneliner": "Psi says an Anthropic model found a proof for the 18-year-old Aaronson-Ambainis conjecture after three days of autonomous search.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "Coding agents still fail most real edits",
+      "urls": [
+        "https://arxiv.org/abs/2610.35138"
+      ],
+      "oneliner": "Co-Design Bench found the best coding agent fully solved just 26.4% of 273 real app-editing tasks.",
+      "emoji": "📊"
+    },
+    {
+      "title": "Terminal2Shell exposed instant shell access",
+      "urls": [
+        "https://terminal2shell.com/"
+      ],
+      "oneliner": "Terminal2Shell claims a cross-platform input-validation flaw can hand attackers instant shell access on Windows, macOS, and Linux.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "Qubole trust relationships became an attack path",
+      "urls": [
+        "https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack"
+      ],
+      "oneliner": "Attackers used Qubole's trusted roles to reach customer data, reminding every platform team that vendor access is production access.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Gemini can route personal files to reviewers",
+      "urls": [
+        "https://github.com/thisisme6598/gemini_files/"
+      ],
+      "oneliner": "Google's updated Gemini policies now allow personal Gmail, Docs, and Drive content to reach human annotators.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "Microsoft quietly made DMARC effectively mandatory",
+      "urls": [
+        "https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/"
+      ],
+      "oneliner": "Microsoft started rejecting mail without DMARC, even with SPF and DKIM, turning email hygiene into a deliverability outage.",
+      "emoji": "📦"
+    },
+    {
+      "title": "PyPI added clearer package security signals",
+      "urls": [
+        "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/"
+      ],
+      "oneliner": "PyPI's redesigned project pages now surface provenance and attestation status, making package trust easier to evaluate before install.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "Anthropic is buying its own power supply",
+      "urls": [
+        "https://www.theneurondaily.com/p/anthropic-s-ai-cracks-a-puzzle"
+      ],
+      "oneliner": "Anthropic reportedly locked up 1.7 gigawatts of gas-fired generation, proving AI infrastructure bottlenecks now start at the grid.",
+      "emoji": "💰"
+    }
+  ],
+  "keywords": [
+    "cracked",
+    "surpassed",
+    "leaked",
+    "autonomy",
+    "scarcity",
+    "weaponized",
+    "consolidation"
+  ],
+  "tokenUsage": {
+    "promptTokens": 19127,
+    "completionTokens": 796,
+    "totalTokens": 19923,
+    "costUsd": 0.059757500000000005
+  }
+}
