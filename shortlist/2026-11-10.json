@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T20:00:21.618313+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 45,
+  "items": [
+    {
+      "title": "Anthropic split one model into two products",
+      "urls": [
+        "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+        "https://blogs.cisco.com/ai/cisco-ai-defense-to-add-anthropics-claude-mythos-for-ai-red-teaming"
+      ],
+      "oneliner": "Anthropic's Fable and Mythos 5.2 are one model with different guardrails, signaling safety policy is now a product layer.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "DeepMind verified Signal's crypto with agents",
+      "urls": [
+        "https://deepmind.google/blog/introducing-alphaproof-code/"
+      ],
+      "oneliner": "DeepMind says AI agents formally verified Signal protocol code in four weeks, compressing work that usually takes years.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "Disney is training image models in-house",
+      "urls": [
+        "https://news.adobe.com/news/2026/11/adobe-and-the-walt-disney-company-alliance",
+        "https://blog.adobe.com/en/publish/2026/11/09/from-big-ideas-bigger-opportunities-creators-say-creative-ai-accelerating-growth"
+      ],
+      "oneliner": "Disney is building image models on its own IP, a sign premium training data is being locked inside incumbents.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "Fireworks disclosed a customer data breach",
+      "urls": [
+        "https://fireworks.ai/security/bulletins/october-2026-security-incident-update"
+      ],
+      "oneliner": "Fireworks says attackers accessed billing data plus partial weights and datasets, making LLM infrastructure a direct security target.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "Queens Library was hit by ransomware",
+      "urls": [
+        "https://connect.queenslibrary.org/"
+      ],
+      "oneliner": "Queens Public Library lost core digital services to ransomware, another reminder that public infrastructure remains painfully soft.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Hardware-backed SSH keys are going mainstream",
+      "urls": [
+        "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/"
+      ],
+      "oneliner": "One engineer deleted every disk-based SSH key for hardware-backed credentials, and that tradeoff now looks increasingly rational.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "Amazon swapped a general model out",
+      "urls": [
+        "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/"
+      ],
+      "oneliner": "Amazon says a specialized decider matched Sonnet for ticket labeling at 98% lower cost, which will reshape agent stacks.",
+      "emoji": "💰"
+    },
+    {
+      "title": ".NET 11 drops older CPUs",
+      "urls": [
+        "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime"
+      ],
+      "oneliner": ".NET 11 now requires newer instruction sets, forcing enterprise teams to treat aging hardware as a software risk.",
+      "emoji": "💻"
+    },
+    {
+      "title": "Microsoft shipped Process Explorer for macOS",
+      "urls": [
+        "https://github.com/microsoft/Procexp-Mac"
+      ],
+      "oneliner": "Microsoft brought Process Explorer to macOS, giving developers a serious native process debugger where tooling has lagged.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "Val Town is winding down",
+      "urls": [
+        "https://blog.val.town/winding-down"
+      ],
+      "oneliner": "Val Town is shutting down and open-sourcing the platform, a blunt signal that small cloud runtimes are getting squeezed.",
+      "emoji": "📦"
+    }
+  ],
+  "keywords": [
+    "cracked",
+    "weaponized",
+    "surpassed",
+    "autonomy",
+    "scarcity",
+    "leaked",
+    "consolidation"
+  ],
+  "tokenUsage": {
+    "promptTokens": 9161,
+    "completionTokens": 762,
+    "totalTokens": 9923,
+    "costUsd": 0.0343325
+  }
+}

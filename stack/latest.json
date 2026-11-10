@@ -1,94 +1,94 @@
 {
-  "date": "2026-11-09",
-  "generated_at": "2026-11-09T23:01:50.140139+00:00",
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T20:00:32.469523+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 93,
+  "totalItemsConsidered": 45,
   "items": [
     {
-      "title": "A faster drop-in C++ sort",
+      "title": "Native macOS process inspector",
       "urls": [
-        "https://tiki.li/blog/about_blqsort"
+        "https://github.com/microsoft/Procexp-Mac"
       ],
-      "oneliner": "MIT-licensed quicksort beats std::sort by about 2x on 50M doubles, with C and multithreaded implementations."
+      "oneliner": "Microsoft's native macOS Process Explorer shows live process trees, sockets, modules, and kill controls in one installable app."
     },
     {
-      "title": "Chromium as an embeddable library",
+      "title": "Modern web guidance for agents",
       "urls": [
-        "https://github.com/ikey4u/zebkit"
+        "https://github.com/GoogleChrome/modern-web-guidance"
       ],
-      "oneliner": "Embed Chromium into native apps without Electron, keeping your own UI loop while adding web views, PDF, and media."
+      "oneliner": "CLI-ready guidance teaches coding agents modern web APIs, CSS, performance, and accessibility instead of stale 2019 JavaScript patterns."
     },
     {
-      "title": "AI terminals inside spreadsheets",
+      "title": "Open guide to inference engineering",
       "urls": [
-        "https://github.com/sshah03/recalc"
+        "https://docs.modelplane.ai/guides/inference-guide"
       ],
-      "oneliner": "Experimental spreadsheet where each cell can run Claude Code or Codex, with adjacent cells for tests and validation."
+      "oneliner": "Hands-on guide explains self-hosted inference stacks, latency tuning, and GPU placement, with tactics to cut serving costs substantially."
     },
     {
-      "title": "A semantics-driven x86 emulator",
+      "title": "Hardware-backed SSH key setup",
       "urls": [
-        "https://liblisa.nl/sem86/"
+        "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/"
       ],
-      "oneliner": "Full-system x86 emulator loads instruction semantics at runtime, useful for malware analysis and undocumented CPU behavior."
+      "oneliner": "Practical walkthrough shows how to replace disk SSH keys with YubiKey, TPM, and Secure Enclave backed credentials."
     },
     {
-      "title": "Cross-platform native UI in C",
+      "title": "Tarball extraction edge case",
       "urls": [
-        "https://yappologistic.github.io/CUI/"
+        "https://stoppels.ch/2026/11/07/the-hardest-tarball.html"
       ],
-      "oneliner": "C99 UI toolkit ships 160 native components in about 250 KB, with zero dependencies across Windows, macOS, and Linux."
+      "oneliner": "Deep dive into a malformed tar archive shows why GNU tar, BusyBox, and bsdtar extract the same file differently."
     },
     {
-      "title": "Microsecond NTP on Raspberry Pi",
+      "title": "NetBSD desktop on Raspberry Pi",
       "urls": [
-        "https://austinsnerdythings.com/2021/04/19/microsecond-accurate-ntp-with-a-raspberry-pi-and-pps-gps/"
+        "https://neongd.com/articles/netbsd11-rpi4.gmi"
       ],
-      "oneliner": "Hands-on guide builds a GPS-backed Raspberry Pi NTP server with Chrony for microsecond-level clock sync."
+      "oneliner": "Step-by-step install guide gets NetBSD 11 running on Raspberry Pi 4 with UEFI, users, and wireless setup."
     },
     {
-      "title": "Node 27 features with code",
+      "title": "Reverse engineering a cheap IP camera",
       "urls": [
-        "https://nodejsdesignpatterns.com/blog/whats-new-in-nodejs-27/"
+        "https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/"
       ],
-      "oneliner": "Practical walkthrough of Node.js 27 alpha covers V8 updates, iterator helpers, VFS, and networking API changes."
+      "oneliner": "Firmware extraction walkthrough uses binwalk and config analysis to uncover disabled local streaming features in Tuya-based cameras."
     },
     {
-      "title": "GPU kernel optimization primer",
+      "title": "Live internet radio developer API",
       "urls": [
-        "https://www.nabo.dev/blogs/kernel-primer"
+        "https://tuneping.com/notes/twelve-things-to-build-on-a-live-radio-index/"
       ],
-      "oneliner": "Clear tutorial explains GPU architecture, profiling, and kernel optimization for ML workloads with concrete JAX examples."
+      "oneliner": "Real-time radio index and API enable song detection, airplay alerts, smart station switching, and other buildable audio products."
     },
     {
-      "title": "Linux route lookup benchmarks",
+      "title": "Native scrolling carousel library",
       "urls": [
-        "https://vincent.bernat.ch/en/blog/2026-linux-performance-ipv4-ipv6-route-lookup"
+        "https://blossom-carousel.com/"
       ],
-      "oneliner": "Deep benchmark traces IPv4 and IPv6 route lookup performance across Linux versions, including the 6.5 regression."
+      "oneliner": "Lightweight web carousel adds drag support while preserving native scrolling behavior, making touch and desktop interactions feel cleaner."
     },
     {
-      "title": "Forgejo runner for Docker builds",
+      "title": "Blender adds Gaussian splats",
       "urls": [
-        "https://dataswamp.org/~solene/2026-11-09-forgejo-runner-docker-in-docker.html"
+        "https://www.blender.org/download/releases/5-3/"
       ],
-      "oneliner": "Step-by-step guide shows how to run Forgejo CI with Docker-in-Docker for self-hosted container image builds."
+      "oneliner": "Blender 5.3 can import and render Gaussian splats natively, letting developers process photogrammetry-style captures through Geometry Nodes."
     }
   ],
   "keywords": [
     "shipped",
     "blazing",
-    "offline",
-    "open",
+    "instant",
+    "unlocked",
     "local",
-    "benchmarked",
-    "practical"
+    "open",
+    "native"
   ],
   "tokenUsage": {
-    "promptTokens": 18952,
-    "completionTokens": 663,
-    "totalTokens": 19615,
-    "costUsd": 0.057325
+    "promptTokens": 8986,
+    "completionTokens": 668,
+    "totalTokens": 9654,
+    "costUsd": 0.032485
   }
 }

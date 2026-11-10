@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T20:00:32.469523+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 45,
+  "items": [
+    {
+      "title": "Native macOS process inspector",
+      "urls": [
+        "https://github.com/microsoft/Procexp-Mac"
+      ],
+      "oneliner": "Microsoft's native macOS Process Explorer shows live process trees, sockets, modules, and kill controls in one installable app."
+    },
+    {
+      "title": "Modern web guidance for agents",
+      "urls": [
+        "https://github.com/GoogleChrome/modern-web-guidance"
+      ],
+      "oneliner": "CLI-ready guidance teaches coding agents modern web APIs, CSS, performance, and accessibility instead of stale 2019 JavaScript patterns."
+    },
+    {
+      "title": "Open guide to inference engineering",
+      "urls": [
+        "https://docs.modelplane.ai/guides/inference-guide"
+      ],
+      "oneliner": "Hands-on guide explains self-hosted inference stacks, latency tuning, and GPU placement, with tactics to cut serving costs substantially."
+    },
+    {
+      "title": "Hardware-backed SSH key setup",
+      "urls": [
+        "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/"
+      ],
+      "oneliner": "Practical walkthrough shows how to replace disk SSH keys with YubiKey, TPM, and Secure Enclave backed credentials."
+    },
+    {
+      "title": "Tarball extraction edge case",
+      "urls": [
+        "https://stoppels.ch/2026/11/07/the-hardest-tarball.html"
+      ],
+      "oneliner": "Deep dive into a malformed tar archive shows why GNU tar, BusyBox, and bsdtar extract the same file differently."
+    },
+    {
+      "title": "NetBSD desktop on Raspberry Pi",
+      "urls": [
+        "https://neongd.com/articles/netbsd11-rpi4.gmi"
+      ],
+      "oneliner": "Step-by-step install guide gets NetBSD 11 running on Raspberry Pi 4 with UEFI, users, and wireless setup."
+    },
+    {
+      "title": "Reverse engineering a cheap IP camera",
+      "urls": [
+        "https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/"
+      ],
+      "oneliner": "Firmware extraction walkthrough uses binwalk and config analysis to uncover disabled local streaming features in Tuya-based cameras."
+    },
+    {
+      "title": "Live internet radio developer API",
+      "urls": [
+        "https://tuneping.com/notes/twelve-things-to-build-on-a-live-radio-index/"
+      ],
+      "oneliner": "Real-time radio index and API enable song detection, airplay alerts, smart station switching, and other buildable audio products."
+    },
+    {
+      "title": "Native scrolling carousel library",
+      "urls": [
+        "https://blossom-carousel.com/"
+      ],
+      "oneliner": "Lightweight web carousel adds drag support while preserving native scrolling behavior, making touch and desktop interactions feel cleaner."
+    },
+    {
+      "title": "Blender adds Gaussian splats",
+      "urls": [
+        "https://www.blender.org/download/releases/5-3/"
+      ],
+      "oneliner": "Blender 5.3 can import and render Gaussian splats natively, letting developers process photogrammetry-style captures through Geometry Nodes."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "instant",
+    "unlocked",
+    "local",
+    "open",
+    "native"
+  ],
+  "tokenUsage": {
+    "promptTokens": 8986,
+    "completionTokens": 668,
+    "totalTokens": 9654,
+    "costUsd": 0.032485
+  }
+}
