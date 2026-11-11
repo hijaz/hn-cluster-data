@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T20:04:28.841753+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 83,
+  "items": [
+    {
+      "title": "AWS shipped a local cloud emulator",
+      "urls": [
+        "https://github.com/aws/aws-emulator",
+        "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html"
+      ],
+      "oneliner": "AWS finally shipped a first-party local emulator, giving agents and humans a cheaper way to test cloud code offline.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "Weight editing boosted tiny model math",
+      "urls": [
+        "https://nathan.rs/posts/weight-space-lp/"
+      ],
+      "oneliner": "MIT CSAIL says weight-space editing lifted Qwen3.5-0.8B math accuracy from 7.9% to 48.1% without retraining.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "Apple outlined a Transformer-to-Mamba recipe",
+      "urls": [
+        "https://machinelearning.apple.com/research/attention-mamba-distillation"
+      ],
+      "oneliner": "Apple's two-stage distillation gets Mamba close to Transformer perplexity, making faster sequence models more practical to ship.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "Voltage glitching unlocked an A100-class GPU",
+      "urls": [
+        "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/"
+      ],
+      "oneliner": "A voltage glitch turned Nvidia's CMP 170HX into an A100-class card, exposing a hardware fuse model attackers can abuse.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "Rust standard library had memory bugs",
+      "urls": [
+        "https://forge-blog.github.io/posts/rust-std-memory-safety/"
+      ],
+      "oneliner": "Microsoft FORGE found memory safety bugs in Rust's standard library, a reminder that unsafe code still breaks safe guarantees.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "GitHub Actions lockfiles got a push",
+      "urls": [
+        "https://hugovk.dev/blog/2026/lock-github-actions/"
+      ],
+      "oneliner": "Locking GitHub Actions by digest is becoming table stakes, because mutable tags are still an easy supply-chain trap.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "macOS Secure Enclave can hold SSH keys",
+      "urls": [
+        "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/"
+      ],
+      "oneliner": "Storing SSH keys in Secure Enclave keeps private material off disk and memory, which meaningfully raises the bar on laptop compromise.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "A false alarm nearly flooded Jane Street",
+      "urls": [
+        "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/"
+      ],
+      "oneliner": "A false smoke alarm nearly drowned Jane Street's only NYC datacenter, proving physical failure modes still dominate uptime math.",
+      "emoji": "🏭"
+    },
+    {
+      "title": "Pomerado turns websites into MCP endpoints",
+      "urls": [
+        "https://pomerado.ai/"
+      ],
+      "oneliner": "Pomerado claims any website can become an MCP endpoint, cutting browser-agent costs to cents if the reliability holds.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "Atuin now syncs agent sessions",
+      "urls": [
+        "https://blog.atuin.sh/threads-agent-sessions/"
+      ],
+      "oneliner": "Atuin Threads syncs and encrypts agent terminal sessions across machines, which fixes the growing problem of lost execution context.",
+      "emoji": "📦"
+    }
+  ],
+  "keywords": [
+    "weaponized",
+    "surpassed",
+    "glitched",
+    "autonomy",
+    "scarcity",
+    "cracked",
+    "consolidation"
+  ],
+  "tokenUsage": {
+    "promptTokens": 17822,
+    "completionTokens": 786,
+    "totalTokens": 18608,
+    "costUsd": 0.056345000000000006
+  }
+}

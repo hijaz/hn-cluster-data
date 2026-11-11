@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T20:04:39.605361+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 83,
+  "items": [
+    {
+      "title": "AWS emulator runs services locally",
+      "urls": [
+        "https://github.com/aws/aws-emulator",
+        "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html"
+      ],
+      "oneliner": "Local AWS API emulator lets you test SDKs and CLIs offline before paying for real cloud resources."
+    },
+    {
+      "title": "Private meeting notes run locally",
+      "urls": [
+        "https://github.com/FrigadeHQ/yogurt"
+      ],
+      "oneliner": "Open source desktop recorder transcribes meetings locally without bots, offering a private Granola alternative on macOS, Windows, and Linux."
+    },
+    {
+      "title": "Time series datasets get one format",
+      "urls": [
+        "https://github.com/OpenTSLM/TimeNet"
+      ],
+      "oneliner": "Python data layer standardizes time series datasets so you can build, load, and benchmark temporal models consistently."
+    },
+    {
+      "title": "Paint app for coding agents",
+      "urls": [
+        "https://github.com/klad-app/klad"
+      ],
+      "oneliner": "Source available 2D editor lets coding agents draw, edit, and animate alongside humans in the same canvas."
+    },
+    {
+      "title": "Neovim gets inline assembly views",
+      "urls": [
+        "https://github.com/0xdeadf1sh/AssemblyForNeovim"
+      ],
+      "oneliner": "Neovim plugin opens Godbolt style assembly in a floating window for C, C++, and Rust optimization work."
+    },
+    {
+      "title": "AI text gets a rewrite pass",
+      "urls": [
+        "https://github.com/Dodaios/ste80-humanizer"
+      ],
+      "oneliner": "Open source CLI rewrites AI generated prose in two passes to reduce obvious tells and improve technical clarity."
+    },
+    {
+      "title": "GitHub Actions can be pinned safely",
+      "urls": [
+        "https://hugovk.dev/blog/2026/lock-github-actions/"
+      ],
+      "oneliner": "Hands on guide shows how to lock GitHub Actions by commit hash and verify lockfiles in CI."
+    },
+    {
+      "title": "Astro generates Open Graph cards",
+      "urls": [
+        "https://eaj.no/posts/open-graph-images-with-typst/"
+      ],
+      "oneliner": "Step by step workflow uses Typst and Astro to generate branded Open Graph images automatically at build time."
+    },
+    {
+      "title": "SSH keys move into Secure Enclave",
+      "urls": [
+        "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/"
+      ],
+      "oneliner": "Practical macOS walkthrough stores SSH keys in Secure Enclave so private material never lands on disk or memory."
+    },
+    {
+      "title": "Bots trigger their own ban",
+      "urls": [
+        "https://danq.me/2026/11/10/geohashing-sites-better-banhammer/"
+      ],
+      "oneliner": "Practical Fail2Ban and nftables setup bans abusive crawlers using signed honeypot links that resist spoofed reports."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "instant",
+    "unlocked",
+    "local",
+    "open",
+    "practical"
+  ],
+  "tokenUsage": {
+    "promptTokens": 17647,
+    "completionTokens": 652,
+    "totalTokens": 18299,
+    "costUsd": 0.0538975
+  }
+}

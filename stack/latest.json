@@ -1,79 +1,80 @@
 {
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T20:00:32.469523+00:00",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T20:04:39.605361+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 45,
+  "totalItemsConsidered": 83,
   "items": [
     {
-      "title": "Native macOS process inspector",
+      "title": "AWS emulator runs services locally",
       "urls": [
-        "https://github.com/microsoft/Procexp-Mac"
+        "https://github.com/aws/aws-emulator",
+        "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html"
       ],
-      "oneliner": "Microsoft's native macOS Process Explorer shows live process trees, sockets, modules, and kill controls in one installable app."
+      "oneliner": "Local AWS API emulator lets you test SDKs and CLIs offline before paying for real cloud resources."
     },
     {
-      "title": "Modern web guidance for agents",
+      "title": "Private meeting notes run locally",
       "urls": [
-        "https://github.com/GoogleChrome/modern-web-guidance"
+        "https://github.com/FrigadeHQ/yogurt"
       ],
-      "oneliner": "CLI-ready guidance teaches coding agents modern web APIs, CSS, performance, and accessibility instead of stale 2019 JavaScript patterns."
+      "oneliner": "Open source desktop recorder transcribes meetings locally without bots, offering a private Granola alternative on macOS, Windows, and Linux."
     },
     {
-      "title": "Open guide to inference engineering",
+      "title": "Time series datasets get one format",
       "urls": [
-        "https://docs.modelplane.ai/guides/inference-guide"
+        "https://github.com/OpenTSLM/TimeNet"
       ],
-      "oneliner": "Hands-on guide explains self-hosted inference stacks, latency tuning, and GPU placement, with tactics to cut serving costs substantially."
+      "oneliner": "Python data layer standardizes time series datasets so you can build, load, and benchmark temporal models consistently."
     },
     {
-      "title": "Hardware-backed SSH key setup",
+      "title": "Paint app for coding agents",
       "urls": [
-        "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/"
+        "https://github.com/klad-app/klad"
       ],
-      "oneliner": "Practical walkthrough shows how to replace disk SSH keys with YubiKey, TPM, and Secure Enclave backed credentials."
+      "oneliner": "Source available 2D editor lets coding agents draw, edit, and animate alongside humans in the same canvas."
     },
     {
-      "title": "Tarball extraction edge case",
+      "title": "Neovim gets inline assembly views",
       "urls": [
-        "https://stoppels.ch/2026/11/07/the-hardest-tarball.html"
+        "https://github.com/0xdeadf1sh/AssemblyForNeovim"
       ],
-      "oneliner": "Deep dive into a malformed tar archive shows why GNU tar, BusyBox, and bsdtar extract the same file differently."
+      "oneliner": "Neovim plugin opens Godbolt style assembly in a floating window for C, C++, and Rust optimization work."
     },
     {
-      "title": "NetBSD desktop on Raspberry Pi",
+      "title": "AI text gets a rewrite pass",
       "urls": [
-        "https://neongd.com/articles/netbsd11-rpi4.gmi"
+        "https://github.com/Dodaios/ste80-humanizer"
       ],
-      "oneliner": "Step-by-step install guide gets NetBSD 11 running on Raspberry Pi 4 with UEFI, users, and wireless setup."
+      "oneliner": "Open source CLI rewrites AI generated prose in two passes to reduce obvious tells and improve technical clarity."
     },
     {
-      "title": "Reverse engineering a cheap IP camera",
+      "title": "GitHub Actions can be pinned safely",
       "urls": [
-        "https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/"
+        "https://hugovk.dev/blog/2026/lock-github-actions/"
       ],
-      "oneliner": "Firmware extraction walkthrough uses binwalk and config analysis to uncover disabled local streaming features in Tuya-based cameras."
+      "oneliner": "Hands on guide shows how to lock GitHub Actions by commit hash and verify lockfiles in CI."
     },
     {
-      "title": "Live internet radio developer API",
+      "title": "Astro generates Open Graph cards",
       "urls": [
-        "https://tuneping.com/notes/twelve-things-to-build-on-a-live-radio-index/"
+        "https://eaj.no/posts/open-graph-images-with-typst/"
       ],
-      "oneliner": "Real-time radio index and API enable song detection, airplay alerts, smart station switching, and other buildable audio products."
+      "oneliner": "Step by step workflow uses Typst and Astro to generate branded Open Graph images automatically at build time."
     },
     {
-      "title": "Native scrolling carousel library",
+      "title": "SSH keys move into Secure Enclave",
       "urls": [
-        "https://blossom-carousel.com/"
+        "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/"
       ],
-      "oneliner": "Lightweight web carousel adds drag support while preserving native scrolling behavior, making touch and desktop interactions feel cleaner."
+      "oneliner": "Practical macOS walkthrough stores SSH keys in Secure Enclave so private material never lands on disk or memory."
     },
     {
-      "title": "Blender adds Gaussian splats",
+      "title": "Bots trigger their own ban",
       "urls": [
-        "https://www.blender.org/download/releases/5-3/"
+        "https://danq.me/2026/11/10/geohashing-sites-better-banhammer/"
       ],
-      "oneliner": "Blender 5.3 can import and render Gaussian splats natively, letting developers process photogrammetry-style captures through Geometry Nodes."
+      "oneliner": "Practical Fail2Ban and nftables setup bans abusive crawlers using signed honeypot links that resist spoofed reports."
     }
   ],
   "keywords": [
@@ -83,12 +84,12 @@
     "unlocked",
     "local",
     "open",
-    "native"
+    "practical"
   ],
   "tokenUsage": {
-    "promptTokens": 8986,
-    "completionTokens": 668,
-    "totalTokens": 9654,
-    "costUsd": 0.032485
+    "promptTokens": 17647,
+    "completionTokens": 652,
+    "totalTokens": 18299,
+    "costUsd": 0.0538975
   }
 }
