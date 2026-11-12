@@ -1,105 +1,106 @@
 {
-  "date": "2026-11-11",
-  "generated_at": "2026-11-11T20:04:28.841753+00:00",
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T20:24:51.821444+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 83,
+  "totalItemsConsidered": 73,
   "items": [
     {
-      "title": "AWS shipped a local cloud emulator",
+      "title": "Anthropic files for a blockbuster IPO",
       "urls": [
-        "https://github.com/aws/aws-emulator",
-        "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html"
+        "https://ipo.anthropic.com/us/"
       ],
-      "oneliner": "AWS finally shipped a first-party local emulator, giving agents and humans a cheaper way to test cloud code offline.",
+      "oneliner": "Anthropic disclosed $17 billion revenue and 11,900 customers. Frontier model economics are now public-market scale.",
       "emoji": "🤖"
     },
     {
-      "title": "Weight editing boosted tiny model math",
+      "title": "Google ships Gemini 4 Hydrogen",
       "urls": [
-        "https://nathan.rs/posts/weight-space-lp/"
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+        "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
       ],
-      "oneliner": "MIT CSAIL says weight-space editing lifted Qwen3.5-0.8B math accuracy from 7.9% to 48.1% without retraining.",
-      "emoji": "🧠"
-    },
-    {
-      "title": "Apple outlined a Transformer-to-Mamba recipe",
-      "urls": [
-        "https://machinelearning.apple.com/research/attention-mamba-distillation"
-      ],
-      "oneliner": "Apple's two-stage distillation gets Mamba close to Transformer perplexity, making faster sequence models more practical to ship.",
+      "oneliner": "Google's coding model pairs with Orchestrator for dynamic routing. Multi-model stacks are becoming the default engineering pattern.",
       "emoji": "⚡"
     },
     {
-      "title": "Voltage glitching unlocked an A100-class GPU",
+      "title": "Small devices are getting usable LLMs",
       "urls": [
-        "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/"
+        "https://github.com/hyperionaidev/smolmaxxing/"
       ],
-      "oneliner": "A voltage glitch turned Nvidia's CMP 170HX into an A100-class card, exposing a hardware fuse model attackers can abuse.",
-      "emoji": "⚠️"
+      "oneliner": "Smolmaxxing shows old phones and TV boxes can run LLMs. Edge inference is moving from demo to optimization race.",
+      "emoji": "📱"
     },
     {
-      "title": "Rust standard library had memory bugs",
+      "title": "An ancient PostgreSQL bug reached RCE",
       "urls": [
-        "https://forge-blog.github.io/posts/rust-std-memory-safety/"
+        "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/"
       ],
-      "oneliner": "Microsoft FORGE found memory safety bugs in Rust's standard library, a reminder that unsafe code still breaks safe guarantees.",
+      "oneliner": "A 22-year-old PostgreSQL type confusion bug became remote code execution. Managed database trust just took a hit.",
       "emoji": "🔐"
     },
     {
-      "title": "GitHub Actions lockfiles got a push",
+      "title": "Samsung TV ads were trivially hijacked",
       "urls": [
-        "https://hugovk.dev/blog/2026/lock-github-actions/"
+        "https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/"
       ],
-      "oneliner": "Locking GitHub Actions by digest is becoming table stakes, because mutable tags are still an easy supply-chain trap.",
+      "oneliner": "A Samsung TV owner intercepted Smart Hub ad traffic and replaced ads with family photos. Consumer device trust remains flimsy.",
+      "emoji": "📊"
+    },
+    {
+      "title": "Google paid seven figures for Chrome",
+      "urls": [
+        "https://lyra.horse/blog/2026/11/disinformation-machine/"
+      ],
+      "oneliner": "Google paid $1,333,337 for a Chrome logic bug. Browser exploit chains still command elite software bounties.",
       "emoji": "🐛"
     },
     {
-      "title": "macOS Secure Enclave can hold SSH keys",
+      "title": "AWS Lambda idle billing gets exposed",
       "urls": [
-        "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/"
+        "https://www.easel.sh/blog/lambda-web-functions-idle-memory"
       ],
-      "oneliner": "Storing SSH keys in Secure Enclave keeps private material off disk and memory, which meaningfully raises the bar on laptop compromise.",
-      "emoji": "🔍"
+      "oneliner": "Easel says Lambda Web Functions bill memory for seven idle minutes. Serverless economics still hide expensive footguns.",
+      "emoji": "💰"
     },
     {
-      "title": "A false alarm nearly flooded Jane Street",
+      "title": "Rust gets a JIT for iteration",
       "urls": [
-        "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/"
+        "https://makepad.github.io/relax/"
       ],
-      "oneliner": "A false smoke alarm nearly drowned Jane Street's only NYC datacenter, proving physical failure modes still dominate uptime math.",
-      "emoji": "🏭"
-    },
-    {
-      "title": "Pomerado turns websites into MCP endpoints",
-      "urls": [
-        "https://pomerado.ai/"
-      ],
-      "oneliner": "Pomerado claims any website can become an MCP endpoint, cutting browser-agent costs to cents if the reliability holds.",
+      "oneliner": "Relax compiles Rust functions on demand instead of waiting for full builds. Faster edit-run loops could reshape Rust workflows.",
       "emoji": "🛠️"
     },
     {
-      "title": "Atuin now syncs agent sessions",
+      "title": "Rust 1.100 lands with type cleanup",
       "urls": [
-        "https://blog.atuin.sh/threads-agent-sessions/"
+        "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+        "https://github.com/rust-lang/rust/releases/tag/1.100.0"
       ],
-      "oneliner": "Atuin Threads syncs and encrypts agent terminal sessions across machines, which fixes the growing problem of lost execution context.",
+      "oneliner": "Rust 1.100 stabilizes the never type and updates Cargo internals. Mature languages still win by sanding sharp edges.",
       "emoji": "📦"
+    },
+    {
+      "title": "Linux bends around giant GPU BARs",
+      "urls": [
+        "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/"
+      ],
+      "oneliner": "One Linux setup fit four 32 GB Resizable BARs behind a PCIe switch. Multi-GPU plumbing is still painfully bespoke.",
+      "emoji": "💻"
     }
   ],
   "keywords": [
-    "weaponized",
-    "surpassed",
-    "glitched",
+    "cracked",
+    "racing",
+    "leaked",
     "autonomy",
     "scarcity",
-    "cracked",
-    "consolidation"
+    "surpassed",
+    "weaponized"
   ],
   "tokenUsage": {
-    "promptTokens": 17822,
-    "completionTokens": 786,
-    "totalTokens": 18608,
-    "costUsd": 0.056345000000000006
+    "promptTokens": 15961,
+    "completionTokens": 774,
+    "totalTokens": 16735,
+    "costUsd": 0.0515125
   }
 }

@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T20:25:04.479795+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 73,
+  "items": [
+    {
+      "title": "Subscription-free embroidery design app",
+      "urls": [
+        "https://github.com/simpsoka/zigzag"
+      ],
+      "oneliner": "Rust desktop app converts SVGs to PES and DST, replacing subscription embroidery software and supporting Bluetooth machine transfer."
+    },
+    {
+      "title": "Native Excalidraw for Apple devices",
+      "urls": [
+        "https://github.com/chocoford/ExcalidrawZ"
+      ],
+      "oneliner": "SwiftUI wrapper turns Excalidraw into local macOS and iOS documents with iCloud sync, checkpoints, and realtime collaboration."
+    },
+    {
+      "title": "Managed agents that improve themselves",
+      "urls": [
+        "https://github.com/Parcha-ai/agentrun/blob/main/README.md"
+      ],
+      "oneliner": "Open-source agent runtime adds resumable execution, spend caps, approvals, and memory so repetitive workflows get cheaper over time."
+    },
+    {
+      "title": "JIT compiler for faster Rust iteration",
+      "urls": [
+        "https://makepad.github.io/relax/"
+      ],
+      "oneliner": "Function-level JIT for Rust runs code before full compilation, cutting edit-run latency for local development loops."
+    },
+    {
+      "title": "Running LLMs on old hardware",
+      "urls": [
+        "https://github.com/hyperionaidev/smolmaxxing/"
+      ],
+      "oneliner": "Hands-on repo benchmarks and optimizes local LLM inference on TV boxes, phones, and old tablets with custom kernels."
+    },
+    {
+      "title": "Live systemd boot dependency tree",
+      "urls": [
+        "https://codeberg.org/wvhulle/bootvine"
+      ],
+      "oneliner": "Open-source console tool visualizes systemd jobs and dependencies during boot, making startup bottlenecks and failures immediately visible."
+    },
+    {
+      "title": "Linux fix for multi-GPU BAR mapping",
+      "urls": [
+        "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/"
+      ],
+      "oneliner": "Deep hardware walkthrough plus kernel module shows how to map four 32 GB GPU BARs behind one PCIe switch."
+    },
+    {
+      "title": "PostgreSQL RCE exploit walkthrough",
+      "urls": [
+        "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/"
+      ],
+      "oneliner": "Detailed exploit writeup traces a 22-year-old PostgreSQL type confusion bug into remote code execution with internals-level analysis."
+    },
+    {
+      "title": "Hijacking Samsung TV ad requests",
+      "urls": [
+        "https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/"
+      ],
+      "oneliner": "Practical mitmproxy walkthrough intercepts Samsung Smart Hub ad traffic and rewrites payloads, useful for network debugging and privacy experiments."
+    },
+    {
+      "title": "Advanced Lisp macros book online",
+      "urls": [
+        "https://letoverlambda.com/"
+      ],
+      "oneliner": "The full Let Over Lambda book is free online, offering concrete Common Lisp macro techniques you can apply immediately."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "local",
+    "blazing",
+    "open",
+    "instant",
+    "native",
+    "unlocked"
+  ],
+  "tokenUsage": {
+    "promptTokens": 15786,
+    "completionTokens": 671,
+    "totalTokens": 16457,
+    "costUsd": 0.049530000000000005
+  }
+}

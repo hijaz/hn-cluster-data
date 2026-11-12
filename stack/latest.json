@@ -1,95 +1,94 @@
 {
-  "date": "2026-11-11",
-  "generated_at": "2026-11-11T20:04:39.605361+00:00",
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T20:25:04.479795+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 83,
+  "totalItemsConsidered": 73,
   "items": [
     {
-      "title": "AWS emulator runs services locally",
+      "title": "Subscription-free embroidery design app",
       "urls": [
-        "https://github.com/aws/aws-emulator",
-        "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html"
+        "https://github.com/simpsoka/zigzag"
       ],
-      "oneliner": "Local AWS API emulator lets you test SDKs and CLIs offline before paying for real cloud resources."
+      "oneliner": "Rust desktop app converts SVGs to PES and DST, replacing subscription embroidery software and supporting Bluetooth machine transfer."
     },
     {
-      "title": "Private meeting notes run locally",
+      "title": "Native Excalidraw for Apple devices",
       "urls": [
-        "https://github.com/FrigadeHQ/yogurt"
+        "https://github.com/chocoford/ExcalidrawZ"
       ],
-      "oneliner": "Open source desktop recorder transcribes meetings locally without bots, offering a private Granola alternative on macOS, Windows, and Linux."
+      "oneliner": "SwiftUI wrapper turns Excalidraw into local macOS and iOS documents with iCloud sync, checkpoints, and realtime collaboration."
     },
     {
-      "title": "Time series datasets get one format",
+      "title": "Managed agents that improve themselves",
       "urls": [
-        "https://github.com/OpenTSLM/TimeNet"
+        "https://github.com/Parcha-ai/agentrun/blob/main/README.md"
       ],
-      "oneliner": "Python data layer standardizes time series datasets so you can build, load, and benchmark temporal models consistently."
+      "oneliner": "Open-source agent runtime adds resumable execution, spend caps, approvals, and memory so repetitive workflows get cheaper over time."
     },
     {
-      "title": "Paint app for coding agents",
+      "title": "JIT compiler for faster Rust iteration",
       "urls": [
-        "https://github.com/klad-app/klad"
+        "https://makepad.github.io/relax/"
       ],
-      "oneliner": "Source available 2D editor lets coding agents draw, edit, and animate alongside humans in the same canvas."
+      "oneliner": "Function-level JIT for Rust runs code before full compilation, cutting edit-run latency for local development loops."
     },
     {
-      "title": "Neovim gets inline assembly views",
+      "title": "Running LLMs on old hardware",
       "urls": [
-        "https://github.com/0xdeadf1sh/AssemblyForNeovim"
+        "https://github.com/hyperionaidev/smolmaxxing/"
       ],
-      "oneliner": "Neovim plugin opens Godbolt style assembly in a floating window for C, C++, and Rust optimization work."
+      "oneliner": "Hands-on repo benchmarks and optimizes local LLM inference on TV boxes, phones, and old tablets with custom kernels."
     },
     {
-      "title": "AI text gets a rewrite pass",
+      "title": "Live systemd boot dependency tree",
       "urls": [
-        "https://github.com/Dodaios/ste80-humanizer"
+        "https://codeberg.org/wvhulle/bootvine"
       ],
-      "oneliner": "Open source CLI rewrites AI generated prose in two passes to reduce obvious tells and improve technical clarity."
+      "oneliner": "Open-source console tool visualizes systemd jobs and dependencies during boot, making startup bottlenecks and failures immediately visible."
     },
     {
-      "title": "GitHub Actions can be pinned safely",
+      "title": "Linux fix for multi-GPU BAR mapping",
       "urls": [
-        "https://hugovk.dev/blog/2026/lock-github-actions/"
+        "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/"
       ],
-      "oneliner": "Hands on guide shows how to lock GitHub Actions by commit hash and verify lockfiles in CI."
+      "oneliner": "Deep hardware walkthrough plus kernel module shows how to map four 32 GB GPU BARs behind one PCIe switch."
     },
     {
-      "title": "Astro generates Open Graph cards",
+      "title": "PostgreSQL RCE exploit walkthrough",
       "urls": [
-        "https://eaj.no/posts/open-graph-images-with-typst/"
+        "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/"
       ],
-      "oneliner": "Step by step workflow uses Typst and Astro to generate branded Open Graph images automatically at build time."
+      "oneliner": "Detailed exploit writeup traces a 22-year-old PostgreSQL type confusion bug into remote code execution with internals-level analysis."
     },
     {
-      "title": "SSH keys move into Secure Enclave",
+      "title": "Hijacking Samsung TV ad requests",
       "urls": [
-        "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/"
+        "https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/"
       ],
-      "oneliner": "Practical macOS walkthrough stores SSH keys in Secure Enclave so private material never lands on disk or memory."
+      "oneliner": "Practical mitmproxy walkthrough intercepts Samsung Smart Hub ad traffic and rewrites payloads, useful for network debugging and privacy experiments."
     },
     {
-      "title": "Bots trigger their own ban",
+      "title": "Advanced Lisp macros book online",
       "urls": [
-        "https://danq.me/2026/11/10/geohashing-sites-better-banhammer/"
+        "https://letoverlambda.com/"
       ],
-      "oneliner": "Practical Fail2Ban and nftables setup bans abusive crawlers using signed honeypot links that resist spoofed reports."
+      "oneliner": "The full Let Over Lambda book is free online, offering concrete Common Lisp macro techniques you can apply immediately."
     }
   ],
   "keywords": [
     "shipped",
-    "blazing",
-    "instant",
-    "unlocked",
     "local",
+    "blazing",
     "open",
-    "practical"
+    "instant",
+    "native",
+    "unlocked"
   ],
   "tokenUsage": {
-    "promptTokens": 17647,
-    "completionTokens": 652,
-    "totalTokens": 18299,
-    "costUsd": 0.0538975
+    "promptTokens": 15786,
+    "completionTokens": 671,
+    "totalTokens": 16457,
+    "costUsd": 0.049530000000000005
   }
 }
