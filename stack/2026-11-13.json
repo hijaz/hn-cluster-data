@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T20:03:00.288104+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 50,
+  "items": [
+    {
+      "title": "Postgres branching for agent workflows",
+      "urls": [
+        "https://github.com/bitsinfra/gnomon"
+      ],
+      "oneliner": "Git-style Postgres branches let agents change real data, review diffs, and merge safely without copying databases."
+    },
+    {
+      "title": "Rust XMPP server with federation",
+      "urls": [
+        "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0"
+      ],
+      "oneliner": "Standalone Rust XMPP server now federates by default, adds direct TLS, and supports desktop client storage."
+    },
+    {
+      "title": "Cloud-free Coway Home Assistant integration",
+      "urls": [
+        "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/"
+      ],
+      "oneliner": "Hands-on reverse engineering guide shows how to control Coway purifiers locally through Home Assistant instead of the vendor cloud."
+    },
+    {
+      "title": "Bash queue for parallel commands",
+      "urls": [
+        "https://emmer.dev/blog/concurrent-shell-command-queues/"
+      ],
+      "oneliner": "Practical Bash pattern uses FIFO plus xargs to run shell jobs concurrently with a hard concurrency limit."
+    },
+    {
+      "title": "Build a local AI VS Code extension",
+      "urls": [
+        "https://www.youtube.com/watch?v=clJCDHml2cA"
+      ],
+      "oneliner": "Step-by-step tutorial builds a VS Code chat extension around a local model with streaming responses and webviews."
+    },
+    {
+      "title": "JEPA world model experiment notes",
+      "urls": [
+        "https://haddyalchaer.com/jepa"
+      ],
+      "oneliner": "Detailed writeup distills 600 JEPA experiments into concrete lessons on planning, task setup, and failure modes."
+    },
+    {
+      "title": "Why Zig beats C today",
+      "urls": [
+        "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/"
+      ],
+      "oneliner": "Concrete systems programming comparison shows how Zig's errdefer simplifies cleanup paths that stay brittle in C."
+    },
+    {
+      "title": "A lightweight Linux window manager",
+      "urls": [
+        "https://ice-wm.org/"
+      ],
+      "oneliner": "Fast X11 window manager with themes, taskbar, multi-monitor support, and decades of stability for low-resource Linux setups."
+    },
+    {
+      "title": "Permutation parity with an interactive app",
+      "urls": [
+        "https://www.youtube.com/watch?v=rUiulWItECQ"
+      ],
+      "oneliner": "Math video includes a JavaScript app for exploring permutation parity behind puzzle solvability and determinant intuition."
+    },
+    {
+      "title": "Browser-based FM synth workbench",
+      "urls": [
+        "https://open.m-vave.com/fm1-workbench"
+      ],
+      "oneliner": "Open browser synth workbench offers eight tracks, six sound engines, MIDI support, and project saving for quick sound design."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "instant",
+    "blazing",
+    "unlocked",
+    "local",
+    "open",
+    "practical"
+  ],
+  "tokenUsage": {
+    "promptTokens": 10937,
+    "completionTokens": 649,
+    "totalTokens": 11586,
+    "costUsd": 0.0370775
+  }
+}

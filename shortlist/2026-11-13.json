@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T20:02:50.156386+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 50,
+  "items": [
+    {
+      "title": "OpenAI is folding robotics into general models",
+      "urls": [
+        "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
+      ],
+      "oneliner": "OpenAI killed its robotics team again, betting general models now matter more than bespoke robot stacks.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "AI is decoding Godel's hidden theorems",
+      "urls": [
+        "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+      ],
+      "oneliner": "Claude helped parse Godel's 1,009 notebook pages, turning archival math into a live AI-for-research benchmark.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "Model weights can now carry malware-like behavior",
+      "urls": [
+        "https://www.alphaxiv.org/abs/2611.weight-space-misfolding"
+      ],
+      "oneliner": "Researchers say edited weights can transmit hidden behaviors between models, making checkpoint sharing a new supply-chain risk.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "Apify disclosed a real internal security breach",
+      "urls": [
+        "https://status.apify.com/incidents/sxd1dj5j6749"
+      ],
+      "oneliner": "Apify says compromised credentials led to internal access, then rotated secrets and started hashing API tokens.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Caixa insurer exposed 7.6 million customer records",
+      "urls": [
+        "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e"
+      ],
+      "oneliner": "Brazil's Caixa insurer exposed names and tax IDs for 7.6 million customers, a reminder that PII blast radius still wins.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "Fake video calls powered a $400 million hack",
+      "urls": [
+        "https://www.bbc.com/news/articles/cqdj1ellpd70o"
+      ],
+      "oneliner": "The FBI says North Korean hackers stole $400 million using prerecorded video calls, upgrading phishing for the Zoom era.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "Google tied school search access to AI",
+      "urls": [
+        "https://text.npr.org/nx-s1-6029408"
+      ],
+      "oneliner": "Google reportedly cut Search access for AI-free schools, turning product bundling into an education policy fight.",
+      "emoji": "📊"
+    },
+    {
+      "title": "Brave added per-request payments for agentic search",
+      "urls": [
+        "https://brave.com/blog/search-api-agentic-payments/"
+      ],
+      "oneliner": "Brave now charges $0.005 per search via x402 and USDC, a real pricing primitive for autonomous agents.",
+      "emoji": "💰"
+    },
+    {
+      "title": "Postgres branching is coming for agent workflows",
+      "urls": [
+        "https://github.com/bitsinfra/gnomon"
+      ],
+      "oneliner": "Gnomon gives Postgres git-like branches per connection string, which could make agent data changes reviewable instead of scary.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "Reverse engineering keeps smart homes off the cloud",
+      "urls": [
+        "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/"
+      ],
+      "oneliner": "A Coway purifier hack replaced flaky cloud control with Home Assistant, which is exactly where consumer AI devices are headed.",
+      "emoji": "📦"
+    }
+  ],
+  "keywords": [
+    "surpassed",
+    "weaponized",
+    "autonomy",
+    "breached",
+    "consolidation",
+    "racing",
+    "obsolete"
+  ],
+  "tokenUsage": {
+    "promptTokens": 11112,
+    "completionTokens": 770,
+    "totalTokens": 11882,
+    "costUsd": 0.03933
+  }
+}

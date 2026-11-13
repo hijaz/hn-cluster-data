@@ -1,106 +1,104 @@
 {
-  "date": "2026-11-12",
-  "generated_at": "2026-11-12T20:24:51.821444+00:00",
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T20:02:50.156386+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 73,
+  "totalItemsConsidered": 50,
   "items": [
     {
-      "title": "Anthropic files for a blockbuster IPO",
+      "title": "OpenAI is folding robotics into general models",
       "urls": [
-        "https://ipo.anthropic.com/us/"
+        "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
       ],
-      "oneliner": "Anthropic disclosed $17 billion revenue and 11,900 customers. Frontier model economics are now public-market scale.",
+      "oneliner": "OpenAI killed its robotics team again, betting general models now matter more than bespoke robot stacks.",
       "emoji": "🤖"
     },
     {
-      "title": "Google ships Gemini 4 Hydrogen",
+      "title": "AI is decoding Godel's hidden theorems",
       "urls": [
-        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-        "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
+        "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
       ],
-      "oneliner": "Google's coding model pairs with Orchestrator for dynamic routing. Multi-model stacks are becoming the default engineering pattern.",
-      "emoji": "⚡"
+      "oneliner": "Claude helped parse Godel's 1,009 notebook pages, turning archival math into a live AI-for-research benchmark.",
+      "emoji": "🧠"
     },
     {
-      "title": "Small devices are getting usable LLMs",
+      "title": "Model weights can now carry malware-like behavior",
       "urls": [
-        "https://github.com/hyperionaidev/smolmaxxing/"
+        "https://www.alphaxiv.org/abs/2611.weight-space-misfolding"
       ],
-      "oneliner": "Smolmaxxing shows old phones and TV boxes can run LLMs. Edge inference is moving from demo to optimization race.",
-      "emoji": "📱"
+      "oneliner": "Researchers say edited weights can transmit hidden behaviors between models, making checkpoint sharing a new supply-chain risk.",
+      "emoji": "⚠️"
     },
     {
-      "title": "An ancient PostgreSQL bug reached RCE",
+      "title": "Apify disclosed a real internal security breach",
       "urls": [
-        "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/"
+        "https://status.apify.com/incidents/sxd1dj5j6749"
       ],
-      "oneliner": "A 22-year-old PostgreSQL type confusion bug became remote code execution. Managed database trust just took a hit.",
+      "oneliner": "Apify says compromised credentials led to internal access, then rotated secrets and started hashing API tokens.",
       "emoji": "🔐"
     },
     {
-      "title": "Samsung TV ads were trivially hijacked",
+      "title": "Caixa insurer exposed 7.6 million customer records",
       "urls": [
-        "https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/"
+        "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e"
       ],
-      "oneliner": "A Samsung TV owner intercepted Smart Hub ad traffic and replaced ads with family photos. Consumer device trust remains flimsy.",
-      "emoji": "📊"
+      "oneliner": "Brazil's Caixa insurer exposed names and tax IDs for 7.6 million customers, a reminder that PII blast radius still wins.",
+      "emoji": "🔍"
     },
     {
-      "title": "Google paid seven figures for Chrome",
+      "title": "Fake video calls powered a $400 million hack",
       "urls": [
-        "https://lyra.horse/blog/2026/11/disinformation-machine/"
+        "https://www.bbc.com/news/articles/cqdj1ellpd70o"
       ],
-      "oneliner": "Google paid $1,333,337 for a Chrome logic bug. Browser exploit chains still command elite software bounties.",
+      "oneliner": "The FBI says North Korean hackers stole $400 million using prerecorded video calls, upgrading phishing for the Zoom era.",
       "emoji": "🐛"
     },
     {
-      "title": "AWS Lambda idle billing gets exposed",
+      "title": "Google tied school search access to AI",
       "urls": [
-        "https://www.easel.sh/blog/lambda-web-functions-idle-memory"
+        "https://text.npr.org/nx-s1-6029408"
       ],
-      "oneliner": "Easel says Lambda Web Functions bill memory for seven idle minutes. Serverless economics still hide expensive footguns.",
+      "oneliner": "Google reportedly cut Search access for AI-free schools, turning product bundling into an education policy fight.",
+      "emoji": "📊"
+    },
+    {
+      "title": "Brave added per-request payments for agentic search",
+      "urls": [
+        "https://brave.com/blog/search-api-agentic-payments/"
+      ],
+      "oneliner": "Brave now charges $0.005 per search via x402 and USDC, a real pricing primitive for autonomous agents.",
       "emoji": "💰"
     },
     {
-      "title": "Rust gets a JIT for iteration",
+      "title": "Postgres branching is coming for agent workflows",
       "urls": [
-        "https://makepad.github.io/relax/"
+        "https://github.com/bitsinfra/gnomon"
       ],
-      "oneliner": "Relax compiles Rust functions on demand instead of waiting for full builds. Faster edit-run loops could reshape Rust workflows.",
+      "oneliner": "Gnomon gives Postgres git-like branches per connection string, which could make agent data changes reviewable instead of scary.",
       "emoji": "🛠️"
     },
     {
-      "title": "Rust 1.100 lands with type cleanup",
+      "title": "Reverse engineering keeps smart homes off the cloud",
       "urls": [
-        "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-        "https://github.com/rust-lang/rust/releases/tag/1.100.0"
+        "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/"
       ],
-      "oneliner": "Rust 1.100 stabilizes the never type and updates Cargo internals. Mature languages still win by sanding sharp edges.",
+      "oneliner": "A Coway purifier hack replaced flaky cloud control with Home Assistant, which is exactly where consumer AI devices are headed.",
       "emoji": "📦"
-    },
-    {
-      "title": "Linux bends around giant GPU BARs",
-      "urls": [
-        "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/"
-      ],
-      "oneliner": "One Linux setup fit four 32 GB Resizable BARs behind a PCIe switch. Multi-GPU plumbing is still painfully bespoke.",
-      "emoji": "💻"
     }
   ],
   "keywords": [
-    "cracked",
-    "racing",
-    "leaked",
-    "autonomy",
-    "scarcity",
     "surpassed",
-    "weaponized"
+    "weaponized",
+    "autonomy",
+    "breached",
+    "consolidation",
+    "racing",
+    "obsolete"
   ],
   "tokenUsage": {
-    "promptTokens": 15961,
-    "completionTokens": 774,
-    "totalTokens": 16735,
-    "costUsd": 0.0515125
+    "promptTokens": 11112,
+    "completionTokens": 770,
+    "totalTokens": 11882,
+    "costUsd": 0.03933
   }
 }

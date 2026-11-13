@@ -1,94 +1,94 @@
 {
-  "date": "2026-11-12",
-  "generated_at": "2026-11-12T20:25:04.479795+00:00",
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T20:03:00.288104+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 73,
+  "totalItemsConsidered": 50,
   "items": [
     {
-      "title": "Subscription-free embroidery design app",
+      "title": "Postgres branching for agent workflows",
       "urls": [
-        "https://github.com/simpsoka/zigzag"
+        "https://github.com/bitsinfra/gnomon"
       ],
-      "oneliner": "Rust desktop app converts SVGs to PES and DST, replacing subscription embroidery software and supporting Bluetooth machine transfer."
+      "oneliner": "Git-style Postgres branches let agents change real data, review diffs, and merge safely without copying databases."
     },
     {
-      "title": "Native Excalidraw for Apple devices",
+      "title": "Rust XMPP server with federation",
       "urls": [
-        "https://github.com/chocoford/ExcalidrawZ"
+        "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0"
       ],
-      "oneliner": "SwiftUI wrapper turns Excalidraw into local macOS and iOS documents with iCloud sync, checkpoints, and realtime collaboration."
+      "oneliner": "Standalone Rust XMPP server now federates by default, adds direct TLS, and supports desktop client storage."
     },
     {
-      "title": "Managed agents that improve themselves",
+      "title": "Cloud-free Coway Home Assistant integration",
       "urls": [
-        "https://github.com/Parcha-ai/agentrun/blob/main/README.md"
+        "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/"
       ],
-      "oneliner": "Open-source agent runtime adds resumable execution, spend caps, approvals, and memory so repetitive workflows get cheaper over time."
+      "oneliner": "Hands-on reverse engineering guide shows how to control Coway purifiers locally through Home Assistant instead of the vendor cloud."
     },
     {
-      "title": "JIT compiler for faster Rust iteration",
+      "title": "Bash queue for parallel commands",
       "urls": [
-        "https://makepad.github.io/relax/"
+        "https://emmer.dev/blog/concurrent-shell-command-queues/"
       ],
-      "oneliner": "Function-level JIT for Rust runs code before full compilation, cutting edit-run latency for local development loops."
+      "oneliner": "Practical Bash pattern uses FIFO plus xargs to run shell jobs concurrently with a hard concurrency limit."
     },
     {
-      "title": "Running LLMs on old hardware",
+      "title": "Build a local AI VS Code extension",
       "urls": [
-        "https://github.com/hyperionaidev/smolmaxxing/"
+        "https://www.youtube.com/watch?v=clJCDHml2cA"
       ],
-      "oneliner": "Hands-on repo benchmarks and optimizes local LLM inference on TV boxes, phones, and old tablets with custom kernels."
+      "oneliner": "Step-by-step tutorial builds a VS Code chat extension around a local model with streaming responses and webviews."
     },
     {
-      "title": "Live systemd boot dependency tree",
+      "title": "JEPA world model experiment notes",
       "urls": [
-        "https://codeberg.org/wvhulle/bootvine"
+        "https://haddyalchaer.com/jepa"
       ],
-      "oneliner": "Open-source console tool visualizes systemd jobs and dependencies during boot, making startup bottlenecks and failures immediately visible."
+      "oneliner": "Detailed writeup distills 600 JEPA experiments into concrete lessons on planning, task setup, and failure modes."
     },
     {
-      "title": "Linux fix for multi-GPU BAR mapping",
+      "title": "Why Zig beats C today",
       "urls": [
-        "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/"
+        "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/"
       ],
-      "oneliner": "Deep hardware walkthrough plus kernel module shows how to map four 32 GB GPU BARs behind one PCIe switch."
+      "oneliner": "Concrete systems programming comparison shows how Zig's errdefer simplifies cleanup paths that stay brittle in C."
     },
     {
-      "title": "PostgreSQL RCE exploit walkthrough",
+      "title": "A lightweight Linux window manager",
       "urls": [
-        "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/"
+        "https://ice-wm.org/"
       ],
-      "oneliner": "Detailed exploit writeup traces a 22-year-old PostgreSQL type confusion bug into remote code execution with internals-level analysis."
+      "oneliner": "Fast X11 window manager with themes, taskbar, multi-monitor support, and decades of stability for low-resource Linux setups."
     },
     {
-      "title": "Hijacking Samsung TV ad requests",
+      "title": "Permutation parity with an interactive app",
       "urls": [
-        "https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/"
+        "https://www.youtube.com/watch?v=rUiulWItECQ"
       ],
-      "oneliner": "Practical mitmproxy walkthrough intercepts Samsung Smart Hub ad traffic and rewrites payloads, useful for network debugging and privacy experiments."
+      "oneliner": "Math video includes a JavaScript app for exploring permutation parity behind puzzle solvability and determinant intuition."
     },
     {
-      "title": "Advanced Lisp macros book online",
+      "title": "Browser-based FM synth workbench",
       "urls": [
-        "https://letoverlambda.com/"
+        "https://open.m-vave.com/fm1-workbench"
       ],
-      "oneliner": "The full Let Over Lambda book is free online, offering concrete Common Lisp macro techniques you can apply immediately."
+      "oneliner": "Open browser synth workbench offers eight tracks, six sound engines, MIDI support, and project saving for quick sound design."
     }
   ],
   "keywords": [
     "shipped",
-    "local",
-    "blazing",
-    "open",
     "instant",
-    "native",
-    "unlocked"
+    "blazing",
+    "unlocked",
+    "local",
+    "open",
+    "practical"
   ],
   "tokenUsage": {
-    "promptTokens": 15786,
-    "completionTokens": 671,
-    "totalTokens": 16457,
-    "costUsd": 0.049530000000000005
+    "promptTokens": 10937,
+    "completionTokens": 649,
+    "totalTokens": 11586,
+    "costUsd": 0.0370775
   }
 }
