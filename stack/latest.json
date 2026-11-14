@@ -1,94 +1,94 @@
 {
-  "date": "2026-11-13",
-  "generated_at": "2026-11-13T20:03:00.288104+00:00",
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T18:31:28.855072+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 50,
+  "totalItemsConsidered": 77,
   "items": [
     {
-      "title": "Postgres branching for agent workflows",
+      "title": "Agent browser for macOS workflows",
       "urls": [
-        "https://github.com/bitsinfra/gnomon"
+        "https://github.com/paul-nameless/agweb"
       ],
-      "oneliner": "Git-style Postgres branches let agents change real data, review diffs, and merge safely without copying databases."
+      "oneliner": "WebKit browser for coding agents that isolates workspaces, suspends idle tabs, and keeps passwords out of logs."
     },
     {
-      "title": "Rust XMPP server with federation",
+      "title": "Open observability dashboards as code",
       "urls": [
-        "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0"
+        "https://perses.dev/"
       ],
-      "oneliner": "Standalone Rust XMPP server now federates by default, adds direct TLS, and supports desktop client storage."
+      "oneliner": "Dashboard platform for Prometheus, Loki, Tempo, and Pyroscope with a CLI and SDKs for GitOps workflows."
     },
     {
-      "title": "Cloud-free Coway Home Assistant integration",
+      "title": "GGML reaches stable 1.0 release",
       "urls": [
-        "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/"
+        "https://github.com/ggml-org/ggml/releases/tag/v1.0.0"
       ],
-      "oneliner": "Hands-on reverse engineering guide shows how to control Coway purifiers locally through Home Assistant instead of the vendor cloud."
+      "oneliner": "Local inference tensor library adds FP8, Vulkan and Metal improvements, and faster RPC for multi-device model serving."
     },
     {
-      "title": "Bash queue for parallel commands",
+      "title": "DeepSeek V3 in pure JAX",
       "urls": [
-        "https://emmer.dev/blog/concurrent-shell-command-queues/"
+        "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"
       ],
-      "oneliner": "Practical Bash pattern uses FIFO plus xargs to run shell jobs concurrently with a hard concurrency limit."
+      "oneliner": "Readable 190-line JAX implementation of DeepSeek V3 features MLA, MoE, and training code you can inspect."
     },
     {
-      "title": "Build a local AI VS Code extension",
+      "title": "Open RISC-V core running Linux",
       "urls": [
-        "https://www.youtube.com/watch?v=clJCDHml2cA"
+        "https://github.com/FURSOY/fursoy-cpu"
       ],
-      "oneliner": "Step-by-step tutorial builds a VS Code chat extension around a local model with streaming responses and webviews."
+      "oneliner": "SystemVerilog RV64 out-of-order CPU boots Linux 6.6 and BusyBox, with full source for hardware hackers."
     },
     {
-      "title": "JEPA world model experiment notes",
+      "title": "Probabilistic data structures in Go",
       "urls": [
-        "https://haddyalchaer.com/jepa"
+        "https://antonz.org/probabilistic-data-structures/"
       ],
-      "oneliner": "Detailed writeup distills 600 JEPA experiments into concrete lessons on planning, task setup, and failure modes."
+      "oneliner": "Hands-on Go guide shows Bloom filters and other sketches that trade exactness for major memory savings."
     },
     {
-      "title": "Why Zig beats C today",
+      "title": "Build a self-booting ZIP archive",
       "urls": [
-        "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/"
+        "https://goliath32.com/blog/ziphead.html"
       ],
-      "oneliner": "Concrete systems programming comparison shows how Zig's errdefer simplifies cleanup paths that stay brittle in C."
+      "oneliner": "Step-by-step systems tutorial shows how to make a ZIP file boot directly in QEMU."
     },
     {
-      "title": "A lightweight Linux window manager",
+      "title": "Write your own PostScript interpreter",
       "urls": [
-        "https://ice-wm.org/"
+        "https://beyondloom.com/blog/postscript.html"
       ],
-      "oneliner": "Fast X11 window manager with themes, taskbar, multi-monitor support, and decades of stability for low-resource Linux setups."
+      "oneliner": "Implementation walkthrough builds a small PostScript interpreter while teaching stacks, parsing, and language runtime design."
     },
     {
-      "title": "Permutation parity with an interactive app",
+      "title": "Debugging a WebKit promise bug",
       "urls": [
-        "https://www.youtube.com/watch?v=rUiulWItECQ"
+        "https://alistair.sh/thenables"
       ],
-      "oneliner": "Math video includes a JavaScript app for exploring permutation parity behind puzzle solvability and determinant intuition."
+      "oneliner": "Deep JavaScript post traces a Safari and Bun promise hang to a 16-line WebKit fix."
     },
     {
-      "title": "Browser-based FM synth workbench",
+      "title": "Terminal borders without wasted cells",
       "urls": [
-        "https://open.m-vave.com/fm1-workbench"
+        "https://www.joshka.net/cell-borders/"
       ],
-      "oneliner": "Open browser synth workbench offers eight tracks, six sound engines, MIDI support, and project saving for quick sound design."
+      "oneliner": "Terminal UI technique draws borders on cell edges, freeing rows and columns for actual application content."
     }
   ],
   "keywords": [
     "shipped",
-    "instant",
     "blazing",
-    "unlocked",
-    "local",
+    "instant",
+    "offline",
     "open",
-    "practical"
+    "embedded",
+    "unlocked"
   ],
   "tokenUsage": {
-    "promptTokens": 10937,
-    "completionTokens": 649,
-    "totalTokens": 11586,
-    "costUsd": 0.0370775
+    "promptTokens": 16317,
+    "completionTokens": 653,
+    "totalTokens": 16970,
+    "costUsd": 0.0505875
   }
 }

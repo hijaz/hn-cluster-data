@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T18:31:28.855072+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 77,
+  "items": [
+    {
+      "title": "Agent browser for macOS workflows",
+      "urls": [
+        "https://github.com/paul-nameless/agweb"
+      ],
+      "oneliner": "WebKit browser for coding agents that isolates workspaces, suspends idle tabs, and keeps passwords out of logs."
+    },
+    {
+      "title": "Open observability dashboards as code",
+      "urls": [
+        "https://perses.dev/"
+      ],
+      "oneliner": "Dashboard platform for Prometheus, Loki, Tempo, and Pyroscope with a CLI and SDKs for GitOps workflows."
+    },
+    {
+      "title": "GGML reaches stable 1.0 release",
+      "urls": [
+        "https://github.com/ggml-org/ggml/releases/tag/v1.0.0"
+      ],
+      "oneliner": "Local inference tensor library adds FP8, Vulkan and Metal improvements, and faster RPC for multi-device model serving."
+    },
+    {
+      "title": "DeepSeek V3 in pure JAX",
+      "urls": [
+        "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"
+      ],
+      "oneliner": "Readable 190-line JAX implementation of DeepSeek V3 features MLA, MoE, and training code you can inspect."
+    },
+    {
+      "title": "Open RISC-V core running Linux",
+      "urls": [
+        "https://github.com/FURSOY/fursoy-cpu"
+      ],
+      "oneliner": "SystemVerilog RV64 out-of-order CPU boots Linux 6.6 and BusyBox, with full source for hardware hackers."
+    },
+    {
+      "title": "Probabilistic data structures in Go",
+      "urls": [
+        "https://antonz.org/probabilistic-data-structures/"
+      ],
+      "oneliner": "Hands-on Go guide shows Bloom filters and other sketches that trade exactness for major memory savings."
+    },
+    {
+      "title": "Build a self-booting ZIP archive",
+      "urls": [
+        "https://goliath32.com/blog/ziphead.html"
+      ],
+      "oneliner": "Step-by-step systems tutorial shows how to make a ZIP file boot directly in QEMU."
+    },
+    {
+      "title": "Write your own PostScript interpreter",
+      "urls": [
+        "https://beyondloom.com/blog/postscript.html"
+      ],
+      "oneliner": "Implementation walkthrough builds a small PostScript interpreter while teaching stacks, parsing, and language runtime design."
+    },
+    {
+      "title": "Debugging a WebKit promise bug",
+      "urls": [
+        "https://alistair.sh/thenables"
+      ],
+      "oneliner": "Deep JavaScript post traces a Safari and Bun promise hang to a 16-line WebKit fix."
+    },
+    {
+      "title": "Terminal borders without wasted cells",
+      "urls": [
+        "https://www.joshka.net/cell-borders/"
+      ],
+      "oneliner": "Terminal UI technique draws borders on cell edges, freeing rows and columns for actual application content."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "instant",
+    "offline",
+    "open",
+    "embedded",
+    "unlocked"
+  ],
+  "tokenUsage": {
+    "promptTokens": 16317,
+    "completionTokens": 653,
+    "totalTokens": 16970,
+    "costUsd": 0.0505875
+  }
+}

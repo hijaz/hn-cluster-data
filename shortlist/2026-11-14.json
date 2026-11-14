@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T18:31:21.063982+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 77,
+  "items": [
+    {
+      "title": "ggml reaches a 1.0 release",
+      "urls": [
+        "https://github.com/ggml-org/ggml/releases/tag/v1.0.0"
+      ],
+      "oneliner": "ggml 1.0 adds FP8 and backend speedups, making local inference stacks look more production-grade than hobbyist.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "Qwen3.8 quantization gets materially better",
+      "urls": [
+        "https://unsloth.ai/docs/models/qwen3.8"
+      ],
+      "oneliner": "Unsloth says Dynamic v3.1 lifts Qwen3.8-27B accuracy 5 to 10 percent, which directly changes local deployment tradeoffs.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "Serving giant models now spans boxes",
+      "urls": [
+        "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/"
+      ],
+      "oneliner": "Nvidia served 753B-parameter GLM-5.3 at 607.8 tok/s across two DGX stations, normalizing multi-node inference engineering.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "Lovable apps leaked sensitive user data",
+      "urls": [
+        "https://www.crissyfield.de/research/lovable-en/"
+      ],
+      "oneliner": "Researchers found 159,000 Lovable apps exposing passport data and 200,000 private messages, a brutal warning for vibe-coded products.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "Danfoss fridge controllers are actively exploitable",
+      "urls": [
+        "https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a"
+      ],
+      "oneliner": "Danfoss controller bugs caused tens of millions in spoiled food, proving OT security failures now have very physical costs.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Apache shipped a critical RCE fix",
+      "urls": [
+        "https://violetpixel.com/blog/2026-11-13-and-now-a-critical-apache-vulnerability/"
+      ],
+      "oneliner": "Apache flagged CVE-2026-119618 as critical in mod_http2, so exposed 2.4.55 through 2.4.70 servers need immediate patching.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "Italy hit Meta with a massive fine",
+      "urls": [
+        "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+        "https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/"
+      ],
+      "oneliner": "Italy fined Meta $887 million over Android data access, showing European privacy enforcement still has real financial teeth.",
+      "emoji": "📊"
+    },
+    {
+      "title": "Non-English prompts cost more energy",
+      "urls": [
+        "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/"
+      ],
+      "oneliner": "University of Michigan found generative AI uses more energy on non-English text, exposing an overlooked multilingual infrastructure tax.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "A browser built specifically for agents",
+      "urls": [
+        "https://github.com/paul-nameless/agweb"
+      ],
+      "oneliner": "Agweb gives coding agents isolated workspaces and a shared dashboard, hinting that agent UX is becoming its own product category.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "Lean found bugs in tax law",
+      "urls": [
+        "https://lexifina.com/blog/formalizing-the-us-tax-code"
+      ],
+      "oneliner": "A Lean formalization surfaced 138 drafting mistakes in the US tax code, which is exactly the kind of boring AI win enterprises trust.",
+      "emoji": "📦"
+    }
+  ],
+  "keywords": [
+    "cracked",
+    "scarcity",
+    "weaponized",
+    "surpassed",
+    "leaked",
+    "autonomy",
+    "consolidation"
+  ],
+  "tokenUsage": {
+    "promptTokens": 16492,
+    "completionTokens": 813,
+    "totalTokens": 17305,
+    "costUsd": 0.053425
+  }
+}

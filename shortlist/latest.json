@@ -1,104 +1,105 @@
 {
-  "date": "2026-11-13",
-  "generated_at": "2026-11-13T20:02:50.156386+00:00",
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T18:31:21.063982+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 50,
+  "totalItemsConsidered": 77,
   "items": [
     {
-      "title": "OpenAI is folding robotics into general models",
+      "title": "ggml reaches a 1.0 release",
       "urls": [
-        "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
+        "https://github.com/ggml-org/ggml/releases/tag/v1.0.0"
       ],
-      "oneliner": "OpenAI killed its robotics team again, betting general models now matter more than bespoke robot stacks.",
+      "oneliner": "ggml 1.0 adds FP8 and backend speedups, making local inference stacks look more production-grade than hobbyist.",
       "emoji": "🤖"
     },
     {
-      "title": "AI is decoding Godel's hidden theorems",
+      "title": "Qwen3.8 quantization gets materially better",
       "urls": [
-        "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+        "https://unsloth.ai/docs/models/qwen3.8"
       ],
-      "oneliner": "Claude helped parse Godel's 1,009 notebook pages, turning archival math into a live AI-for-research benchmark.",
+      "oneliner": "Unsloth says Dynamic v3.1 lifts Qwen3.8-27B accuracy 5 to 10 percent, which directly changes local deployment tradeoffs.",
       "emoji": "🧠"
     },
     {
-      "title": "Model weights can now carry malware-like behavior",
+      "title": "Serving giant models now spans boxes",
       "urls": [
-        "https://www.alphaxiv.org/abs/2611.weight-space-misfolding"
+        "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/"
       ],
-      "oneliner": "Researchers say edited weights can transmit hidden behaviors between models, making checkpoint sharing a new supply-chain risk.",
+      "oneliner": "Nvidia served 753B-parameter GLM-5.3 at 607.8 tok/s across two DGX stations, normalizing multi-node inference engineering.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "Lovable apps leaked sensitive user data",
+      "urls": [
+        "https://www.crissyfield.de/research/lovable-en/"
+      ],
+      "oneliner": "Researchers found 159,000 Lovable apps exposing passport data and 200,000 private messages, a brutal warning for vibe-coded products.",
       "emoji": "⚠️"
     },
     {
-      "title": "Apify disclosed a real internal security breach",
+      "title": "Danfoss fridge controllers are actively exploitable",
       "urls": [
-        "https://status.apify.com/incidents/sxd1dj5j6749"
+        "https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a"
       ],
-      "oneliner": "Apify says compromised credentials led to internal access, then rotated secrets and started hashing API tokens.",
+      "oneliner": "Danfoss controller bugs caused tens of millions in spoiled food, proving OT security failures now have very physical costs.",
       "emoji": "🔐"
     },
     {
-      "title": "Caixa insurer exposed 7.6 million customer records",
+      "title": "Apache shipped a critical RCE fix",
       "urls": [
-        "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e"
+        "https://violetpixel.com/blog/2026-11-13-and-now-a-critical-apache-vulnerability/"
       ],
-      "oneliner": "Brazil's Caixa insurer exposed names and tax IDs for 7.6 million customers, a reminder that PII blast radius still wins.",
-      "emoji": "🔍"
-    },
-    {
-      "title": "Fake video calls powered a $400 million hack",
-      "urls": [
-        "https://www.bbc.com/news/articles/cqdj1ellpd70o"
-      ],
-      "oneliner": "The FBI says North Korean hackers stole $400 million using prerecorded video calls, upgrading phishing for the Zoom era.",
+      "oneliner": "Apache flagged CVE-2026-119618 as critical in mod_http2, so exposed 2.4.55 through 2.4.70 servers need immediate patching.",
       "emoji": "🐛"
     },
     {
-      "title": "Google tied school search access to AI",
+      "title": "Italy hit Meta with a massive fine",
       "urls": [
-        "https://text.npr.org/nx-s1-6029408"
+        "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+        "https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/"
       ],
-      "oneliner": "Google reportedly cut Search access for AI-free schools, turning product bundling into an education policy fight.",
+      "oneliner": "Italy fined Meta $887 million over Android data access, showing European privacy enforcement still has real financial teeth.",
       "emoji": "📊"
     },
     {
-      "title": "Brave added per-request payments for agentic search",
+      "title": "Non-English prompts cost more energy",
       "urls": [
-        "https://brave.com/blog/search-api-agentic-payments/"
+        "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/"
       ],
-      "oneliner": "Brave now charges $0.005 per search via x402 and USDC, a real pricing primitive for autonomous agents.",
-      "emoji": "💰"
+      "oneliner": "University of Michigan found generative AI uses more energy on non-English text, exposing an overlooked multilingual infrastructure tax.",
+      "emoji": "🔍"
     },
     {
-      "title": "Postgres branching is coming for agent workflows",
+      "title": "A browser built specifically for agents",
       "urls": [
-        "https://github.com/bitsinfra/gnomon"
+        "https://github.com/paul-nameless/agweb"
       ],
-      "oneliner": "Gnomon gives Postgres git-like branches per connection string, which could make agent data changes reviewable instead of scary.",
+      "oneliner": "Agweb gives coding agents isolated workspaces and a shared dashboard, hinting that agent UX is becoming its own product category.",
       "emoji": "🛠️"
     },
     {
-      "title": "Reverse engineering keeps smart homes off the cloud",
+      "title": "Lean found bugs in tax law",
       "urls": [
-        "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/"
+        "https://lexifina.com/blog/formalizing-the-us-tax-code"
       ],
-      "oneliner": "A Coway purifier hack replaced flaky cloud control with Home Assistant, which is exactly where consumer AI devices are headed.",
+      "oneliner": "A Lean formalization surfaced 138 drafting mistakes in the US tax code, which is exactly the kind of boring AI win enterprises trust.",
       "emoji": "📦"
     }
   ],
   "keywords": [
-    "surpassed",
+    "cracked",
+    "scarcity",
     "weaponized",
+    "surpassed",
+    "leaked",
     "autonomy",
-    "breached",
-    "consolidation",
-    "racing",
-    "obsolete"
+    "consolidation"
   ],
   "tokenUsage": {
-    "promptTokens": 11112,
-    "completionTokens": 770,
-    "totalTokens": 11882,
-    "costUsd": 0.03933
+    "promptTokens": 16492,
+    "completionTokens": 813,
+    "totalTokens": 17305,
+    "costUsd": 0.053425
   }
 }
