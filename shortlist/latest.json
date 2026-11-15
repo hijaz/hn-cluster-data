@@ -1,105 +1,106 @@
 {
-  "date": "2026-11-14",
-  "generated_at": "2026-11-14T18:31:21.063982+00:00",
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T19:12:30.226195+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 77,
+  "totalItemsConsidered": 60,
   "items": [
     {
-      "title": "ggml reaches a 1.0 release",
+      "title": "OpenAI gave ChatGPT a wallet",
       "urls": [
-        "https://github.com/ggml-org/ggml/releases/tag/v1.0.0"
+        "https://openai.com/index/introducing-chatgpt-wallet/"
       ],
-      "oneliner": "ggml 1.0 adds FP8 and backend speedups, making local inference stacks look more production-grade than hobbyist.",
+      "oneliner": "OpenAI's new Wallet lets ChatGPT buy things with approval, pushing agents from demos into real transactional workflows.",
       "emoji": "🤖"
     },
     {
-      "title": "Qwen3.8 quantization gets materially better",
+      "title": "Claude added spreadsheet-style analysis",
       "urls": [
-        "https://unsloth.ai/docs/models/qwen3.8"
+        "https://claude.com/resources/articles/sheets-whiteboards-data"
       ],
-      "oneliner": "Unsloth says Dynamic v3.1 lifts Qwen3.8-27B accuracy 5 to 10 percent, which directly changes local deployment tradeoffs.",
+      "oneliner": "Claude Sheets turns quote comparison into a native table workflow, which is exactly how AI starts replacing lightweight analyst tasks.",
       "emoji": "🧠"
     },
     {
-      "title": "Serving giant models now spans boxes",
+      "title": "Qwen's conversation state got mapped",
       "urls": [
-        "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/"
+        "https://operator0x.com/field-notes/qwen-conversation-state-space/"
       ],
-      "oneliner": "Nvidia served 753B-parameter GLM-5.3 at 607.8 tok/s across two DGX stations, normalizing multi-node inference engineering.",
+      "oneliner": "A Qwen3-1.7B probe mapped 900 Q and A examples across 100 topics, making conversation geometry less hand-wavy.",
       "emoji": "⚡"
     },
     {
-      "title": "Lovable apps leaked sensitive user data",
+      "title": "Public workers won AI job protections",
       "urls": [
-        "https://www.crissyfield.de/research/lovable-en/"
+        "https://www.oaklandca.gov/News-Releases/Oakland-Reaches-Tentative-3-Year-Agreement-with-IFPTE-Local-21",
+        "https://www.theneurondaily.com/p/oakland-workers-bargained-for-ai-protections",
+        "https://www.nysenate.gov/legislation/bills/2025/S8831"
       ],
-      "oneliner": "Researchers found 159,000 Lovable apps exposing passport data and 200,000 private messages, a brutal warning for vibe-coded products.",
+      "oneliner": "Oakland and New York are formalizing retraining over layoffs, which means AI labor rules are finally becoming contract language.",
       "emoji": "⚠️"
     },
     {
-      "title": "Danfoss fridge controllers are actively exploitable",
+      "title": "Bots are spoofing Kagi referrers",
       "urls": [
-        "https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a"
+        "https://kudmitry.com/articles/kagi-com-referrer-being-abused-by-bots/"
       ],
-      "oneliner": "Danfoss controller bugs caused tens of millions in spoiled food, proving OT security failures now have very physical costs.",
+      "oneliner": "Fake kagi.com referrals surged from Singapore, showing analytics pipelines are now easy targets for bot laundering.",
       "emoji": "🔐"
     },
     {
-      "title": "Apache shipped a critical RCE fix",
+      "title": "DRAM price-fixing case moves forward",
       "urls": [
-        "https://violetpixel.com/blog/2026-11-13-and-now-a-critical-apache-vulnerability/"
+        "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal"
       ],
-      "oneliner": "Apache flagged CVE-2026-119618 as critical in mod_http2, so exposed 2.4.55 through 2.4.70 servers need immediate patching.",
+      "oneliner": "A US judge let the DRAM conspiracy suit proceed, spotlighting how AI memory demand may be distorting the broader chip market.",
       "emoji": "🐛"
     },
     {
-      "title": "Italy hit Meta with a massive fine",
+      "title": "US chip controls face internal pressure",
       "urls": [
-        "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
-        "https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/"
+        "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html"
       ],
-      "oneliner": "Italy fined Meta $887 million over Android data access, showing European privacy enforcement still has real financial teeth.",
-      "emoji": "📊"
+      "oneliner": "Commerce Secretary Lutnick reportedly pushed to weaken Southeast Asia chip rules, a reminder that AI export controls remain politically fragile.",
+      "emoji": "💻"
     },
     {
-      "title": "Non-English prompts cost more energy",
+      "title": "Database branches now spin up instantly",
       "urls": [
-        "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/"
+        "https://github.com/db-branch/db-branch"
       ],
-      "oneliner": "University of Michigan found generative AI uses more energy on non-English text, exposing an overlooked multilingual infrastructure tax.",
-      "emoji": "🔍"
-    },
-    {
-      "title": "A browser built specifically for agents",
-      "urls": [
-        "https://github.com/paul-nameless/agweb"
-      ],
-      "oneliner": "Agweb gives coding agents isolated workspaces and a shared dashboard, hinting that agent UX is becoming its own product category.",
+      "oneliner": "db-branch uses ZFS copy-on-write to clone MySQL and Postgres in seconds, which is catnip for CI and agent testing.",
       "emoji": "🛠️"
     },
     {
-      "title": "Lean found bugs in tax law",
+      "title": "FreeBSD bhyve gained live migration",
       "urls": [
-        "https://lexifina.com/blog/formalizing-the-us-tax-code"
+        "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/"
       ],
-      "oneliner": "A Lean formalization surfaced 138 drafting mistakes in the US tax code, which is exactly the kind of boring AI win enterprises trust.",
+      "oneliner": "FreeBSD 15.1 adds bhyve live migration over TCP, giving smaller infra teams a real maintenance and failover upgrade.",
       "emoji": "📦"
+    },
+    {
+      "title": "LangChain reportedly hit a $3B valuation",
+      "urls": [
+        "https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad?mod=rss_Technology"
+      ],
+      "oneliner": "LangChain reportedly raised $300 million at a $3 billion valuation, despite growing pressure on orchestration-layer differentiation.",
+      "emoji": "💰"
     }
   ],
   "keywords": [
     "cracked",
-    "scarcity",
-    "weaponized",
     "surpassed",
-    "leaked",
+    "weaponized",
     "autonomy",
+    "scarcity",
+    "leaked",
     "consolidation"
   ],
   "tokenUsage": {
-    "promptTokens": 16492,
-    "completionTokens": 813,
-    "totalTokens": 17305,
-    "costUsd": 0.053425
+    "promptTokens": 12549,
+    "completionTokens": 782,
+    "totalTokens": 13331,
+    "costUsd": 0.0431025
   }
 }

@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T19:12:38.767897+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 60,
+  "items": [
+    {
+      "title": "Instant database branches for testing",
+      "urls": [
+        "https://github.com/db-branch/db-branch"
+      ],
+      "oneliner": "CLI creates MySQL and Postgres branches in seconds with ZFS snapshots for CI, migrations, and agent sandboxes."
+    },
+    {
+      "title": "Practical guide to positional embeddings",
+      "urls": [
+        "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
+      ],
+      "oneliner": "Hands-on PyTorch walkthrough explains RoPE and relative embeddings with code you can adapt for modern LLM implementations."
+    },
+    {
+      "title": "FreeBSD bhyve live migration RFC",
+      "urls": [
+        "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/"
+      ],
+      "oneliner": "Working code shows pre-copy VM migration over TCP for bhyve, useful for host maintenance and clustered virtualization experiments."
+    },
+    {
+      "title": "Visualizing conversation states in Qwen",
+      "urls": [
+        "https://operator0x.com/field-notes/qwen-conversation-state-space/"
+      ],
+      "oneliner": "Deep dive maps 900 Qwen3 conversations to reveal topic clustering and residual-stream dynamics inside a small language model."
+    },
+    {
+      "title": "Survey of C memory management",
+      "urls": [
+        "https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html"
+      ],
+      "oneliner": "Benchmark-style survey compares allocators, leak handling, and documentation patterns across 40 major C codebases."
+    },
+    {
+      "title": "Reverse engineering a Jeep ECU",
+      "urls": [
+        "https://www.youtube.com/watch?v=WPj3aQ-xxpI"
+      ],
+      "oneliner": "Video walkthrough shows an Arduino-based ECU reverse engineering workflow that automotive hackers can replicate with cheap hardware."
+    },
+    {
+      "title": "Minimal IR remote decoding guide",
+      "urls": [
+        "https://bitbanksoftware.blogspot.com/2026/11/how-to-read-codes-from-many-ir-remote.html"
+      ],
+      "oneliner": "Practical tutorial shows how to read many IR remote protocols with minimal code and inexpensive Vishay receivers."
+    },
+    {
+      "title": "Using Emacs as a browser",
+      "urls": [
+        "https://joshblais.com/blog/emacs-as-my-browser/"
+      ],
+      "oneliner": "Configuration guide turns EWW into a usable daily browser with keybindings, media helpers, and distraction-free workflows."
+    },
+    {
+      "title": "NetBSD disk encryption playbook",
+      "urls": [
+        "https://netbsd.org/~nia/disk-encrypt/"
+      ],
+      "oneliner": "Detailed guide explains threat models, boot tradeoffs, and directory-level secrecy for deploying practical disk encryption on NetBSD."
+    },
+    {
+      "title": "Simpler architecture for FRC robots",
+      "urls": [
+        "https://bvisness.me/periodic-oriented-programming/"
+      ],
+      "oneliner": "This robotics tutorial replaces overengineered command stacks with a single periodic loop that students can understand and debug."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "instant",
+    "blazing",
+    "offline",
+    "open",
+    "local",
+    "unlocked"
+  ],
+  "tokenUsage": {
+    "promptTokens": 12374,
+    "completionTokens": 648,
+    "totalTokens": 13022,
+    "costUsd": 0.040655
+  }
+}
