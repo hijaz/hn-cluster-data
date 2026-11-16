@@ -1,106 +1,106 @@
 {
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T19:12:30.226195+00:00",
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T22:27:06.068559+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 60,
+  "totalItemsConsidered": 86,
   "items": [
     {
-      "title": "OpenAI gave ChatGPT a wallet",
+      "title": "OpenAI used GPT-6 Astra for physics",
       "urls": [
-        "https://openai.com/index/introducing-chatgpt-wallet/"
+        "https://openai.com/index/step-toward-defining-the-standard-model/"
       ],
-      "oneliner": "OpenAI's new Wallet lets ChatGPT buy things with approval, pushing agents from demos into real transactional workflows.",
-      "emoji": "🤖"
-    },
-    {
-      "title": "Claude added spreadsheet-style analysis",
-      "urls": [
-        "https://claude.com/resources/articles/sheets-whiteboards-data"
-      ],
-      "oneliner": "Claude Sheets turns quote comparison into a native table workflow, which is exactly how AI starts replacing lightweight analyst tasks.",
+      "oneliner": "OpenAI says GPT-6 Astra helped prove a Standard Model construction. Frontier models are inching from coding into real research.",
       "emoji": "🧠"
     },
     {
-      "title": "Qwen's conversation state got mapped",
+      "title": "Apple launched a massive AI health study",
       "urls": [
-        "https://operator0x.com/field-notes/qwen-conversation-state-space/"
+        "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/"
       ],
-      "oneliner": "A Qwen3-1.7B probe mapped 900 Q and A examples across 100 topics, making conversation geometry less hand-wavy.",
-      "emoji": "⚡"
+      "oneliner": "Apple opened a 200,000-person AI health study app. Consumer distribution is becoming a serious moat for medical AI data.",
+      "emoji": "📊"
     },
     {
-      "title": "Public workers won AI job protections",
+      "title": "OpenAI opened models to outside assessors",
       "urls": [
-        "https://www.oaklandca.gov/News-Releases/Oakland-Reaches-Tentative-3-Year-Agreement-with-IFPTE-Local-21",
-        "https://www.theneurondaily.com/p/oakland-workers-bargained-for-ai-protections",
-        "https://www.nysenate.gov/legislation/bills/2025/S8831"
+        "https://openai.com/index/our-first-phase-of-embedded-assessments/"
       ],
-      "oneliner": "Oakland and New York are formalizing retraining over layoffs, which means AI labor rules are finally becoming contract language.",
+      "oneliner": "OpenAI gave four outside groups internal model access for embedded assessments. Safety evaluation is getting closer to audit, not PR.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "uBlock Origin had a universal XSS flaw",
+      "urls": [
+        "https://iter.ca/post/ubo-uxss/"
+      ],
+      "oneliner": "A website-driven uBlock Origin bug enabled universal XSS across sites. Browser extensions remain a dangerously privileged attack surface.",
       "emoji": "⚠️"
     },
     {
-      "title": "Bots are spoofing Kagi referrers",
+      "title": "Linux TCP bug can remotely crash servers",
       "urls": [
-        "https://kudmitry.com/articles/kagi-com-referrer-being-abused-by-bots/"
+        "https://www.openwall.com/lists/oss-security/2026/11/15/2"
       ],
-      "oneliner": "Fake kagi.com referrals surged from Singapore, showing analytics pipelines are now easy targets for bot laundering.",
-      "emoji": "🔐"
-    },
-    {
-      "title": "DRAM price-fixing case moves forward",
-      "urls": [
-        "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal"
-      ],
-      "oneliner": "A US judge let the DRAM conspiracy suit proceed, spotlighting how AI memory demand may be distorting the broader chip market.",
+      "oneliner": "NoisyTCP lets attackers corrupt Linux TCP state and knock over Nginx or Apache. Default stacks are still one packet away from pain.",
       "emoji": "🐛"
     },
     {
-      "title": "US chip controls face internal pressure",
+      "title": "One bad MCP server can hijack agents",
       "urls": [
-        "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html"
+        "https://venturebeat.com/orchestration/one-compromised-mcp-server-can-trick-an-ai-agent-into-misusing-tools-you-already-trust"
       ],
-      "oneliner": "Commerce Secretary Lutnick reportedly pushed to weaken Southeast Asia chip rules, a reminder that AI export controls remain politically fragile.",
+      "oneliner": "A compromised MCP server made agents misuse trusted tools 78.3% of the time. Tool trust is now the real agent perimeter.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Congress is targeting remote access to compute",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+      ],
+      "oneliner": "Congress is reviving rules to block China's remote access to overseas AI compute. Export controls are shifting from chips to usage.",
+      "emoji": "🌐"
+    },
+    {
+      "title": "Nvidia faces China scrutiny and supply pressure",
+      "urls": [
+        "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+        "https://www.theneurondaily.com/p/nvidia-reportedly-supplied-china-via-asia",
+        "https://www.axios.com/2026/11/15/bessent-nvidia-earnings-china-chip-sales-ceo"
+      ],
+      "oneliner": "Nvidia's China exposure is under fire as rivals and cloud customers build alternatives. The AI hardware monopoly looks less permanent.",
+      "emoji": "🏭"
+    },
+    {
+      "title": "Rust enabled its parallel frontend by default",
+      "urls": [
+        "https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/"
+      ],
+      "oneliner": "Rust nightly now enables the parallel frontend by default, with some benchmarks up to 3x faster. Compiler parallelism is finally shipping.",
       "emoji": "💻"
     },
     {
-      "title": "Database branches now spin up instantly",
+      "title": "Microsoft traced its email outage to a fix",
       "urls": [
-        "https://github.com/db-branch/db-branch"
+        "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026"
       ],
-      "oneliner": "db-branch uses ZFS copy-on-write to clone MySQL and Postgres in seconds, which is catnip for CI and agent testing.",
-      "emoji": "🛠️"
-    },
-    {
-      "title": "FreeBSD bhyve gained live migration",
-      "urls": [
-        "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/"
-      ],
-      "oneliner": "FreeBSD 15.1 adds bhyve live migration over TCP, giving smaller infra teams a real maintenance and failover upgrade.",
-      "emoji": "📦"
-    },
-    {
-      "title": "LangChain reportedly hit a $3B valuation",
-      "urls": [
-        "https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad?mod=rss_Technology"
-      ],
-      "oneliner": "LangChain reportedly raised $300 million at a $3 billion valuation, despite growing pressure on orchestration-layer differentiation.",
+      "oneliner": "Microsoft says a July fix triggered lock contention that left over 80% of email servers unresponsive. Reliability debt compounds quietly.",
       "emoji": "💰"
     }
   ],
   "keywords": [
-    "cracked",
-    "surpassed",
     "weaponized",
-    "autonomy",
+    "surpassed",
+    "cracking",
     "scarcity",
-    "leaked",
+    "autonomy",
+    "scrutiny",
     "consolidation"
   ],
   "tokenUsage": {
-    "promptTokens": 12549,
-    "completionTokens": 782,
-    "totalTokens": 13331,
-    "costUsd": 0.0431025
+    "promptTokens": 17696,
+    "completionTokens": 793,
+    "totalTokens": 18489,
+    "costUsd": 0.056135000000000004
   }
 }

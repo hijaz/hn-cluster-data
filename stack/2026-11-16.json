@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T22:27:18.047120+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 86,
+  "items": [
+    {
+      "title": "SQLite function caching for Python",
+      "urls": [
+        "https://alexwlchan.net/2026/funkycache/"
+      ],
+      "oneliner": "Decorator-based SQLite cache stores Python function results and auto-invalidates when source files or dependencies change."
+    },
+    {
+      "title": "Stable datetime library for Rust",
+      "urls": [
+        "https://burntsushi.net/jiff/"
+      ],
+      "oneliner": "Rust datetime crate reaches 1.0 with a stable API for parsing, formatting, time zones, and calendar math."
+    },
+    {
+      "title": "Open source image reference organizer",
+      "urls": [
+        "https://kaigulliksen.com/blog/introducing-reference-drawer-a-tool-for-organizing-your-reference-images/"
+      ],
+      "oneliner": "Free desktop app tags image folders, builds mood boards, and replaces ad hoc reference management for artists and UI teams."
+    },
+    {
+      "title": "Better shrinking for Clojure property tests",
+      "urls": [
+        "https://aphyr.com/posts/428-announcing-hegel-clj"
+      ],
+      "oneliner": "New Clojure generative testing library fixes painful shrink behavior in complex generators that break test.check workflows."
+    },
+    {
+      "title": "Clojure that compiles to native binaries",
+      "urls": [
+        "https://jolt-lang.net/"
+      ],
+      "oneliner": "Self-hosted Clojure implementation speaks C directly and builds standalone binaries without a JVM or Chez runtime."
+    },
+    {
+      "title": "Open operating system for Rigol scopes",
+      "urls": [
+        "https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/"
+      ],
+      "oneliner": "Experimental Linux and Rust firmware adds protocol decoders, triggers, and measurements to Rigol DHO800 and DHO900 oscilloscopes."
+    },
+    {
+      "title": "Local FreeBSD pkgbase mirror guide",
+      "urls": [
+        "https://blog.feld.me/posts/2026/11/local-mirror-for-freebsd-pkgbase/"
+      ],
+      "oneliner": "Practical Apache reverse proxy walkthrough cuts repeated FreeBSD jail downloads by caching pkgbase packages locally."
+    },
+    {
+      "title": "Dynamic derivations in Nix explained",
+      "urls": [
+        "https://fzakaria.com/2026/11/14/beer-drv-drv-drv"
+      ],
+      "oneliner": "Hands-on Nix example shows dynamic derivations generating new build graphs at runtime with working config details."
+    },
+    {
+      "title": "Hands-on digital fabrication course materials",
+      "urls": [
+        "https://pub.cba.mit.edu/863.26/site/"
+      ],
+      "oneliner": "MIT course site bundles weekly labs for CAD, embedded programming, electronics, machining, and final project integration."
+    },
+    {
+      "title": "AAA lighting pipeline in Three.js",
+      "urls": [
+        "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs"
+      ],
+      "oneliner": "Deep implementation writeup shows how WebGPU, G-buffers, GI, and reflections push Three.js toward game engine lighting."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "offline",
+    "open",
+    "native",
+    "instant",
+    "replaced"
+  ],
+  "tokenUsage": {
+    "promptTokens": 17521,
+    "completionTokens": 657,
+    "totalTokens": 18178,
+    "costUsd": 0.0536575
+  }
+}

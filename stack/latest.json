@@ -1,94 +1,94 @@
 {
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T19:12:38.767897+00:00",
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T22:27:18.047120+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 60,
+  "totalItemsConsidered": 86,
   "items": [
     {
-      "title": "Instant database branches for testing",
+      "title": "SQLite function caching for Python",
       "urls": [
-        "https://github.com/db-branch/db-branch"
+        "https://alexwlchan.net/2026/funkycache/"
       ],
-      "oneliner": "CLI creates MySQL and Postgres branches in seconds with ZFS snapshots for CI, migrations, and agent sandboxes."
+      "oneliner": "Decorator-based SQLite cache stores Python function results and auto-invalidates when source files or dependencies change."
     },
     {
-      "title": "Practical guide to positional embeddings",
+      "title": "Stable datetime library for Rust",
       "urls": [
-        "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
+        "https://burntsushi.net/jiff/"
       ],
-      "oneliner": "Hands-on PyTorch walkthrough explains RoPE and relative embeddings with code you can adapt for modern LLM implementations."
+      "oneliner": "Rust datetime crate reaches 1.0 with a stable API for parsing, formatting, time zones, and calendar math."
     },
     {
-      "title": "FreeBSD bhyve live migration RFC",
+      "title": "Open source image reference organizer",
       "urls": [
-        "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/"
+        "https://kaigulliksen.com/blog/introducing-reference-drawer-a-tool-for-organizing-your-reference-images/"
       ],
-      "oneliner": "Working code shows pre-copy VM migration over TCP for bhyve, useful for host maintenance and clustered virtualization experiments."
+      "oneliner": "Free desktop app tags image folders, builds mood boards, and replaces ad hoc reference management for artists and UI teams."
     },
     {
-      "title": "Visualizing conversation states in Qwen",
+      "title": "Better shrinking for Clojure property tests",
       "urls": [
-        "https://operator0x.com/field-notes/qwen-conversation-state-space/"
+        "https://aphyr.com/posts/428-announcing-hegel-clj"
       ],
-      "oneliner": "Deep dive maps 900 Qwen3 conversations to reveal topic clustering and residual-stream dynamics inside a small language model."
+      "oneliner": "New Clojure generative testing library fixes painful shrink behavior in complex generators that break test.check workflows."
     },
     {
-      "title": "Survey of C memory management",
+      "title": "Clojure that compiles to native binaries",
       "urls": [
-        "https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html"
+        "https://jolt-lang.net/"
       ],
-      "oneliner": "Benchmark-style survey compares allocators, leak handling, and documentation patterns across 40 major C codebases."
+      "oneliner": "Self-hosted Clojure implementation speaks C directly and builds standalone binaries without a JVM or Chez runtime."
     },
     {
-      "title": "Reverse engineering a Jeep ECU",
+      "title": "Open operating system for Rigol scopes",
       "urls": [
-        "https://www.youtube.com/watch?v=WPj3aQ-xxpI"
+        "https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/"
       ],
-      "oneliner": "Video walkthrough shows an Arduino-based ECU reverse engineering workflow that automotive hackers can replicate with cheap hardware."
+      "oneliner": "Experimental Linux and Rust firmware adds protocol decoders, triggers, and measurements to Rigol DHO800 and DHO900 oscilloscopes."
     },
     {
-      "title": "Minimal IR remote decoding guide",
+      "title": "Local FreeBSD pkgbase mirror guide",
       "urls": [
-        "https://bitbanksoftware.blogspot.com/2026/11/how-to-read-codes-from-many-ir-remote.html"
+        "https://blog.feld.me/posts/2026/11/local-mirror-for-freebsd-pkgbase/"
       ],
-      "oneliner": "Practical tutorial shows how to read many IR remote protocols with minimal code and inexpensive Vishay receivers."
+      "oneliner": "Practical Apache reverse proxy walkthrough cuts repeated FreeBSD jail downloads by caching pkgbase packages locally."
     },
     {
-      "title": "Using Emacs as a browser",
+      "title": "Dynamic derivations in Nix explained",
       "urls": [
-        "https://joshblais.com/blog/emacs-as-my-browser/"
+        "https://fzakaria.com/2026/11/14/beer-drv-drv-drv"
       ],
-      "oneliner": "Configuration guide turns EWW into a usable daily browser with keybindings, media helpers, and distraction-free workflows."
+      "oneliner": "Hands-on Nix example shows dynamic derivations generating new build graphs at runtime with working config details."
     },
     {
-      "title": "NetBSD disk encryption playbook",
+      "title": "Hands-on digital fabrication course materials",
       "urls": [
-        "https://netbsd.org/~nia/disk-encrypt/"
+        "https://pub.cba.mit.edu/863.26/site/"
       ],
-      "oneliner": "Detailed guide explains threat models, boot tradeoffs, and directory-level secrecy for deploying practical disk encryption on NetBSD."
+      "oneliner": "MIT course site bundles weekly labs for CAD, embedded programming, electronics, machining, and final project integration."
     },
     {
-      "title": "Simpler architecture for FRC robots",
+      "title": "AAA lighting pipeline in Three.js",
       "urls": [
-        "https://bvisness.me/periodic-oriented-programming/"
+        "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs"
       ],
-      "oneliner": "This robotics tutorial replaces overengineered command stacks with a single periodic loop that students can understand and debug."
+      "oneliner": "Deep implementation writeup shows how WebGPU, G-buffers, GI, and reflections push Three.js toward game engine lighting."
     }
   ],
   "keywords": [
     "shipped",
-    "instant",
     "blazing",
     "offline",
     "open",
-    "local",
-    "unlocked"
+    "native",
+    "instant",
+    "replaced"
   ],
   "tokenUsage": {
-    "promptTokens": 12374,
-    "completionTokens": 648,
-    "totalTokens": 13022,
-    "costUsd": 0.040655
+    "promptTokens": 17521,
+    "completionTokens": 657,
+    "totalTokens": 18178,
+    "costUsd": 0.0536575
   }
 }

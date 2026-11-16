@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T22:27:06.068559+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 86,
+  "items": [
+    {
+      "title": "OpenAI used GPT-6 Astra for physics",
+      "urls": [
+        "https://openai.com/index/step-toward-defining-the-standard-model/"
+      ],
+      "oneliner": "OpenAI says GPT-6 Astra helped prove a Standard Model construction. Frontier models are inching from coding into real research.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "Apple launched a massive AI health study",
+      "urls": [
+        "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/"
+      ],
+      "oneliner": "Apple opened a 200,000-person AI health study app. Consumer distribution is becoming a serious moat for medical AI data.",
+      "emoji": "📊"
+    },
+    {
+      "title": "OpenAI opened models to outside assessors",
+      "urls": [
+        "https://openai.com/index/our-first-phase-of-embedded-assessments/"
+      ],
+      "oneliner": "OpenAI gave four outside groups internal model access for embedded assessments. Safety evaluation is getting closer to audit, not PR.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "uBlock Origin had a universal XSS flaw",
+      "urls": [
+        "https://iter.ca/post/ubo-uxss/"
+      ],
+      "oneliner": "A website-driven uBlock Origin bug enabled universal XSS across sites. Browser extensions remain a dangerously privileged attack surface.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "Linux TCP bug can remotely crash servers",
+      "urls": [
+        "https://www.openwall.com/lists/oss-security/2026/11/15/2"
+      ],
+      "oneliner": "NoisyTCP lets attackers corrupt Linux TCP state and knock over Nginx or Apache. Default stacks are still one packet away from pain.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "One bad MCP server can hijack agents",
+      "urls": [
+        "https://venturebeat.com/orchestration/one-compromised-mcp-server-can-trick-an-ai-agent-into-misusing-tools-you-already-trust"
+      ],
+      "oneliner": "A compromised MCP server made agents misuse trusted tools 78.3% of the time. Tool trust is now the real agent perimeter.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Congress is targeting remote access to compute",
+      "urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+      ],
+      "oneliner": "Congress is reviving rules to block China's remote access to overseas AI compute. Export controls are shifting from chips to usage.",
+      "emoji": "🌐"
+    },
+    {
+      "title": "Nvidia faces China scrutiny and supply pressure",
+      "urls": [
+        "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+        "https://www.theneurondaily.com/p/nvidia-reportedly-supplied-china-via-asia",
+        "https://www.axios.com/2026/11/15/bessent-nvidia-earnings-china-chip-sales-ceo"
+      ],
+      "oneliner": "Nvidia's China exposure is under fire as rivals and cloud customers build alternatives. The AI hardware monopoly looks less permanent.",
+      "emoji": "🏭"
+    },
+    {
+      "title": "Rust enabled its parallel frontend by default",
+      "urls": [
+        "https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/"
+      ],
+      "oneliner": "Rust nightly now enables the parallel frontend by default, with some benchmarks up to 3x faster. Compiler parallelism is finally shipping.",
+      "emoji": "💻"
+    },
+    {
+      "title": "Microsoft traced its email outage to a fix",
+      "urls": [
+        "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026"
+      ],
+      "oneliner": "Microsoft says a July fix triggered lock contention that left over 80% of email servers unresponsive. Reliability debt compounds quietly.",
+      "emoji": "💰"
+    }
+  ],
+  "keywords": [
+    "weaponized",
+    "surpassed",
+    "cracking",
+    "scarcity",
+    "autonomy",
+    "scrutiny",
+    "consolidation"
+  ],
+  "tokenUsage": {
+    "promptTokens": 17696,
+    "completionTokens": 793,
+    "totalTokens": 18489,
+    "costUsd": 0.056135000000000004
+  }
+}
