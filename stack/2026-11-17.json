@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T21:16:06.327029+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 47,
+  "items": [
+    {
+      "title": "Trainium inference engine is open",
+      "urls": [
+        "https://github.com/RunanywhereAI/trnrt"
+      ],
+      "oneliner": "Open-source Trainium server exposes an OpenAI-compatible API with 1M-token context and sparse attention on trn2 instances."
+    },
+    {
+      "title": "Harness benchmark compares coding agents",
+      "urls": [
+        "https://runta.com/blog/introducing-frontierharness-eval-v1-1/"
+      ],
+      "oneliner": "This eval compares 22 agent harnesses across 5 models and 62 tasks to pick the best stack by cost."
+    },
+    {
+      "title": "Build a browser from scratch",
+      "urls": [
+        "https://browser.engineering/"
+      ],
+      "oneliner": "Free book and code walk you through building a working web browser in Python from networking to JavaScript."
+    },
+    {
+      "title": "Claude Code verification playbook",
+      "urls": [
+        "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/"
+      ],
+      "oneliner": "Practical guide shows how E2E, property, and differential tests improved agent coding success on complex tasks."
+    },
+    {
+      "title": "CSS components work without JavaScript",
+      "urls": [
+        "https://alloyhtml.com/example.html"
+      ],
+      "oneliner": "Minimal HTML and CSS toolkit ships accessible dialogs, menus, and tabs that still function with JavaScript disabled."
+    },
+    {
+      "title": "jQuery gets a modern maintenance release",
+      "urls": [
+        "https://github.com/jquery/jquery/releases/tag/4.1.0"
+      ],
+      "oneliner": "Latest jQuery release adds responseURL support, removes deprecated paths, and tightens test coverage for legacy web apps."
+    },
+    {
+      "title": "Phrack ships a new security issue",
+      "urls": [
+        "https://phrack.org/issues/73/introduction_md"
+      ],
+      "oneliner": "Anniversary issue bundles deep exploit, crypto, and AI security writeups practitioners can study and apply immediately."
+    },
+    {
+      "title": "CMU courses are free to watch",
+      "urls": [
+        "https://www.cs.cmu.edu/learn/"
+      ],
+      "oneliner": "Carnegie Mellon published free CS courses on YouTube covering machine learning, programming, and software engineering."
+    },
+    {
+      "title": "Vintage Visual Basic code is searchable",
+      "urls": [
+        "https://visualbasic.world/"
+      ],
+      "oneliner": "This archive surfaces thousands of historical Visual Basic projects with screenshots for reverse engineering old desktop patterns."
+    },
+    {
+      "title": "Rows versus columns explained clearly",
+      "urls": [
+        "https://spiraldb.com/blog/rows-vs-columns"
+      ],
+      "oneliner": "Clear database walkthrough shows when columnar storage wins, with concrete reasoning around scans, vectors, and analytics workloads."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "instant",
+    "unlocked",
+    "local",
+    "open",
+    "practical"
+  ],
+  "tokenUsage": {
+    "promptTokens": 9951,
+    "completionTokens": 649,
+    "totalTokens": 10600,
+    "costUsd": 0.0346125
+  }
+}

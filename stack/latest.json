@@ -1,94 +1,94 @@
 {
-  "date": "2026-11-16",
-  "generated_at": "2026-11-16T22:27:18.047120+00:00",
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T21:16:06.327029+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 86,
+  "totalItemsConsidered": 47,
   "items": [
     {
-      "title": "SQLite function caching for Python",
+      "title": "Trainium inference engine is open",
       "urls": [
-        "https://alexwlchan.net/2026/funkycache/"
+        "https://github.com/RunanywhereAI/trnrt"
       ],
-      "oneliner": "Decorator-based SQLite cache stores Python function results and auto-invalidates when source files or dependencies change."
+      "oneliner": "Open-source Trainium server exposes an OpenAI-compatible API with 1M-token context and sparse attention on trn2 instances."
     },
     {
-      "title": "Stable datetime library for Rust",
+      "title": "Harness benchmark compares coding agents",
       "urls": [
-        "https://burntsushi.net/jiff/"
+        "https://runta.com/blog/introducing-frontierharness-eval-v1-1/"
       ],
-      "oneliner": "Rust datetime crate reaches 1.0 with a stable API for parsing, formatting, time zones, and calendar math."
+      "oneliner": "This eval compares 22 agent harnesses across 5 models and 62 tasks to pick the best stack by cost."
     },
     {
-      "title": "Open source image reference organizer",
+      "title": "Build a browser from scratch",
       "urls": [
-        "https://kaigulliksen.com/blog/introducing-reference-drawer-a-tool-for-organizing-your-reference-images/"
+        "https://browser.engineering/"
       ],
-      "oneliner": "Free desktop app tags image folders, builds mood boards, and replaces ad hoc reference management for artists and UI teams."
+      "oneliner": "Free book and code walk you through building a working web browser in Python from networking to JavaScript."
     },
     {
-      "title": "Better shrinking for Clojure property tests",
+      "title": "Claude Code verification playbook",
       "urls": [
-        "https://aphyr.com/posts/428-announcing-hegel-clj"
+        "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/"
       ],
-      "oneliner": "New Clojure generative testing library fixes painful shrink behavior in complex generators that break test.check workflows."
+      "oneliner": "Practical guide shows how E2E, property, and differential tests improved agent coding success on complex tasks."
     },
     {
-      "title": "Clojure that compiles to native binaries",
+      "title": "CSS components work without JavaScript",
       "urls": [
-        "https://jolt-lang.net/"
+        "https://alloyhtml.com/example.html"
       ],
-      "oneliner": "Self-hosted Clojure implementation speaks C directly and builds standalone binaries without a JVM or Chez runtime."
+      "oneliner": "Minimal HTML and CSS toolkit ships accessible dialogs, menus, and tabs that still function with JavaScript disabled."
     },
     {
-      "title": "Open operating system for Rigol scopes",
+      "title": "jQuery gets a modern maintenance release",
       "urls": [
-        "https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/"
+        "https://github.com/jquery/jquery/releases/tag/4.1.0"
       ],
-      "oneliner": "Experimental Linux and Rust firmware adds protocol decoders, triggers, and measurements to Rigol DHO800 and DHO900 oscilloscopes."
+      "oneliner": "Latest jQuery release adds responseURL support, removes deprecated paths, and tightens test coverage for legacy web apps."
     },
     {
-      "title": "Local FreeBSD pkgbase mirror guide",
+      "title": "Phrack ships a new security issue",
       "urls": [
-        "https://blog.feld.me/posts/2026/11/local-mirror-for-freebsd-pkgbase/"
+        "https://phrack.org/issues/73/introduction_md"
       ],
-      "oneliner": "Practical Apache reverse proxy walkthrough cuts repeated FreeBSD jail downloads by caching pkgbase packages locally."
+      "oneliner": "Anniversary issue bundles deep exploit, crypto, and AI security writeups practitioners can study and apply immediately."
     },
     {
-      "title": "Dynamic derivations in Nix explained",
+      "title": "CMU courses are free to watch",
       "urls": [
-        "https://fzakaria.com/2026/11/14/beer-drv-drv-drv"
+        "https://www.cs.cmu.edu/learn/"
       ],
-      "oneliner": "Hands-on Nix example shows dynamic derivations generating new build graphs at runtime with working config details."
+      "oneliner": "Carnegie Mellon published free CS courses on YouTube covering machine learning, programming, and software engineering."
     },
     {
-      "title": "Hands-on digital fabrication course materials",
+      "title": "Vintage Visual Basic code is searchable",
       "urls": [
-        "https://pub.cba.mit.edu/863.26/site/"
+        "https://visualbasic.world/"
       ],
-      "oneliner": "MIT course site bundles weekly labs for CAD, embedded programming, electronics, machining, and final project integration."
+      "oneliner": "This archive surfaces thousands of historical Visual Basic projects with screenshots for reverse engineering old desktop patterns."
     },
     {
-      "title": "AAA lighting pipeline in Three.js",
+      "title": "Rows versus columns explained clearly",
       "urls": [
-        "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs"
+        "https://spiraldb.com/blog/rows-vs-columns"
       ],
-      "oneliner": "Deep implementation writeup shows how WebGPU, G-buffers, GI, and reflections push Three.js toward game engine lighting."
+      "oneliner": "Clear database walkthrough shows when columnar storage wins, with concrete reasoning around scans, vectors, and analytics workloads."
     }
   ],
   "keywords": [
     "shipped",
     "blazing",
-    "offline",
-    "open",
-    "native",
     "instant",
-    "replaced"
+    "unlocked",
+    "local",
+    "open",
+    "practical"
   ],
   "tokenUsage": {
-    "promptTokens": 17521,
-    "completionTokens": 657,
-    "totalTokens": 18178,
-    "costUsd": 0.0536575
+    "promptTokens": 9951,
+    "completionTokens": 649,
+    "totalTokens": 10600,
+    "costUsd": 0.0346125
   }
 }
