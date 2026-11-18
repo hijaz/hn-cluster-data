@@ -1,79 +1,79 @@
 {
-  "date": "2026-11-17",
-  "generated_at": "2026-11-17T21:16:06.327029+00:00",
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T20:54:46.495632+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 47,
+  "totalItemsConsidered": 89,
   "items": [
     {
-      "title": "Trainium inference engine is open",
+      "title": "Google open-sourced massive Git acceleration",
       "urls": [
-        "https://github.com/RunanywhereAI/trnrt"
+        "https://developers.googleblog.com/en/accelerating-development-for-massive-git-repositories/"
       ],
-      "oneliner": "Open-source Trainium server exposes an OpenAI-compatible API with 1M-token context and sparse attention on trn2 instances."
+      "oneliner": "Open-source build service cuts Android checkout to under 8 seconds and full builds to about 2 minutes."
     },
     {
-      "title": "Harness benchmark compares coding agents",
+      "title": "Deterministic pytest worker orchestration guide",
       "urls": [
-        "https://runta.com/blog/introducing-frontierharness-eval-v1-1/"
+        "https://making.close.com/posts/faster-ci-with-orchestrated-pytest-workers/"
       ],
-      "oneliner": "This eval compares 22 agent harnesses across 5 models and 62 tasks to pick the best stack by cost."
+      "oneliner": "Hands-on CI playbook shows how 58,000 tests were parallelized down to 2.5-minute GitHub Actions runs."
     },
     {
-      "title": "Build a browser from scratch",
+      "title": "Android becomes a hardware USB deck",
       "urls": [
-        "https://browser.engineering/"
+        "https://github.com/mr-anjaneyam/Emittr"
       ],
-      "oneliner": "Free book and code walk you through building a working web browser in Python from networking to JavaScript."
+      "oneliner": "Clone this repo to turn a rooted Android phone into a driverless USB keyboard and trackpad."
     },
     {
-      "title": "Claude Code verification playbook",
+      "title": "Vector search for lakehouse tables",
       "urls": [
-        "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/"
+        "https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats"
       ],
-      "oneliner": "Practical guide shows how E2E, property, and differential tests improved agent coding success on complex tasks."
+      "oneliner": "Adds vector search to Iceberg, Hudi, and Open tables with 63.5 ms median queries and no separate vector database."
     },
     {
-      "title": "CSS components work without JavaScript",
+      "title": "Open-source migration map from SaaS",
       "urls": [
-        "https://alloyhtml.com/example.html"
+        "https://exitpath-ruddy.vercel.app/"
       ],
-      "oneliner": "Minimal HTML and CSS toolkit ships accessible dialogs, menus, and tabs that still function with JavaScript disabled."
+      "oneliner": "Practical migration guide grades the difficulty of leaving Slack, Notion, Google Workspace, and Microsoft 365."
     },
     {
-      "title": "jQuery gets a modern maintenance release",
+      "title": "Faster vector clustering for retrieval",
       "urls": [
-        "https://github.com/jquery/jquery/releases/tag/4.1.0"
+        "https://www.lkuffo.com/superemeans/"
       ],
-      "oneliner": "Latest jQuery release adds responseURL support, removes deprecated paths, and tightens test coverage for legacy web apps."
+      "oneliner": "New clustering method speeds e-means by 3x while preserving retrieval quality for large vector indexes."
     },
     {
-      "title": "Phrack ships a new security issue",
+      "title": "PyPI packaging checks you should test",
       "urls": [
-        "https://phrack.org/issues/73/introduction_md"
+        "https://blog.pypi.org/posts/2026-11-18-stricter-checks-for-uploaded-sdists/"
       ],
-      "oneliner": "Anniversary issue bundles deep exploit, crypto, and AI security writeups practitioners can study and apply immediately."
+      "oneliner": "Actionable packaging update explains which source distributions PyPI now rejects and how maintainers avoid broken uploads."
     },
     {
-      "title": "CMU courses are free to watch",
+      "title": "Stacked diffs workflow with Maiao",
       "urls": [
-        "https://www.cs.cmu.edu/learn/"
+        "https://entropicthoughts.com/stacked-diffs-with-maiao"
       ],
-      "oneliner": "Carnegie Mellon published free CS courses on YouTube covering machine learning, programming, and software engineering."
+      "oneliner": "Clear walkthrough shows how stacked diffs simplify GitHub code review and reduce branch management pain."
     },
     {
-      "title": "Vintage Visual Basic code is searchable",
+      "title": "Custom C++ game engine walkthrough",
       "urls": [
-        "https://visualbasic.world/"
+        "https://spectralorbit.com/blog/satelital_game_engine"
       ],
-      "oneliner": "This archive surfaces thousands of historical Visual Basic projects with screenshots for reverse engineering old desktop patterns."
+      "oneliner": "Detailed build log covers SDL2, OpenGL, shaders, and engine architecture from prototype to shipped puzzle game."
     },
     {
-      "title": "Rows versus columns explained clearly",
+      "title": "Multilingual coding font for developers",
       "urls": [
-        "https://spiraldb.com/blog/rows-vs-columns"
+        "https://picaq.github.io/sarasa"
       ],
-      "oneliner": "Clear database walkthrough shows when columnar storage wins, with concrete reasoning around scans, vectors, and analytics workloads."
+      "oneliner": "Open-source monospace font combines Iosevka and Source Han Sans for aligned Latin and East Asian code editing."
     }
   ],
   "keywords": [
@@ -86,9 +86,9 @@
     "practical"
   ],
   "tokenUsage": {
-    "promptTokens": 9951,
-    "completionTokens": 649,
-    "totalTokens": 10600,
-    "costUsd": 0.0346125
+    "promptTokens": 18304,
+    "completionTokens": 657,
+    "totalTokens": 18961,
+    "costUsd": 0.055615000000000005
   }
 }

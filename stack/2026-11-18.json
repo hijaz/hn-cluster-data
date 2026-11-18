@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T20:54:46.495632+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 89,
+  "items": [
+    {
+      "title": "Google open-sourced massive Git acceleration",
+      "urls": [
+        "https://developers.googleblog.com/en/accelerating-development-for-massive-git-repositories/"
+      ],
+      "oneliner": "Open-source build service cuts Android checkout to under 8 seconds and full builds to about 2 minutes."
+    },
+    {
+      "title": "Deterministic pytest worker orchestration guide",
+      "urls": [
+        "https://making.close.com/posts/faster-ci-with-orchestrated-pytest-workers/"
+      ],
+      "oneliner": "Hands-on CI playbook shows how 58,000 tests were parallelized down to 2.5-minute GitHub Actions runs."
+    },
+    {
+      "title": "Android becomes a hardware USB deck",
+      "urls": [
+        "https://github.com/mr-anjaneyam/Emittr"
+      ],
+      "oneliner": "Clone this repo to turn a rooted Android phone into a driverless USB keyboard and trackpad."
+    },
+    {
+      "title": "Vector search for lakehouse tables",
+      "urls": [
+        "https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats"
+      ],
+      "oneliner": "Adds vector search to Iceberg, Hudi, and Open tables with 63.5 ms median queries and no separate vector database."
+    },
+    {
+      "title": "Open-source migration map from SaaS",
+      "urls": [
+        "https://exitpath-ruddy.vercel.app/"
+      ],
+      "oneliner": "Practical migration guide grades the difficulty of leaving Slack, Notion, Google Workspace, and Microsoft 365."
+    },
+    {
+      "title": "Faster vector clustering for retrieval",
+      "urls": [
+        "https://www.lkuffo.com/superemeans/"
+      ],
+      "oneliner": "New clustering method speeds e-means by 3x while preserving retrieval quality for large vector indexes."
+    },
+    {
+      "title": "PyPI packaging checks you should test",
+      "urls": [
+        "https://blog.pypi.org/posts/2026-11-18-stricter-checks-for-uploaded-sdists/"
+      ],
+      "oneliner": "Actionable packaging update explains which source distributions PyPI now rejects and how maintainers avoid broken uploads."
+    },
+    {
+      "title": "Stacked diffs workflow with Maiao",
+      "urls": [
+        "https://entropicthoughts.com/stacked-diffs-with-maiao"
+      ],
+      "oneliner": "Clear walkthrough shows how stacked diffs simplify GitHub code review and reduce branch management pain."
+    },
+    {
+      "title": "Custom C++ game engine walkthrough",
+      "urls": [
+        "https://spectralorbit.com/blog/satelital_game_engine"
+      ],
+      "oneliner": "Detailed build log covers SDL2, OpenGL, shaders, and engine architecture from prototype to shipped puzzle game."
+    },
+    {
+      "title": "Multilingual coding font for developers",
+      "urls": [
+        "https://picaq.github.io/sarasa"
+      ],
+      "oneliner": "Open-source monospace font combines Iosevka and Source Han Sans for aligned Latin and East Asian code editing."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "instant",
+    "unlocked",
+    "local",
+    "open",
+    "practical"
+  ],
+  "tokenUsage": {
+    "promptTokens": 18304,
+    "completionTokens": 657,
+    "totalTokens": 18961,
+    "costUsd": 0.055615000000000005
+  }
+}

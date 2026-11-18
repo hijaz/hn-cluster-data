@@ -1,0 +1,109 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T20:54:36.435848+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 89,
+  "items": [
+    {
+      "title": "OpenAI split its lineup in two",
+      "urls": [
+        "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+        "https://venturebeat.com/technology/essentially-unusable-openai-launches-gpt-6-2-astra-and-sol-to-negative-reception-from-ai-power-users"
+      ],
+      "oneliner": "OpenAI says GPT-6.2 Astra beats its predecessor by 5.2 points at under one-third the cost.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "Microsoft flooded the market with models",
+      "urls": [
+        "https://microsoft.ai/news/microsoft-ignite-2026/"
+      ],
+      "oneliner": "Microsoft shipped seven MAI models, including a cheaper Code 2 that claims 98% of prior coding quality.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "RadixArk pushed RL into agent benchmarks",
+      "urls": [
+        "https://www.radixark.com/blog/daisyrose-27b"
+      ],
+      "oneliner": "DaisyRose-27B doubled Terminal-Bench 4.1 from 5.6% to 12%, showing targeted RL still moves hard agent tasks.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "Energy-based reasoning got real numbers",
+      "urls": [
+        "https://energy-based-reasoners.github.io/"
+      ],
+      "oneliner": "Energy-Based Reasoners claim 385x cheaper inference, hinting that reasoning gains may come from architecture, not just scale.",
+      "emoji": "📊"
+    },
+    {
+      "title": "Java got a Base64 remote exploit",
+      "urls": [
+        "https://calif.io/java4shell/",
+        "https://mccue.dev/pages/11-18-26-java4shell"
+      ],
+      "oneliner": "Java4Shell turns OpenJDK's Base64 decoder into unauthenticated RCE, a nasty reminder that memory safety still has escape hatches.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "NGINX HTTP/2 needs patching now",
+      "urls": [
+        "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+        "https://ma.ttias.be/nginx-http2-cve-2026-123633-123007/",
+        "https://xint.io/blog/nginx2root-remote-code-execution",
+        "https://nginx2root.com/"
+      ],
+      "oneliner": "Critical NGINX HTTP/2 RCE bugs hit versions 1.9.5 through 1.31.8, so internet-facing fleets need emergency patch windows.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Windows is watching your coding agents",
+      "urls": [
+        "https://xusheng.dev/posts/windows-coding-agent-telemetry/"
+      ],
+      "oneliner": "Windows 11 tracks executables like codex.exe and python.exe by default, making dev-tool telemetry an OS-level product decision.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "PyPI tightened package upload rules",
+      "urls": [
+        "https://blog.pypi.org/posts/2026-11-18-stricter-checks-for-uploaded-sdists/"
+      ],
+      "oneliner": "PyPI now rejects risky source distributions, closing parser-differential tricks before they become the next supply-chain incident.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "Google open-sourced its giant repo speedup",
+      "urls": [
+        "https://developers.googleblog.com/en/accelerating-development-for-massive-git-repositories/"
+      ],
+      "oneliner": "Google cut Android checkout from 30 minutes to under 8 seconds, then open-sourced the system behind it.",
+      "emoji": "💻"
+    },
+    {
+      "title": "Vector search moved into the lakehouse",
+      "urls": [
+        "https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats"
+      ],
+      "oneliner": "Lakegres adds vector search directly on Iceberg, Hudi, and Open tables, reducing another reason to stand up a separate vector database.",
+      "emoji": "🏭"
+    }
+  ],
+  "keywords": [
+    "cracked",
+    "weaponized",
+    "surpassed",
+    "autonomy",
+    "scarcity",
+    "patched",
+    "consolidation"
+  ],
+  "tokenUsage": {
+    "promptTokens": 18479,
+    "completionTokens": 817,
+    "totalTokens": 19296,
+    "costUsd": 0.0584525
+  }
+}
