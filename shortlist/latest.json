@@ -1,109 +1,106 @@
 {
-  "date": "2026-11-18",
-  "generated_at": "2026-11-18T20:54:36.435848+00:00",
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T20:55:59.202875+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 89,
+  "totalItemsConsidered": 74,
   "items": [
     {
-      "title": "OpenAI split its lineup in two",
+      "title": "Google shipped Gemini 4 Neon",
       "urls": [
-        "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-        "https://venturebeat.com/technology/essentially-unusable-openai-launches-gpt-6-2-astra-and-sol-to-negative-reception-from-ai-power-users"
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
       ],
-      "oneliner": "OpenAI says GPT-6.2 Astra beats its predecessor by 5.2 points at under one-third the cost.",
+      "oneliner": "Gemini 4 Neon targets coding and knowledge work, signaling Google's push to make premium assistants feel production-ready.",
       "emoji": "🤖"
     },
     {
-      "title": "Microsoft flooded the market with models",
+      "title": "Claude tackled black hole physics",
       "urls": [
-        "https://microsoft.ai/news/microsoft-ignite-2026/"
+        "https://www.anthropic.com/research/claude-black-hole-physics"
       ],
-      "oneliner": "Microsoft shipped seven MAI models, including a cheaper Code 2 that claims 98% of prior coding quality.",
+      "oneliner": "Anthropic says Claude solved two black hole theory problems, pushing LLM credibility beyond benchmarks into real research claims.",
       "emoji": "🧠"
     },
     {
-      "title": "RadixArk pushed RL into agent benchmarks",
+      "title": "GAO pierced chatbot safety guardrails",
       "urls": [
-        "https://www.radixark.com/blog/daisyrose-27b"
+        "https://www.gao.gov/products/gao-27-108814",
+        "https://www.theneurondaily.com/p/gao-got-4-chatbots-to-plan-attacks"
       ],
-      "oneliner": "DaisyRose-27B doubled Terminal-Bench 4.1 from 5.6% to 12%, showing targeted RL still moves hard agent tasks.",
-      "emoji": "⚡"
-    },
-    {
-      "title": "Energy-based reasoning got real numbers",
-      "urls": [
-        "https://energy-based-reasoners.github.io/"
-      ],
-      "oneliner": "Energy-Based Reasoners claim 385x cheaper inference, hinting that reasoning gains may come from architecture, not just scale.",
-      "emoji": "📊"
-    },
-    {
-      "title": "Java got a Base64 remote exploit",
-      "urls": [
-        "https://calif.io/java4shell/",
-        "https://mccue.dev/pages/11-18-26-java4shell"
-      ],
-      "oneliner": "Java4Shell turns OpenJDK's Base64 decoder into unauthenticated RCE, a nasty reminder that memory safety still has escape hatches.",
+      "oneliner": "GAO got four major chatbots to help plan attacks, showing current safeguards still fail under basic adversarial pressure.",
       "emoji": "⚠️"
     },
     {
-      "title": "NGINX HTTP/2 needs patching now",
+      "title": "Ruby patched seven critical flaws",
       "urls": [
-        "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-        "https://ma.ttias.be/nginx-http2-cve-2026-123633-123007/",
-        "https://xint.io/blog/nginx2root-remote-code-execution",
-        "https://nginx2root.com/"
+        "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+        "https://verialabs.com/ruby2shell/"
       ],
-      "oneliner": "Critical NGINX HTTP/2 RCE bugs hit versions 1.9.5 through 1.31.8, so internet-facing fleets need emergency patch windows.",
+      "oneliner": "Ruby fixed seven vulnerabilities, including pre-auth RCE paths, so self-hosted Rails teams should treat upgrades as emergency work.",
       "emoji": "🔐"
     },
     {
-      "title": "Windows is watching your coding agents",
+      "title": "Britain admitted its Apple encryption order",
       "urls": [
-        "https://xusheng.dev/posts/windows-coding-agent-telemetry/"
+        "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/"
       ],
-      "oneliner": "Windows 11 tracks executables like codex.exe and python.exe by default, making dev-tool telemetry an OS-level product decision.",
+      "oneliner": "The UK was forced to confirm a secret Apple encryption order, turning abstract backdoor fears into documented state action.",
       "emoji": "🔍"
     },
     {
-      "title": "PyPI tightened package upload rules",
+      "title": "Banks are shifting AI agent liability",
       "urls": [
-        "https://blog.pypi.org/posts/2026-11-18-stricter-checks-for-uploaded-sdists/"
+        "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
       ],
-      "oneliner": "PyPI now rejects risky source distributions, closing parser-differential tricks before they become the next supply-chain incident.",
+      "oneliner": "Citi now says customers bear losses from hacked AI agents, which makes autonomous finance a risk transfer story.",
       "emoji": "🐛"
     },
     {
-      "title": "Google open-sourced its giant repo speedup",
+      "title": "PostgreSQL 19 improved live maintenance",
       "urls": [
-        "https://developers.googleblog.com/en/accelerating-development-for-massive-git-repositories/"
+        "https://www.postgresql.org/about/news/postgresql-19-released-3449/"
       ],
-      "oneliner": "Google cut Android checkout from 30 minutes to under 8 seconds, then open-sourced the system behind it.",
+      "oneliner": "PostgreSQL 19 adds REPACK CONCURRENTLY and plan advice, giving operators safer ways to tune large systems without downtime.",
+      "emoji": "📦"
+    },
+    {
+      "title": "PHP 8.6 expanded core language features",
+      "urls": [
+        "https://www.php.net/releases/8.6/en.php"
+      ],
+      "oneliner": "PHP 8.6 ships partial function application, Duration, Polling, and clamp(), a meaningful upgrade for backend teams still betting on PHP.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "SQLite became distributed blob storage",
+      "urls": [
+        "https://zerodha.tech/blog/high-performance-distributed-blob-storage/"
+      ],
+      "oneliner": "Zerodha built distributed blob storage on sharded SQLite, a reminder that boring components still win under real throughput pressure.",
       "emoji": "💻"
     },
     {
-      "title": "Vector search moved into the lakehouse",
+      "title": "Europe rolled Matrix out at scale",
       "urls": [
-        "https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats"
+        "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/"
       ],
-      "oneliner": "Lakegres adds vector search directly on Iceberg, Hudi, and Open tables, reducing another reason to stand up a separate vector database.",
-      "emoji": "🏭"
+      "oneliner": "The European Commission deployed Matrix to 40,000 staff, giving open secure messaging a rare proof point at institutional scale.",
+      "emoji": "🌐"
     }
   ],
   "keywords": [
     "cracked",
-    "weaponized",
     "surpassed",
+    "weaponized",
     "autonomy",
     "scarcity",
-    "patched",
+    "leaked",
     "consolidation"
   ],
   "tokenUsage": {
-    "promptTokens": 18479,
-    "completionTokens": 817,
-    "totalTokens": 19296,
-    "costUsd": 0.0584525
+    "promptTokens": 16028,
+    "completionTokens": 767,
+    "totalTokens": 16795,
+    "costUsd": 0.051575
   }
 }

@@ -1,79 +1,79 @@
 {
-  "date": "2026-11-18",
-  "generated_at": "2026-11-18T20:54:46.495632+00:00",
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T20:56:10.123840+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 89,
+  "totalItemsConsidered": 74,
   "items": [
     {
-      "title": "Google open-sourced massive Git acceleration",
+      "title": "Visual app builder for local codebases",
       "urls": [
-        "https://developers.googleblog.com/en/accelerating-development-for-massive-git-repositories/"
+        "https://github.com/onlook-dev/onlook/"
       ],
-      "oneliner": "Open-source build service cuts Android checkout to under 8 seconds and full builds to about 2 minutes."
+      "oneliner": "Open-source visual editor lets designers change real app code locally, bridging Figma and Webflow without leaving the repo."
     },
     {
-      "title": "Deterministic pytest worker orchestration guide",
+      "title": "Declarative internal app deployments",
       "urls": [
-        "https://making.close.com/posts/faster-ci-with-orchestrated-pytest-workers/"
+        "https://openrun.dev/blog/openrun-1.0/"
       ],
-      "oneliner": "Hands-on CI playbook shows how 58,000 tests were parallelized down to 2.5-minute GitHub Actions runs."
+      "oneliner": "OpenRun deploys internal tools to Docker or Kubernetes with built-in auth, RBAC, and Starlark configs instead of custom glue."
     },
     {
-      "title": "Android becomes a hardware USB deck",
+      "title": "PostgreSQL 19 is ready now",
       "urls": [
-        "https://github.com/mr-anjaneyam/Emittr"
+        "https://www.postgresql.org/about/news/postgresql-19-released-3449/"
       ],
-      "oneliner": "Clone this repo to turn a rooted Android phone into a driverless USB keyboard and trackpad."
+      "oneliner": "PostgreSQL 19 adds REPACK CONCURRENTLY and plan advice tooling for safer maintenance and stabler query performance at scale."
     },
     {
-      "title": "Vector search for lakehouse tables",
+      "title": "PHP 8.6 ships useful runtime upgrades",
       "urls": [
-        "https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats"
+        "https://www.php.net/releases/8.6/en.php"
       ],
-      "oneliner": "Adds vector search to Iceberg, Hudi, and Open tables with 63.5 ms median queries and no separate vector database."
+      "oneliner": "PHP 8.6 adds partial function application, a Duration class, and a polling API you can start using today."
     },
     {
-      "title": "Open-source migration map from SaaS",
+      "title": "Analog Ising solver with Python SDK",
       "urls": [
-        "https://exitpath-ruddy.vercel.app/"
+        "https://github.com/neoma-pcam/pcam-live"
       ],
-      "oneliner": "Practical migration guide grades the difficulty of leaving Slack, Notion, Google Workspace, and Microsoft 365."
+      "oneliner": "This GitHub project exposes sub-millisecond analog optimization hardware through a Python SDK and hosted MCP server."
     },
     {
-      "title": "Faster vector clustering for retrieval",
+      "title": "Ledger UI for PostgreSQL accounting",
       "urls": [
-        "https://www.lkuffo.com/superemeans/"
+        "https://www.pgrs.net/2026/11/19/visualizing-a-ledger-with-pgledger-ui/"
       ],
-      "oneliner": "New clustering method speeds e-means by 3x while preserving retrieval quality for large vector indexes."
+      "oneliner": "pgledger-ui gives double-entry PostgreSQL ledgers a clickable search and trace interface for debugging balances and transfers."
     },
     {
-      "title": "PyPI packaging checks you should test",
+      "title": "Local garage door control stack",
       "urls": [
-        "https://blog.pypi.org/posts/2026-11-18-stricter-checks-for-uploaded-sdists/"
+        "https://blog.harrison.page/garage-door-spam/"
       ],
-      "oneliner": "Actionable packaging update explains which source distributions PyPI now rejects and how maintainers avoid broken uploads."
+      "oneliner": "A practical walkthrough shows how to replace myQ cloud lock-in with local ratgdo32 control and custom door alerts."
     },
     {
-      "title": "Stacked diffs workflow with Maiao",
+      "title": "Raspberry Pi clock runs offline",
       "urls": [
-        "https://entropicthoughts.com/stacked-diffs-with-maiao"
+        "https://lars.ingebrigtsen.no/2026/11/19/herp-derp-i-eat-paste/"
       ],
-      "oneliner": "Clear walkthrough shows how stacked diffs simplify GitHub code review and reduce branch management pain."
+      "oneliner": "This hands-on rebuild moves SVG clock rendering onto a Pi Zero 2 W so it keeps working offline."
     },
     {
-      "title": "Custom C++ game engine walkthrough",
+      "title": "Use compression before buying RAM",
       "urls": [
-        "https://spectralorbit.com/blog/satelital_game_engine"
+        "https://curiousbits.nl/blog/do-not-buy-ram-compress/"
       ],
-      "oneliner": "Detailed build log covers SDL2, OpenGL, shaders, and engine architecture from prototype to shipped puzzle game."
+      "oneliner": "A practical zram guide shows how memory compression can stretch Linux workstation RAM by roughly 3.35x."
     },
     {
-      "title": "Multilingual coding font for developers",
+      "title": "Rust distinct counting from DataSketches",
       "urls": [
-        "https://picaq.github.io/sarasa"
+        "https://www.tisonkun.io/posts/ai-repair-program/"
       ],
-      "oneliner": "Open-source monospace font combines Iosevka and Source Han Sans for aligned Latin and East Asian code editing."
+      "oneliner": "Deep implementation notes compare HllSketch and CpcSketch while porting Apache DataSketches distinct counting algorithms to Rust."
     }
   ],
   "keywords": [
@@ -86,9 +86,9 @@
     "practical"
   ],
   "tokenUsage": {
-    "promptTokens": 18304,
-    "completionTokens": 657,
-    "totalTokens": 18961,
-    "costUsd": 0.055615000000000005
+    "promptTokens": 15853,
+    "completionTokens": 670,
+    "totalTokens": 16523,
+    "costUsd": 0.049682500000000004
   }
 }

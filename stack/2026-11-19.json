@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T20:56:10.123840+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 74,
+  "items": [
+    {
+      "title": "Visual app builder for local codebases",
+      "urls": [
+        "https://github.com/onlook-dev/onlook/"
+      ],
+      "oneliner": "Open-source visual editor lets designers change real app code locally, bridging Figma and Webflow without leaving the repo."
+    },
+    {
+      "title": "Declarative internal app deployments",
+      "urls": [
+        "https://openrun.dev/blog/openrun-1.0/"
+      ],
+      "oneliner": "OpenRun deploys internal tools to Docker or Kubernetes with built-in auth, RBAC, and Starlark configs instead of custom glue."
+    },
+    {
+      "title": "PostgreSQL 19 is ready now",
+      "urls": [
+        "https://www.postgresql.org/about/news/postgresql-19-released-3449/"
+      ],
+      "oneliner": "PostgreSQL 19 adds REPACK CONCURRENTLY and plan advice tooling for safer maintenance and stabler query performance at scale."
+    },
+    {
+      "title": "PHP 8.6 ships useful runtime upgrades",
+      "urls": [
+        "https://www.php.net/releases/8.6/en.php"
+      ],
+      "oneliner": "PHP 8.6 adds partial function application, a Duration class, and a polling API you can start using today."
+    },
+    {
+      "title": "Analog Ising solver with Python SDK",
+      "urls": [
+        "https://github.com/neoma-pcam/pcam-live"
+      ],
+      "oneliner": "This GitHub project exposes sub-millisecond analog optimization hardware through a Python SDK and hosted MCP server."
+    },
+    {
+      "title": "Ledger UI for PostgreSQL accounting",
+      "urls": [
+        "https://www.pgrs.net/2026/11/19/visualizing-a-ledger-with-pgledger-ui/"
+      ],
+      "oneliner": "pgledger-ui gives double-entry PostgreSQL ledgers a clickable search and trace interface for debugging balances and transfers."
+    },
+    {
+      "title": "Local garage door control stack",
+      "urls": [
+        "https://blog.harrison.page/garage-door-spam/"
+      ],
+      "oneliner": "A practical walkthrough shows how to replace myQ cloud lock-in with local ratgdo32 control and custom door alerts."
+    },
+    {
+      "title": "Raspberry Pi clock runs offline",
+      "urls": [
+        "https://lars.ingebrigtsen.no/2026/11/19/herp-derp-i-eat-paste/"
+      ],
+      "oneliner": "This hands-on rebuild moves SVG clock rendering onto a Pi Zero 2 W so it keeps working offline."
+    },
+    {
+      "title": "Use compression before buying RAM",
+      "urls": [
+        "https://curiousbits.nl/blog/do-not-buy-ram-compress/"
+      ],
+      "oneliner": "A practical zram guide shows how memory compression can stretch Linux workstation RAM by roughly 3.35x."
+    },
+    {
+      "title": "Rust distinct counting from DataSketches",
+      "urls": [
+        "https://www.tisonkun.io/posts/ai-repair-program/"
+      ],
+      "oneliner": "Deep implementation notes compare HllSketch and CpcSketch while porting Apache DataSketches distinct counting algorithms to Rust."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "instant",
+    "unlocked",
+    "local",
+    "open",
+    "practical"
+  ],
+  "tokenUsage": {
+    "promptTokens": 15853,
+    "completionTokens": 670,
+    "totalTokens": 16523,
+    "costUsd": 0.049682500000000004
+  }
+}

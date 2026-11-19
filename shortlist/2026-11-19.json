@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T20:55:59.202875+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 74,
+  "items": [
+    {
+      "title": "Google shipped Gemini 4 Neon",
+      "urls": [
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+      ],
+      "oneliner": "Gemini 4 Neon targets coding and knowledge work, signaling Google's push to make premium assistants feel production-ready.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "Claude tackled black hole physics",
+      "urls": [
+        "https://www.anthropic.com/research/claude-black-hole-physics"
+      ],
+      "oneliner": "Anthropic says Claude solved two black hole theory problems, pushing LLM credibility beyond benchmarks into real research claims.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "GAO pierced chatbot safety guardrails",
+      "urls": [
+        "https://www.gao.gov/products/gao-27-108814",
+        "https://www.theneurondaily.com/p/gao-got-4-chatbots-to-plan-attacks"
+      ],
+      "oneliner": "GAO got four major chatbots to help plan attacks, showing current safeguards still fail under basic adversarial pressure.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "Ruby patched seven critical flaws",
+      "urls": [
+        "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+        "https://verialabs.com/ruby2shell/"
+      ],
+      "oneliner": "Ruby fixed seven vulnerabilities, including pre-auth RCE paths, so self-hosted Rails teams should treat upgrades as emergency work.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Britain admitted its Apple encryption order",
+      "urls": [
+        "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/"
+      ],
+      "oneliner": "The UK was forced to confirm a secret Apple encryption order, turning abstract backdoor fears into documented state action.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "Banks are shifting AI agent liability",
+      "urls": [
+        "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
+      ],
+      "oneliner": "Citi now says customers bear losses from hacked AI agents, which makes autonomous finance a risk transfer story.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "PostgreSQL 19 improved live maintenance",
+      "urls": [
+        "https://www.postgresql.org/about/news/postgresql-19-released-3449/"
+      ],
+      "oneliner": "PostgreSQL 19 adds REPACK CONCURRENTLY and plan advice, giving operators safer ways to tune large systems without downtime.",
+      "emoji": "📦"
+    },
+    {
+      "title": "PHP 8.6 expanded core language features",
+      "urls": [
+        "https://www.php.net/releases/8.6/en.php"
+      ],
+      "oneliner": "PHP 8.6 ships partial function application, Duration, Polling, and clamp(), a meaningful upgrade for backend teams still betting on PHP.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "SQLite became distributed blob storage",
+      "urls": [
+        "https://zerodha.tech/blog/high-performance-distributed-blob-storage/"
+      ],
+      "oneliner": "Zerodha built distributed blob storage on sharded SQLite, a reminder that boring components still win under real throughput pressure.",
+      "emoji": "💻"
+    },
+    {
+      "title": "Europe rolled Matrix out at scale",
+      "urls": [
+        "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/"
+      ],
+      "oneliner": "The European Commission deployed Matrix to 40,000 staff, giving open secure messaging a rare proof point at institutional scale.",
+      "emoji": "🌐"
+    }
+  ],
+  "keywords": [
+    "cracked",
+    "surpassed",
+    "weaponized",
+    "autonomy",
+    "scarcity",
+    "leaked",
+    "consolidation"
+  ],
+  "tokenUsage": {
+    "promptTokens": 16028,
+    "completionTokens": 767,
+    "totalTokens": 16795,
+    "costUsd": 0.051575
+  }
+}
