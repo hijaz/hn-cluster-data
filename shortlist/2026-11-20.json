@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T20:28:11.819444+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 53,
+  "items": [
+    {
+      "title": "Language models can rewrite their own weights",
+      "urls": [
+        "https://arxiv.org/abs/2611.21885"
+      ],
+      "oneliner": "A 27B open model improved on unseen tasks by editing its own weights, pushing training and inference toward collapse.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "AI designed a new CPU architecture",
+      "urls": [
+        "https://architectlabs.com/blog/frostbite"
+      ],
+      "oneliner": "Frostbite claims an AI-designed, AI-verified CPU with better performance per watt, hinting chip design may automate next.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "A tiny audio model got practical",
+      "urls": [
+        "https://kobi.music/research/dettato"
+      ],
+      "oneliner": "Dettato uses 20M parameters yet claims 60x efficiency gains, making on-device audio-to-MIDI suddenly realistic.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "OpenSSL patched a critical overflow",
+      "urls": [
+        "https://github.com/openssl/openssl/pull/33652"
+      ],
+      "oneliner": "OpenSSL fixed a CVSS 9.8 buffer overflow in EVP_EncodeBlock(), a reminder that boring primitives still break everything.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "Messaging apps are bracing for AI agents",
+      "urls": [
+        "https://signal.org/blog/protecting-your-privacy/",
+        "https://www.theneurondaily.com/p/meta-s-muse-ai-agent-reportedly-accessed-signal-messages"
+      ],
+      "oneliner": "Signal is blocking screenshots as OS-level agents spread, and Meta reportedly exposed Signal data during internal testing.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "GrapheneOS says Google is squeezing it",
+      "urls": [
+        "https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/"
+      ],
+      "oneliner": "GrapheneOS alleges Google pressured OEMs and could lock Pixel bootloaders, turning mobile security into a platform control fight.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "The US tightened AI chip exports",
+      "urls": [
+        "https://www.govinfo.gov/content/pkg/FR-2026-11-19/pdf/2026-23529.pdf"
+      ],
+      "oneliner": "New US export rules hit overseas AI data centers immediately, making compute geography a product constraint, not policy trivia.",
+      "emoji": "🏭"
+    },
+    {
+      "title": "Coding agents reached FPGA territory",
+      "urls": [
+        "https://ankitg.me/blog/vibecoding-inference-chip/"
+      ],
+      "oneliner": "One engineer used coding agents on AWS F2 to build an inference chip prototype and reported a 33x speedup.",
+      "emoji": "💻"
+    },
+    {
+      "title": "Lovable added safe parallel app drafts",
+      "urls": [
+        "https://lovable.dev/blog/introducing-drafts"
+      ],
+      "oneliner": "Lovable now clones app, design, and database into isolated drafts, which is branch previews finally catching up to AI builders.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "ARM improved ASTC texture compression",
+      "urls": [
+        "https://www.jonolick.com/home/lz-rdo-lands-in-arms-astc-encoder"
+      ],
+      "oneliner": "ARM added LZ-RDO to astc-encoder, shrinking texture packages with one flag and giving graphics teams free bandwidth back.",
+      "emoji": "📦"
+    }
+  ],
+  "keywords": [
+    "recursive",
+    "weaponized",
+    "surpassed",
+    "crackdown",
+    "autonomy",
+    "scarcity",
+    "leaked"
+  ],
+  "tokenUsage": {
+    "promptTokens": 11927,
+    "completionTokens": 770,
+    "totalTokens": 12697,
+    "costUsd": 0.0413675
+  }
+}

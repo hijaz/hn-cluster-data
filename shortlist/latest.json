@@ -1,106 +1,105 @@
 {
-  "date": "2026-11-19",
-  "generated_at": "2026-11-19T20:55:59.202875+00:00",
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T20:28:11.819444+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 74,
+  "totalItemsConsidered": 53,
   "items": [
     {
-      "title": "Google shipped Gemini 4 Neon",
+      "title": "Language models can rewrite their own weights",
       "urls": [
-        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+        "https://arxiv.org/abs/2611.21885"
       ],
-      "oneliner": "Gemini 4 Neon targets coding and knowledge work, signaling Google's push to make premium assistants feel production-ready.",
+      "oneliner": "A 27B open model improved on unseen tasks by editing its own weights, pushing training and inference toward collapse.",
       "emoji": "🤖"
     },
     {
-      "title": "Claude tackled black hole physics",
+      "title": "AI designed a new CPU architecture",
       "urls": [
-        "https://www.anthropic.com/research/claude-black-hole-physics"
+        "https://architectlabs.com/blog/frostbite"
       ],
-      "oneliner": "Anthropic says Claude solved two black hole theory problems, pushing LLM credibility beyond benchmarks into real research claims.",
+      "oneliner": "Frostbite claims an AI-designed, AI-verified CPU with better performance per watt, hinting chip design may automate next.",
       "emoji": "🧠"
     },
     {
-      "title": "GAO pierced chatbot safety guardrails",
+      "title": "A tiny audio model got practical",
       "urls": [
-        "https://www.gao.gov/products/gao-27-108814",
-        "https://www.theneurondaily.com/p/gao-got-4-chatbots-to-plan-attacks"
+        "https://kobi.music/research/dettato"
       ],
-      "oneliner": "GAO got four major chatbots to help plan attacks, showing current safeguards still fail under basic adversarial pressure.",
+      "oneliner": "Dettato uses 20M parameters yet claims 60x efficiency gains, making on-device audio-to-MIDI suddenly realistic.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "OpenSSL patched a critical overflow",
+      "urls": [
+        "https://github.com/openssl/openssl/pull/33652"
+      ],
+      "oneliner": "OpenSSL fixed a CVSS 9.8 buffer overflow in EVP_EncodeBlock(), a reminder that boring primitives still break everything.",
       "emoji": "⚠️"
     },
     {
-      "title": "Ruby patched seven critical flaws",
+      "title": "Messaging apps are bracing for AI agents",
       "urls": [
-        "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
-        "https://verialabs.com/ruby2shell/"
+        "https://signal.org/blog/protecting-your-privacy/",
+        "https://www.theneurondaily.com/p/meta-s-muse-ai-agent-reportedly-accessed-signal-messages"
       ],
-      "oneliner": "Ruby fixed seven vulnerabilities, including pre-auth RCE paths, so self-hosted Rails teams should treat upgrades as emergency work.",
+      "oneliner": "Signal is blocking screenshots as OS-level agents spread, and Meta reportedly exposed Signal data during internal testing.",
       "emoji": "🔐"
     },
     {
-      "title": "Britain admitted its Apple encryption order",
+      "title": "GrapheneOS says Google is squeezing it",
       "urls": [
-        "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/"
+        "https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/"
       ],
-      "oneliner": "The UK was forced to confirm a secret Apple encryption order, turning abstract backdoor fears into documented state action.",
+      "oneliner": "GrapheneOS alleges Google pressured OEMs and could lock Pixel bootloaders, turning mobile security into a platform control fight.",
       "emoji": "🔍"
     },
     {
-      "title": "Banks are shifting AI agent liability",
+      "title": "The US tightened AI chip exports",
       "urls": [
-        "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
+        "https://www.govinfo.gov/content/pkg/FR-2026-11-19/pdf/2026-23529.pdf"
       ],
-      "oneliner": "Citi now says customers bear losses from hacked AI agents, which makes autonomous finance a risk transfer story.",
-      "emoji": "🐛"
+      "oneliner": "New US export rules hit overseas AI data centers immediately, making compute geography a product constraint, not policy trivia.",
+      "emoji": "🏭"
     },
     {
-      "title": "PostgreSQL 19 improved live maintenance",
+      "title": "Coding agents reached FPGA territory",
       "urls": [
-        "https://www.postgresql.org/about/news/postgresql-19-released-3449/"
+        "https://ankitg.me/blog/vibecoding-inference-chip/"
       ],
-      "oneliner": "PostgreSQL 19 adds REPACK CONCURRENTLY and plan advice, giving operators safer ways to tune large systems without downtime.",
-      "emoji": "📦"
-    },
-    {
-      "title": "PHP 8.6 expanded core language features",
-      "urls": [
-        "https://www.php.net/releases/8.6/en.php"
-      ],
-      "oneliner": "PHP 8.6 ships partial function application, Duration, Polling, and clamp(), a meaningful upgrade for backend teams still betting on PHP.",
-      "emoji": "🛠️"
-    },
-    {
-      "title": "SQLite became distributed blob storage",
-      "urls": [
-        "https://zerodha.tech/blog/high-performance-distributed-blob-storage/"
-      ],
-      "oneliner": "Zerodha built distributed blob storage on sharded SQLite, a reminder that boring components still win under real throughput pressure.",
+      "oneliner": "One engineer used coding agents on AWS F2 to build an inference chip prototype and reported a 33x speedup.",
       "emoji": "💻"
     },
     {
-      "title": "Europe rolled Matrix out at scale",
+      "title": "Lovable added safe parallel app drafts",
       "urls": [
-        "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/"
+        "https://lovable.dev/blog/introducing-drafts"
       ],
-      "oneliner": "The European Commission deployed Matrix to 40,000 staff, giving open secure messaging a rare proof point at institutional scale.",
-      "emoji": "🌐"
+      "oneliner": "Lovable now clones app, design, and database into isolated drafts, which is branch previews finally catching up to AI builders.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "ARM improved ASTC texture compression",
+      "urls": [
+        "https://www.jonolick.com/home/lz-rdo-lands-in-arms-astc-encoder"
+      ],
+      "oneliner": "ARM added LZ-RDO to astc-encoder, shrinking texture packages with one flag and giving graphics teams free bandwidth back.",
+      "emoji": "📦"
     }
   ],
   "keywords": [
-    "cracked",
-    "surpassed",
+    "recursive",
     "weaponized",
+    "surpassed",
+    "crackdown",
     "autonomy",
     "scarcity",
-    "leaked",
-    "consolidation"
+    "leaked"
   ],
   "tokenUsage": {
-    "promptTokens": 16028,
-    "completionTokens": 767,
-    "totalTokens": 16795,
-    "costUsd": 0.051575
+    "promptTokens": 11927,
+    "completionTokens": 770,
+    "totalTokens": 12697,
+    "costUsd": 0.0413675
   }
 }

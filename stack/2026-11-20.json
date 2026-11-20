@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T20:28:19.828792+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 53,
+  "items": [
+    {
+      "title": "Portable floppy disk WiFi NAS",
+      "urls": [
+        "https://github.com/bigcrimping/floppy3.5"
+      ],
+      "oneliner": "Cloneable hardware repo that turns 1.44 MB floppies into WiFi storage with web previews and microSD export."
+    },
+    {
+      "title": "Runnable PostgreSQL 19 feature tour",
+      "urls": [
+        "https://certuvia.com/blog/postgres-19"
+      ],
+      "oneliner": "Hands-on Postgres 19 guide with browser sandboxes for IGNORE NULLS, JSON export, JSONPath transforms, and replication changes."
+    },
+    {
+      "title": "OpenSSL critical overflow fix",
+      "urls": [
+        "https://github.com/openssl/openssl/pull/33652"
+      ],
+      "oneliner": "Patch and tests for a CVSS 9.8 EVP_EncodeBlock overflow show exactly how invalid inputs are now rejected."
+    },
+    {
+      "title": "ASTC texture compression upgrade",
+      "urls": [
+        "https://www.jonolick.com/home/lz-rdo-lands-in-arms-astc-encoder"
+      ],
+      "oneliner": "Practical ASTC encoder improvement adds LZ-RDO with one flag to shrink texture packages without visible quality loss."
+    },
+    {
+      "title": "Dual PSP emulation on Switch 2",
+      "urls": [
+        "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md"
+      ],
+      "oneliner": "Detailed build guide shows how to run two PPSSPP instances and stream one through GameShare on Switch 2."
+    },
+    {
+      "title": "Agent-assisted FPGA inference build",
+      "urls": [
+        "https://ankitg.me/blog/vibecoding-inference-chip/"
+      ],
+      "oneliner": "Deep hardware walkthrough shows coding agents building an FPGA inference path with a reported 33x speedup."
+    },
+    {
+      "title": "Deterministic OpenStreetMap natural language search",
+      "urls": [
+        "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935"
+      ],
+      "oneliner": "Live search tool lets developers test fast, deterministic place queries over OpenStreetMap using plain English constraints."
+    },
+    {
+      "title": "Efficient audio to MIDI transcription",
+      "urls": [
+        "https://kobi.music/research/dettato"
+      ],
+      "oneliner": "Audio-to-MIDI model uses 20M parameters yet claims 60x better efficiency, with commercially safe training data."
+    },
+    {
+      "title": "Lean formalization for Navier-Stokes proof",
+      "urls": [
+        "https://github.com/tristanbuckmaster/navier-stokes/",
+        "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/"
+      ],
+      "oneliner": "Math repo includes Lean code, theorem files, and proof scaffolding for researchers inspecting a major Navier-Stokes claim."
+    },
+    {
+      "title": "Reasoning model distillation tutorial",
+      "urls": [
+        "https://www.youtube.com/watch?v=msp69FR5NZs"
+      ],
+      "oneliner": "Step-by-step video builds a distilled reasoning model from teacher outputs, dataset prep, loss design, training, and evaluation."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "offline",
+    "open",
+    "instant",
+    "embedded",
+    "unlocked"
+  ],
+  "tokenUsage": {
+    "promptTokens": 11752,
+    "completionTokens": 676,
+    "totalTokens": 12428,
+    "costUsd": 0.03952
+  }
+}

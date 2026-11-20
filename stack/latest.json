@@ -1,94 +1,95 @@
 {
-  "date": "2026-11-19",
-  "generated_at": "2026-11-19T20:56:10.123840+00:00",
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T20:28:19.828792+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 74,
+  "totalItemsConsidered": 53,
   "items": [
     {
-      "title": "Visual app builder for local codebases",
+      "title": "Portable floppy disk WiFi NAS",
       "urls": [
-        "https://github.com/onlook-dev/onlook/"
+        "https://github.com/bigcrimping/floppy3.5"
       ],
-      "oneliner": "Open-source visual editor lets designers change real app code locally, bridging Figma and Webflow without leaving the repo."
+      "oneliner": "Cloneable hardware repo that turns 1.44 MB floppies into WiFi storage with web previews and microSD export."
     },
     {
-      "title": "Declarative internal app deployments",
+      "title": "Runnable PostgreSQL 19 feature tour",
       "urls": [
-        "https://openrun.dev/blog/openrun-1.0/"
+        "https://certuvia.com/blog/postgres-19"
       ],
-      "oneliner": "OpenRun deploys internal tools to Docker or Kubernetes with built-in auth, RBAC, and Starlark configs instead of custom glue."
+      "oneliner": "Hands-on Postgres 19 guide with browser sandboxes for IGNORE NULLS, JSON export, JSONPath transforms, and replication changes."
     },
     {
-      "title": "PostgreSQL 19 is ready now",
+      "title": "OpenSSL critical overflow fix",
       "urls": [
-        "https://www.postgresql.org/about/news/postgresql-19-released-3449/"
+        "https://github.com/openssl/openssl/pull/33652"
       ],
-      "oneliner": "PostgreSQL 19 adds REPACK CONCURRENTLY and plan advice tooling for safer maintenance and stabler query performance at scale."
+      "oneliner": "Patch and tests for a CVSS 9.8 EVP_EncodeBlock overflow show exactly how invalid inputs are now rejected."
     },
     {
-      "title": "PHP 8.6 ships useful runtime upgrades",
+      "title": "ASTC texture compression upgrade",
       "urls": [
-        "https://www.php.net/releases/8.6/en.php"
+        "https://www.jonolick.com/home/lz-rdo-lands-in-arms-astc-encoder"
       ],
-      "oneliner": "PHP 8.6 adds partial function application, a Duration class, and a polling API you can start using today."
+      "oneliner": "Practical ASTC encoder improvement adds LZ-RDO with one flag to shrink texture packages without visible quality loss."
     },
     {
-      "title": "Analog Ising solver with Python SDK",
+      "title": "Dual PSP emulation on Switch 2",
       "urls": [
-        "https://github.com/neoma-pcam/pcam-live"
+        "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md"
       ],
-      "oneliner": "This GitHub project exposes sub-millisecond analog optimization hardware through a Python SDK and hosted MCP server."
+      "oneliner": "Detailed build guide shows how to run two PPSSPP instances and stream one through GameShare on Switch 2."
     },
     {
-      "title": "Ledger UI for PostgreSQL accounting",
+      "title": "Agent-assisted FPGA inference build",
       "urls": [
-        "https://www.pgrs.net/2026/11/19/visualizing-a-ledger-with-pgledger-ui/"
+        "https://ankitg.me/blog/vibecoding-inference-chip/"
       ],
-      "oneliner": "pgledger-ui gives double-entry PostgreSQL ledgers a clickable search and trace interface for debugging balances and transfers."
+      "oneliner": "Deep hardware walkthrough shows coding agents building an FPGA inference path with a reported 33x speedup."
     },
     {
-      "title": "Local garage door control stack",
+      "title": "Deterministic OpenStreetMap natural language search",
       "urls": [
-        "https://blog.harrison.page/garage-door-spam/"
+        "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935"
       ],
-      "oneliner": "A practical walkthrough shows how to replace myQ cloud lock-in with local ratgdo32 control and custom door alerts."
+      "oneliner": "Live search tool lets developers test fast, deterministic place queries over OpenStreetMap using plain English constraints."
     },
     {
-      "title": "Raspberry Pi clock runs offline",
+      "title": "Efficient audio to MIDI transcription",
       "urls": [
-        "https://lars.ingebrigtsen.no/2026/11/19/herp-derp-i-eat-paste/"
+        "https://kobi.music/research/dettato"
       ],
-      "oneliner": "This hands-on rebuild moves SVG clock rendering onto a Pi Zero 2 W so it keeps working offline."
+      "oneliner": "Audio-to-MIDI model uses 20M parameters yet claims 60x better efficiency, with commercially safe training data."
     },
     {
-      "title": "Use compression before buying RAM",
+      "title": "Lean formalization for Navier-Stokes proof",
       "urls": [
-        "https://curiousbits.nl/blog/do-not-buy-ram-compress/"
+        "https://github.com/tristanbuckmaster/navier-stokes/",
+        "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/"
       ],
-      "oneliner": "A practical zram guide shows how memory compression can stretch Linux workstation RAM by roughly 3.35x."
+      "oneliner": "Math repo includes Lean code, theorem files, and proof scaffolding for researchers inspecting a major Navier-Stokes claim."
     },
     {
-      "title": "Rust distinct counting from DataSketches",
+      "title": "Reasoning model distillation tutorial",
       "urls": [
-        "https://www.tisonkun.io/posts/ai-repair-program/"
+        "https://www.youtube.com/watch?v=msp69FR5NZs"
       ],
-      "oneliner": "Deep implementation notes compare HllSketch and CpcSketch while porting Apache DataSketches distinct counting algorithms to Rust."
+      "oneliner": "Step-by-step video builds a distilled reasoning model from teacher outputs, dataset prep, loss design, training, and evaluation."
     }
   ],
   "keywords": [
     "shipped",
     "blazing",
-    "instant",
-    "unlocked",
-    "local",
+    "offline",
     "open",
-    "practical"
+    "instant",
+    "embedded",
+    "unlocked"
   ],
   "tokenUsage": {
-    "promptTokens": 15853,
-    "completionTokens": 670,
-    "totalTokens": 16523,
-    "costUsd": 0.049682500000000004
+    "promptTokens": 11752,
+    "completionTokens": 676,
+    "totalTokens": 12428,
+    "costUsd": 0.03952
   }
 }
