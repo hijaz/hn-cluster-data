@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T19:43:58.959787+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 75,
+  "items": [
+    {
+      "title": "Inkling 2 Mini quantized locally",
+      "urls": [
+        "https://github.com/ShinMegamiBoson/lookatmyquant",
+        "https://thinkingmachines.ai/news/inkling-2-mini/",
+        "https://www.youtube.com/watch?v=BrN8dKfTU7M"
+      ],
+      "oneliner": "Apple Silicon quantization repo runs Inkling 2 Mini in 5.4 GB, making local reasoning and coding tests practical."
+    },
+    {
+      "title": "Build PostgreSQL extensions in Go",
+      "urls": [
+        "https://jespino.github.io/gopgext/"
+      ],
+      "oneliner": "Experimental TinyGo toolkit turns annotated Go functions into PostgreSQL extensions, triggers, and custom index methods."
+    },
+    {
+      "title": "Compile C# without a runtime",
+      "urls": [
+        "https://onurgumus.github.io/zero-csharp/index.html"
+      ],
+      "oneliner": "Native C# toolchain removes the .NET runtime and GC, producing small binaries for Linux, macOS, Windows, WASM, and DOS."
+    },
+    {
+      "title": "Live sync for Jujutsu repos",
+      "urls": [
+        "https://www.serpentine.com/posts/2026/announcing-jj-musubi/",
+        "https://ethanlowman.com/posts/jj-primer/",
+        "https://bwc9876.dev/blog/jj_todo/"
+      ],
+      "oneliner": "Jujutsu sync tool mirrors local repos across machines without temp commits, branch pushes, or extra infrastructure."
+    },
+    {
+      "title": "Benchmark humans against current LLMs",
+      "urls": [
+        "https://simple-bench.com/"
+      ],
+      "oneliner": "SimpleBench shows humans at 83.7% beating top models at 81.9% on basic reasoning tasks developers actually care about."
+    },
+    {
+      "title": "Valkey sorted sets use B+ trees",
+      "urls": [
+        "https://valkey.io/blog/from-skiplist-to-b+tree/"
+      ],
+      "oneliner": "Valkey's fbtree design cuts sorted set memory overhead by up to 43% while improving throughput over skiplists."
+    },
+    {
+      "title": "Verify Raft implementations formally",
+      "urls": [
+        "https://antithesis.com/blog/2026/verifying-formal-models/"
+      ],
+      "oneliner": "Deep walkthrough of model checking etcd and HashiCorp Raft, including bugs found while proving real safety properties."
+    },
+    {
+      "title": "Use probabilistic structures in Go",
+      "urls": [
+        "https://antonz.org/probabilistic-data-structures-2/"
+      ],
+      "oneliner": "Hands-on Go guide compares Bloom and binary fuse filters, with memory and false-positive tradeoffs you can apply immediately."
+    },
+    {
+      "title": "Adopt deterministic simulation testing",
+      "urls": [
+        "https://outdata.net/blog/261120"
+      ],
+      "oneliner": "Practical testing essay explains how deterministic simulation catches concurrency and state bugs outside distributed systems too."
+    },
+    {
+      "title": "Run a terminal cell aquarium",
+      "urls": [
+        "https://github.com/kborer/cells/"
+      ],
+      "oneliner": "Cloneable ASCII simulation renders immune cells, bacteria, mitosis, and viral replication directly in your terminal."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "offline",
+    "open",
+    "local",
+    "instant",
+    "replaced"
+  ],
+  "tokenUsage": {
+    "promptTokens": 16628,
+    "completionTokens": 681,
+    "totalTokens": 17309,
+    "costUsd": 0.051785000000000005
+  }
+}

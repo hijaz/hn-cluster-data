@@ -1,80 +1,83 @@
 {
-  "date": "2026-11-20",
-  "generated_at": "2026-11-20T20:28:19.828792+00:00",
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T19:43:58.959787+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 53,
+  "totalItemsConsidered": 75,
   "items": [
     {
-      "title": "Portable floppy disk WiFi NAS",
+      "title": "Inkling 2 Mini quantized locally",
       "urls": [
-        "https://github.com/bigcrimping/floppy3.5"
+        "https://github.com/ShinMegamiBoson/lookatmyquant",
+        "https://thinkingmachines.ai/news/inkling-2-mini/",
+        "https://www.youtube.com/watch?v=BrN8dKfTU7M"
       ],
-      "oneliner": "Cloneable hardware repo that turns 1.44 MB floppies into WiFi storage with web previews and microSD export."
+      "oneliner": "Apple Silicon quantization repo runs Inkling 2 Mini in 5.4 GB, making local reasoning and coding tests practical."
     },
     {
-      "title": "Runnable PostgreSQL 19 feature tour",
+      "title": "Build PostgreSQL extensions in Go",
       "urls": [
-        "https://certuvia.com/blog/postgres-19"
+        "https://jespino.github.io/gopgext/"
       ],
-      "oneliner": "Hands-on Postgres 19 guide with browser sandboxes for IGNORE NULLS, JSON export, JSONPath transforms, and replication changes."
+      "oneliner": "Experimental TinyGo toolkit turns annotated Go functions into PostgreSQL extensions, triggers, and custom index methods."
     },
     {
-      "title": "OpenSSL critical overflow fix",
+      "title": "Compile C# without a runtime",
       "urls": [
-        "https://github.com/openssl/openssl/pull/33652"
+        "https://onurgumus.github.io/zero-csharp/index.html"
       ],
-      "oneliner": "Patch and tests for a CVSS 9.8 EVP_EncodeBlock overflow show exactly how invalid inputs are now rejected."
+      "oneliner": "Native C# toolchain removes the .NET runtime and GC, producing small binaries for Linux, macOS, Windows, WASM, and DOS."
     },
     {
-      "title": "ASTC texture compression upgrade",
+      "title": "Live sync for Jujutsu repos",
       "urls": [
-        "https://www.jonolick.com/home/lz-rdo-lands-in-arms-astc-encoder"
+        "https://www.serpentine.com/posts/2026/announcing-jj-musubi/",
+        "https://ethanlowman.com/posts/jj-primer/",
+        "https://bwc9876.dev/blog/jj_todo/"
       ],
-      "oneliner": "Practical ASTC encoder improvement adds LZ-RDO with one flag to shrink texture packages without visible quality loss."
+      "oneliner": "Jujutsu sync tool mirrors local repos across machines without temp commits, branch pushes, or extra infrastructure."
     },
     {
-      "title": "Dual PSP emulation on Switch 2",
+      "title": "Benchmark humans against current LLMs",
       "urls": [
-        "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md"
+        "https://simple-bench.com/"
       ],
-      "oneliner": "Detailed build guide shows how to run two PPSSPP instances and stream one through GameShare on Switch 2."
+      "oneliner": "SimpleBench shows humans at 83.7% beating top models at 81.9% on basic reasoning tasks developers actually care about."
     },
     {
-      "title": "Agent-assisted FPGA inference build",
+      "title": "Valkey sorted sets use B+ trees",
       "urls": [
-        "https://ankitg.me/blog/vibecoding-inference-chip/"
+        "https://valkey.io/blog/from-skiplist-to-b+tree/"
       ],
-      "oneliner": "Deep hardware walkthrough shows coding agents building an FPGA inference path with a reported 33x speedup."
+      "oneliner": "Valkey's fbtree design cuts sorted set memory overhead by up to 43% while improving throughput over skiplists."
     },
     {
-      "title": "Deterministic OpenStreetMap natural language search",
+      "title": "Verify Raft implementations formally",
       "urls": [
-        "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935"
+        "https://antithesis.com/blog/2026/verifying-formal-models/"
       ],
-      "oneliner": "Live search tool lets developers test fast, deterministic place queries over OpenStreetMap using plain English constraints."
+      "oneliner": "Deep walkthrough of model checking etcd and HashiCorp Raft, including bugs found while proving real safety properties."
     },
     {
-      "title": "Efficient audio to MIDI transcription",
+      "title": "Use probabilistic structures in Go",
       "urls": [
-        "https://kobi.music/research/dettato"
+        "https://antonz.org/probabilistic-data-structures-2/"
       ],
-      "oneliner": "Audio-to-MIDI model uses 20M parameters yet claims 60x better efficiency, with commercially safe training data."
+      "oneliner": "Hands-on Go guide compares Bloom and binary fuse filters, with memory and false-positive tradeoffs you can apply immediately."
     },
     {
-      "title": "Lean formalization for Navier-Stokes proof",
+      "title": "Adopt deterministic simulation testing",
       "urls": [
-        "https://github.com/tristanbuckmaster/navier-stokes/",
-        "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/"
+        "https://outdata.net/blog/261120"
       ],
-      "oneliner": "Math repo includes Lean code, theorem files, and proof scaffolding for researchers inspecting a major Navier-Stokes claim."
+      "oneliner": "Practical testing essay explains how deterministic simulation catches concurrency and state bugs outside distributed systems too."
     },
     {
-      "title": "Reasoning model distillation tutorial",
+      "title": "Run a terminal cell aquarium",
       "urls": [
-        "https://www.youtube.com/watch?v=msp69FR5NZs"
+        "https://github.com/kborer/cells/"
       ],
-      "oneliner": "Step-by-step video builds a distilled reasoning model from teacher outputs, dataset prep, loss design, training, and evaluation."
+      "oneliner": "Cloneable ASCII simulation renders immune cells, bacteria, mitosis, and viral replication directly in your terminal."
     }
   ],
   "keywords": [
@@ -82,14 +85,14 @@
     "blazing",
     "offline",
     "open",
+    "local",
     "instant",
-    "embedded",
-    "unlocked"
+    "replaced"
   ],
   "tokenUsage": {
-    "promptTokens": 11752,
-    "completionTokens": 676,
-    "totalTokens": 12428,
-    "costUsd": 0.03952
+    "promptTokens": 16628,
+    "completionTokens": 681,
+    "totalTokens": 17309,
+    "costUsd": 0.051785000000000005
   }
 }

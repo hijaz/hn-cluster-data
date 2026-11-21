@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T19:43:51.391799+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 75,
+  "items": [
+    {
+      "title": "Inkling 2 Mini makes local reasoning practical",
+      "urls": [
+        "https://thinkingmachines.ai/news/inkling-2-mini/",
+        "https://github.com/ShinMegamiBoson/lookatmyquant",
+        "https://www.youtube.com/watch?v=BrN8dKfTU7M"
+      ],
+      "oneliner": "Thinking Machines shipped a 26.4B looped model that runs near 20GB RAM, pushing serious coding and reasoning local.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "Humans still beat frontier models on basics",
+      "urls": [
+        "https://simple-bench.com/"
+      ],
+      "oneliner": "SimpleBench put humans at 83.7% and the top model at 81.9%, exposing basic reasoning gaps benchmarks keep missing.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "Lean verification turns math into software",
+      "urls": [
+        "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+        "https://math.mit.edu/~drew/grh/",
+        "https://www.youtube.com/watch?v=9_9XAvlOaFI"
+      ],
+      "oneliner": "A 17 million line Lean proof claims the Riemann Hypothesis, showing formal verification is becoming a serious compute workload.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "GPGME fixed a remote code execution bug",
+      "urls": [
+        "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html"
+      ],
+      "oneliner": "GPGME patched a double free that can trigger remote code execution from a crafted OpenPGP user ID.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "Android finally retired Binder's C implementation",
+      "urls": [
+        "https://lwn.net/Articles/1102982/"
+      ],
+      "oneliner": "After five years, Android removed Binder's C driver for Rust, targeting one of mobile's densest vulnerability surfaces.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "LLMs can now manipulate executables directly",
+      "urls": [
+        "https://sgiannopoulos.github.io/blog/machine-code-programming/"
+      ],
+      "oneliner": "LLMs reading and writing binaries byte by byte makes reverse engineering easier and malware workflows more automatable.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "Raft implementations needed verification after all",
+      "urls": [
+        "https://antithesis.com/blog/2026/verifying-formal-models/"
+      ],
+      "oneliner": "Antithesis found real bugs while formally checking etcd and HashiCorp Raft, a reminder that proven protocols still fail in code.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "Enroute reworked Git storage for scale",
+      "urls": [
+        "https://enroute.sh/blog/scaling-horizontally-how-we-moved-beyond-multi-raft"
+      ],
+      "oneliner": "Enroute says its post-Multi-Raft design can handle 300,000 repositories per cluster, which matters for AI-era code hosting.",
+      "emoji": "🏭"
+    },
+    {
+      "title": "Valkey cut sorted set memory overhead",
+      "urls": [
+        "https://valkey.io/blog/from-skiplist-to-b+tree/"
+      ],
+      "oneliner": "Valkey 9.2 replaced skiplists with a B+ tree variant, cutting sorted set memory overhead by up to 43%.",
+      "emoji": "💻"
+    },
+    {
+      "title": "The AI trade finally looked expensive",
+      "urls": [
+        "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+      ],
+      "oneliner": "Nasdaq erased its 2026 gains as Anthropic fell 9%, signaling investors now want margins, not just model demos.",
+      "emoji": "💰"
+    }
+  ],
+  "keywords": [
+    "cracked",
+    "racing",
+    "weaponized",
+    "surpassed",
+    "autonomy",
+    "scarcity",
+    "unsettled"
+  ],
+  "tokenUsage": {
+    "promptTokens": 16803,
+    "completionTokens": 802,
+    "totalTokens": 17605,
+    "costUsd": 0.054037499999999995
+  }
+}

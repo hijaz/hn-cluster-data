@@ -1,105 +1,108 @@
 {
-  "date": "2026-11-20",
-  "generated_at": "2026-11-20T20:28:11.819444+00:00",
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T19:43:51.391799+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 53,
+  "totalItemsConsidered": 75,
   "items": [
     {
-      "title": "Language models can rewrite their own weights",
+      "title": "Inkling 2 Mini makes local reasoning practical",
       "urls": [
-        "https://arxiv.org/abs/2611.21885"
+        "https://thinkingmachines.ai/news/inkling-2-mini/",
+        "https://github.com/ShinMegamiBoson/lookatmyquant",
+        "https://www.youtube.com/watch?v=BrN8dKfTU7M"
       ],
-      "oneliner": "A 27B open model improved on unseen tasks by editing its own weights, pushing training and inference toward collapse.",
+      "oneliner": "Thinking Machines shipped a 26.4B looped model that runs near 20GB RAM, pushing serious coding and reasoning local.",
       "emoji": "🤖"
     },
     {
-      "title": "AI designed a new CPU architecture",
+      "title": "Humans still beat frontier models on basics",
       "urls": [
-        "https://architectlabs.com/blog/frostbite"
+        "https://simple-bench.com/"
       ],
-      "oneliner": "Frostbite claims an AI-designed, AI-verified CPU with better performance per watt, hinting chip design may automate next.",
+      "oneliner": "SimpleBench put humans at 83.7% and the top model at 81.9%, exposing basic reasoning gaps benchmarks keep missing.",
       "emoji": "🧠"
     },
     {
-      "title": "A tiny audio model got practical",
+      "title": "Lean verification turns math into software",
       "urls": [
-        "https://kobi.music/research/dettato"
+        "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+        "https://math.mit.edu/~drew/grh/",
+        "https://www.youtube.com/watch?v=9_9XAvlOaFI"
       ],
-      "oneliner": "Dettato uses 20M parameters yet claims 60x efficiency gains, making on-device audio-to-MIDI suddenly realistic.",
+      "oneliner": "A 17 million line Lean proof claims the Riemann Hypothesis, showing formal verification is becoming a serious compute workload.",
       "emoji": "⚡"
     },
     {
-      "title": "OpenSSL patched a critical overflow",
+      "title": "GPGME fixed a remote code execution bug",
       "urls": [
-        "https://github.com/openssl/openssl/pull/33652"
+        "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html"
       ],
-      "oneliner": "OpenSSL fixed a CVSS 9.8 buffer overflow in EVP_EncodeBlock(), a reminder that boring primitives still break everything.",
+      "oneliner": "GPGME patched a double free that can trigger remote code execution from a crafted OpenPGP user ID.",
       "emoji": "⚠️"
     },
     {
-      "title": "Messaging apps are bracing for AI agents",
+      "title": "Android finally retired Binder's C implementation",
       "urls": [
-        "https://signal.org/blog/protecting-your-privacy/",
-        "https://www.theneurondaily.com/p/meta-s-muse-ai-agent-reportedly-accessed-signal-messages"
+        "https://lwn.net/Articles/1102982/"
       ],
-      "oneliner": "Signal is blocking screenshots as OS-level agents spread, and Meta reportedly exposed Signal data during internal testing.",
+      "oneliner": "After five years, Android removed Binder's C driver for Rust, targeting one of mobile's densest vulnerability surfaces.",
       "emoji": "🔐"
     },
     {
-      "title": "GrapheneOS says Google is squeezing it",
+      "title": "LLMs can now manipulate executables directly",
       "urls": [
-        "https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/"
+        "https://sgiannopoulos.github.io/blog/machine-code-programming/"
       ],
-      "oneliner": "GrapheneOS alleges Google pressured OEMs and could lock Pixel bootloaders, turning mobile security into a platform control fight.",
-      "emoji": "🔍"
+      "oneliner": "LLMs reading and writing binaries byte by byte makes reverse engineering easier and malware workflows more automatable.",
+      "emoji": "🐛"
     },
     {
-      "title": "The US tightened AI chip exports",
+      "title": "Raft implementations needed verification after all",
       "urls": [
-        "https://www.govinfo.gov/content/pkg/FR-2026-11-19/pdf/2026-23529.pdf"
+        "https://antithesis.com/blog/2026/verifying-formal-models/"
       ],
-      "oneliner": "New US export rules hit overseas AI data centers immediately, making compute geography a product constraint, not policy trivia.",
-      "emoji": "🏭"
-    },
-    {
-      "title": "Coding agents reached FPGA territory",
-      "urls": [
-        "https://ankitg.me/blog/vibecoding-inference-chip/"
-      ],
-      "oneliner": "One engineer used coding agents on AWS F2 to build an inference chip prototype and reported a 33x speedup.",
-      "emoji": "💻"
-    },
-    {
-      "title": "Lovable added safe parallel app drafts",
-      "urls": [
-        "https://lovable.dev/blog/introducing-drafts"
-      ],
-      "oneliner": "Lovable now clones app, design, and database into isolated drafts, which is branch previews finally catching up to AI builders.",
+      "oneliner": "Antithesis found real bugs while formally checking etcd and HashiCorp Raft, a reminder that proven protocols still fail in code.",
       "emoji": "🛠️"
     },
     {
-      "title": "ARM improved ASTC texture compression",
+      "title": "Enroute reworked Git storage for scale",
       "urls": [
-        "https://www.jonolick.com/home/lz-rdo-lands-in-arms-astc-encoder"
+        "https://enroute.sh/blog/scaling-horizontally-how-we-moved-beyond-multi-raft"
       ],
-      "oneliner": "ARM added LZ-RDO to astc-encoder, shrinking texture packages with one flag and giving graphics teams free bandwidth back.",
-      "emoji": "📦"
+      "oneliner": "Enroute says its post-Multi-Raft design can handle 300,000 repositories per cluster, which matters for AI-era code hosting.",
+      "emoji": "🏭"
+    },
+    {
+      "title": "Valkey cut sorted set memory overhead",
+      "urls": [
+        "https://valkey.io/blog/from-skiplist-to-b+tree/"
+      ],
+      "oneliner": "Valkey 9.2 replaced skiplists with a B+ tree variant, cutting sorted set memory overhead by up to 43%.",
+      "emoji": "💻"
+    },
+    {
+      "title": "The AI trade finally looked expensive",
+      "urls": [
+        "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+      ],
+      "oneliner": "Nasdaq erased its 2026 gains as Anthropic fell 9%, signaling investors now want margins, not just model demos.",
+      "emoji": "💰"
     }
   ],
   "keywords": [
-    "recursive",
+    "cracked",
+    "racing",
     "weaponized",
     "surpassed",
-    "crackdown",
     "autonomy",
     "scarcity",
-    "leaked"
+    "unsettled"
   ],
   "tokenUsage": {
-    "promptTokens": 11927,
-    "completionTokens": 770,
-    "totalTokens": 12697,
-    "costUsd": 0.0413675
+    "promptTokens": 16803,
+    "completionTokens": 802,
+    "totalTokens": 17605,
+    "costUsd": 0.054037499999999995
   }
 }
