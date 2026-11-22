@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T19:55:04.494605+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 59,
+  "items": [
+    {
+      "title": "AI routing leaked prompts across providers",
+      "urls": [
+        "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+        "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+      ],
+      "oneliner": "Researchers planted 2 million canaries and caught AI providers leaking secrets. Zero retention claims now need verification, not trust.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Ghostscript bug turns uploads into shells",
+      "urls": [
+        "https://pwn.ai/upload2shell/research.html"
+      ],
+      "oneliner": "Ghostscript CVE-2026-125396 enables remote code execution through file uploads. Image pipelines just became part of your attack surface.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "Anthropic's future power mix is fossil-heavy",
+      "urls": [
+        "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/"
+      ],
+      "oneliner": "Anthropic's 2028 power mix is projected at 87% gas and 11% coal. AI scaling is now an energy procurement story.",
+      "emoji": "🏭"
+    },
+    {
+      "title": "Postgres now fits in one binary",
+      "urls": [
+        "https://progrium.xyz/articles/2026/single-binary-postgres"
+      ],
+      "oneliner": "miniPG packages a full Postgres server and client into one executable. Local-first apps just got a much easier default.",
+      "emoji": "📦"
+    },
+    {
+      "title": "A Rust server targets Python deployment pain",
+      "urls": [
+        "https://simonwillison.net/2026/Nov/21/muru/"
+      ],
+      "oneliner": "Muru brings an AI-assisted Rust server to ASGI and WSGI deployment. Python infra keeps borrowing systems ideas from Rust.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "Rust is being used surgically",
+      "urls": [
+        "https://github.com/EL4CTEO/fast-anything"
+      ],
+      "oneliner": "Fast-Anything rewrites only the slowest 5% in Rust. Teams can chase speedups without signing up for full rewrites.",
+      "emoji": "💻"
+    },
+    {
+      "title": "Terraform gets a more realistic test loop",
+      "urls": [
+        "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/"
+      ],
+      "oneliner": "An AWS emulator lets Terraform plans hit mock endpoints before apply. IaC debugging may finally move left.",
+      "emoji": "🌐"
+    },
+    {
+      "title": "Packet captures get instant triage",
+      "urls": [
+        "https://github.com/sebaandrada-cell/PcapAnalyzer"
+      ],
+      "oneliner": "PcapAnalyzer ships 27 detectors for local pcap analysis. Network forensics is getting faster without sending traffic off-box.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "Minecraft scanning data triggered server bans",
+      "urls": [
+        "https://sipacid.com/blog/port-scanning-for-mojang/"
+      ],
+      "oneliner": "A hobbyist's Minecraft scanner appears tied to Mojang server bans. Telemetry can become enforcement faster than developers expect.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "Backblaze users are questioning the privacy shift",
+      "urls": [
+        "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/"
+      ],
+      "oneliner": "Backblaze's policy update sparked fears around ad-related data sharing. Privacy promises remain a product feature until legal text changes.",
+      "emoji": "📊"
+    }
+  ],
+  "keywords": [
+    "leaked",
+    "surpassed",
+    "weaponized",
+    "autonomy",
+    "scarcity",
+    "cracked",
+    "consolidation"
+  ],
+  "tokenUsage": {
+    "promptTokens": 13493,
+    "completionTokens": 785,
+    "totalTokens": 14278,
+    "costUsd": 0.0455075
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T19:55:11.469732+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 59,
+  "items": [
+    {
+      "title": "Self-hosted packet triage tool",
+      "urls": [
+        "https://github.com/sebaandrada-cell/PcapAnalyzer"
+      ],
+      "oneliner": "Self-hosted pcap analyzer flags 27 network failure patterns locally, turning hours of Wireshark digging into seconds."
+    },
+    {
+      "title": "Single binary Postgres runtime",
+      "urls": [
+        "https://progrium.xyz/articles/2026/single-binary-postgres"
+      ],
+      "oneliner": "Run a full Postgres server from one executable, with no Docker or system install required."
+    },
+    {
+      "title": "Targeted Rust performance porting",
+      "urls": [
+        "https://github.com/EL4CTEO/fast-anything"
+      ],
+      "oneliner": "CLI finds your slowest functions and ports only them to Rust, then verifies output matches."
+    },
+    {
+      "title": "LLM subagent terminal game",
+      "urls": [
+        "https://github.com/gulivan/worker755"
+      ],
+      "oneliner": "Browser game drops you into a 90-second terminal loop as an LLM subagent with real model-backed supervision."
+    },
+    {
+      "title": "Terraform testing with AWS emulation",
+      "urls": [
+        "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/"
+      ],
+      "oneliner": "Hands-on walkthrough shows how to test Terraform plans against an AWS emulator before touching real infrastructure."
+    },
+    {
+      "title": "RPython and PyPy internals guide",
+      "urls": [
+        "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/"
+      ],
+      "oneliner": "Practical introduction to RPython shows how PyPy-style interpreters become C binaries and JIT-enabled runtimes."
+    },
+    {
+      "title": "Public Linux node hardening guide",
+      "urls": [
+        "https://unknownuniverse.uk/privacy-security/server-hardening-guide/"
+      ],
+      "oneliner": "Step-by-step Linux VPS hardening guide covers non-root setup, SSH lockdown, updates, and firewall rules."
+    },
+    {
+      "title": "DFT notes with Python code",
+      "urls": [
+        "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/"
+      ],
+      "oneliner": "Clear DFT tutorial connects theory to Python implementations for engineers building signal processing or audio tooling."
+    },
+    {
+      "title": "NixOS on RISC-V bring-up",
+      "urls": [
+        "https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/"
+      ],
+      "oneliner": "Detailed bring-up log shows how to cross-compile and boot NixOS on an Alibaba RISC-V board."
+    },
+    {
+      "title": "Script folder command runner",
+      "urls": [
+        "https://alanpearce.eu/post/scriptura/"
+      ],
+      "oneliner": "Fish-friendly script launcher adds tab completion, inline help, and easy editing for personal automation folders."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "offline",
+    "blazing",
+    "unlocked",
+    "local",
+    "open",
+    "instant"
+  ],
+  "tokenUsage": {
+    "promptTokens": 13318,
+    "completionTokens": 639,
+    "totalTokens": 13957,
+    "costUsd": 0.04288
+  }
+}

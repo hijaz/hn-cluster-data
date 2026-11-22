@@ -1,108 +1,105 @@
 {
-  "date": "2026-11-21",
-  "generated_at": "2026-11-21T19:43:51.391799+00:00",
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T19:55:04.494605+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 75,
+  "totalItemsConsidered": 59,
   "items": [
     {
-      "title": "Inkling 2 Mini makes local reasoning practical",
+      "title": "AI routing leaked prompts across providers",
       "urls": [
-        "https://thinkingmachines.ai/news/inkling-2-mini/",
-        "https://github.com/ShinMegamiBoson/lookatmyquant",
-        "https://www.youtube.com/watch?v=BrN8dKfTU7M"
+        "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+        "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
       ],
-      "oneliner": "Thinking Machines shipped a 26.4B looped model that runs near 20GB RAM, pushing serious coding and reasoning local.",
-      "emoji": "🤖"
-    },
-    {
-      "title": "Humans still beat frontier models on basics",
-      "urls": [
-        "https://simple-bench.com/"
-      ],
-      "oneliner": "SimpleBench put humans at 83.7% and the top model at 81.9%, exposing basic reasoning gaps benchmarks keep missing.",
-      "emoji": "🧠"
-    },
-    {
-      "title": "Lean verification turns math into software",
-      "urls": [
-        "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-        "https://math.mit.edu/~drew/grh/",
-        "https://www.youtube.com/watch?v=9_9XAvlOaFI"
-      ],
-      "oneliner": "A 17 million line Lean proof claims the Riemann Hypothesis, showing formal verification is becoming a serious compute workload.",
-      "emoji": "⚡"
-    },
-    {
-      "title": "GPGME fixed a remote code execution bug",
-      "urls": [
-        "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html"
-      ],
-      "oneliner": "GPGME patched a double free that can trigger remote code execution from a crafted OpenPGP user ID.",
-      "emoji": "⚠️"
-    },
-    {
-      "title": "Android finally retired Binder's C implementation",
-      "urls": [
-        "https://lwn.net/Articles/1102982/"
-      ],
-      "oneliner": "After five years, Android removed Binder's C driver for Rust, targeting one of mobile's densest vulnerability surfaces.",
+      "oneliner": "Researchers planted 2 million canaries and caught AI providers leaking secrets. Zero retention claims now need verification, not trust.",
       "emoji": "🔐"
     },
     {
-      "title": "LLMs can now manipulate executables directly",
+      "title": "Ghostscript bug turns uploads into shells",
       "urls": [
-        "https://sgiannopoulos.github.io/blog/machine-code-programming/"
+        "https://pwn.ai/upload2shell/research.html"
       ],
-      "oneliner": "LLMs reading and writing binaries byte by byte makes reverse engineering easier and malware workflows more automatable.",
-      "emoji": "🐛"
+      "oneliner": "Ghostscript CVE-2026-125396 enables remote code execution through file uploads. Image pipelines just became part of your attack surface.",
+      "emoji": "⚠️"
     },
     {
-      "title": "Raft implementations needed verification after all",
+      "title": "Anthropic's future power mix is fossil-heavy",
       "urls": [
-        "https://antithesis.com/blog/2026/verifying-formal-models/"
+        "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/"
       ],
-      "oneliner": "Antithesis found real bugs while formally checking etcd and HashiCorp Raft, a reminder that proven protocols still fail in code.",
-      "emoji": "🛠️"
-    },
-    {
-      "title": "Enroute reworked Git storage for scale",
-      "urls": [
-        "https://enroute.sh/blog/scaling-horizontally-how-we-moved-beyond-multi-raft"
-      ],
-      "oneliner": "Enroute says its post-Multi-Raft design can handle 300,000 repositories per cluster, which matters for AI-era code hosting.",
+      "oneliner": "Anthropic's 2028 power mix is projected at 87% gas and 11% coal. AI scaling is now an energy procurement story.",
       "emoji": "🏭"
     },
     {
-      "title": "Valkey cut sorted set memory overhead",
+      "title": "Postgres now fits in one binary",
       "urls": [
-        "https://valkey.io/blog/from-skiplist-to-b+tree/"
+        "https://progrium.xyz/articles/2026/single-binary-postgres"
       ],
-      "oneliner": "Valkey 9.2 replaced skiplists with a B+ tree variant, cutting sorted set memory overhead by up to 43%.",
+      "oneliner": "miniPG packages a full Postgres server and client into one executable. Local-first apps just got a much easier default.",
+      "emoji": "📦"
+    },
+    {
+      "title": "A Rust server targets Python deployment pain",
+      "urls": [
+        "https://simonwillison.net/2026/Nov/21/muru/"
+      ],
+      "oneliner": "Muru brings an AI-assisted Rust server to ASGI and WSGI deployment. Python infra keeps borrowing systems ideas from Rust.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "Rust is being used surgically",
+      "urls": [
+        "https://github.com/EL4CTEO/fast-anything"
+      ],
+      "oneliner": "Fast-Anything rewrites only the slowest 5% in Rust. Teams can chase speedups without signing up for full rewrites.",
       "emoji": "💻"
     },
     {
-      "title": "The AI trade finally looked expensive",
+      "title": "Terraform gets a more realistic test loop",
       "urls": [
-        "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+        "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/"
       ],
-      "oneliner": "Nasdaq erased its 2026 gains as Anthropic fell 9%, signaling investors now want margins, not just model demos.",
-      "emoji": "💰"
+      "oneliner": "An AWS emulator lets Terraform plans hit mock endpoints before apply. IaC debugging may finally move left.",
+      "emoji": "🌐"
+    },
+    {
+      "title": "Packet captures get instant triage",
+      "urls": [
+        "https://github.com/sebaandrada-cell/PcapAnalyzer"
+      ],
+      "oneliner": "PcapAnalyzer ships 27 detectors for local pcap analysis. Network forensics is getting faster without sending traffic off-box.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "Minecraft scanning data triggered server bans",
+      "urls": [
+        "https://sipacid.com/blog/port-scanning-for-mojang/"
+      ],
+      "oneliner": "A hobbyist's Minecraft scanner appears tied to Mojang server bans. Telemetry can become enforcement faster than developers expect.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "Backblaze users are questioning the privacy shift",
+      "urls": [
+        "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/"
+      ],
+      "oneliner": "Backblaze's policy update sparked fears around ad-related data sharing. Privacy promises remain a product feature until legal text changes.",
+      "emoji": "📊"
     }
   ],
   "keywords": [
-    "cracked",
-    "racing",
-    "weaponized",
+    "leaked",
     "surpassed",
+    "weaponized",
     "autonomy",
     "scarcity",
-    "unsettled"
+    "cracked",
+    "consolidation"
   ],
   "tokenUsage": {
-    "promptTokens": 16803,
-    "completionTokens": 802,
-    "totalTokens": 17605,
-    "costUsd": 0.054037499999999995
+    "promptTokens": 13493,
+    "completionTokens": 785,
+    "totalTokens": 14278,
+    "costUsd": 0.0455075
   }
 }
