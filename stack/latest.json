@@ -1,94 +1,94 @@
 {
-  "date": "2026-11-22",
-  "generated_at": "2026-11-22T19:55:11.469732+00:00",
+  "date": "2026-07-02",
+  "generated_at": "2026-07-03T19:02:19.383182+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 59,
+  "totalItemsConsidered": 49,
   "items": [
     {
-      "title": "Self-hosted packet triage tool",
+      "title": "WinPE speeds Windows driver fuzzing",
       "urls": [
-        "https://github.com/sebaandrada-cell/PcapAnalyzer"
+        "https://bednars.me/blog/winpe-harness"
       ],
-      "oneliner": "Self-hosted pcap analyzer flags 27 network failure patterns locally, turning hours of Wireshark digging into seconds."
+      "oneliner": "Boot a 200MB stateless Windows harness for unsigned driver testing, E2E runs, and kernel fuzzing without full VMs."
     },
     {
-      "title": "Single binary Postgres runtime",
+      "title": "Build a passive Ethernet tap",
       "urls": [
-        "https://progrium.xyz/articles/2026/single-binary-postgres"
+        "https://blog.lvmbdv.dev/posts/building-a-passive-ethernet-tap/"
       ],
-      "oneliner": "Run a full Postgres server from one executable, with no Docker or system install required."
+      "oneliner": "Step-by-step guide to sniff 100 Mbps Ethernet with cheap parts and receive-only monitor ports that cannot disrupt traffic."
     },
     {
-      "title": "Targeted Rust performance porting",
+      "title": "JavaScript ECS benchmark with memory data",
       "urls": [
-        "https://github.com/EL4CTEO/fast-anything"
+        "https://www.dmurph.com/posts/2026/06/ecs_vs_oop_benchmark/ecs_vs_oop_benchmark.html"
       ],
-      "oneliner": "CLI finds your slowest functions and ports only them to Rust, then verifies output matches."
+      "oneliner": "Benchmarks ECS versus OOP in JavaScript on Apple M4 Pro, showing memory-locality tradeoffs for game loops."
     },
     {
-      "title": "LLM subagent terminal game",
+      "title": "Wordgard is a new rich text core",
       "urls": [
-        "https://github.com/gulivan/worker755"
+        "https://marijnhaverbeke.nl/blog/wordgard-0.1.html"
       ],
-      "oneliner": "Browser game drops you into a 90-second terminal loop as an LLM subagent with real model-backed supervision."
+      "oneliner": "MIT-licensed editor engine from ProseMirror's author offers a fresh architecture for building custom rich text tooling."
     },
     {
-      "title": "Terraform testing with AWS emulation",
+      "title": "Senior SWE-Bench tests coding agents",
       "urls": [
-        "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/"
+        "https://senior-swe-bench.snorkel.ai/"
       ],
-      "oneliner": "Hands-on walkthrough shows how to test Terraform plans against an AWS emulator before touching real infrastructure."
+      "oneliner": "Open benchmark evaluates agents on senior-level debugging tasks that require runtime investigation, not just patch generation."
     },
     {
-      "title": "RPython and PyPy internals guide",
+      "title": "CursorBench compares coding model performance",
       "urls": [
-        "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/"
+        "https://cursor.com/evals"
       ],
-      "oneliner": "Practical introduction to RPython shows how PyPy-style interpreters become C binaries and JIT-enabled runtimes."
+      "oneliner": "Interactive eval suite helps teams compare coding assistant quality and responsiveness before standardizing on a model."
     },
     {
-      "title": "Public Linux node hardening guide",
+      "title": "Build your own robot vacuum",
       "urls": [
-        "https://unknownuniverse.uk/privacy-security/server-hardening-guide/"
+        "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/"
       ],
-      "oneliner": "Step-by-step Linux VPS hardening guide covers non-root setup, SSH lockdown, updates, and firewall rules."
+      "oneliner": "Open-source Raspberry Pi and ROS 2 vacuum includes BOM, build docs, and local-first control without cloud lock-in."
     },
     {
-      "title": "DFT notes with Python code",
+      "title": "Google open sourced ZKP libraries",
       "urls": [
-        "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/"
+        "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/"
       ],
-      "oneliner": "Clear DFT tutorial connects theory to Python implementations for engineers building signal processing or audio tooling."
+      "oneliner": "Privacy-preserving identity libraries let developers verify age or credentials without exposing the underlying personal data."
     },
     {
-      "title": "NixOS on RISC-V bring-up",
+      "title": "Typed localStorage object restoration pattern",
       "urls": [
-        "https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/"
+        "https://taxorubio.com/blog/type-definitions-to-retrieve-objects-from-localstorage/"
       ],
-      "oneliner": "Detailed bring-up log shows how to cross-compile and boot NixOS on an Alibaba RISC-V board."
+      "oneliner": "Practical TypeScript pattern restores class instances from localStorage instead of returning methodless JSON objects."
     },
     {
-      "title": "Script folder command runner",
+      "title": "Better jj aliases for daily use",
       "urls": [
-        "https://alanpearce.eu/post/scriptura/"
+        "https://caiustheory.com/jj-jj-jj-jj-jj/"
       ],
-      "oneliner": "Fish-friendly script launcher adds tab completion, inline help, and easy editing for personal automation folders."
+      "oneliner": "Hands-on jj alias patterns fix nested command pain and make the VCS CLI safer to use every day."
     }
   ],
   "keywords": [
     "shipped",
-    "offline",
     "blazing",
-    "unlocked",
-    "local",
+    "offline",
     "open",
-    "instant"
+    "local",
+    "instant",
+    "unlocked"
   ],
   "tokenUsage": {
-    "promptTokens": 13318,
-    "completionTokens": 639,
-    "totalTokens": 13957,
-    "costUsd": 0.04288
+    "promptTokens": 11404,
+    "completionTokens": 650,
+    "totalTokens": 12054,
+    "costUsd": 0.038259999999999995
   }
 }

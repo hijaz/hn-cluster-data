@@ -1,105 +1,104 @@
 {
-  "date": "2026-11-22",
-  "generated_at": "2026-11-22T19:55:04.494605+00:00",
+  "date": "2026-07-02",
+  "generated_at": "2026-07-03T19:02:13.732421+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 59,
+  "totalItemsConsidered": 49,
   "items": [
     {
-      "title": "AI routing leaked prompts across providers",
+      "title": "GitHub Copilot adds an open-weight coding model",
       "urls": [
-        "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-        "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+        "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/"
       ],
-      "oneliner": "Researchers planted 2 million canaries and caught AI providers leaking secrets. Zero retention claims now need verification, not trust.",
-      "emoji": "🔐"
+      "oneliner": "GitHub Copilot now ships Kimi K2.7 Code. Open-weight coding models just entered mainstream enterprise workflows.",
+      "emoji": "🤖"
     },
     {
-      "title": "Ghostscript bug turns uploads into shells",
+      "title": "Senior SWE-Bench raises the bar",
       "urls": [
-        "https://pwn.ai/upload2shell/research.html"
+        "https://senior-swe-bench.snorkel.ai/"
       ],
-      "oneliner": "Ghostscript CVE-2026-125396 enables remote code execution through file uploads. Image pipelines just became part of your attack surface.",
+      "oneliner": "Senior SWE-Bench tests runtime debugging, not toy patches. Agent evals are finally inching toward real senior engineering work.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "Mixedbread cuts retrieval storage by 97 percent",
+      "urls": [
+        "https://www.mixedbread.com/blog/asymmetric-quant"
+      ],
+      "oneliner": "Mixedbread says asymmetric quantization shrinks late-interaction indexes 97% with minor quality loss. Retrieval economics just changed.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "A FUSE bug gives local users root",
+      "urls": [
+        "https://cyberstan.co.uk/fuse-readdir-oob/"
+      ],
+      "oneliner": "CVE-2026-31694 lets unprivileged users gain root on common Linux desktops. FUSE remains a surprisingly sharp local attack surface.",
       "emoji": "⚠️"
     },
     {
-      "title": "Anthropic's future power mix is fossil-heavy",
+      "title": "Browsers may need token-bound sessions",
       "urls": [
-        "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/"
+        "https://codon.org.uk/~mjg59/blog/p/preventing-token-theft/"
       ],
-      "oneliner": "Anthropic's 2028 power mix is projected at 87% gas and 11% coal. AI scaling is now an energy procurement story.",
-      "emoji": "🏭"
+      "oneliner": "Token theft keeps bypassing MFA, and browser-generated client certificates may be the most practical fix on the table.",
+      "emoji": "🔐"
     },
     {
-      "title": "Postgres now fits in one binary",
+      "title": "EU-US data transfers face another legal shock",
       "urls": [
-        "https://progrium.xyz/articles/2026/single-binary-postgres"
+        "https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers"
       ],
-      "oneliner": "miniPG packages a full Postgres server and client into one executable. Local-first apps just got a much easier default.",
-      "emoji": "📦"
-    },
-    {
-      "title": "A Rust server targets Python deployment pain",
-      "urls": [
-        "https://simonwillison.net/2026/Nov/21/muru/"
-      ],
-      "oneliner": "Muru brings an AI-assisted Rust server to ASGI and WSGI deployment. Python infra keeps borrowing systems ideas from Rust.",
-      "emoji": "🛠️"
-    },
-    {
-      "title": "Rust is being used surgically",
-      "urls": [
-        "https://github.com/EL4CTEO/fast-anything"
-      ],
-      "oneliner": "Fast-Anything rewrites only the slowest 5% in Rust. Teams can chase speedups without signing up for full rewrites.",
-      "emoji": "💻"
-    },
-    {
-      "title": "Terraform gets a more realistic test loop",
-      "urls": [
-        "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/"
-      ],
-      "oneliner": "An AWS emulator lets Terraform plans hit mock endpoints before apply. IaC debugging may finally move left.",
-      "emoji": "🌐"
-    },
-    {
-      "title": "Packet captures get instant triage",
-      "urls": [
-        "https://github.com/sebaandrada-cell/PcapAnalyzer"
-      ],
-      "oneliner": "PcapAnalyzer ships 27 detectors for local pcap analysis. Network forensics is getting faster without sending traffic off-box.",
-      "emoji": "🐛"
-    },
-    {
-      "title": "Minecraft scanning data triggered server bans",
-      "urls": [
-        "https://sipacid.com/blog/port-scanning-for-mojang/"
-      ],
-      "oneliner": "A hobbyist's Minecraft scanner appears tied to Mojang server bans. Telemetry can become enforcement faster than developers expect.",
+      "oneliner": "A US Supreme Court ruling may undermine FTC independence, putting the EU-US data transfer framework back on thin ice.",
       "emoji": "🔍"
     },
     {
-      "title": "Backblaze users are questioning the privacy shift",
+      "title": "Google loses its Android antitrust appeal",
       "urls": [
-        "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/"
+        "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html"
       ],
-      "oneliner": "Backblaze's policy update sparked fears around ad-related data sharing. Privacy promises remain a product feature until legal text changes.",
+      "oneliner": "Europe upheld Google's 4.1 billion euro Android fine. Platform bundling risk is still very real for ecosystem owners.",
       "emoji": "📊"
+    },
+    {
+      "title": "Cloudflare turns APIs into metered products",
+      "urls": [
+        "https://blog.cloudflare.com/monetization-gateway/"
+      ],
+      "oneliner": "Cloudflare's x402 gateway brings stablecoin micropayments to APIs and pages. Usage-based monetization is getting infrastructure support.",
+      "emoji": "💰"
+    },
+    {
+      "title": "Vite Plus bundles the modern web stack",
+      "urls": [
+        "https://voidzero.dev/posts/announcing-vite-plus-beta"
+      ],
+      "oneliner": "Vite+ beta packages build, dev, and workflow tooling together. Frontend teams are being pushed toward opinionated consolidation.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "Qualcomm unifies its embedded Linux stack",
+      "urls": [
+        "https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available"
+      ],
+      "oneliner": "Qualcomm Linux 2.0 standardizes Dragonwing IoT on Yocto 6.0 and Linux 6.18 LTS. Embedded fragmentation just took a hit.",
+      "emoji": "🏭"
     }
   ],
   "keywords": [
-    "leaked",
-    "surpassed",
+    "cracked",
     "weaponized",
+    "surpassed",
     "autonomy",
     "scarcity",
-    "cracked",
+    "leaked",
     "consolidation"
   ],
   "tokenUsage": {
-    "promptTokens": 13493,
-    "completionTokens": 785,
-    "totalTokens": 14278,
-    "costUsd": 0.0455075
+    "promptTokens": 11579,
+    "completionTokens": 798,
+    "totalTokens": 12377,
+    "costUsd": 0.0409175
   }
 }
