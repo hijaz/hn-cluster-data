@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T22:40:43.711722+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 47,
+  "items": [
+    {
+      "title": "GPT-6 is entering protein design",
+      "urls": [
+        "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
+      ],
+      "oneliner": "OpenAI says GPT-6 can design proteins directly, pushing foundation models from text generation into wet-lab adjacent discovery.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "Bonsai 2.5 shrinks local coding models",
+      "urls": [
+        "https://prismml.com/news/bonsai-2-5-27b"
+      ],
+      "oneliner": "Prism's 27B ternary model fits in 5.9 GB, making private on-device coding agents much more practical.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "PyTorch KL divergence is mathematically broken",
+      "urls": [
+        "https://arxiv.org/abs/2611.30835"
+      ],
+      "oneliner": "A new paper found PyTorch KL divergence returns wrong values across millions of cases, which can silently corrupt training.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "Check Point servers face active intrusion",
+      "urls": [
+        "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign"
+      ],
+      "oneliner": "GreyNoise saw 22 organizations hit via Check Point management servers, with 99 attacker IPs and broad sector exposure.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "The CIA suffered another cyber breach",
+      "urls": [
+        "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77"
+      ],
+      "oneliner": "An unclassified CIA system was breached, reminding every enterprise that segmentation still fails under real attacker pressure.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "Quad9 is leaving France over blocking orders",
+      "urls": [
+        "https://quad9.net/news/blog/quad9-service-deactivation-in-france/"
+      ],
+      "oneliner": "Quad9 pulled DNS service from France rather than enforce court-ordered blocks, turning internet policy into infrastructure risk.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "Microsoft declared Code Red after outage",
+      "urls": [
+        "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/"
+      ],
+      "oneliner": "Reuters says Microsoft's historic outage triggered a Code Red, putting cloud reliability back on every CTO's roadmap.",
+      "emoji": "💻"
+    },
+    {
+      "title": "Mason turns Postgres replicas columnar",
+      "urls": [
+        "https://masondata.ai/"
+      ],
+      "oneliner": "Mason syncs Postgres into DuckDB-style storage and claims up to 81x faster analytics without touching the primary.",
+      "emoji": "🏭"
+    },
+    {
+      "title": "Brickie brings sandboxes into your cloud",
+      "urls": [
+        "https://github.com/hatchet-dev/brickie"
+      ],
+      "oneliner": "Brickie lets teams run durable sandboxes in their own AWS or Kubernetes account, which matters for agent security.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "Songe trains local models while idle",
+      "urls": [
+        "https://github.com/sous-labs/songe",
+        "https://www.youtube.com/watch?v=RrepvxPUGko"
+      ],
+      "oneliner": "Songe uses idle local compute to personalize models from your corrections, pointing toward private always-learning agents.",
+      "emoji": "📦"
+    }
+  ],
+  "keywords": [
+    "cracked",
+    "racing",
+    "breached",
+    "surpassed",
+    "autonomy",
+    "scarcity",
+    "consolidation"
+  ],
+  "tokenUsage": {
+    "promptTokens": 10231,
+    "completionTokens": 764,
+    "totalTokens": 10995,
+    "costUsd": 0.0370375
+  }
+}

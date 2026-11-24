@@ -1,104 +1,105 @@
 {
-  "date": "2026-07-02",
-  "generated_at": "2026-07-03T19:02:13.732421+00:00",
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T22:40:43.711722+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 49,
+  "totalItemsConsidered": 47,
   "items": [
     {
-      "title": "GitHub Copilot adds an open-weight coding model",
+      "title": "GPT-6 is entering protein design",
       "urls": [
-        "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/"
+        "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
       ],
-      "oneliner": "GitHub Copilot now ships Kimi K2.7 Code. Open-weight coding models just entered mainstream enterprise workflows.",
-      "emoji": "🤖"
-    },
-    {
-      "title": "Senior SWE-Bench raises the bar",
-      "urls": [
-        "https://senior-swe-bench.snorkel.ai/"
-      ],
-      "oneliner": "Senior SWE-Bench tests runtime debugging, not toy patches. Agent evals are finally inching toward real senior engineering work.",
+      "oneliner": "OpenAI says GPT-6 can design proteins directly, pushing foundation models from text generation into wet-lab adjacent discovery.",
       "emoji": "🧠"
     },
     {
-      "title": "Mixedbread cuts retrieval storage by 97 percent",
+      "title": "Bonsai 2.5 shrinks local coding models",
       "urls": [
-        "https://www.mixedbread.com/blog/asymmetric-quant"
+        "https://prismml.com/news/bonsai-2-5-27b"
       ],
-      "oneliner": "Mixedbread says asymmetric quantization shrinks late-interaction indexes 97% with minor quality loss. Retrieval economics just changed.",
+      "oneliner": "Prism's 27B ternary model fits in 5.9 GB, making private on-device coding agents much more practical.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "PyTorch KL divergence is mathematically broken",
+      "urls": [
+        "https://arxiv.org/abs/2611.30835"
+      ],
+      "oneliner": "A new paper found PyTorch KL divergence returns wrong values across millions of cases, which can silently corrupt training.",
       "emoji": "⚡"
     },
     {
-      "title": "A FUSE bug gives local users root",
+      "title": "Check Point servers face active intrusion",
       "urls": [
-        "https://cyberstan.co.uk/fuse-readdir-oob/"
+        "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign"
       ],
-      "oneliner": "CVE-2026-31694 lets unprivileged users gain root on common Linux desktops. FUSE remains a surprisingly sharp local attack surface.",
-      "emoji": "⚠️"
-    },
-    {
-      "title": "Browsers may need token-bound sessions",
-      "urls": [
-        "https://codon.org.uk/~mjg59/blog/p/preventing-token-theft/"
-      ],
-      "oneliner": "Token theft keeps bypassing MFA, and browser-generated client certificates may be the most practical fix on the table.",
+      "oneliner": "GreyNoise saw 22 organizations hit via Check Point management servers, with 99 attacker IPs and broad sector exposure.",
       "emoji": "🔐"
     },
     {
-      "title": "EU-US data transfers face another legal shock",
+      "title": "The CIA suffered another cyber breach",
       "urls": [
-        "https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers"
+        "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77"
       ],
-      "oneliner": "A US Supreme Court ruling may undermine FTC independence, putting the EU-US data transfer framework back on thin ice.",
+      "oneliner": "An unclassified CIA system was breached, reminding every enterprise that segmentation still fails under real attacker pressure.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "Quad9 is leaving France over blocking orders",
+      "urls": [
+        "https://quad9.net/news/blog/quad9-service-deactivation-in-france/"
+      ],
+      "oneliner": "Quad9 pulled DNS service from France rather than enforce court-ordered blocks, turning internet policy into infrastructure risk.",
       "emoji": "🔍"
     },
     {
-      "title": "Google loses its Android antitrust appeal",
+      "title": "Microsoft declared Code Red after outage",
       "urls": [
-        "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html"
+        "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/"
       ],
-      "oneliner": "Europe upheld Google's 4.1 billion euro Android fine. Platform bundling risk is still very real for ecosystem owners.",
-      "emoji": "📊"
+      "oneliner": "Reuters says Microsoft's historic outage triggered a Code Red, putting cloud reliability back on every CTO's roadmap.",
+      "emoji": "💻"
     },
     {
-      "title": "Cloudflare turns APIs into metered products",
+      "title": "Mason turns Postgres replicas columnar",
       "urls": [
-        "https://blog.cloudflare.com/monetization-gateway/"
+        "https://masondata.ai/"
       ],
-      "oneliner": "Cloudflare's x402 gateway brings stablecoin micropayments to APIs and pages. Usage-based monetization is getting infrastructure support.",
-      "emoji": "💰"
+      "oneliner": "Mason syncs Postgres into DuckDB-style storage and claims up to 81x faster analytics without touching the primary.",
+      "emoji": "🏭"
     },
     {
-      "title": "Vite Plus bundles the modern web stack",
+      "title": "Brickie brings sandboxes into your cloud",
       "urls": [
-        "https://voidzero.dev/posts/announcing-vite-plus-beta"
+        "https://github.com/hatchet-dev/brickie"
       ],
-      "oneliner": "Vite+ beta packages build, dev, and workflow tooling together. Frontend teams are being pushed toward opinionated consolidation.",
+      "oneliner": "Brickie lets teams run durable sandboxes in their own AWS or Kubernetes account, which matters for agent security.",
       "emoji": "🛠️"
     },
     {
-      "title": "Qualcomm unifies its embedded Linux stack",
+      "title": "Songe trains local models while idle",
       "urls": [
-        "https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available"
+        "https://github.com/sous-labs/songe",
+        "https://www.youtube.com/watch?v=RrepvxPUGko"
       ],
-      "oneliner": "Qualcomm Linux 2.0 standardizes Dragonwing IoT on Yocto 6.0 and Linux 6.18 LTS. Embedded fragmentation just took a hit.",
-      "emoji": "🏭"
+      "oneliner": "Songe uses idle local compute to personalize models from your corrections, pointing toward private always-learning agents.",
+      "emoji": "📦"
     }
   ],
   "keywords": [
     "cracked",
-    "weaponized",
+    "racing",
+    "breached",
     "surpassed",
     "autonomy",
     "scarcity",
-    "leaked",
     "consolidation"
   ],
   "tokenUsage": {
-    "promptTokens": 11579,
-    "completionTokens": 798,
-    "totalTokens": 12377,
-    "costUsd": 0.0409175
+    "promptTokens": 10231,
+    "completionTokens": 764,
+    "totalTokens": 10995,
+    "costUsd": 0.0370375
   }
 }

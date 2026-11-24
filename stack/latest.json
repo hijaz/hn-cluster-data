@@ -1,94 +1,95 @@
 {
-  "date": "2026-07-02",
-  "generated_at": "2026-07-03T19:02:19.383182+00:00",
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T22:40:54.127288+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 49,
+  "totalItemsConsidered": 47,
   "items": [
     {
-      "title": "WinPE speeds Windows driver fuzzing",
+      "title": "Local model trainer from idle compute",
       "urls": [
-        "https://bednars.me/blog/winpe-harness"
+        "https://github.com/sous-labs/songe",
+        "https://www.youtube.com/watch?v=RrepvxPUGko"
       ],
-      "oneliner": "Boot a 200MB stateless Windows harness for unsigned driver testing, E2E runs, and kernel fuzzing without full VMs."
+      "oneliner": "This local training engine learns from your corrections and fine-tunes models during idle time without sending data off-device."
     },
     {
-      "title": "Build a passive Ethernet tap",
+      "title": "Self-hosted durable sandbox deployer",
       "urls": [
-        "https://blog.lvmbdv.dev/posts/building-a-passive-ethernet-tap/"
+        "https://github.com/hatchet-dev/brickie"
       ],
-      "oneliner": "Step-by-step guide to sniff 100 Mbps Ethernet with cheap parts and receive-only monitor ports that cannot disrupt traffic."
+      "oneliner": "Deploy forkable, retryable sandboxes in your own AWS or Kubernetes account with snapshots, warm pools, and observable task runs."
     },
     {
-      "title": "JavaScript ECS benchmark with memory data",
+      "title": "Postgres analytics replica on DuckDB",
       "urls": [
-        "https://www.dmurph.com/posts/2026/06/ecs_vs_oop_benchmark/ecs_vs_oop_benchmark.html"
+        "https://masondata.ai/"
       ],
-      "oneliner": "Benchmarks ECS versus OOP in JavaScript on Apple M4 Pro, showing memory-locality tradeoffs for game loops."
+      "oneliner": "This lightweight read replica converts Postgres tables to DuckDB and serves analytical queries up to 81 times faster."
     },
     {
-      "title": "Wordgard is a new rich text core",
+      "title": "TorchTPU optimization walkthrough",
       "urls": [
-        "https://marijnhaverbeke.nl/blog/wordgard-0.1.html"
+        "https://andlukyane.com/blog/cayley-graphs-and-torchtpu"
       ],
-      "oneliner": "MIT-licensed editor engine from ProseMirror's author offers a fresh architecture for building custom rich text tooling."
+      "oneliner": "Hands-on TorchTPU tuning guide shows how PyTorch on TPU went from 5.7x slower than JAX to competitive."
     },
     {
-      "title": "Senior SWE-Bench tests coding agents",
+      "title": "Patched Grafana builds with install commands",
       "urls": [
-        "https://senior-swe-bench.snorkel.ai/"
+        "https://grafana.com/grafana/download"
       ],
-      "oneliner": "Open benchmark evaluates agents on senior-level debugging tasks that require runtime investigation, not just patch generation."
+      "oneliner": "Direct download page for fixed Grafana releases with Linux install commands, version targets, and OSS or Enterprise options."
     },
     {
-      "title": "CursorBench compares coding model performance",
+      "title": "KL divergence bug analysis for PyTorch",
       "urls": [
-        "https://cursor.com/evals"
+        "https://arxiv.org/abs/2611.30835"
       ],
-      "oneliner": "Interactive eval suite helps teams compare coding assistant quality and responsiveness before standardizing on a model."
+      "oneliner": "This paper gives reproducible evidence that PyTorch KL divergence can go negative and proposes numerically stable fixes."
     },
     {
-      "title": "Build your own robot vacuum",
+      "title": "USB-C split design deep dive",
       "urls": [
-        "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/"
+        "https://www.frankchiarulli.com/blog/splitting-usb-c/"
       ],
-      "oneliner": "Open-source Raspberry Pi and ROS 2 vacuum includes BOM, build docs, and local-first control without cloud lock-in."
+      "oneliner": "Detailed hardware walkthrough shows how to combine USB 3 passthrough and a USB 2 hub on one USB-C port."
     },
     {
-      "title": "Google open sourced ZKP libraries",
+      "title": "Build profiling with deterministic replay",
       "urls": [
-        "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/"
+        "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg"
       ],
-      "oneliner": "Privacy-preserving identity libraries let developers verify age or credentials without exposing the underlying personal data."
+      "oneliner": "Practical performance analysis write-up shows how deterministic replay exposes build wait states and critical paths in detail."
     },
     {
-      "title": "Typed localStorage object restoration pattern",
+      "title": "Interactive mechanical watch explainer",
       "urls": [
-        "https://taxorubio.com/blog/type-definitions-to-retrieve-objects-from-localstorage/"
+        "https://martincmartin.github.io/slidev-stem/watches/article/1/"
       ],
-      "oneliner": "Practical TypeScript pattern restores class instances from localStorage instead of returning methodless JSON objects."
+      "oneliner": "Interactive 3D walkthrough makes escapements, hairsprings, and balance wheels click if you build simulations or teaching tools."
     },
     {
-      "title": "Better jj aliases for daily use",
+      "title": "Live UI component inspiration feed",
       "urls": [
-        "https://caiustheory.com/jj-jj-jj-jj-jj/"
+        "https://ui-feed.dev/"
       ],
-      "oneliner": "Hands-on jj alias patterns fix nested command pain and make the VCS CLI safer to use every day."
+      "oneliner": "Browse and test live interface components in one scrollable feed when you need concrete UI patterns fast."
     }
   ],
   "keywords": [
     "shipped",
-    "blazing",
-    "offline",
-    "open",
-    "local",
     "instant",
-    "unlocked"
+    "blazing",
+    "unlocked",
+    "local",
+    "open",
+    "practical"
   ],
   "tokenUsage": {
-    "promptTokens": 11404,
-    "completionTokens": 650,
-    "totalTokens": 12054,
-    "costUsd": 0.038259999999999995
+    "promptTokens": 10056,
+    "completionTokens": 664,
+    "totalTokens": 10720,
+    "costUsd": 0.035100000000000006
   }
 }
