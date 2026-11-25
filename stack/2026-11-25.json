@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T22:06:42.318764+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 90,
+  "items": [
+    {
+      "title": "Hypothesis driven code optimizer",
+      "urls": [
+        "https://chszlab.github.io/AgenticAlgorithmEngineering/"
+      ],
+      "oneliner": "Agent skill benchmarks code changes with falsifiable hypotheses, then emits a reviewable report before and after each optimization."
+    },
+    {
+      "title": "AWS subdomain takeover walkthrough",
+      "urls": [
+        "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each"
+      ],
+      "oneliner": "Hands-on research shows how dangling AWS Elastic IP DNS records enable subdomain takeover for about $3."
+    },
+    {
+      "title": "iOS Safari animation performance guide",
+      "urls": [
+        "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit"
+      ],
+      "oneliner": "Practical walkthrough for compositor-driven web animations that bypass iOS Safari's 60 FPS ceiling and feel native."
+    },
+    {
+      "title": "PipeWire loudness equalization port",
+      "urls": [
+        "https://github.com/xoxorwr/pw-loudness-eq"
+      ],
+      "oneliner": "Linux audio module ports Windows Loudness Equalization to PipeWire for steadier volume across apps and media."
+    },
+    {
+      "title": "Retro phone internet revival guide",
+      "urls": [
+        "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html"
+      ],
+      "oneliner": "Step-by-step Raspberry Pi and Bluetooth PAN setup gets old Java phones back online over modern networks."
+    },
+    {
+      "title": "Haskell websocket game server tutorial",
+      "urls": [
+        "https://blog.gordo.life/2026/04/12/haskell-websockets.html"
+      ],
+      "oneliner": "Code-first tutorial builds a turn-based WebSocket game server in Haskell using shared state and broadcast channels."
+    },
+    {
+      "title": "Free button sound pack",
+      "urls": [
+        "https://buttons.joshwcomeau.com/"
+      ],
+      "oneliner": "Installable NPM package ships 50 plus multisampled UI click sounds so web apps stop sounding fake."
+    },
+    {
+      "title": "Mac style desktop for 9front",
+      "urls": [
+        "https://progrium.github.io/9ux/"
+      ],
+      "oneliner": "Working desktop environment brings Macintosh style menus, dialogs, and file metaphors to 9front with native apps."
+    },
+    {
+      "title": "Browser revival of GPU demos",
+      "urls": [
+        "https://gpu-demo-gallery.pages.dev/"
+      ],
+      "oneliner": "Open browser gallery resurrects classic Nvidia and ATI tech demos so developers can inspect early real-time graphics ideas."
+    },
+    {
+      "title": "SwiftUI style mockup language",
+      "urls": [
+        "https://bbogovich.github.io/mockitdown/demos/"
+      ],
+      "oneliner": "UI mockup language compiles SwiftUI-like syntax to HTML and includes demo packs for Bootstrap, Fluent, and Material."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "instant",
+    "unlocked",
+    "local",
+    "open",
+    "native"
+  ],
+  "tokenUsage": {
+    "promptTokens": 19935,
+    "completionTokens": 639,
+    "totalTokens": 20574,
+    "costUsd": 0.0594225
+  }
+}

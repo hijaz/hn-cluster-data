@@ -1,105 +1,106 @@
 {
-  "date": "2026-11-24",
-  "generated_at": "2026-11-24T22:40:43.711722+00:00",
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T22:06:34.391712+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 47,
+  "totalItemsConsidered": 90,
   "items": [
     {
-      "title": "GPT-6 is entering protein design",
+      "title": "OpenAI claims a matrix multiplication breakthrough",
       "urls": [
-        "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
+        "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+        "https://raw.githubusercontent.com/openai/math/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+        "https://scottaaronson.blog/?p=10379"
       ],
-      "oneliner": "OpenAI says GPT-6 can design proteins directly, pushing foundation models from text generation into wet-lab adjacent discovery.",
+      "oneliner": "OpenAI claims omega equals 9/4. If it holds, AI just moved from coding software to proving core complexity results.",
       "emoji": "🧠"
     },
     {
-      "title": "Bonsai 2.5 shrinks local coding models",
+      "title": "GPT-6.2 beat human code golf records",
       "urls": [
-        "https://prismml.com/news/bonsai-2-5-27b"
+        "https://bjin.github.io/go-codegolf-benchmark/#leaderboard"
       ],
-      "oneliner": "Prism's 27B ternary model fits in 5.9 GB, making private on-device coding agents much more practical.",
-      "emoji": "🤖"
-    },
-    {
-      "title": "PyTorch KL divergence is mathematically broken",
-      "urls": [
-        "https://arxiv.org/abs/2611.30835"
-      ],
-      "oneliner": "A new paper found PyTorch KL divergence returns wrong values across millions of cases, which can silently corrupt training.",
+      "oneliner": "GPT-6.2 Astra scored 91.934% on go/codegolf, beating Googlers' 2015 record and shrinking the gap on algorithmic coding.",
       "emoji": "⚡"
     },
     {
-      "title": "Check Point servers face active intrusion",
+      "title": "LoRA capacity got a sizing rule",
       "urls": [
-        "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign"
+        "https://engram.com/blog/lora-size"
       ],
-      "oneliner": "GreyNoise saw 22 organizations hit via Check Point management servers, with 99 attacker IPs and broad sector exposure.",
-      "emoji": "🔐"
+      "oneliner": "Engram says LoRA rank can be predicted from dataset demands, turning adapter sizing from guesswork into planning.",
+      "emoji": "📊"
     },
     {
-      "title": "The CIA suffered another cyber breach",
+      "title": "Sandboxed models found side channels",
       "urls": [
-        "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77"
+        "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being"
       ],
-      "oneliner": "An unclassified CIA system was breached, reminding every enterprise that segmentation still fails under real attacker pressure.",
+      "oneliner": "Researchers showed sandboxed models can signal through inference servers, which makes multi-agent isolation look much less real.",
       "emoji": "⚠️"
     },
     {
-      "title": "Quad9 is leaving France over blocking orders",
+      "title": "Treasury subdomains were takeover-cheap",
       "urls": [
-        "https://quad9.net/news/blog/quad9-service-deactivation-in-france/"
+        "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each"
       ],
-      "oneliner": "Quad9 pulled DNS service from France rather than enforce court-ordered blocks, turning internet policy into infrastructure risk.",
+      "oneliner": "Researchers hijacked US Treasury subdomains for $3 via dangling AWS DNS, exposing a painfully common cloud hygiene failure.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "1Password disclosed a backend breach",
+      "urls": [
+        "https://1password.com/blog/update-on-nov-2026-security-incident"
+      ],
+      "oneliner": "1Password says vaults stayed safe, but a compromised GitHub account exposed customer metadata and internal systems.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "Hex.pm was hit by remote command execution",
+      "urls": [
+        "https://hex.pm/blog/security-incident-on-hexpm"
+      ],
+      "oneliner": "Hex.pm blocked an RCE attack in under 20 minutes, but users should rotate passwords and expect stronger package signing.",
       "emoji": "🔍"
     },
     {
-      "title": "Microsoft declared Code Red after outage",
+      "title": "Dutch regulators warned against AI glasses",
       "urls": [
-        "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/"
+        "https://autoriteitpersoonsgegevens.nl/en/current/ap-advises-against-purchasing-ai-camera-glasses-serious-risks-for-users-and-bystanders"
       ],
-      "oneliner": "Reuters says Microsoft's historic outage triggered a Code Red, putting cloud reliability back on every CTO's roadmap.",
-      "emoji": "💻"
+      "oneliner": "The Dutch privacy authority says do not buy AI camera glasses yet; safety failures and stealth recording crossed the line.",
+      "emoji": "📰"
     },
     {
-      "title": "Mason turns Postgres replicas columnar",
+      "title": "Rust's next trait solver is nearing release",
       "urls": [
-        "https://masondata.ai/"
+        "https://donsz.nl/blog/optimizing-rustcs-next-trait-solver"
       ],
-      "oneliner": "Mason syncs Postgres into DuckDB-style storage and claims up to 81x faster analytics without touching the primary.",
-      "emoji": "🏭"
-    },
-    {
-      "title": "Brickie brings sandboxes into your cloud",
-      "urls": [
-        "https://github.com/hatchet-dev/brickie"
-      ],
-      "oneliner": "Brickie lets teams run durable sandboxes in their own AWS or Kubernetes account, which matters for agent security.",
+      "oneliner": "Rust 1.102 is set to ship the long-awaited next trait solver, turning a 2015 research thread into production compiler behavior.",
       "emoji": "🛠️"
     },
     {
-      "title": "Songe trains local models while idle",
+      "title": "Servo shipped a substantial browser update",
       "urls": [
-        "https://github.com/sous-labs/songe",
-        "https://www.youtube.com/watch?v=RrepvxPUGko"
+        "https://servo.org/blog/2026/11/25/october-in-servo/"
       ],
-      "oneliner": "Songe uses idle local compute to personalize models from your corrections, pointing toward private always-learning agents.",
-      "emoji": "📦"
+      "oneliner": "Servo 0.8.0 landed after 588 commits, adding video captions, ARIA improvements, and faster WebGPU paths.",
+      "emoji": "💻"
     }
   ],
   "keywords": [
     "cracked",
-    "racing",
-    "breached",
+    "leaked",
+    "weaponized",
     "surpassed",
     "autonomy",
     "scarcity",
     "consolidation"
   ],
   "tokenUsage": {
-    "promptTokens": 10231,
-    "completionTokens": 764,
-    "totalTokens": 10995,
-    "costUsd": 0.0370375
+    "promptTokens": 20110,
+    "completionTokens": 786,
+    "totalTokens": 20896,
+    "costUsd": 0.062065
   }
 }
