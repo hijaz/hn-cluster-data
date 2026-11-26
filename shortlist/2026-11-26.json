@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T21:47:54.581797+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 48,
+  "items": [
+    {
+      "title": "Agents now manage Gemini compute",
+      "urls": [
+        "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/"
+      ],
+      "oneliner": "DeepMind says AI agents now allocate some Gemini compute, which makes closed-loop experimentation operational, not theoretical.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "OpenAI is tightening usage economics",
+      "urls": [
+        "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+        "https://micjm.com/blog/openai-is-in-cost-control-mode/"
+      ],
+      "oneliner": "OpenAI warns heavy ChatGPT users will hit limits sooner, a clear sign inference costs are finally biting.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "Google tightened Workspace agent rules",
+      "urls": [
+        "https://techstackups.com/articles/google-workspace-ai-agents-mcp/"
+      ],
+      "oneliner": "Google's Workspace MCP terms add task-only processing and 30-day retention, which sharply narrows long-memory enterprise agents.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "New York banned AI chatbot toys",
+      "urls": [
+        "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"
+      ],
+      "oneliner": "New York banned AI chatbot toys, giving consumer AI regulation another real enforcement edge beyond voluntary safety talk.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "Ransomware recovery firm was indicted",
+      "urls": [
+        "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/"
+      ],
+      "oneliner": "The CTO of RansomwareHelp was indicted after allegedly paying hackers secretly, exposing a grim supply chain inside cyber recovery.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "A script targets data brokers",
+      "urls": [
+        "https://github.com/gary23w/f-ck_data_brokers"
+      ],
+      "oneliner": "A Python tool automates data-broker opt-outs, turning privacy cleanup from paperwork into something engineers can actually operationalize.",
+      "emoji": "🔍"
+    },
+    {
+      "title": "AMD got a faster llama.cpp fork",
+      "urls": [
+        "https://devnull.land/amd-specific-llama-cpp"
+      ],
+      "oneliner": "An AMD-specific llama.cpp fork boosts token generation and prefill, reminding teams that inference is fragmenting by hardware.",
+      "emoji": "💻"
+    },
+    {
+      "title": "PostgreSQL now fits one executable",
+      "urls": [
+        "https://progrium.github.io/minipg/"
+      ],
+      "oneliner": "Minipg packages PostgreSQL into a single executable, which could simplify CI, local testing, and disposable data environments.",
+      "emoji": "📦"
+    },
+    {
+      "title": "Three browser VMs run in-tab",
+      "urls": [
+        "https://michidk.github.io/sidebyside/"
+      ],
+      "oneliner": "A browser tab now spins up Linux VMs for Chrome, Firefox, and Safari, making cross-browser debugging radically cheaper.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "Rust gained a full VoIP stack",
+      "urls": [
+        "https://github.com/eisenzopf/rvoip"
+      ],
+      "oneliner": "Rvoip 0.5 ships SIP, RTP, WebRTC, and QUIC in Rust, lowering the barrier to build communications products in-house.",
+      "emoji": "🏭"
+    }
+  ],
+  "keywords": [
+    "cracked",
+    "racing",
+    "banned",
+    "scarcity",
+    "leaked",
+    "autonomy",
+    "consolidation"
+  ],
+  "tokenUsage": {
+    "promptTokens": 9882,
+    "completionTokens": 760,
+    "totalTokens": 10642,
+    "costUsd": 0.036105
+  }
+}

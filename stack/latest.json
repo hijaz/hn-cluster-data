@@ -1,94 +1,94 @@
 {
-  "date": "2026-11-25",
-  "generated_at": "2026-11-25T22:06:42.318764+00:00",
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T21:48:01.316300+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 90,
+  "totalItemsConsidered": 48,
   "items": [
     {
-      "title": "Hypothesis driven code optimizer",
+      "title": "Rust VoIP stack ships end to end",
       "urls": [
-        "https://chszlab.github.io/AgenticAlgorithmEngineering/"
+        "https://github.com/eisenzopf/rvoip"
       ],
-      "oneliner": "Agent skill benchmarks code changes with falsifiable hypotheses, then emits a reviewable report before and after each optimization."
+      "oneliner": "Rust library bundles SIP, RTP, WebRTC, and QUIC so you can ship calling without stitching five protocols."
     },
     {
-      "title": "AWS subdomain takeover walkthrough",
+      "title": "Postgres runs as one executable",
       "urls": [
-        "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each"
+        "https://progrium.github.io/minipg/"
       ],
-      "oneliner": "Hands-on research shows how dangling AWS Elastic IP DNS records enable subdomain takeover for about $3."
+      "oneliner": "Single binary PostgreSQL packs data, config, and credentials into .pgdb for CI friendly local databases."
     },
     {
-      "title": "iOS Safari animation performance guide",
+      "title": "Finder sidebar controls iOS simulators",
       "urls": [
-        "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit"
+        "https://github.com/rxliuli/sim-drop"
       ],
-      "oneliner": "Practical walkthrough for compositor-driven web animations that bypass iOS Safari's 60 FPS ceiling and feel native."
+      "oneliner": "macOS utility exposes booted iOS simulators in Finder so you can drag files in and out instantly."
     },
     {
-      "title": "PipeWire loudness equalization port",
+      "title": "AMD tuned llama.cpp fork",
       "urls": [
-        "https://github.com/xoxorwr/pw-loudness-eq"
+        "https://devnull.land/amd-specific-llama-cpp"
       ],
-      "oneliner": "Linux audio module ports Windows Loudness Equalization to PipeWire for steadier volume across apps and media."
+      "oneliner": "AMD focused llama.cpp fork boosts token generation and prefill on RDNA GPUs with minimal code changes."
     },
     {
-      "title": "Retro phone internet revival guide",
+      "title": "Fonts animate like real handwriting",
       "urls": [
-        "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html"
+        "https://tegaki.ink/"
       ],
-      "oneliner": "Step-by-step Raspberry Pi and Bluetooth PAN setup gets old Java phones back online over modern networks."
+      "oneliner": "Open source library renders any font stroke by stroke for realistic handwriting animations in web apps."
     },
     {
-      "title": "Haskell websocket game server tutorial",
+      "title": "Three browser VMs in one tab",
       "urls": [
-        "https://blog.gordo.life/2026/04/12/haskell-websockets.html"
+        "https://michidk.github.io/sidebyside/"
       ],
-      "oneliner": "Code-first tutorial builds a turn-based WebSocket game server in Haskell using shared state and broadcast channels."
+      "oneliner": "Browser tool runs Linux VMs with different browsers side by side for instant cross browser testing."
     },
     {
-      "title": "Free button sound pack",
+      "title": "Python script removes broker data",
       "urls": [
-        "https://buttons.joshwcomeau.com/"
+        "https://github.com/gary23w/f-ck_data_brokers"
       ],
-      "oneliner": "Installable NPM package ships 50 plus multisampled UI click sounds so web apps stop sounding fake."
+      "oneliner": "Python tool automates opt out requests to data brokers so you can scrub personal data without manual forms."
     },
     {
-      "title": "Mac style desktop for 9front",
+      "title": "Lean proof repo for GRH",
       "urls": [
-        "https://progrium.github.io/9ux/"
+        "https://github.com/lsernau/grh-lean"
       ],
-      "oneliner": "Working desktop environment brings Macintosh style menus, dialogs, and file metaphors to 9front with native apps."
+      "oneliner": "Lean 4 repository lets you build and inspect a machine checked GRH proof artifact locally."
     },
     {
-      "title": "Browser revival of GPU demos",
+      "title": "Lean formalization of complexity separation",
       "urls": [
-        "https://gpu-demo-gallery.pages.dev/"
+        "https://github.com/samueleverett01/bss-permanent-separations"
       ],
-      "oneliner": "Open browser gallery resurrects classic Nvidia and ATI tech demos so developers can inspect early real-time graphics ideas."
+      "oneliner": "Lean 4 repo formalizes a claimed NP_R versus PAR_R separation for researchers studying proof workflows."
     },
     {
-      "title": "SwiftUI style mockup language",
+      "title": "Accessible coding font for developers",
       "urls": [
-        "https://bbogovich.github.io/mockitdown/demos/"
+        "https://github.com/intel/intel-one-mono"
       ],
-      "oneliner": "UI mockup language compiles SwiftUI-like syntax to HTML and includes demo packs for Bootstrap, Fluent, and Material."
+      "oneliner": "Open source monospaced font improves code legibility for low vision developers across 200 plus Latin languages."
     }
   ],
   "keywords": [
     "shipped",
     "blazing",
-    "instant",
-    "unlocked",
-    "local",
+    "offline",
     "open",
-    "native"
+    "local",
+    "native",
+    "unlocked"
   ],
   "tokenUsage": {
-    "promptTokens": 19935,
-    "completionTokens": 639,
-    "totalTokens": 20574,
-    "costUsd": 0.0594225
+    "promptTokens": 9707,
+    "completionTokens": 630,
+    "totalTokens": 10337,
+    "costUsd": 0.0337175
   }
 }

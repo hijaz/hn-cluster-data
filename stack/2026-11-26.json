@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T21:48:01.316300+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 48,
+  "items": [
+    {
+      "title": "Rust VoIP stack ships end to end",
+      "urls": [
+        "https://github.com/eisenzopf/rvoip"
+      ],
+      "oneliner": "Rust library bundles SIP, RTP, WebRTC, and QUIC so you can ship calling without stitching five protocols."
+    },
+    {
+      "title": "Postgres runs as one executable",
+      "urls": [
+        "https://progrium.github.io/minipg/"
+      ],
+      "oneliner": "Single binary PostgreSQL packs data, config, and credentials into .pgdb for CI friendly local databases."
+    },
+    {
+      "title": "Finder sidebar controls iOS simulators",
+      "urls": [
+        "https://github.com/rxliuli/sim-drop"
+      ],
+      "oneliner": "macOS utility exposes booted iOS simulators in Finder so you can drag files in and out instantly."
+    },
+    {
+      "title": "AMD tuned llama.cpp fork",
+      "urls": [
+        "https://devnull.land/amd-specific-llama-cpp"
+      ],
+      "oneliner": "AMD focused llama.cpp fork boosts token generation and prefill on RDNA GPUs with minimal code changes."
+    },
+    {
+      "title": "Fonts animate like real handwriting",
+      "urls": [
+        "https://tegaki.ink/"
+      ],
+      "oneliner": "Open source library renders any font stroke by stroke for realistic handwriting animations in web apps."
+    },
+    {
+      "title": "Three browser VMs in one tab",
+      "urls": [
+        "https://michidk.github.io/sidebyside/"
+      ],
+      "oneliner": "Browser tool runs Linux VMs with different browsers side by side for instant cross browser testing."
+    },
+    {
+      "title": "Python script removes broker data",
+      "urls": [
+        "https://github.com/gary23w/f-ck_data_brokers"
+      ],
+      "oneliner": "Python tool automates opt out requests to data brokers so you can scrub personal data without manual forms."
+    },
+    {
+      "title": "Lean proof repo for GRH",
+      "urls": [
+        "https://github.com/lsernau/grh-lean"
+      ],
+      "oneliner": "Lean 4 repository lets you build and inspect a machine checked GRH proof artifact locally."
+    },
+    {
+      "title": "Lean formalization of complexity separation",
+      "urls": [
+        "https://github.com/samueleverett01/bss-permanent-separations"
+      ],
+      "oneliner": "Lean 4 repo formalizes a claimed NP_R versus PAR_R separation for researchers studying proof workflows."
+    },
+    {
+      "title": "Accessible coding font for developers",
+      "urls": [
+        "https://github.com/intel/intel-one-mono"
+      ],
+      "oneliner": "Open source monospaced font improves code legibility for low vision developers across 200 plus Latin languages."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "offline",
+    "open",
+    "local",
+    "native",
+    "unlocked"
+  ],
+  "tokenUsage": {
+    "promptTokens": 9707,
+    "completionTokens": 630,
+    "totalTokens": 10337,
+    "costUsd": 0.0337175
+  }
+}

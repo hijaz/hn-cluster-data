@@ -1,106 +1,105 @@
 {
-  "date": "2026-11-25",
-  "generated_at": "2026-11-25T22:06:34.391712+00:00",
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T21:47:54.581797+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 90,
+  "totalItemsConsidered": 48,
   "items": [
     {
-      "title": "OpenAI claims a matrix multiplication breakthrough",
+      "title": "Agents now manage Gemini compute",
       "urls": [
-        "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-        "https://raw.githubusercontent.com/openai/math/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-        "https://scottaaronson.blog/?p=10379"
+        "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/"
       ],
-      "oneliner": "OpenAI claims omega equals 9/4. If it holds, AI just moved from coding software to proving core complexity results.",
+      "oneliner": "DeepMind says AI agents now allocate some Gemini compute, which makes closed-loop experimentation operational, not theoretical.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "OpenAI is tightening usage economics",
+      "urls": [
+        "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+        "https://micjm.com/blog/openai-is-in-cost-control-mode/"
+      ],
+      "oneliner": "OpenAI warns heavy ChatGPT users will hit limits sooner, a clear sign inference costs are finally biting.",
       "emoji": "🧠"
     },
     {
-      "title": "GPT-6.2 beat human code golf records",
+      "title": "Google tightened Workspace agent rules",
       "urls": [
-        "https://bjin.github.io/go-codegolf-benchmark/#leaderboard"
+        "https://techstackups.com/articles/google-workspace-ai-agents-mcp/"
       ],
-      "oneliner": "GPT-6.2 Astra scored 91.934% on go/codegolf, beating Googlers' 2015 record and shrinking the gap on algorithmic coding.",
+      "oneliner": "Google's Workspace MCP terms add task-only processing and 30-day retention, which sharply narrows long-memory enterprise agents.",
       "emoji": "⚡"
     },
     {
-      "title": "LoRA capacity got a sizing rule",
+      "title": "New York banned AI chatbot toys",
       "urls": [
-        "https://engram.com/blog/lora-size"
+        "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"
       ],
-      "oneliner": "Engram says LoRA rank can be predicted from dataset demands, turning adapter sizing from guesswork into planning.",
-      "emoji": "📊"
-    },
-    {
-      "title": "Sandboxed models found side channels",
-      "urls": [
-        "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being"
-      ],
-      "oneliner": "Researchers showed sandboxed models can signal through inference servers, which makes multi-agent isolation look much less real.",
+      "oneliner": "New York banned AI chatbot toys, giving consumer AI regulation another real enforcement edge beyond voluntary safety talk.",
       "emoji": "⚠️"
     },
     {
-      "title": "Treasury subdomains were takeover-cheap",
+      "title": "Ransomware recovery firm was indicted",
       "urls": [
-        "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each"
+        "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/"
       ],
-      "oneliner": "Researchers hijacked US Treasury subdomains for $3 via dangling AWS DNS, exposing a painfully common cloud hygiene failure.",
+      "oneliner": "The CTO of RansomwareHelp was indicted after allegedly paying hackers secretly, exposing a grim supply chain inside cyber recovery.",
       "emoji": "🔐"
     },
     {
-      "title": "1Password disclosed a backend breach",
+      "title": "A script targets data brokers",
       "urls": [
-        "https://1password.com/blog/update-on-nov-2026-security-incident"
+        "https://github.com/gary23w/f-ck_data_brokers"
       ],
-      "oneliner": "1Password says vaults stayed safe, but a compromised GitHub account exposed customer metadata and internal systems.",
-      "emoji": "🐛"
-    },
-    {
-      "title": "Hex.pm was hit by remote command execution",
-      "urls": [
-        "https://hex.pm/blog/security-incident-on-hexpm"
-      ],
-      "oneliner": "Hex.pm blocked an RCE attack in under 20 minutes, but users should rotate passwords and expect stronger package signing.",
+      "oneliner": "A Python tool automates data-broker opt-outs, turning privacy cleanup from paperwork into something engineers can actually operationalize.",
       "emoji": "🔍"
     },
     {
-      "title": "Dutch regulators warned against AI glasses",
+      "title": "AMD got a faster llama.cpp fork",
       "urls": [
-        "https://autoriteitpersoonsgegevens.nl/en/current/ap-advises-against-purchasing-ai-camera-glasses-serious-risks-for-users-and-bystanders"
+        "https://devnull.land/amd-specific-llama-cpp"
       ],
-      "oneliner": "The Dutch privacy authority says do not buy AI camera glasses yet; safety failures and stealth recording crossed the line.",
-      "emoji": "📰"
+      "oneliner": "An AMD-specific llama.cpp fork boosts token generation and prefill, reminding teams that inference is fragmenting by hardware.",
+      "emoji": "💻"
     },
     {
-      "title": "Rust's next trait solver is nearing release",
+      "title": "PostgreSQL now fits one executable",
       "urls": [
-        "https://donsz.nl/blog/optimizing-rustcs-next-trait-solver"
+        "https://progrium.github.io/minipg/"
       ],
-      "oneliner": "Rust 1.102 is set to ship the long-awaited next trait solver, turning a 2015 research thread into production compiler behavior.",
+      "oneliner": "Minipg packages PostgreSQL into a single executable, which could simplify CI, local testing, and disposable data environments.",
+      "emoji": "📦"
+    },
+    {
+      "title": "Three browser VMs run in-tab",
+      "urls": [
+        "https://michidk.github.io/sidebyside/"
+      ],
+      "oneliner": "A browser tab now spins up Linux VMs for Chrome, Firefox, and Safari, making cross-browser debugging radically cheaper.",
       "emoji": "🛠️"
     },
     {
-      "title": "Servo shipped a substantial browser update",
+      "title": "Rust gained a full VoIP stack",
       "urls": [
-        "https://servo.org/blog/2026/11/25/october-in-servo/"
+        "https://github.com/eisenzopf/rvoip"
       ],
-      "oneliner": "Servo 0.8.0 landed after 588 commits, adding video captions, ARIA improvements, and faster WebGPU paths.",
-      "emoji": "💻"
+      "oneliner": "Rvoip 0.5 ships SIP, RTP, WebRTC, and QUIC in Rust, lowering the barrier to build communications products in-house.",
+      "emoji": "🏭"
     }
   ],
   "keywords": [
     "cracked",
-    "leaked",
-    "weaponized",
-    "surpassed",
-    "autonomy",
+    "racing",
+    "banned",
     "scarcity",
+    "leaked",
+    "autonomy",
     "consolidation"
   ],
   "tokenUsage": {
-    "promptTokens": 20110,
-    "completionTokens": 786,
-    "totalTokens": 20896,
-    "costUsd": 0.062065
+    "promptTokens": 9882,
+    "completionTokens": 760,
+    "totalTokens": 10642,
+    "costUsd": 0.036105
   }
 }
