@@ -1,79 +1,79 @@
 {
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26T21:48:01.316300+00:00",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T21:54:45.257761+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 48,
+  "totalItemsConsidered": 107,
   "items": [
     {
-      "title": "Rust VoIP stack ships end to end",
+      "title": "Local silent webcam dictation plugin",
       "urls": [
-        "https://github.com/eisenzopf/rvoip"
+        "https://github.com/batanus/lip-dictation"
       ],
-      "oneliner": "Rust library bundles SIP, RTP, WebRTC, and QUIC so you can ship calling without stitching five protocols."
+      "oneliner": "Mac plugin turns lip movements into text locally, giving you silent prompting without recording audio or sending video."
     },
     {
-      "title": "Postgres runs as one executable",
+      "title": "Rust paint app tutorial",
       "urls": [
-        "https://progrium.github.io/minipg/"
+        "https://www.buildyourownpaint.com/en"
       ],
-      "oneliner": "Single binary PostgreSQL packs data, config, and credentials into .pgdb for CI friendly local databases."
+      "oneliner": "Twelve-chapter Rust tutorial builds a paint app from scratch and teaches rasterization through about 800 lines of code."
     },
     {
-      "title": "Finder sidebar controls iOS simulators",
+      "title": "Retro gamedev Linux distro",
       "urls": [
-        "https://github.com/rxliuli/sim-drop"
+        "https://roboticoverlords.org/tinyhat"
       ],
-      "oneliner": "macOS utility exposes booted iOS simulators in Finder so you can drag files in and out instantly."
+      "oneliner": "Minimal Linux distro for retro gamedev ships SDL3 and cross-platform tooling in under 100MB RAM and 600MB disk."
     },
     {
-      "title": "AMD tuned llama.cpp fork",
+      "title": "VS Code support for design docs",
       "urls": [
-        "https://devnull.land/amd-specific-llama-cpp"
+        "https://christianoliff.com/blog/design-md-vs-code-extension/"
       ],
-      "oneliner": "AMD focused llama.cpp fork boosts token generation and prefill on RDNA GPUs with minimal code changes."
+      "oneliner": "VS Code extension adds linting, autocomplete, and preview for design.md files so design system docs become editable like code."
     },
     {
-      "title": "Fonts animate like real handwriting",
+      "title": "Modern Go tooling guide",
       "urls": [
-        "https://tegaki.ink/"
+        "https://www.alexedwards.net/blog/an-overview-of-go-tooling-v2"
       ],
-      "oneliner": "Open source library renders any font stroke by stroke for realistic handwriting animations in web apps."
+      "oneliner": "Hands-on Go tooling guide covers install, debug, test, security, and live reload with current commands you can use today."
     },
     {
-      "title": "Three browser VMs in one tab",
+      "title": "Stable self-hosted mail CLI suite",
       "urls": [
-        "https://michidk.github.io/sidebyside/"
+        "https://blog.pimalaya.org/pimalaya-goes-stable/"
       ],
-      "oneliner": "Browser tool runs Linux VMs with different browsers side by side for instant cross browser testing."
+      "oneliner": "Pimalaya's stable CLI suite unifies email, contacts, and calendar tools under shared configs for scriptable self-hosted workflows."
     },
     {
-      "title": "Python script removes broker data",
+      "title": "Rust library for WinHelp files",
       "urls": [
-        "https://github.com/gary23w/f-ck_data_brokers"
+        "https://quin.fyi/posts/how-winhelp-files-work.html"
       ],
-      "oneliner": "Python tool automates opt out requests to data brokers so you can scrub personal data without manual forms."
+      "oneliner": "Deep reverse-engineering walkthrough explains WinHelp internals and ships a Rust library for reading legacy .hlp archives."
     },
     {
-      "title": "Lean proof repo for GRH",
+      "title": "AT and T Unix PC VM",
       "urls": [
-        "https://github.com/lsernau/grh-lean"
+        "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/"
       ],
-      "oneliner": "Lean 4 repository lets you build and inspect a machine checked GRH proof artifact locally."
+      "oneliner": "Prebuilt AT&T Unix PC virtual machine bundles TCP/IP and apps so retro Unix developers can boot and explore immediately."
     },
     {
-      "title": "Lean formalization of complexity separation",
+      "title": "Practical guide to self-hosted email",
       "urls": [
-        "https://github.com/samueleverett01/bss-permanent-separations"
+        "http://www.linux-magazine.com/Online/Features/Taking-Email-Back"
       ],
-      "oneliner": "Lean 4 repo formalizes a claimed NP_R versus PAR_R separation for researchers studying proof workflows."
+      "oneliner": "Case study on reclaiming email shows how organizations self-host with open standards instead of depending on Google or Microsoft."
     },
     {
-      "title": "Accessible coding font for developers",
+      "title": "Object storage admin UI release",
       "urls": [
-        "https://github.com/intel/intel-one-mono"
+        "https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/"
       ],
-      "oneliner": "Open source monospaced font improves code legibility for low vision developers across 200 plus Latin languages."
+      "oneliner": "Garage v2.6.0 adds a web admin UI for managing S3-compatible clusters, buckets, and monitoring without custom scripts."
     }
   ],
   "keywords": [
@@ -82,13 +82,13 @@
     "offline",
     "open",
     "local",
-    "native",
+    "instant",
     "unlocked"
   ],
   "tokenUsage": {
-    "promptTokens": 9707,
-    "completionTokens": 630,
-    "totalTokens": 10337,
-    "costUsd": 0.0337175
+    "promptTokens": 23024,
+    "completionTokens": 668,
+    "totalTokens": 23692,
+    "costUsd": 0.06758
   }
 }

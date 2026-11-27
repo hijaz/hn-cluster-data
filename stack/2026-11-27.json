@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T21:54:45.257761+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 107,
+  "items": [
+    {
+      "title": "Local silent webcam dictation plugin",
+      "urls": [
+        "https://github.com/batanus/lip-dictation"
+      ],
+      "oneliner": "Mac plugin turns lip movements into text locally, giving you silent prompting without recording audio or sending video."
+    },
+    {
+      "title": "Rust paint app tutorial",
+      "urls": [
+        "https://www.buildyourownpaint.com/en"
+      ],
+      "oneliner": "Twelve-chapter Rust tutorial builds a paint app from scratch and teaches rasterization through about 800 lines of code."
+    },
+    {
+      "title": "Retro gamedev Linux distro",
+      "urls": [
+        "https://roboticoverlords.org/tinyhat"
+      ],
+      "oneliner": "Minimal Linux distro for retro gamedev ships SDL3 and cross-platform tooling in under 100MB RAM and 600MB disk."
+    },
+    {
+      "title": "VS Code support for design docs",
+      "urls": [
+        "https://christianoliff.com/blog/design-md-vs-code-extension/"
+      ],
+      "oneliner": "VS Code extension adds linting, autocomplete, and preview for design.md files so design system docs become editable like code."
+    },
+    {
+      "title": "Modern Go tooling guide",
+      "urls": [
+        "https://www.alexedwards.net/blog/an-overview-of-go-tooling-v2"
+      ],
+      "oneliner": "Hands-on Go tooling guide covers install, debug, test, security, and live reload with current commands you can use today."
+    },
+    {
+      "title": "Stable self-hosted mail CLI suite",
+      "urls": [
+        "https://blog.pimalaya.org/pimalaya-goes-stable/"
+      ],
+      "oneliner": "Pimalaya's stable CLI suite unifies email, contacts, and calendar tools under shared configs for scriptable self-hosted workflows."
+    },
+    {
+      "title": "Rust library for WinHelp files",
+      "urls": [
+        "https://quin.fyi/posts/how-winhelp-files-work.html"
+      ],
+      "oneliner": "Deep reverse-engineering walkthrough explains WinHelp internals and ships a Rust library for reading legacy .hlp archives."
+    },
+    {
+      "title": "AT and T Unix PC VM",
+      "urls": [
+        "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/"
+      ],
+      "oneliner": "Prebuilt AT&T Unix PC virtual machine bundles TCP/IP and apps so retro Unix developers can boot and explore immediately."
+    },
+    {
+      "title": "Practical guide to self-hosted email",
+      "urls": [
+        "http://www.linux-magazine.com/Online/Features/Taking-Email-Back"
+      ],
+      "oneliner": "Case study on reclaiming email shows how organizations self-host with open standards instead of depending on Google or Microsoft."
+    },
+    {
+      "title": "Object storage admin UI release",
+      "urls": [
+        "https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/"
+      ],
+      "oneliner": "Garage v2.6.0 adds a web admin UI for managing S3-compatible clusters, buckets, and monitoring without custom scripts."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "blazing",
+    "offline",
+    "open",
+    "local",
+    "instant",
+    "unlocked"
+  ],
+  "tokenUsage": {
+    "promptTokens": 23024,
+    "completionTokens": 668,
+    "totalTokens": 23692,
+    "costUsd": 0.06758
+  }
+}

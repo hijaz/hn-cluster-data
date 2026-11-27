@@ -1,105 +1,106 @@
 {
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26T21:47:54.581797+00:00",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T21:54:37.135495+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 48,
+  "totalItemsConsidered": 107,
   "items": [
     {
-      "title": "Agents now manage Gemini compute",
+      "title": "A new discrete log attack landed",
       "urls": [
-        "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/"
+        "https://eprint.iacr.org/2026/3020.pdf"
       ],
-      "oneliner": "DeepMind says AI agents now allocate some Gemini compute, which makes closed-loop experimentation operational, not theoretical.",
-      "emoji": "🤖"
-    },
-    {
-      "title": "OpenAI is tightening usage economics",
-      "urls": [
-        "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-        "https://micjm.com/blog/openai-is-in-cost-control-mode/"
-      ],
-      "oneliner": "OpenAI warns heavy ChatGPT users will hit limits sooner, a clear sign inference costs are finally biting.",
+      "oneliner": "A deterministic subexponential discrete log algorithm just landed, which puts old cryptographic comfort assumptions under real pressure.",
       "emoji": "🧠"
     },
     {
-      "title": "Google tightened Workspace agent rules",
+      "title": "OpenAI pushed matrix multiplication theory forward",
       "urls": [
-        "https://techstackups.com/articles/google-workspace-ai-agents-mcp/"
+        "https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf",
+        "https://www.theneurondaily.com/p/november-27-friday",
+        "https://scottaaronson.blog/?p=10379"
       ],
-      "oneliner": "Google's Workspace MCP terms add task-only processing and 30-day retention, which sharply narrows long-memory enterprise agents.",
+      "oneliner": "OpenAI's tensor preprint claims a new matrix multiplication lower bound, which matters because AI scaling still runs on linear algebra.",
       "emoji": "⚡"
     },
     {
-      "title": "New York banned AI chatbot toys",
+      "title": "DeepL cut voice translation lag",
       "urls": [
-        "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"
+        "https://www.deepl.com/en/press-release/aure-v2"
       ],
-      "oneliner": "New York banned AI chatbot toys, giving consumer AI regulation another real enforcement edge beyond voluntary safety talk.",
+      "oneliner": "DeepL says Aure v2 halves voice translation latency, which is the kind of UX gain that actually changes product adoption.",
+      "emoji": "📊"
+    },
+    {
+      "title": "States sued xAI over Grok imagery",
+      "urls": [
+        "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform"
+      ],
+      "oneliner": "Virginia and Oregon sued xAI over Grok image generation, turning AI safety failures into an enforcement problem.",
       "emoji": "⚠️"
     },
     {
-      "title": "Ransomware recovery firm was indicted",
+      "title": "WebRTC skimmers hit shopping sites",
       "urls": [
-        "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/"
+        "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer"
       ],
-      "oneliner": "The CTO of RansomwareHelp was indicted after allegedly paying hackers secretly, exposing a grim supply chain inside cyber recovery.",
+      "oneliner": "WebRTC-based card skimmers were found on major shopping sites before Black Friday, proving browser abuse keeps evolving faster than defenses.",
       "emoji": "🔐"
     },
     {
-      "title": "A script targets data brokers",
+      "title": "Convex skill leaked user app ideas",
       "urls": [
-        "https://github.com/gary23w/f-ck_data_brokers"
+        "https://github.com/convex/convex-backend-skill/issues/64"
       ],
-      "oneliner": "A Python tool automates data-broker opt-outs, turning privacy cleanup from paperwork into something engineers can actually operationalize.",
-      "emoji": "🔍"
+      "oneliner": "A Convex skill reportedly sent user app ideas to a remote server without notice, which is a trust-killer for agent tooling.",
+      "emoji": "🐛"
     },
     {
-      "title": "AMD got a faster llama.cpp fork",
+      "title": "Self-hosted email is back on the table",
       "urls": [
-        "https://devnull.land/amd-specific-llama-cpp"
+        "http://www.linux-magazine.com/Online/Features/Taking-Email-Back"
       ],
-      "oneliner": "An AMD-specific llama.cpp fork boosts token generation and prefill, reminding teams that inference is fragmenting by hardware.",
-      "emoji": "💻"
+      "oneliner": "The Dutch government and ICC examples make one point clear: outsourced email is now a sovereignty and resilience risk.",
+      "emoji": "🌐"
     },
     {
-      "title": "PostgreSQL now fits one executable",
+      "title": "Garage added a real web admin",
       "urls": [
-        "https://progrium.github.io/minipg/"
+        "https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/"
       ],
-      "oneliner": "Minipg packages PostgreSQL into a single executable, which could simplify CI, local testing, and disposable data environments.",
-      "emoji": "📦"
-    },
-    {
-      "title": "Three browser VMs run in-tab",
-      "urls": [
-        "https://michidk.github.io/sidebyside/"
-      ],
-      "oneliner": "A browser tab now spins up Linux VMs for Chrome, Firefox, and Safari, making cross-browser debugging radically cheaper.",
+      "oneliner": "Garage 2.6.0 shipped a web admin UI, making S3-compatible self-hosted object storage much more realistic for smaller teams.",
       "emoji": "🛠️"
     },
     {
-      "title": "Rust gained a full VoIP stack",
+      "title": "Rust finally stabilized custom allocators",
       "urls": [
-        "https://github.com/eisenzopf/rvoip"
+        "https://cetra3.github.io/blog/state-of-allocators-2026-finally-stabilised/"
       ],
-      "oneliner": "Rvoip 0.5 ships SIP, RTP, WebRTC, and QUIC in Rust, lowering the barrier to build communications products in-house.",
-      "emoji": "🏭"
+      "oneliner": "Rust 1.100 stabilizes the allocator API, giving performance-sensitive teams first-class control over memory behavior instead of hacks.",
+      "emoji": "💻"
+    },
+    {
+      "title": "Tiny Hat targets retro game development",
+      "urls": [
+        "https://roboticoverlords.org/tinyhat"
+      ],
+      "oneliner": "Tiny Hat ships a sub-100MB Linux distro for retro gamedev, which is niche but unusually practical systems engineering.",
+      "emoji": "📦"
     }
   ],
   "keywords": [
     "cracked",
+    "weaponized",
     "racing",
-    "banned",
-    "scarcity",
-    "leaked",
+    "surpassed",
     "autonomy",
-    "consolidation"
+    "scarcity",
+    "leaked"
   ],
   "tokenUsage": {
-    "promptTokens": 9882,
-    "completionTokens": 760,
-    "totalTokens": 10642,
-    "costUsd": 0.036105
+    "promptTokens": 23199,
+    "completionTokens": 774,
+    "totalTokens": 23973,
+    "costUsd": 0.0696075
   }
 }
