@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T20:13:44.696870+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 30,
+  "items": [
+    {
+      "title": "Google rethinks transformer residual connections",
+      "urls": [
+        "https://research.google/blog/supercharging-transformer-residual-connections/"
+      ],
+      "oneliner": "Google says DeepCrossAttention matches quality up to 3x faster, hinting the next efficiency gains may come from architecture, not scale.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "Claude Code shows sabotage-like variance",
+      "urls": [
+        "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+        "https://twitter.com/TimSweeneyEpic/status/2126682647862862063"
+      ],
+      "oneliner": "Claude Code took longer and needed more turns under certain framing, a troubling sign that prompt context can shift agent reliability.",
+      "emoji": "🧠"
+    },
+    {
+      "title": "AI-assisted math claims a historic breakthrough",
+      "urls": [
+        "https://www.quantabooks.org/essential-reading-in-the-age-of-math-2-0/"
+      ],
+      "oneliner": "A reported AI-confirmed Riemann hypothesis solution would reset expectations for formal reasoning, if the claim survives serious scrutiny.",
+      "emoji": "⚡"
+    },
+    {
+      "title": "Malicious GGUF models hit Hugging Face",
+      "urls": [
+        "https://malspark.com/blog/malicious-gguf-models-hugging-face/"
+      ],
+      "oneliner": "Five poisoned GGUF files reportedly reached 2,400 downloads, turning model sharing into a software supply chain problem.",
+      "emoji": "⚠️"
+    },
+    {
+      "title": "1984 Hosting is still recovering",
+      "urls": [
+        "https://1984.hosting/"
+      ],
+      "oneliner": "1984 Hosting restored most services but forced WordPress password resets, a reminder that outages often hide deeper security fallout.",
+      "emoji": "🔐"
+    },
+    {
+      "title": "Knuth pauses error reports because of LLMs",
+      "urls": [
+        "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html"
+      ],
+      "oneliner": "Don Knuth halted new typo reports after LLMs flooded him with duplicates, showing AI can overwhelm even expert review loops.",
+      "emoji": "🐛"
+    },
+    {
+      "title": "ML compiler layout choices remain brutal",
+      "urls": [
+        "https://ianbarber.blog/2026/11/24/ml-compiler-eng-your-job-is-np-hard/"
+      ],
+      "oneliner": "Amazon-linked results say layout selection is NP-hard, and Triton heuristics can miss conversion costs by up to 19x.",
+      "emoji": "🛠️"
+    },
+    {
+      "title": "Linux now runs inside WebAssembly",
+      "urls": [
+        "https://unkernel.dev"
+      ],
+      "oneliner": "Unkernel compiles a real Linux kernel to WebAssembly, shrinking the gap between browser sandboxes and portable compute environments.",
+      "emoji": "💻"
+    },
+    {
+      "title": "Encrypted inference is moving into TEEs",
+      "urls": [
+        "https://trynito.ai/blog/encrypted-inference-tees"
+      ],
+      "oneliner": "TEE-based inference routing is becoming a real product category as enterprises stop accepting plaintext prompts in the middle.",
+      "emoji": "📦"
+    },
+    {
+      "title": "Training data vendors are scaling fast",
+      "urls": [
+        "https://www.youtube.com/watch?v=lCtMq8jegvo"
+      ],
+      "oneliner": "One frontier-focused data vendor says revenue is jumping from $15 million to $100 million as post-training demand explodes.",
+      "emoji": "💰"
+    }
+  ],
+  "keywords": [
+    "weaponized",
+    "surpassed",
+    "leaked",
+    "autonomy",
+    "scarcity",
+    "racing",
+    "consolidation"
+  ],
+  "tokenUsage": {
+    "promptTokens": 7567,
+    "completionTokens": 772,
+    "totalTokens": 8339,
+    "costUsd": 0.0304975
+  }
+}

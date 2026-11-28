@@ -1,94 +1,94 @@
 {
-  "date": "2026-11-27",
-  "generated_at": "2026-11-27T21:54:45.257761+00:00",
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T20:13:52.328548+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 107,
+  "totalItemsConsidered": 30,
   "items": [
     {
-      "title": "Local silent webcam dictation plugin",
+      "title": "Run classic IBM MVS locally",
       "urls": [
-        "https://github.com/batanus/lip-dictation"
+        "https://github.com/MVS-sysgen/sysgen"
       ],
-      "oneliner": "Mac plugin turns lip movements into text locally, giving you silent prompting without recording audio or sending video."
+      "oneliner": "Dockerized IBM MVS 3.8j setup lets you boot a 52-year-old mainframe OS on Linux today."
     },
     {
-      "title": "Rust paint app tutorial",
+      "title": "Write less verbose TypeScript",
       "urls": [
-        "https://www.buildyourownpaint.com/en"
+        "https://github.com/DanielXMoore/Civet"
       ],
-      "oneliner": "Twelve-chapter Rust tutorial builds a paint app from scratch and teaches rasterization through about 800 lines of code."
+      "oneliner": "TypeScript superset adds pattern matching and pipe operators while compiling back to standard JavaScript tooling."
     },
     {
-      "title": "Retro gamedev Linux distro",
+      "title": "Scan GGUF files for malware",
       "urls": [
-        "https://roboticoverlords.org/tinyhat"
+        "https://malspark.com/blog/malicious-gguf-models-hugging-face/"
       ],
-      "oneliner": "Minimal Linux distro for retro gamedev ships SDL3 and cross-platform tooling in under 100MB RAM and 600MB disk."
+      "oneliner": "Open-source detector finds hidden Windows RAT payloads inside GGUF model files downloaded from Hugging Face."
     },
     {
-      "title": "VS Code support for design docs",
+      "title": "Run Linux inside the browser",
       "urls": [
-        "https://christianoliff.com/blog/design-md-vs-code-extension/"
+        "https://unkernel.dev"
       ],
-      "oneliner": "VS Code extension adds linting, autocomplete, and preview for design.md files so design system docs become editable like code."
+      "oneliner": "WebAssembly build of a real Linux kernel runs Linux apps in Chrome, Edge, and Safari."
     },
     {
-      "title": "Modern Go tooling guide",
+      "title": "Install a clearer terminal font",
       "urls": [
-        "https://www.alexedwards.net/blog/an-overview-of-go-tooling-v2"
+        "https://scriptor-pro.github.io/luciole-mono/"
       ],
-      "oneliner": "Hands-on Go tooling guide covers install, debug, test, security, and live reload with current commands you can use today."
+      "oneliner": "Accessible monospace font improves terminal legibility for low-vision users and ships ready for desktop installation."
     },
     {
-      "title": "Stable self-hosted mail CLI suite",
+      "title": "Try local verbatim speech recognition",
       "urls": [
-        "https://blog.pimalaya.org/pimalaya-goes-stable/"
+        "https://www.youtube.com/watch?v=pK02vxtRYgU"
       ],
-      "oneliner": "Pimalaya's stable CLI suite unifies email, contacts, and calendar tools under shared configs for scriptable self-hosted workflows."
+      "oneliner": "Hands-on demo shows a local speech model that switches between verbatim transcripts and cleaned intended text."
     },
     {
-      "title": "Rust library for WinHelp files",
+      "title": "Study ML compiler layout costs",
       "urls": [
-        "https://quin.fyi/posts/how-winhelp-files-work.html"
+        "https://ianbarber.blog/2026/11/24/ml-compiler-eng-your-job-is-np-hard/"
       ],
-      "oneliner": "Deep reverse-engineering walkthrough explains WinHelp internals and ships a Rust library for reading legacy .hlp archives."
+      "oneliner": "Deep dive shows Triton layout heuristics can underestimate conversion costs by up to 19x."
     },
     {
-      "title": "AT and T Unix PC VM",
+      "title": "Inspect Claude Code benchmark variance",
       "urls": [
-        "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/"
+        "https://xinyadu.github.io/blog/claude-code-sabotage.html"
       ],
-      "oneliner": "Prebuilt AT&T Unix PC virtual machine bundles TCP/IP and apps so retro Unix developers can boot and explore immediately."
+      "oneliner": "Benchmark writeup compares prompt framing effects on GPU optimization and nanoGPT bug-fixing task performance."
     },
     {
-      "title": "Practical guide to self-hosted email",
+      "title": "Learn encrypted inference with TEEs",
       "urls": [
-        "http://www.linux-magazine.com/Online/Features/Taking-Email-Back"
+        "https://trynito.ai/blog/encrypted-inference-tees"
       ],
-      "oneliner": "Case study on reclaiming email shows how organizations self-host with open standards instead of depending on Google or Microsoft."
+      "oneliner": "Practical guide explains secure AI routing with TEEs, attestation, and encrypted request handling."
     },
     {
-      "title": "Object storage admin UI release",
+      "title": "Learn electromechanical system design",
       "urls": [
-        "https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/"
+        "https://how-old-pinball-machines-work.mattmakai.com/"
       ],
-      "oneliner": "Garage v2.6.0 adds a web admin UI for managing S3-compatible clusters, buckets, and monitoring without custom scripts."
+      "oneliner": "Detailed teardown explains relays, solenoids, scoring logic, and wiring in a 1977 pinball machine."
     }
   ],
   "keywords": [
     "shipped",
-    "blazing",
     "offline",
-    "open",
+    "blazing",
+    "unlocked",
     "local",
-    "instant",
-    "unlocked"
+    "open",
+    "instant"
   ],
   "tokenUsage": {
-    "promptTokens": 23024,
-    "completionTokens": 668,
-    "totalTokens": 23692,
-    "costUsd": 0.06758
+    "promptTokens": 7392,
+    "completionTokens": 629,
+    "totalTokens": 8021,
+    "costUsd": 0.027915000000000002
   }
 }

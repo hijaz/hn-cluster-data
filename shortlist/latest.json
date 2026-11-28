@@ -1,106 +1,105 @@
 {
-  "date": "2026-11-27",
-  "generated_at": "2026-11-27T21:54:37.135495+00:00",
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T20:13:44.696870+00:00",
   "mode": "daily",
   "model": "gpt-5.4",
-  "totalItemsConsidered": 107,
+  "totalItemsConsidered": 30,
   "items": [
     {
-      "title": "A new discrete log attack landed",
+      "title": "Google rethinks transformer residual connections",
       "urls": [
-        "https://eprint.iacr.org/2026/3020.pdf"
+        "https://research.google/blog/supercharging-transformer-residual-connections/"
       ],
-      "oneliner": "A deterministic subexponential discrete log algorithm just landed, which puts old cryptographic comfort assumptions under real pressure.",
+      "oneliner": "Google says DeepCrossAttention matches quality up to 3x faster, hinting the next efficiency gains may come from architecture, not scale.",
+      "emoji": "🤖"
+    },
+    {
+      "title": "Claude Code shows sabotage-like variance",
+      "urls": [
+        "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+        "https://twitter.com/TimSweeneyEpic/status/2126682647862862063"
+      ],
+      "oneliner": "Claude Code took longer and needed more turns under certain framing, a troubling sign that prompt context can shift agent reliability.",
       "emoji": "🧠"
     },
     {
-      "title": "OpenAI pushed matrix multiplication theory forward",
+      "title": "AI-assisted math claims a historic breakthrough",
       "urls": [
-        "https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf",
-        "https://www.theneurondaily.com/p/november-27-friday",
-        "https://scottaaronson.blog/?p=10379"
+        "https://www.quantabooks.org/essential-reading-in-the-age-of-math-2-0/"
       ],
-      "oneliner": "OpenAI's tensor preprint claims a new matrix multiplication lower bound, which matters because AI scaling still runs on linear algebra.",
+      "oneliner": "A reported AI-confirmed Riemann hypothesis solution would reset expectations for formal reasoning, if the claim survives serious scrutiny.",
       "emoji": "⚡"
     },
     {
-      "title": "DeepL cut voice translation lag",
+      "title": "Malicious GGUF models hit Hugging Face",
       "urls": [
-        "https://www.deepl.com/en/press-release/aure-v2"
+        "https://malspark.com/blog/malicious-gguf-models-hugging-face/"
       ],
-      "oneliner": "DeepL says Aure v2 halves voice translation latency, which is the kind of UX gain that actually changes product adoption.",
-      "emoji": "📊"
-    },
-    {
-      "title": "States sued xAI over Grok imagery",
-      "urls": [
-        "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform"
-      ],
-      "oneliner": "Virginia and Oregon sued xAI over Grok image generation, turning AI safety failures into an enforcement problem.",
+      "oneliner": "Five poisoned GGUF files reportedly reached 2,400 downloads, turning model sharing into a software supply chain problem.",
       "emoji": "⚠️"
     },
     {
-      "title": "WebRTC skimmers hit shopping sites",
+      "title": "1984 Hosting is still recovering",
       "urls": [
-        "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer"
+        "https://1984.hosting/"
       ],
-      "oneliner": "WebRTC-based card skimmers were found on major shopping sites before Black Friday, proving browser abuse keeps evolving faster than defenses.",
+      "oneliner": "1984 Hosting restored most services but forced WordPress password resets, a reminder that outages often hide deeper security fallout.",
       "emoji": "🔐"
     },
     {
-      "title": "Convex skill leaked user app ideas",
+      "title": "Knuth pauses error reports because of LLMs",
       "urls": [
-        "https://github.com/convex/convex-backend-skill/issues/64"
+        "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html"
       ],
-      "oneliner": "A Convex skill reportedly sent user app ideas to a remote server without notice, which is a trust-killer for agent tooling.",
+      "oneliner": "Don Knuth halted new typo reports after LLMs flooded him with duplicates, showing AI can overwhelm even expert review loops.",
       "emoji": "🐛"
     },
     {
-      "title": "Self-hosted email is back on the table",
+      "title": "ML compiler layout choices remain brutal",
       "urls": [
-        "http://www.linux-magazine.com/Online/Features/Taking-Email-Back"
+        "https://ianbarber.blog/2026/11/24/ml-compiler-eng-your-job-is-np-hard/"
       ],
-      "oneliner": "The Dutch government and ICC examples make one point clear: outsourced email is now a sovereignty and resilience risk.",
-      "emoji": "🌐"
-    },
-    {
-      "title": "Garage added a real web admin",
-      "urls": [
-        "https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/"
-      ],
-      "oneliner": "Garage 2.6.0 shipped a web admin UI, making S3-compatible self-hosted object storage much more realistic for smaller teams.",
+      "oneliner": "Amazon-linked results say layout selection is NP-hard, and Triton heuristics can miss conversion costs by up to 19x.",
       "emoji": "🛠️"
     },
     {
-      "title": "Rust finally stabilized custom allocators",
+      "title": "Linux now runs inside WebAssembly",
       "urls": [
-        "https://cetra3.github.io/blog/state-of-allocators-2026-finally-stabilised/"
+        "https://unkernel.dev"
       ],
-      "oneliner": "Rust 1.100 stabilizes the allocator API, giving performance-sensitive teams first-class control over memory behavior instead of hacks.",
+      "oneliner": "Unkernel compiles a real Linux kernel to WebAssembly, shrinking the gap between browser sandboxes and portable compute environments.",
       "emoji": "💻"
     },
     {
-      "title": "Tiny Hat targets retro game development",
+      "title": "Encrypted inference is moving into TEEs",
       "urls": [
-        "https://roboticoverlords.org/tinyhat"
+        "https://trynito.ai/blog/encrypted-inference-tees"
       ],
-      "oneliner": "Tiny Hat ships a sub-100MB Linux distro for retro gamedev, which is niche but unusually practical systems engineering.",
+      "oneliner": "TEE-based inference routing is becoming a real product category as enterprises stop accepting plaintext prompts in the middle.",
       "emoji": "📦"
+    },
+    {
+      "title": "Training data vendors are scaling fast",
+      "urls": [
+        "https://www.youtube.com/watch?v=lCtMq8jegvo"
+      ],
+      "oneliner": "One frontier-focused data vendor says revenue is jumping from $15 million to $100 million as post-training demand explodes.",
+      "emoji": "💰"
     }
   ],
   "keywords": [
-    "cracked",
     "weaponized",
-    "racing",
     "surpassed",
+    "leaked",
     "autonomy",
     "scarcity",
-    "leaked"
+    "racing",
+    "consolidation"
   ],
   "tokenUsage": {
-    "promptTokens": 23199,
-    "completionTokens": 774,
-    "totalTokens": 23973,
-    "costUsd": 0.0696075
+    "promptTokens": 7567,
+    "completionTokens": 772,
+    "totalTokens": 8339,
+    "costUsd": 0.0304975
   }
 }

@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T20:13:52.328548+00:00",
+  "mode": "daily",
+  "model": "gpt-5.4",
+  "totalItemsConsidered": 30,
+  "items": [
+    {
+      "title": "Run classic IBM MVS locally",
+      "urls": [
+        "https://github.com/MVS-sysgen/sysgen"
+      ],
+      "oneliner": "Dockerized IBM MVS 3.8j setup lets you boot a 52-year-old mainframe OS on Linux today."
+    },
+    {
+      "title": "Write less verbose TypeScript",
+      "urls": [
+        "https://github.com/DanielXMoore/Civet"
+      ],
+      "oneliner": "TypeScript superset adds pattern matching and pipe operators while compiling back to standard JavaScript tooling."
+    },
+    {
+      "title": "Scan GGUF files for malware",
+      "urls": [
+        "https://malspark.com/blog/malicious-gguf-models-hugging-face/"
+      ],
+      "oneliner": "Open-source detector finds hidden Windows RAT payloads inside GGUF model files downloaded from Hugging Face."
+    },
+    {
+      "title": "Run Linux inside the browser",
+      "urls": [
+        "https://unkernel.dev"
+      ],
+      "oneliner": "WebAssembly build of a real Linux kernel runs Linux apps in Chrome, Edge, and Safari."
+    },
+    {
+      "title": "Install a clearer terminal font",
+      "urls": [
+        "https://scriptor-pro.github.io/luciole-mono/"
+      ],
+      "oneliner": "Accessible monospace font improves terminal legibility for low-vision users and ships ready for desktop installation."
+    },
+    {
+      "title": "Try local verbatim speech recognition",
+      "urls": [
+        "https://www.youtube.com/watch?v=pK02vxtRYgU"
+      ],
+      "oneliner": "Hands-on demo shows a local speech model that switches between verbatim transcripts and cleaned intended text."
+    },
+    {
+      "title": "Study ML compiler layout costs",
+      "urls": [
+        "https://ianbarber.blog/2026/11/24/ml-compiler-eng-your-job-is-np-hard/"
+      ],
+      "oneliner": "Deep dive shows Triton layout heuristics can underestimate conversion costs by up to 19x."
+    },
+    {
+      "title": "Inspect Claude Code benchmark variance",
+      "urls": [
+        "https://xinyadu.github.io/blog/claude-code-sabotage.html"
+      ],
+      "oneliner": "Benchmark writeup compares prompt framing effects on GPU optimization and nanoGPT bug-fixing task performance."
+    },
+    {
+      "title": "Learn encrypted inference with TEEs",
+      "urls": [
+        "https://trynito.ai/blog/encrypted-inference-tees"
+      ],
+      "oneliner": "Practical guide explains secure AI routing with TEEs, attestation, and encrypted request handling."
+    },
+    {
+      "title": "Learn electromechanical system design",
+      "urls": [
+        "https://how-old-pinball-machines-work.mattmakai.com/"
+      ],
+      "oneliner": "Detailed teardown explains relays, solenoids, scoring logic, and wiring in a 1977 pinball machine."
+    }
+  ],
+  "keywords": [
+    "shipped",
+    "offline",
+    "blazing",
+    "unlocked",
+    "local",
+    "open",
+    "instant"
+  ],
+  "tokenUsage": {
+    "promptTokens": 7392,
+    "completionTokens": 629,
+    "totalTokens": 8021,
+    "costUsd": 0.027915000000000002
+  }
+}
